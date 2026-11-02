@@ -157,18 +157,21 @@ open(os.path.join(CAT, 'topics', 'Topic_outline.md'), 'w', encoding='utf-8').wri
 
 # ---------- home ----------
 src = collections.Counter(it['source'] for it in items)
+def src_label(s, n):
+    return '{:,} {}'.format(n, s.replace('AI chat', 'AI chats') if s.startswith('AI chat') else s)
 L = ['# Master catalog of Millard J Melnyk\'s work', '', 'Last updated: %s' % TODAY, '', '**New here? Read [How to use the catalog](How_to_use_the_catalog.md).**', '',
-     '%d items: %s.' % (len(items), ', '.join('%d %s' % (n, s) for s, n in src.most_common())), '',
+     '{:,} items: {}.'.format(len(items), ', '.join(src_label(s, n) for s, n in src.most_common())), '',
      '1. **[All items](list/All_items.md)** — every item, by date or by title.',
-     '2. **[A–Z index](index/A-Z_index.md)** — %d subjects, names and terms.' % len(term_items),
+     '2. **[A–Z index](index/A-Z_index.md)** — {:,} subjects, names and terms.'.format(len(term_items)),
      '3. **[Topic outline](topics/Topic_outline.md)** — %d topics, %d subheadings.' % (len(topic_items), len(sub_items)), '',
-     'Data lists (one per source): ' + ' · '.join('[%s](data/%s.csv)' % (k, k) for k in sorted(groups)) + '.', '',
-     'Not yet included: 190 coding chats ([list](data/set_aside_coding_chats.csv)).', '',
-     '## Pages', '',
-     '- [How to use the catalog](How_to_use_the_catalog.md) — quick guide.',
-     '- [All items](list/All_items.md) — every item, by year or by letter.',
-     '- [A–Z index](index/A-Z_index.md) — subjects, names and terms.',
-     '- [Topic outline](topics/Topic_outline.md) — topics and subheadings.', '',
+     '## Where everything is', '',
+     '- [README.md](../README.md) — what this repository holds, and its rules and guidelines.',
+     '- [items/](items/) — one page per item, with its full text and a link to the original.',
+     '- [list/](list/) — the item lists, one page per year and one per letter.',
+     '- [index/](index/) — one page per letter of the A–Z index, and one per subject, name or term.',
+     '- [topics/](topics/) — one page per topic and per subheading.',
+     '- [ai_chats.csv](data/ai_chats.csv), [substack.csv](data/substack.csv) — spreadsheet lists of every item, one per source.',
+     '- [set_aside_coding_chats.csv](data/set_aside_coding_chats.csv) — the 190 coding chats not yet in the catalog.', '',
      '## Updating the catalog', '',
      '- [How_to_update_the_catalog.md](tools/How_to_update_the_catalog.md) — how to add new material and rebuild the catalog.',
      '- [Topic_tree_with_counts.md](tools/Topic_tree_with_counts.md) — the full topic tree with the number of items under each topic and subheading.', '']
