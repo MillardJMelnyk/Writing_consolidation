@@ -1,0 +1,19 @@
+# favicon
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [F](../F.md)
+
+2 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2026-09-26 | [Reducing favicon spacing in Edge toolbar](../../items/C-MJM-783.md) | AI chat |
+| 2026-09-13 | [Changing Firefox bookmark favicon settings](../../items/C-MJM-773.md) | AI chat |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2026-09-13 | [Changing Firefox bookmark favicon settings](../../items/C-MJM-773.md) | AI chat |
+| 2026-09-26 | [Reducing favicon spacing in Edge toolbar](../../items/C-MJM-783.md) | AI chat |

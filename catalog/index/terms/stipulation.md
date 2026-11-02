@@ -1,0 +1,23 @@
+# stipulation
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [S](../S.md)
+
+4 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-08-21 | [Human Rights: Existence and Recognition](../../items/C-MJM-200.md) | AI chat |
+| 2025-08-19 | [Exploring the Word "Stipulate"](../../items/C-MJM-189.md) | AI chat |
+| 2025-08-19 | [Direct Communication Protocol](../../items/C-MJM-190.md) | AI chat |
+| 2025-08-17 | [Philosophical Crevasse of Logic](../../items/C-MJM-185.md) | AI chat |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-08-19 | [Direct Communication Protocol](../../items/C-MJM-190.md) | AI chat |
+| 2025-08-19 | [Exploring the Word "Stipulate"](../../items/C-MJM-189.md) | AI chat |
+| 2025-08-21 | [Human Rights: Existence and Recognition](../../items/C-MJM-200.md) | AI chat |
+| 2025-08-17 | [Philosophical Crevasse of Logic](../../items/C-MJM-185.md) | AI chat |

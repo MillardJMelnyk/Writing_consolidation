@@ -1,0 +1,17 @@
+# private defense agency
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [P](../P.md)
+
+1 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-12-14 | [Rothbard's nuanced stance on government](../../items/C-MJM-452.md) | AI chat |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-12-14 | [Rothbard's nuanced stance on government](../../items/C-MJM-452.md) | AI chat |

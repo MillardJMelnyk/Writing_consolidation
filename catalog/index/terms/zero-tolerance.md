@@ -1,0 +1,17 @@
+# zero tolerance
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [Z](../Z.md)
+
+1 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-08-18 | [Moral Erosion and Tolerance](../../items/C-MJM-186.md) | AI chat |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-08-18 | [Moral Erosion and Tolerance](../../items/C-MJM-186.md) | AI chat |

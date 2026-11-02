@@ -1,0 +1,17 @@
+# Storage Sense
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [S](../S.md)
+
+1 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2026-09-27 | [Edge browser logging out after sleep](../../items/C-MJM-785.md) | AI chat |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2026-09-27 | [Edge browser logging out after sleep](../../items/C-MJM-785.md) | AI chat |

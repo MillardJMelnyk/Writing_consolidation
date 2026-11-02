@@ -1,0 +1,21 @@
+# custom instructions
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [C](../C.md)
+
+3 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-12-31 | [Understanding projects and their use cases](../../items/C-MJM-554.md) | AI chat |
+| 2025-10-03 | [Shortcut troubleshooting](../../items/C-MJM-291.md) | AI chat |
+| 2025-08-22 | [Writing Clarity Critique](../../items/C-MJM-208.md) | AI chat |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-10-03 | [Shortcut troubleshooting](../../items/C-MJM-291.md) | AI chat |
+| 2025-12-31 | [Understanding projects and their use cases](../../items/C-MJM-554.md) | AI chat |
+| 2025-08-22 | [Writing Clarity Critique](../../items/C-MJM-208.md) | AI chat |

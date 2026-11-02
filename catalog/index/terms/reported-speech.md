@@ -1,0 +1,19 @@
+# reported speech
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [R](../R.md)
+
+2 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2026-08-13 | [Converting direct speech to reported speech](../../items/C-MM-06b304ff.md) | AI chat |
+| 2026-07-23 | [ESL reported speech practice video](../../items/C-MM-f4e3466e.md) | AI chat |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2026-08-13 | [Converting direct speech to reported speech](../../items/C-MM-06b304ff.md) | AI chat |
+| 2026-07-23 | [ESL reported speech practice video](../../items/C-MM-f4e3466e.md) | AI chat |

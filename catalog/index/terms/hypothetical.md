@@ -1,0 +1,19 @@
+# hypothetical
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [H](../H.md)
+
+2 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2026-10-16 | [Hypothetical scenario discussion](../../items/C-MM-72e65d4f.md) | AI chat |
+| 2025-12-08 | [Hypothetical responses to observed facts](../../items/C-MJM-426.md) | AI chat |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-12-08 | [Hypothetical responses to observed facts](../../items/C-MJM-426.md) | AI chat |
+| 2026-10-16 | [Hypothetical scenario discussion](../../items/C-MM-72e65d4f.md) | AI chat |

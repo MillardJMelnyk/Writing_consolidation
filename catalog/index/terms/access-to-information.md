@@ -1,0 +1,17 @@
+# access to information
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [A](../A.md)
+
+1 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-05-16 | [People need to get a fucking grip on what “excess mortality” actually means. You know you’…](../../items/S-c-117720262.md) | Substack note |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-05-16 | [People need to get a fucking grip on what “excess mortality” actually means. You know you’…](../../items/S-c-117720262.md) | Substack note |

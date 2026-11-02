@@ -1,0 +1,17 @@
+# ends and means
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [E](../E.md)
+
+1 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2023-09-20 | [If you can't do this, you're no revolutionary](../../items/S-p-107660041.md) | Substack post |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2023-09-20 | [If you can't do this, you're no revolutionary](../../items/S-p-107660041.md) | Substack post |

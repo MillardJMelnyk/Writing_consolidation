@@ -1,0 +1,17 @@
+# URL query string
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [U](../U.md)
+
+1 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-08-22 | [URL Parameter Syntax](../../items/C-MJM-204.md) | AI chat |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-08-22 | [URL Parameter Syntax](../../items/C-MJM-204.md) | AI chat |

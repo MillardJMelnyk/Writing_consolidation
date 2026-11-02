@@ -1,0 +1,19 @@
+# taboo
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [T](../T.md)
+
+2 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-10-05 | [(no text)](../../items/S-c-163294025.md) | Substack note |
+| 2025-07-19 | [The asininity of Zionism lies in its never-spoken, hidden premise: Jews are perfectly inno…](../../items/S-c-136895410.md) | Substack note |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-10-05 | [(no text)](../../items/S-c-163294025.md) | Substack note |
+| 2025-07-19 | [The asininity of Zionism lies in its never-spoken, hidden premise: Jews are perfectly inno…](../../items/S-c-136895410.md) | Substack note |

@@ -1,0 +1,17 @@
+# Brendan Carr
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [B](../B.md)
+
+1 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-09-19 | [The road from 911 to Charlie Kirk](../../items/S-p-173970437.md) | Substack restacked post |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-09-19 | [The road from 911 to Charlie Kirk](../../items/S-p-173970437.md) | Substack restacked post |

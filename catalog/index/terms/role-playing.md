@@ -1,0 +1,17 @@
+# role-playing
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [R](../R.md)
+
+1 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2024-09-19 | [Cultism](../../items/S-p-149102313.md) | Substack post |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2024-09-19 | [Cultism](../../items/S-p-149102313.md) | Substack post |

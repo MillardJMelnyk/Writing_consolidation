@@ -1,0 +1,19 @@
+# metaphor
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [M](../M.md)
+
+2 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-08-21 | [Metaphors for Overwhelming Majority](../../items/C-MJM-201.md) | AI chat |
+| 2025-08-15 | [Boiling Frog Metaphor Explained](../../items/C-MJM-174.md) | AI chat |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-08-15 | [Boiling Frog Metaphor Explained](../../items/C-MJM-174.md) | AI chat |
+| 2025-08-21 | [Metaphors for Overwhelming Majority](../../items/C-MJM-201.md) | AI chat |

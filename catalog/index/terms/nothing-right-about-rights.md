@@ -1,0 +1,17 @@
+# Nothing right about rights
+
+[← Catalog home](../../README.md) · [A–Z index](../README.md) · [N](../N.md)
+
+1 items · Sort: [by date](#by-date) · [by title](#by-title)
+
+## By date
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-01-31 | [<https://reloveution.substack.com/p/nothing-right-about-rights?r=1szeth&utmcampaign=post&u…](../../items/S-c-90035469.md) | Substack note |
+
+## By title
+
+| Date | Title | Type |
+|---|---|---|
+| 2025-01-31 | [<https://reloveution.substack.com/p/nothing-right-about-rights?r=1szeth&utmcampaign=post&u…](../../items/S-c-90035469.md) | Substack note |
