@@ -297,7 +297,7 @@ function fillPanel(p, f) {
 }
 function submit(p) { const f = readPanel(p); if (!f.q) return; location.hash = '#search?' + new URLSearchParams(Object.entries(f).map(([k, v]) => [k, String(v)])).toString(); }
 function readyText() {
-  if (location.protocol === 'file:') return "Start Millard's_master_writing_catalog_manager.py to use search.";
+  if (NEEDS_MANAGER) return NEEDS_MANAGER;
   if (BUILDING) return 'Search is being set up (see the yellow box above). It can be used once setup is finished.';
   if (!IDX) return 'Loading search…';
   if (!SESSION) return 'Exact-word search is ready; meaning search is loading…';
@@ -338,13 +338,15 @@ async function showMore() {
 // ---------- start
 const SETUP_TITLE = 'Setting up search.';
 let BUILDING = false;
+const MANAGER_NAME = decodeURIComponent(location.pathname.split('/').pop() || '').replace(/\.html?$/i, '') + '_manager.py';
+let NEEDS_MANAGER = '';
 buildPanels();
 document.querySelectorAll('.back').forEach(a => a.onclick = e => { e.preventDefault(); location.hash = ''; });
 $('#more').onclick = showMore;
 window.addEventListener('hashchange', route);
 refreshReady();
 (async () => {
-  if (location.protocol === 'file:') { refreshReady(); return; }
+  const direct = location.protocol === 'file:';
   let bytes = null, why = '';
   if (window.CATALOG_SEARCH_INDEX) {
     try { bytes = decodeLarge(window.CATALOG_SEARCH_INDEX); } catch (e) { bytes = null; }
@@ -353,6 +355,10 @@ refreshReady();
       const hdr = C.unpackIndex(bytes).header;
       if (hdr.items.length !== ITEMS.length || hdr.items.some((id, i) => id !== ITEMS[i].id)) { bytes = null; why = 'The catalog has changed since the search index was built, so it is being rebuilt. '; }
     }
+  }
+  if (!bytes && direct) {
+    NEEDS_MANAGER = why ? 'The catalog has changed since search was set up. Run ' + MANAGER_NAME + ' once to set it up again.' : 'Run ' + MANAGER_NAME + ' once to set up search.';
+    refreshReady(); return;
   }
   if (!bytes) {
     BUILDING = true; refreshReady();
@@ -364,6 +370,7 @@ refreshReady();
   IDX = loadIndex(bytes); refreshReady(); route();
   try { await loadModel(); } catch (e) { console.error(e); }
   refreshReady(); window.CATALOG_READY = true;
+  if (!direct) fetch('/api/done', { method: 'POST' }).catch(() => {});
 })();
 route();
 })();

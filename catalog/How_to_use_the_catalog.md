@@ -20,9 +20,10 @@ Millard's_master_writing_catalog_manager.py needs Python 3.9 or newer on your co
 
 ### Starting the catalog
 
-Double-click **Millard's_master_writing_catalog_manager.py** (or a shortcut to it). A small window opens, and the catalog page opens in your browser. Keep the small window open while you use the catalog; close it when you're done.
+- **The first time:** double-click **Millard's_master_writing_catalog_manager.py** (or a shortcut to it). It sets up search (see below) and opens the catalog in your browser. Its window shows what it's doing; leave it open until the search index is built. It closes by itself, unless something went wrong, in which case it stays open showing the error.
+- **After that:** open the catalog either way: double-click Millard's_master_writing_catalog.html, or run Millard's_master_writing_catalog_manager.py again.
 
-If you open Millard's_master_writing_catalog.html directly instead, the links work but search doesn't; the page shows "Start Millard's_master_writing_catalog_manager.py to use search."
+The two files must keep matching names: the script's name is the page's name plus "_manager".
 
 ### First start: search setup
 
@@ -30,8 +31,8 @@ The first time, Millard's_master_writing_catalog_manager.py gets the parts it ne
 
 - It reads every catalog item from GitHub, so you need an internet connection.
 - Keep the page open until it says **Search setup finished**. The links work in the meantime.
-- The finished index is saved as **catalog_search_index.js** in the same folder, and search switches on by itself. Next time, search is ready within seconds.
-- If the catalog page is replaced by a newer version with different items, the search is set up again the same way.
+- The finished index is saved as **catalog_search_index.js** in the same folder, and search switches on by itself. After that, search is ready within seconds whichever way you open the catalog.
+- If the catalog page is replaced by a newer version with different items, run Millard's_master_writing_catalog_manager.py again to set up search for it.
 
 ### Searching
 

@@ -1,8 +1,8 @@
-"""Catalog manager: start this instead of opening Millard's_master_writing_catalog.html directly.
+"""Catalog manager: run this to set up search and open the catalog, instead of opening Millard's_master_writing_catalog.html directly.
 
 It serves the catalog folder on this computer, opens the catalog page in your browser, and does the search
-fingerprinting and saving the page asks for while it sets up search. Keep this window open while you use the
-catalog; close it to stop.
+fingerprinting and saving the page asks for while it sets up search. The window closes by itself once the page
+is open and search is ready, unless there were errors.
 
 Put this file in the same folder as Millard's_master_writing_catalog.html. Needs Python 3.9 or newer.
 """
@@ -18,8 +18,16 @@ PAGE = os.path.basename(os.path.abspath(__file__)).replace("_manager.py", ".html
 INDEX = 'catalog_search_index.js'
 
 
+ERRORS = []
+SERVER = None
+
+
 def say(msg):
     print(time.strftime('%H:%M:%S'), msg, flush=True)
+
+
+def error(msg):
+    ERRORS.append(msg); say('ERROR: ' + msg)
 
 
 def ensure_packages():
@@ -107,12 +115,25 @@ class Handler(SimpleHTTPRequestHandler):
                 os.replace(tmp, os.path.join(HERE, INDEX))
                 say('Search setup finished: saved %s (%.0f MB).' % (INDEX, os.path.getsize(os.path.join(HERE, INDEX)) / 1e6))
                 self.send_response(200); self.send_header('Content-Length', '0'); self.end_headers()
+            elif self.path == '/api/done':
+                self.send_response(200); self.send_header('Content-Length', '0'); self.end_headers()
+                threading.Thread(target=finish, daemon=True).start()
             else:
                 self.send_response(404); self.send_header('Content-Length', '0'); self.end_headers()
         except Exception as e:
-            say('Error: %s' % e)
+            error(str(e))
             msg = str(e).encode('utf-8')
             self.send_response(500); self.send_header('Content-Length', str(len(msg))); self.end_headers(); self.wfile.write(msg)
+
+
+def finish():
+    time.sleep(1.5)
+    if ERRORS:
+        say('The catalog is open, but there were errors (shown above). This window stays open so you can see them.')
+        return
+    say('Search is ready. This window will now close.')
+    time.sleep(2)
+    os._exit(0)
 
 
 def port_in_use(port):
@@ -132,7 +153,7 @@ def main():
         say('Could not get the search parts ready: %s' % e); input('Press Enter to close.'); return
     server = ThreadingHTTPServer(('127.0.0.1', PORT), Handler)
     say('Catalog manager running. Opening %s' % url)
-    say('Keep this window open while you use the catalog. Close it to stop.')
+    say('Leave this window open until the search index is built. It will close by itself.')
     threading.Timer(0.8, lambda: webbrowser.open(url)).start()
     try:
         server.serve_forever()
