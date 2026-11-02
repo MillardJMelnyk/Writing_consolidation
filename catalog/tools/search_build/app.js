@@ -34,44 +34,12 @@ function projectRow(v, mean, W, out, o) { // v: Float32(384) normalized -> out[o
   n = Math.sqrt(n) || 1;
   for (let k = 0; k < DIM; k++) { let q = Math.round(p[k] / n * SCALE); out[o + k] = q > 127 ? 127 : q < -127 ? -127 : q; }
 }
-// worker source: same embedding code, run off the main thread
-const WORKER_SRC = `
-let sess=null, enc=null, mean=null, W=null, DIM=0, SCALE=0;
-${projectRow.toString()}
-self.onmessage = async (e) => {
-  const d = e.data;
-  try {
-    if (d.init) {
-      importScripts(URL.createObjectURL(new Blob([d.ortjs], {type:'text/javascript'})));
-      importScripts(URL.createObjectURL(new Blob([d.tokjs], {type:'text/javascript'})));
-      ort.env.wasm.numThreads = 1; ort.env.wasm.wasmBinary = d.wasm;
-      ort.env.wasm.wasmPaths = { mjs: URL.createObjectURL(new Blob([d.mjs], {type:'text/javascript'})) };
-      sess = await ort.InferenceSession.create(d.model, { executionProviders: ['wasm'] });
-      enc = makeTokenizer(d.vocab); DIM = d.dim; SCALE = d.scale;
-      mean = new Float32Array(d.proj, 0, 384); W = new Float32Array(d.proj, 384 * 4, 384 * DIM);
-      self.postMessage({ ready: true }); return;
-    }
-    const ids = d.texts.map(t => enc(t)); const L = Math.max(...ids.map(a => a.length)), B = ids.length;
-    const ii = new BigInt64Array(B * L), am = new BigInt64Array(B * L), tt = new BigInt64Array(B * L);
-    ids.forEach((a, b) => a.forEach((v, j) => { ii[b * L + j] = BigInt(v); am[b * L + j] = 1n; }));
-    const out = await sess.run({ input_ids: new ort.Tensor('int64', ii, [B, L]), attention_mask: new ort.Tensor('int64', am, [B, L]), token_type_ids: new ort.Tensor('int64', tt, [B, L]) });
-    const h = out[Object.keys(out)[0]].data; const H = 384; const res = new Int8Array(B * DIM); const v = new Float32Array(H);
-    for (let b = 0; b < B; b++) {
-      v.fill(0); const len = ids[b].length;
-      for (let j = 0; j < len; j++) { const base = (b * L + j) * H; for (let i = 0; i < H; i++) v[i] += h[base + i]; }
-      let n = 0; for (let i = 0; i < H; i++) { v[i] /= len; n += v[i] * v[i]; } n = Math.sqrt(n) || 1; for (let i = 0; i < H; i++) v[i] /= n;
-      projectRow(v, mean, W, res, b * DIM);
-    }
-    self.postMessage({ job: d.job, res }, [res.buffer]);
-  } catch (err) { self.postMessage({ error: String(err), job: d.job }); }
-};`;
-
 // ---------- setup (first run): read items, segment, fingerprint, save index file
 function setupMsg(html, frac) { $('#setup').style.display = 'block'; $('#setupmsg').innerHTML = html; if (frac != null) $('#setupbar').style.width = (100 * frac).toFixed(1) + '%'; }
 async function buildIndex() {
   const t0 = Date.now();
   window.addEventListener('beforeunload', warnLeave);
-  setupMsg('<b>Setting up search — first time only.</b> Step 1 of 3: reading the catalog items… Keep this page open.', 0);
+  setupMsg('<b>' + SETUP_TITLE + '</b> Step 1 of 3: reading the catalog items… Keep this page open.', 0);
   const secItem = [], secStart = [], secEnd = [];
   const parSec = [], parStart = [], parEnd = [], parAuth = [];
   const senPar = [], senStart = [], senEnd = [], senWords = [], senText = [];
@@ -91,7 +59,7 @@ async function buildIndex() {
     while (next < ITEMS.length) {
       const n = next++; const md = await fetchOne(n);
       parsed[n] = C.segment(C.parseItem(md, ITEMS[n].by));
-      done++; if (done % 25 === 0) setupMsg('<b>Setting up search — first time only.</b> Step 1 of 3: reading the catalog items… ' + done.toLocaleString() + ' of ' + ITEMS.length.toLocaleString() + '. Keep this page open.', 0.05 * done / ITEMS.length);
+      done++; if (done % 25 === 0) setupMsg('<b>' + SETUP_TITLE + '</b> Step 1 of 3: reading the catalog items… ' + done.toLocaleString() + ' of ' + ITEMS.length.toLocaleString() + '. Keep this page open.', 0.05 * done / ITEMS.length);
     }
   }));
   parsed.forEach((s, n) => {
@@ -118,38 +86,20 @@ async function buildIndex() {
   const order = Array.from({ length: total }, (_, i) => i);
   const textOf = i => i < nS ? senText[i] : phrText[i - nS];
   order.sort((a, b) => textOf(a).length - textOf(b).length);
-  const jobs = []; for (let i = 0; i < total; i += 32) jobs.push(order.slice(i, i + 32));
   const eng = await engineAssets();
-  const hc = navigator.hardwareConcurrency || 2;
-  const nW = hc <= 2 ? hc : Math.min(6, hc - 1);
-  const wurl = URL.createObjectURL(new Blob([WORKER_SRC], { type: 'text/javascript' }));
-  let finished = 0, nextJob = 0; const tFp = Date.now();
-  await new Promise((resolve, reject) => {
-    let active = 0;
-    for (let w = 0; w < nW; w++) {
-      const wk = new Worker(wurl); active++;
-      const give = () => {
-        if (nextJob >= jobs.length) { wk.terminate(); if (--active === 0) resolve(); return; }
-        const j = nextJob++; wk.postMessage({ job: j, texts: jobs[j].map(textOf) });
-      };
-      wk.onmessage = e => {
-        const d = e.data;
-        if (d.error) { reject(new Error(d.error)); return; }
-        if (d.ready) { give(); return; }
-        jobs[d.job].forEach((idx, k) => { const dst = idx < nS ? vecS : vecP, o = (idx < nS ? idx : idx - nS) * DIM; dst.set(d.res.subarray(k * DIM, (k + 1) * DIM), o); });
-        finished += jobs[d.job].length;
-        if (finished % 640 < 32) {
-          const rate = finished / ((Date.now() - tFp) / 1000), left = (total - finished) / rate;
-          setupMsg('<b>Setting up search — first time only.</b> Step 2 of 3: fingerprinting ' + finished.toLocaleString() + ' of ' + total.toLocaleString() +
-            ' phrases and sentences, about ' + Math.max(1, Math.round(left / 60)) + ' minutes left. Keep this page open; you can use the links meanwhile.', 0.05 + 0.9 * finished / total);
-        }
-        give();
-      };
-      wk.onerror = e => reject(new Error(e.message || 'worker error'));
-      wk.postMessage({ init: true, ortjs: ORTJS, tokjs: makeTokenizer.toString(), mjs: eng.mjs, wasm: eng.wasm.slice().buffer, model: eng.model.slice().buffer, vocab: A.vocab, proj: eng.proj.slice().buffer, dim: DIM, scale: SCALE });
-    }
-  });
-  setupMsg('<b>Setting up search — first time only.</b> Step 3 of 3: saving the index…', 0.97);
+  let finished = 0; const tFp = Date.now(), BATCH = 512;
+  for (let i = 0; i < total; i += BATCH) {
+    const ids = order.slice(i, i + BATCH);
+    const r = await fetch('/api/embed', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ texts: ids.map(textOf) }) });
+    if (!r.ok) throw new Error('the manager could not fingerprint (' + r.status + ')');
+    const res = new Int8Array(await r.arrayBuffer());
+    ids.forEach((idx, k) => { const dst = idx < nS ? vecS : vecP, o = (idx < nS ? idx : idx - nS) * DIM; dst.set(res.subarray(k * DIM, (k + 1) * DIM), o); });
+    finished += ids.length;
+    const rate = finished / ((Date.now() - tFp) / 1000), left = (total - finished) / rate;
+    setupMsg('<b>' + SETUP_TITLE + '</b> Step 2 of 3: fingerprinting ' + finished.toLocaleString() + ' of ' + total.toLocaleString() +
+      ' phrases and sentences, about ' + Math.max(1, Math.round(left / 60)) + ' minutes left. Keep this page open; you can use the links meanwhile.', 0.05 + 0.9 * finished / total);
+  }
+  setupMsg('<b>' + SETUP_TITLE + '</b> Step 3 of 3: saving the index…', 0.97);
   // word index
   const terms = [...posting.keys()].sort();
   const postOff = new Uint32Array(terms.length + 1); let tot = 0;
@@ -171,20 +121,18 @@ async function buildIndex() {
     phr_sen: u32(phrSen), phr_start: u32(phrStart), phr_end: u32(phrEnd), phr_words: u16(phrWords), phr_w0: u16(phrW0), phr_vec: vecP,
     term_off: postOff, post_sen: postSen, post_pos: postPos
   });
-  const blob = new Blob(['window.CATALOG_SEARCH_INDEX="'].concat(encodeLargeParts(packed), ['";\n']), { type: 'text/javascript' });
-  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'catalog_search_index.js'; document.body.appendChild(a); a.click();
+  const sv = await fetch('/api/save', { method: 'POST', headers: { 'Content-Type': 'application/octet-stream' }, body: packed });
+  if (!sv.ok) throw new Error('the manager could not save the index (' + sv.status + ')');
   window.removeEventListener('beforeunload', warnLeave);
-  const mins = Math.round((Date.now() - t0) / 60000);
-  setupMsg('<b>Search setup finished</b> (' + mins + ' minutes). Your browser has saved <b>catalog_search_index.js</b> to your Downloads folder. ' +
-    'Move it into the folder where this page (Master_catalog.html) is, then reload this page. You only do this once.', 1);
-  window.CATALOG_BUILD_DONE = true;
+  const mins = Math.max(1, Math.round((Date.now() - t0) / 60000));
+  setupMsg('<b>Search setup finished</b> (' + mins + ' minutes). Search is ready.', 1);
+  return packed;
 }
 function warnLeave(e) { e.preventDefault(); e.returnValue = ''; }
 
 // ---------- loading the saved index
-function loadIndex() {
-  const { header, arrays } = C.unpackIndex(decodeLarge(window.CATALOG_SEARCH_INDEX));
-  window.CATALOG_SEARCH_INDEX = null;
+function loadIndex(bytes) {
+  const { header, arrays } = C.unpackIndex(bytes);
   const X = Object.assign({ header }, arrays);
   const itemPos = new Map(ITEMS.map((x, i) => [x.id, i]));
   X.itemMeta = header.items.map(id => ITEMS[itemPos.get(id)] || { id, date: '', type: '', title: id, by: '' });
@@ -292,6 +240,7 @@ async function runSearch(f) {
     out.push({ key, sen: h.sen, phr: h.phr, item, strength, best: h.best });
   }
   out.sort(f.sort === 'date' ? (a, b) => (X.itemMeta[b.item].date || '').localeCompare(X.itemMeta[a.item].date || '') || b.strength - a.strength
+           : f.sort === 'oldest' ? (a, b) => (X.itemMeta[a.item].date || '').localeCompare(X.itemMeta[b.item].date || '') || b.strength - a.strength
                              : (a, b) => b.strength - a.strength || b.best - a.best);
   return out;
 }
@@ -348,7 +297,8 @@ function fillPanel(p, f) {
 }
 function submit(p) { const f = readPanel(p); if (!f.q) return; location.hash = '#search?' + new URLSearchParams(Object.entries(f).map(([k, v]) => [k, String(v)])).toString(); }
 function readyText() {
-  if (window.CATALOG_INDEX_MISSING) return window.CATALOG_BUILD_DONE ? 'Search will be ready once the index file is in place and the page is reloaded.' : 'Search is being set up (see the yellow box above). It can be used once setup is finished.';
+  if (location.protocol === 'file:') return 'Start catalog_manager.py to use search.';
+  if (BUILDING) return 'Search is being set up (see the yellow box above). It can be used once setup is finished.';
   if (!IDX) return 'Loading search…';
   if (!SESSION) return 'Exact-word search is ready; meaning search is loading…';
   return 'Search ready: ' + IDX.header.items.length.toLocaleString() + ' items, ' + (IDX.nS + IDX.nP).toLocaleString() + ' phrases and sentences.';
@@ -370,11 +320,11 @@ async function route() {
   const t = performance.now();
   RESULTS = await runSearch(f); CURF = f; SHOWN = 0;
   st.textContent = RESULTS.length.toLocaleString() + ' ' + LEVELS[f.level] + (RESULTS.length === 1 ? '' : 's') + ' found for "' + f.q + '"' +
-    (f.mode === 'meaning' ? ' by meaning' : ' (exact words)') + ' — ' + (f.sort === 'date' ? 'newest first' : 'strongest first') + '. (' + Math.round(performance.now() - t) + ' ms)';
+    (f.mode === 'meaning' ? ' by meaning' : ' (exact words)') + ' — ' + (f.sort === 'date' ? 'newest first' : f.sort === 'oldest' ? 'oldest first' : 'strongest first') + '. (' + Math.round(performance.now() - t) + ' ms)';
   showMore();
 }
 async function showMore() {
-  const X = IDX, f = CURF, box = $('#results'), batch = RESULTS.slice(SHOWN, SHOWN + 50); SHOWN += batch.length;
+  const X = IDX, f = CURF, box = $('#results'), batch = RESULTS.slice(SHOWN, SHOWN + (SHOWN ? 500 : 50)); SHOWN += batch.length;
   for (const r of batch) {
     const m = X.itemMeta[r.item], div = document.createElement('div'); div.className = 'r';
     div.innerHTML = '<a href="' + A.page + m.id + '.md">' + esc(m.title) + '</a><div class="m">' + m.date + ' · ' + esc(m.type) +
@@ -386,19 +336,32 @@ async function showMore() {
 }
 
 // ---------- start
+const SETUP_TITLE = 'Setting up search.';
+let BUILDING = false;
 buildPanels();
 document.querySelectorAll('.back').forEach(a => a.onclick = e => { e.preventDefault(); location.hash = ''; });
 $('#more').onclick = showMore;
 window.addEventListener('hashchange', route);
 refreshReady();
 (async () => {
-  if (window.CATALOG_INDEX_MISSING || !window.CATALOG_SEARCH_INDEX) {
-    window.CATALOG_INDEX_MISSING = true; refreshReady();
-    try { await buildIndex(); } catch (e) { setupMsg('<b>Search setup stopped:</b> ' + esc(e.message || e) + '. Reload the page to try again.', null); window.removeEventListener('beforeunload', warnLeave); }
-    refreshReady(); return;
+  if (location.protocol === 'file:') { refreshReady(); return; }
+  let bytes = null, why = '';
+  if (window.CATALOG_SEARCH_INDEX) {
+    try { bytes = decodeLarge(window.CATALOG_SEARCH_INDEX); } catch (e) { bytes = null; }
+    window.CATALOG_SEARCH_INDEX = null;
+    if (bytes) {
+      const hdr = C.unpackIndex(bytes).header;
+      if (hdr.items.length !== ITEMS.length || hdr.items.some((id, i) => id !== ITEMS[i].id)) { bytes = null; why = 'The catalog has changed since the search index was built, so it is being rebuilt. '; }
+    }
   }
-  await new Promise(r => setTimeout(r, 30));
-  IDX = loadIndex(); refreshReady(); route();
+  if (!bytes) {
+    BUILDING = true; refreshReady();
+    setupMsg('<b>' + SETUP_TITLE + '</b> ' + why + 'Starting…', 0);
+    try { bytes = await buildIndex(); }
+    catch (e) { BUILDING = false; setupMsg('<b>Search setup stopped:</b> ' + esc(e.message || e) + '. Reload the page to try again.', null); window.removeEventListener('beforeunload', warnLeave); refreshReady(); return; }
+    BUILDING = false;
+  }
+  IDX = loadIndex(bytes); refreshReady(); route();
   try { await loadModel(); } catch (e) { console.error(e); }
   refreshReady(); window.CATALOG_READY = true;
 })();

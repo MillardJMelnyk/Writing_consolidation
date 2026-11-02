@@ -2,7 +2,7 @@
 
 [← How to update the catalog](How_to_update_the_catalog.md)
 
-`catalog_search_index.js` is created by Master_catalog.html the first time it is opened, and lives next to it on your computer. Other programs can read it.
+`catalog_search_index.js` is created the first time the catalog is started with catalog_manager.py, and is saved next to Master_catalog.html on your computer. Other programs can read it.
 
 ## File layout
 

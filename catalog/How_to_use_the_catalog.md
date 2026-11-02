@@ -5,24 +5,33 @@
 ## Two ways to use the catalog
 
 - **On GitHub:** open the master catalog page (below). Everything is one click from there.
-- **From your own computer:** download **Master_catalog.html** once and open it from your drive. It has the same links as the master catalog page, plus a **search box** that searches all items by meaning or by exact words.
+- **From your own computer:** download **Master_catalog.html** and **catalog_manager.py** into one folder and start the catalog with catalog_manager.py. You get the same links as the master catalog page, plus a **search box** that searches all items by meaning or by exact words.
 
-### Downloading Master_catalog.html
+### Downloading the two files
 
-1. Click this link: https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/Master_catalog.html
-2. At the top right of the file, next to **Raw**, click the download button (the arrow pointing down).
-3. The file saves to your Downloads folder. Move it wherever you like, double-click it to open it in your browser, and bookmark it.
-4. If you make a Windows shortcut to the file and Windows blocks it ("Smart App Control blocked a file that may be unsafe"), remove the "downloaded from the internet" mark from the file: open PowerShell in the folder where the file is and run
-   `Unblock-File "Master_catalog.html"`
-   (use the file's actual name if you renamed it). Or right-click the file, choose **Properties**, tick **Unblock** on the **General** tab, and click **OK**.
+1. Click https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/Master_catalog.html, then, at the top right of the file next to **Raw**, click the download button (the arrow pointing down).
+2. Do the same for https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/catalog_manager.py
+3. Move both files into the same folder.
+4. Remove Windows' "downloaded from the internet" mark from both: open PowerShell in that folder and run
+   `Unblock-File "Master_catalog.html"; Unblock-File "catalog_manager.py"`
+   (or right-click each file, choose **Properties**, tick **Unblock** on the **General** tab, and click **OK**).
 
-### First time you open it: search setup
+catalog_manager.py needs Python 3.9 or newer on your computer.
 
-The first time you open Master_catalog.html, it sets up its search by itself. A yellow box at the top shows what it is doing and how long is left.
+### Starting the catalog
 
-- It reads every catalog item from GitHub, so you need an internet connection. It takes roughly 15–40 minutes, depending on your computer.
-- Keep the page open until it finishes. The links on the page work in the meantime.
-- When it finishes, your browser saves a file called **catalog_search_index.js** to your Downloads folder. Move that file into the same folder as Master_catalog.html, then reload the page. You only do this once; after that, every browser you open the page in uses the same file.
+Double-click **catalog_manager.py** (or a shortcut to it). A small window opens, and the catalog page opens in your browser. Keep the small window open while you use the catalog; close it when you're done.
+
+If you open Master_catalog.html directly instead, the links work but search doesn't; the page shows "Start catalog_manager.py to use search."
+
+### First start: search setup
+
+The first time, catalog_manager.py gets the parts it needs (Python packages and the meaning model, about 25 MB), and the page sets up the search. A yellow box at the top of the page shows each step and how long is left.
+
+- It reads every catalog item from GitHub, so you need an internet connection.
+- Keep the page open until it says **Search setup finished**. The links work in the meantime.
+- The finished index is saved as **catalog_search_index.js** in the same folder, and search switches on by itself. Next time, search is ready within seconds.
+- If the catalog page is replaced by a newer version with different items, the search is set up again the same way.
 
 ### Searching
 
