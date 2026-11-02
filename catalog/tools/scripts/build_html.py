@@ -70,6 +70,7 @@ mark{background:#fff8c5}
 <h1>Search results</h1>
 <p><input id="q2" type="text" placeholder="Word or phrase"> <button id="go2">Search</button></p>
 <div id="status">Loading search…</div><div id="results"></div>
+<p style="margin-top:18px"><a href="#" id="back2">← Master catalog</a></p>
 </div>
 <script>
 const BASE=%(base)s; const BLOB="%(blob)s"; let DATA=null;
@@ -108,6 +109,7 @@ document.getElementById('go2').onclick=()=>go('q2');
 document.getElementById('q').addEventListener('keydown',e=>{if(e.key==='Enter')go('q');});
 document.getElementById('q2').addEventListener('keydown',e=>{if(e.key==='Enter')go('q2');});
 document.getElementById('back').onclick=e=>{e.preventDefault(); location.hash='';};
+document.getElementById('back2').onclick=e=>{e.preventDefault(); location.hash='';};
 window.addEventListener('hashchange',route);
 route();
 load().catch(e=>{document.getElementById('ready').textContent='Search could not load: '+e;});
