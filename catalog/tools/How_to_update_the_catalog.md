@@ -13,10 +13,10 @@ Everything needed to add new material and rebuild the catalog. Built 2026-11-02.
   - `extract_items.py` — reads the Substack entries and the AI chat files (from the AI_Chats repo) into one item list, and cuts the reading batches for the helper agents.
   - `finalize_tags.py`, `finalize_tags2.py` — merge the helper agents' tags (first pass, second pass) into one file and build the topic tree with counts.
   - `build_catalog.py` — writes all catalog pages: item pages, item lists, A–Z index, topic outline, data lists.
-  - `build_search_html.py` — writes `Master_catalog.html`, the downloadable copy of the master catalog page with search by meaning and by exact words. It uses the files in `search_build/`.
+  - `build_search_html.py` — writes `Millard's_master_writing_catalog.html`, the downloadable copy of the master catalog page with search by meaning and by exact words. It uses the files in `search_build/`.
   - `fit_projection.py` — fits the fingerprint shrinking stored in `search_build/projection.json`.
   - `build_html.py`, `build_semantic.py` — earlier versions, replaced by `build_search_html.py`.
-- `search_build/` — the search page's parts: page template and code, the meaning model and its browser engine, tokenizer, projection, and a copy of `catalog_manager.py` (the copy people download is in the catalog folder).
+- `search_build/` — the search page's parts: page template and code, the meaning model and its browser engine, tokenizer, projection, and a copy of `Millard's_master_writing_catalog_manager.py` (the copy people download is in the catalog folder).
 - `Search_index_format.md` — the layout of the `catalog_search_index.js` file the page builds, for use by other programs.
   - `build_items.py` — older item-page builder, replaced by `build_catalog.py`.
 - `READ2_INSTRUCTIONS.md` — the instructions the helper agents follow when tagging items (current version). `READ_INSTRUCTIONS.md` is the first-pass version.
@@ -43,5 +43,5 @@ Everything needed to add new material and rebuild the catalog. Built 2026-11-02.
 2. Turn it into items in the same form as `data/items.jsonl`, with new permanent IDs that never reuse old ones.
 3. Have helper agents tag only the new items with `READ2_INSTRUCTIONS.md` against `tree_v1.md`; any new branches they propose get added to the tree.
 4. Add the new tags to `data/tags_final2.jsonl` and rerun `build_catalog.py` to rebuild every page.
-   Then rerun `build_search_html.py` to rebuild `Master_catalog.html`. After that, catalog_manager.py rebuilds a person's search index in full the next time they start it with the new page (incremental updates are still to be designed).
+   Then rerun `build_search_html.py` to rebuild `Millard's_master_writing_catalog.html`. After that, Millard's_master_writing_catalog_manager.py rebuilds a person's search index in full the next time they start it with the new page (incremental updates are still to be designed).
 5. Check links and counts, then upload.

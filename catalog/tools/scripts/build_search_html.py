@@ -1,4 +1,4 @@
-"""Build Master_catalog.html with built-in meaning and exact-word search.
+"""Build Millard's_master_writing_catalog.html with built-in meaning and exact-word search.
 
 Usage: python3 build_search_html.py items.jsonl tags_final2.jsonl sem_dir out.html
 sem_dir holds: page_template.html, app.js, core.js, tokenizer.js, ort.wasm.min.js, ort-wasm-simd-threaded.mjs,

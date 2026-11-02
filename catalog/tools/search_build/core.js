@@ -1,5 +1,5 @@
 // Catalog search core: item parsing, segmentation, exact-word tokens, index container format.
-// Shared by the page (Master_catalog.html), its build workers, and the Node test scripts.
+// Shared by the page (Millard's_master_writing_catalog.html), its build workers, and the Node test scripts.
 (function (root) {
   'use strict';
   const ME = 'Millard J Melnyk';

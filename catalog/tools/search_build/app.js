@@ -297,7 +297,7 @@ function fillPanel(p, f) {
 }
 function submit(p) { const f = readPanel(p); if (!f.q) return; location.hash = '#search?' + new URLSearchParams(Object.entries(f).map(([k, v]) => [k, String(v)])).toString(); }
 function readyText() {
-  if (location.protocol === 'file:') return 'Start catalog_manager.py to use search.';
+  if (location.protocol === 'file:') return "Start Millard's_master_writing_catalog_manager.py to use search.";
   if (BUILDING) return 'Search is being set up (see the yellow box above). It can be used once setup is finished.';
   if (!IDX) return 'Loading search…';
   if (!SESSION) return 'Exact-word search is ready; meaning search is loading…';

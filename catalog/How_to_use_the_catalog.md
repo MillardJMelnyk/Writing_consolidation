@@ -5,28 +5,28 @@
 ## Two ways to use the catalog
 
 - **On GitHub:** open the master catalog page (below). Everything is one click from there.
-- **From your own computer:** download **Master_catalog.html** and **catalog_manager.py** into one folder and start the catalog with catalog_manager.py. You get the same links as the master catalog page, plus a **search box** that searches all items by meaning or by exact words.
+- **From your own computer:** download **Millard's_master_writing_catalog.html** and **Millard's_master_writing_catalog_manager.py** into one folder and start the catalog with Millard's_master_writing_catalog_manager.py. You get the same links as the master catalog page, plus a **search box** that searches all items by meaning or by exact words.
 
 ### Downloading the two files
 
-1. Click https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/Master_catalog.html, then, at the top right of the file next to **Raw**, click the download button (the arrow pointing down).
-2. Do the same for https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/catalog_manager.py
+1. Click https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/Millard's_master_writing_catalog.html, then, at the top right of the file next to **Raw**, click the download button (the arrow pointing down).
+2. Do the same for https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/Millard's_master_writing_catalog_manager.py
 3. Move both files into the same folder.
 4. Remove Windows' "downloaded from the internet" mark from both: open PowerShell in that folder and run
-   `Unblock-File "Master_catalog.html"; Unblock-File "catalog_manager.py"`
+   `Unblock-File "Millard's_master_writing_catalog.html"; Unblock-File "Millard's_master_writing_catalog_manager.py"`
    (or right-click each file, choose **Properties**, tick **Unblock** on the **General** tab, and click **OK**).
 
-catalog_manager.py needs Python 3.9 or newer on your computer.
+Millard's_master_writing_catalog_manager.py needs Python 3.9 or newer on your computer.
 
 ### Starting the catalog
 
-Double-click **catalog_manager.py** (or a shortcut to it). A small window opens, and the catalog page opens in your browser. Keep the small window open while you use the catalog; close it when you're done.
+Double-click **Millard's_master_writing_catalog_manager.py** (or a shortcut to it). A small window opens, and the catalog page opens in your browser. Keep the small window open while you use the catalog; close it when you're done.
 
-If you open Master_catalog.html directly instead, the links work but search doesn't; the page shows "Start catalog_manager.py to use search."
+If you open Millard's_master_writing_catalog.html directly instead, the links work but search doesn't; the page shows "Start Millard's_master_writing_catalog_manager.py to use search."
 
 ### First start: search setup
 
-The first time, catalog_manager.py gets the parts it needs (Python packages and the meaning model, about 25 MB), and the page sets up the search. A yellow box at the top of the page shows each step and how long is left.
+The first time, Millard's_master_writing_catalog_manager.py gets the parts it needs (Python packages and the meaning model, about 25 MB), and the page sets up the search. A yellow box at the top of the page shows each step and how long is left.
 
 - It reads every catalog item from GitHub, so you need an internet connection.
 - Keep the page open until it says **Search setup finished**. The links work in the meantime.

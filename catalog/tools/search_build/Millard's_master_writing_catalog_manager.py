@@ -1,12 +1,12 @@
-"""Catalog manager: start this instead of opening Master_catalog.html directly.
+"""Catalog manager: start this instead of opening Millard's_master_writing_catalog.html directly.
 
 It serves the catalog folder on this computer, opens the catalog page in your browser, and does the search
 fingerprinting and saving the page asks for while it sets up search. Keep this window open while you use the
 catalog; close it to stop.
 
-Put this file in the same folder as Master_catalog.html. Needs Python 3.9 or newer.
+Put this file in the same folder as Millard's_master_writing_catalog.html. Needs Python 3.9 or newer.
 """
-import os, sys, json, base64, threading, time, webbrowser, subprocess, importlib, importlib.util, urllib.request, socket
+import os, sys, json, base64, threading, time, webbrowser, subprocess, importlib, importlib.util, urllib.request, urllib.parse, socket
 from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -14,7 +14,7 @@ PORT = 8765
 FILES = os.path.join(HERE, 'catalog_search_files')
 SRC = 'https://raw.githubusercontent.com/MillardJMelnyk/Writing_consolidation/main/catalog/tools/search_build/'
 NEEDED = ['model_quantized.onnx', 'tokenizer.json', 'projection.json']
-PAGE = 'Master_catalog.html'
+PAGE = "Millard's_master_writing_catalog.html"
 INDEX = 'catalog_search_index.js'
 
 
@@ -121,9 +121,9 @@ def port_in_use(port):
 
 
 def main():
-    url = 'http://localhost:%d/%s' % (PORT, PAGE)
+    url = 'http://localhost:%d/%s' % (PORT, urllib.parse.quote(PAGE))
     if not os.path.exists(os.path.join(HERE, PAGE)):
-        say('%s is not in this folder. Put catalog_manager.py next to it.' % PAGE); input('Press Enter to close.'); return
+        say("%s is not in this folder. Put Millard's_master_writing_catalog_manager.py next to it." % PAGE); input('Press Enter to close.'); return
     if port_in_use(PORT):
         say('The catalog manager is already running. Opening the catalog…'); webbrowser.open(url); return
     try:
