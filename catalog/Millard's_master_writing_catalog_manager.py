@@ -14,7 +14,7 @@ PORT = 8765
 FILES = os.path.join(HERE, 'catalog_search_files')
 SRC = 'https://raw.githubusercontent.com/MillardJMelnyk/Writing_consolidation/main/catalog/tools/search_build/'
 NEEDED = ['model_quantized.onnx', 'tokenizer.json', 'projection.json']
-PAGE = "Millard's_master_writing_catalog.html"
+PAGE = os.path.basename(os.path.abspath(__file__)).replace("_manager.py", ".html")  # page name = this script's name without "_manager"
 INDEX = 'catalog_search_index.js'
 
 
@@ -123,7 +123,7 @@ def port_in_use(port):
 def main():
     url = 'http://localhost:%d/%s' % (PORT, urllib.parse.quote(PAGE))
     if not os.path.exists(os.path.join(HERE, PAGE)):
-        say("%s is not in this folder. Put Millard's_master_writing_catalog_manager.py next to it." % PAGE); input('Press Enter to close.'); return
+        say("%s is not in this folder. This script must sit next to it, with the same name plus _manager." % PAGE); input('Press Enter to close.'); return
     if port_in_use(PORT):
         say('The catalog manager is already running. Opening the catalog…'); webbrowser.open(url); return
     try:
