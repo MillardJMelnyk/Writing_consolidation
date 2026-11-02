@@ -15,7 +15,7 @@
 
 **Index terms:** lottery; gambling; China; India; global estimate
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # COVID, vaccines and medical fraud › VaXXX cultists and pandemic denial
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [COVID, vaccines and medical fraud](covid-vaccines-and-medical-fraud.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [COVID, vaccines and medical fraud](covid-vaccines-and-medical-fraud.md)
 
 49 items · Sort: [by date](#by-date) · [by title](#by-title)
 

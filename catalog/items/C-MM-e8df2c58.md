@@ -15,7 +15,7 @@
 
 **Index terms:** Luke Perez; Ohio State University; Gordon Gee; Christopher Green; First Amendment
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

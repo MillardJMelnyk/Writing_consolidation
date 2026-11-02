@@ -15,7 +15,7 @@
 
 **Index terms:** Yeshayahu Leibowitz; Judeo-Nazi; occupied territories; Hebrew University; 1967 occupation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

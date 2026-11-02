@@ -15,7 +15,7 @@
 
 **Index terms:** efficiency ratio; tick data; market indecision; tick imbalance; price path
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

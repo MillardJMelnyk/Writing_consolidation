@@ -15,7 +15,7 @@
 
 **Index terms:** Yom Tov Glaser; Aish HaTorah; Orthodox Judaism; birth name; obituary search
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

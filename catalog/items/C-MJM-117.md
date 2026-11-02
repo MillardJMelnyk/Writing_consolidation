@@ -15,7 +15,7 @@
 
 **Index terms:** Larken Rose; The Most Dangerous Superstition; the State; government; capitalization; law
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

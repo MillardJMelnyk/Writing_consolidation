@@ -15,7 +15,7 @@
 
 **Index terms:** Android screen recorder; OnePlus 12; AZ Screen Recorder; Google Photos; video trimming
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

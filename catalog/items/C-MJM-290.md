@@ -15,7 +15,7 @@
 
 **Index terms:** Anthropic; OpenAI; user flagging; ground rules; customer support
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

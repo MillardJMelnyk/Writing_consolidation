@@ -15,7 +15,7 @@
 
 **Index terms:** ICSA Today; International Cultic Studies Association; Jacqueline Johnson; Bonita Springs
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

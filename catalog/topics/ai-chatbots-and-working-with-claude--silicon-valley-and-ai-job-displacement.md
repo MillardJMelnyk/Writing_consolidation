@@ -1,6 +1,6 @@
 # AI chatbots and working with Claude › Silicon Valley and AI job displacement
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [AI chatbots and working with Claude](ai-chatbots-and-working-with-claude.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [AI chatbots and working with Claude](ai-chatbots-and-working-with-claude.md)
 
 1 items · Sort: [by date](#by-date) · [by title](#by-title)
 

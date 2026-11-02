@@ -15,7 +15,7 @@
 
 **Index terms:** myofascial trigger point; dry needling; myoclonus; piriformis; herniated disc; massage
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** insensate; fear; willful ignorance; word choice
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

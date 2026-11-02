@@ -15,7 +15,7 @@
 
 **Index terms:** WhatsApp; end-to-end encryption; metadata; account review; terms of service
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

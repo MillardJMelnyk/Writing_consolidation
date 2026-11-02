@@ -15,7 +15,7 @@
 
 **Index terms:** Kingdom of God; basileia tou theou; authoritarianism; Gehenna; Jesus; authority over existence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

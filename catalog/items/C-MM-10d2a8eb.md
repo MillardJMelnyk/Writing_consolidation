@@ -15,7 +15,7 @@
 
 **Index terms:** LEGO The Lord of the Rings; local co-op; split-screen gaming
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

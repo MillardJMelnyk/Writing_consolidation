@@ -15,7 +15,7 @@
 
 **Index terms:** GLM-5.3-Flash; Z.ai; OpenRouter; Hugging Face
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

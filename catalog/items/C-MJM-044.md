@@ -15,7 +15,7 @@
 
 **Index terms:** Embassy of Canada in Mexico; Mexico City; consular section; Canadian passport
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

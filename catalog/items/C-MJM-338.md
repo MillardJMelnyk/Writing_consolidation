@@ -15,7 +15,7 @@
 
 **Index terms:** bullshit; intent; bad faith; epistemology; epistemics; psychosis
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

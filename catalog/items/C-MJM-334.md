@@ -15,7 +15,7 @@
 
 **Index terms:** risk management; position sizing; pip value; averaging in; margin call; MetaTrader 5; ZigZag indicator
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

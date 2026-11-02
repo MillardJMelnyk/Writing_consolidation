@@ -15,7 +15,7 @@
 
 **Index terms:** Palestine Action; Terrorism Act 2000; First Amendment; Marco Rubio; Canada; Mexico; United Kingdom
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

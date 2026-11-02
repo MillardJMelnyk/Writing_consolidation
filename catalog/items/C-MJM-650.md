@@ -15,7 +15,7 @@
 
 **Index terms:** Webb; local-first AI; research tool; document analysis
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

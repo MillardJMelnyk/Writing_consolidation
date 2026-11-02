@@ -15,7 +15,7 @@
 
 **Index terms:** Rasmussen Reports; Scott Rasmussen; FiveThirtyEight; Silver Bulletin; opinion polling
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** belief; perceived likelihood; adjective; word choice
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

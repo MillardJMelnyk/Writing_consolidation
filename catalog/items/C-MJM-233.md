@@ -15,7 +15,7 @@
 
 **Index terms:** self-appellation; autonym; pseudonym; nominalization
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

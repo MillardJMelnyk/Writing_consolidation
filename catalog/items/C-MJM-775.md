@@ -15,7 +15,7 @@
 
 **Index terms:** Firefox; Windows 11; hardware acceleration; STATUS_DLL_INIT_FAILED; Logi MX Keys S; Logi Options+; PowerToys; RAM slot
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

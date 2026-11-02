@@ -15,7 +15,7 @@
 
 **Index terms:** rental application; Duna Language; secured credit card; temporary residency; Mercado Libre; meses sin intereses
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

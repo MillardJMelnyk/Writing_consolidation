@@ -15,7 +15,7 @@
 
 **Index terms:** autism; COVID-19 vaccine; influenza vaccine; confounding; Danish cohort study; Henry Ford vaccine study
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

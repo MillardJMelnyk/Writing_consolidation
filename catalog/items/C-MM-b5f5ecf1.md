@@ -15,7 +15,7 @@
 
 **Index terms:** Claude memory; profanity; data retention
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

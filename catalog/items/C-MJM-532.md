@@ -15,7 +15,7 @@
 
 **Index terms:** compound bow; effective range; bowhunting; arrow drop
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Perplexity AI; Comet browser; Claude; ChatGPT; Google Gemini; political bias; ethical filtering
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

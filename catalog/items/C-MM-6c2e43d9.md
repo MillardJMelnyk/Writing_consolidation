@@ -15,7 +15,7 @@
 
 **Index terms:** Professor Jiang; prediction; forecasting accuracy; batting average
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

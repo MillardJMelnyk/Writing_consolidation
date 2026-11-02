@@ -15,7 +15,7 @@
 
 **Index terms:** savings account; interest rate; annual percentage yield; United States; 2008 financial crisis
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Querétaro; doctor's visit cost; sore throat; pharmacy consultorio; Mexican peso
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

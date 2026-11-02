@@ -15,7 +15,7 @@
 
 **Index terms:** Abdul El-Sayed; Cenk Uygur; Rebellion PAC; The Young Turks; political ad; Michigan Senate race
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

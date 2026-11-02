@@ -15,7 +15,7 @@
 
 **Index terms:** Foundation (TV series); Gaal Dornick; Hari Seldon; Jared Harris; Apple TV+
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

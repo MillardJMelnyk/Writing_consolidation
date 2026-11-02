@@ -15,7 +15,7 @@
 
 **Index terms:** MetaTrader 5; Strategy Tester; chart template; bid line; ask line
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

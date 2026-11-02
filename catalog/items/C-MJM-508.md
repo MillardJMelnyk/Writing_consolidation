@@ -15,7 +15,7 @@
 
 **Index terms:** saltwater lamp; galvanic cell; electrolyte; LED; electrode corrosion
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

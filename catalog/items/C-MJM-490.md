@@ -15,7 +15,7 @@
 
 **Index terms:** Tequisquiapan; taxi; Ezequiel Montes; Cadereyta de Montes; Querétaro
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** compound growth; daily return; account doubling; trading account
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

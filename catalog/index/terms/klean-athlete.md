@@ -1,6 +1,6 @@
 # Klean Athlete
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [K](../K.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [K](../K.md)
 
 3 items · Sort: [by date](#by-date) · [by title](#by-title)
 

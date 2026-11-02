@@ -15,7 +15,7 @@
 
 **Index terms:** Grace Blakeley; financialization; Tribune; Silvia Federici; RadicalxChange; share-first
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

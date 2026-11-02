@@ -15,7 +15,7 @@
 
 **Index terms:** supremacistic; Anatole France; Henry David Thoreau; Max Stirner; Jean-Jacques Rousseau; inversion
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

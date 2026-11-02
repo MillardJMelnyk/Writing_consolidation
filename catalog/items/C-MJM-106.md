@@ -15,7 +15,7 @@
 
 **Index terms:** Substack; anchor link; heading; draft preview; email newsletter
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

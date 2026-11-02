@@ -15,7 +15,7 @@
 
 **Index terms:** Ethiopian Orthodox Bible; Books of the Covenant; Testamentum Domini; Epistula Apostolorum; resurrection
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

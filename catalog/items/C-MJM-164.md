@@ -15,7 +15,7 @@
 
 **Index terms:** shared chat link; ego boundary; psychological invasion; Claude account
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

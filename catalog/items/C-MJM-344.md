@@ -15,7 +15,7 @@
 
 **Index terms:** theory of evolution; abiogenesis; prokaryote; probability; Perplexity AI; protein folding; lottery odds
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

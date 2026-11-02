@@ -15,7 +15,7 @@
 
 **Index terms:** Muammar Gaddafi; Bashar al-Assad; Fidel Castro; Pol Pot; Idi Amin; dictatorship
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

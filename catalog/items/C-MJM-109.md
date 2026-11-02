@@ -15,7 +15,7 @@
 
 **Index terms:** Facebook; viewing history; activity log; goal setting; video search
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

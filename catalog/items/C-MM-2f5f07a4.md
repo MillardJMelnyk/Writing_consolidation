@@ -15,7 +15,7 @@
 
 **Index terms:** self-obliviation; Moonshot AI; Kimi K3; open weights; GPU cloud rental; Nvidia H200
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

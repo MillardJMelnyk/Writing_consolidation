@@ -15,7 +15,7 @@
 
 **Index terms:** Professor Jiang; prediction; batting average; sloth sticker
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Leo Tolstoy; The Death of Ivan Ilyich; short story; Russian literature
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

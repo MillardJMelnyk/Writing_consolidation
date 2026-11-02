@@ -15,7 +15,7 @@
 
 **Index terms:** Hamas; October 7 attack; Hannibal Directive; Israel Defense Forces; Benjamin Netanyahu; Gaza
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

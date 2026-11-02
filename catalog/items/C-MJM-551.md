@@ -15,7 +15,7 @@
 
 **Index terms:** Microsoft Word 365; ruler; Normal.dotm; Print Layout
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

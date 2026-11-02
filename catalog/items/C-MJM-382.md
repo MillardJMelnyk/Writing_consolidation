@@ -15,7 +15,7 @@
 
 **Index terms:** Native American; United States Constitution; epidemic disease; smallpox; indigenous population decline; European colonization
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

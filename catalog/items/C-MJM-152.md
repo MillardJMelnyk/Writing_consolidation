@@ -15,7 +15,7 @@
 
 **Index terms:** !Kung San; Semai; egalitarianism; hunter-gatherer; hxaro; consensus
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

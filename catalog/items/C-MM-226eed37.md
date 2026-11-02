@@ -15,7 +15,7 @@
 
 **Index terms:** Stay Out; Mobitech; end-user license agreement; anti-cheat scanning; vodka; calorie
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** epistomics; epistemology; embodied knowledge; reality testing; content independence; group identity
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

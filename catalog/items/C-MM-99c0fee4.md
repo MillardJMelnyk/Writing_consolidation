@@ -15,7 +15,7 @@
 
 **Index terms:** aviso de privacidad; ACCR; background check; sworn income statement; municipio; Querétaro
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Tulsa King; Paramount+; season premiere
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

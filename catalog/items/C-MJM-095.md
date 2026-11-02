@@ -15,7 +15,7 @@
 
 **Index terms:** MDMA; microdosing; Mexico; drug law
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Paris, Texas; Wim Wenders; Harry Dean Stanton; Palme d'Or
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** moving the goalposts; logical fallacy; burden of proof
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

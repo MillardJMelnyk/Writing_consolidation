@@ -15,7 +15,7 @@
 
 **Index terms:** IgA nephropathy; Spikevax; Moderna; European Medicines Agency; periodic safety update report; causality assessment; pharmacovigilance
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

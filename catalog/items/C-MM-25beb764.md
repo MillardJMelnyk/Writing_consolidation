@@ -15,7 +15,7 @@
 
 **Index terms:** Monique Marvez; Dry Bar Comedy; Waiting Wasn't Bad; Iliza Shlesinger; Rita Rudner; stand-up comedy
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

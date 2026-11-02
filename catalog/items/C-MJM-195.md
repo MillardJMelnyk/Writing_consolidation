@@ -15,7 +15,7 @@
 
 **Index terms:** Chinese Communist Party; China; carbon neutrality; climate policy; solar power
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

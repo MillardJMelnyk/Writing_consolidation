@@ -15,7 +15,7 @@
 
 **Index terms:** methylene blue; sertraline; serotonin syndrome; nootropic; Bluenova; drug washout
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

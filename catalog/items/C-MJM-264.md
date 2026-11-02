@@ -15,7 +15,7 @@
 
 **Index terms:** dark matter; dark energy; ordinary matter; Coma Cluster; timescape model; accelerating expansion; NASA
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

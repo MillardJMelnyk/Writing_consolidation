@@ -15,7 +15,7 @@
 
 **Index terms:** Sweden; school closure; child COVID mortality; Karolinska Institute; New England Journal of Medicine; MIS-C
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

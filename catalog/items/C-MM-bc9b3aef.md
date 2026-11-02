@@ -15,7 +15,7 @@
 
 **Index terms:** auto-lock; screen timeout; iPhone; Android
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

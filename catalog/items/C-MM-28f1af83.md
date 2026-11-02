@@ -15,7 +15,7 @@
 
 **Index terms:** vitamin C; infant; common cold; supplement
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** anchoring; abstraction; certainty; confident uncertainty; faith; superstition
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

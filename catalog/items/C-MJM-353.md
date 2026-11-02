@@ -15,7 +15,7 @@
 
 **Index terms:** NZDUSD; Liberation Day tariffs; Donald Trump; risk-off sentiment; US dollar depreciation; 2025 stock market crash
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

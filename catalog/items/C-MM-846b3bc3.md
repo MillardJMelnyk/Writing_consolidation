@@ -15,7 +15,7 @@
 
 **Index terms:** empathy; perspective-taking; Carl Rogers; projection; embodied perception; hedging
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

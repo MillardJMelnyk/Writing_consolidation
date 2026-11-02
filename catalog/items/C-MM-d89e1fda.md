@@ -15,7 +15,7 @@
 
 **Index terms:** ethernet cable; bandwidth; quality of service; router admin; Telmex; ipconfig
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

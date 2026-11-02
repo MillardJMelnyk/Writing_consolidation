@@ -15,7 +15,7 @@
 
 **Index terms:** religion; snake oil; flow; Mihaly Csikszentmihalyi; betrayal trauma; codependence; submission
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

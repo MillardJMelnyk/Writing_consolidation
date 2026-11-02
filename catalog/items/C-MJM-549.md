@@ -15,7 +15,7 @@
 
 **Index terms:** Law Itself Is the Violation; ReLOVEution NOW!; evil; human rights; psychosis; manuscript editing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** authority; conscription; competence; parasitism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Firefox; favicon; places.sqlite; favicons.sqlite; bookmark; ChatGPT
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

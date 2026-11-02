@@ -15,7 +15,7 @@
 
 **Index terms:** Ewa; Lingopie; language learning app; App Store; Trustpilot
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

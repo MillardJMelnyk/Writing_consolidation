@@ -15,7 +15,7 @@
 
 **Index terms:** argument; doubt; rights paradigm; magical thinking; deterrence; enforcement
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** pneumonic plague; Irkutsk Anti-Plague Institute; Shelekhov; Rospotrebnadzor; Darya Shipilova
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

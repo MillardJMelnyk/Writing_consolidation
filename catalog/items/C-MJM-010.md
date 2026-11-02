@@ -15,7 +15,7 @@
 
 **Index terms:** cultism; cluelessness; relative pronoun; sentence editing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

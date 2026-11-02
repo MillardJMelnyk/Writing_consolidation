@@ -15,7 +15,7 @@
 
 **Index terms:** authority; mentorship; dominion; subordinate; senior and junior
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

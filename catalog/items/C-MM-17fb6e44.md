@@ -15,7 +15,7 @@
 
 **Index terms:** Gideon Levy; Haaretz; The Punishment of Gaza; Olof Palme Prize; daylight saving time
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

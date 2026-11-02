@@ -15,7 +15,7 @@
 
 **Index terms:** skewing; distortion; bias; synonym
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

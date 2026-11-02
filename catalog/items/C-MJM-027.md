@@ -15,7 +15,7 @@
 
 **Index terms:** semiotics; symbol grounding problem; representation; referential link; psychosomatic; embodied cognition
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Practical & personal › Crime and safety in Mexico
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Practical & personal](practical-personal.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Practical & personal](practical-personal.md)
 
 6 items · Sort: [by date](#by-date) · [by title](#by-title)
 

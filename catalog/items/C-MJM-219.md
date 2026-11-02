@@ -15,7 +15,7 @@
 
 **Index terms:** KBC void; Local Void; Local Hole; cosmic void; Milky Way
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

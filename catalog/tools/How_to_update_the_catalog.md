@@ -1,6 +1,6 @@
 # Catalog tools — how the catalog was built and how to update it
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 Everything needed to add new material and rebuild the catalog. Built 2026-11-02.
 

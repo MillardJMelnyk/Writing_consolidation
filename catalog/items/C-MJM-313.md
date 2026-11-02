@@ -15,7 +15,7 @@
 
 **Index terms:** International Cultic Studies Association; positive psychology; pathology; experiential orientation; PDF; Markdown
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

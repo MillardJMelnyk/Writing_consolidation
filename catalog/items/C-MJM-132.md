@@ -15,7 +15,7 @@
 
 **Index terms:** Epistle to the Philippians; Paul the Apostle; Timothy; undisputed Pauline epistle; New Testament scholarship
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

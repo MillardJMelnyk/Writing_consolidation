@@ -15,7 +15,7 @@
 
 **Index terms:** chart pattern; scale ambiguity; fabricated analysis; indicator development; Codex; Gemini
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

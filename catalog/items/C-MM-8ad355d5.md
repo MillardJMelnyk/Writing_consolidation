@@ -15,7 +15,7 @@
 
 **Index terms:** Steam; Steam refund policy; Steam Support
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

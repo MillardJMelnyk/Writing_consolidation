@@ -15,7 +15,7 @@
 
 **Index terms:** European colonialism; settler colonialism; genocidal intent; scientific racism; United Fruit Company; greed as addiction; Imperial Japan; banana republic
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

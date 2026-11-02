@@ -15,7 +15,7 @@
 
 **Index terms:** Centers for Disease Control and Prevention; autism; vaccine safety; CDC website change
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

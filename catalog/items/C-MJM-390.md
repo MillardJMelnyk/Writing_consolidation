@@ -15,7 +15,7 @@
 
 **Index terms:** término medio; rojo inglés; steak doneness; Mexican Spanish
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

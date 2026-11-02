@@ -15,7 +15,7 @@
 
 **Index terms:** Perlego; e-book subscription; Trustpilot; textbook; user review
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

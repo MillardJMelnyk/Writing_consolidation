@@ -15,7 +15,7 @@
 
 **Index terms:** Facebook; lost draft; activity log; app backgrounding
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

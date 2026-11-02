@@ -15,7 +15,7 @@
 
 **Index terms:** Ollama; local LLM; 70B model; GPU VRAM; B&H Photo; RFC; CURP
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Mozilla Firefox; history sidebar; toolbar button; WebExtension
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

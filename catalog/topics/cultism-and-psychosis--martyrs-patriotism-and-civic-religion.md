@@ -1,6 +1,6 @@
 # Cultism and psychosis › Martyrs, patriotism and civic religion
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Cultism and psychosis](cultism-and-psychosis.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Cultism and psychosis](cultism-and-psychosis.md)
 
 21 items · Sort: [by date](#by-date) · [by title](#by-title)
 

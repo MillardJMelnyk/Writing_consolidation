@@ -15,7 +15,7 @@
 
 **Index terms:** mass control; abstract construct; parasite; elitism; infantilism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

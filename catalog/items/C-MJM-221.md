@@ -15,7 +15,7 @@
 
 **Index terms:** Hamas; Kfir Brigade; Khan Younis; Israel Defense Forces; Middle East Eye; media bias
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

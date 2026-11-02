@@ -15,7 +15,7 @@
 
 **Index terms:** Spanish; product return; refund; declarative sentence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Carl Sagan; extraordinary claims require extraordinary evidence; Contact; Broca's Brain; Cosmos; extraterrestrial life
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

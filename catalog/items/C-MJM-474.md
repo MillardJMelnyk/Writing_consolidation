@@ -15,7 +15,7 @@
 
 **Index terms:** WhatsApp Desktop; FFmpeg; H.264; HEVC; VLC media player; video codec
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

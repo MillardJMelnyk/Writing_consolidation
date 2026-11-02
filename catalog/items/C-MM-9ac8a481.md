@@ -15,7 +15,7 @@
 
 **Index terms:** existential dependence; subordination; superiority; repetition
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Logitech MX Keys S; Logi Bolt receiver; wireless keyboard; device pairing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

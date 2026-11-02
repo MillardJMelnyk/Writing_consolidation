@@ -15,7 +15,7 @@
 
 **Index terms:** Comisión Federal de Electricidad; Mercado Pago; CURP; OXXO; Wise; CLABE
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

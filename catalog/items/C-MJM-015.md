@@ -15,7 +15,7 @@
 
 **Index terms:** Sahara Desert; desertification; African Humid Period; orbital forcing; scientific consensus
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

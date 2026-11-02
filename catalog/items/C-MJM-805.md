@@ -15,7 +15,7 @@
 
 **Index terms:** legitimize; legitimate; connotation; Grammarist; Grammarphobia; Oxford English Dictionary; Google Ngram Viewer
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

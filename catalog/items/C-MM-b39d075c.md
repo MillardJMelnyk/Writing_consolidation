@@ -15,7 +15,7 @@
 
 **Index terms:** antisemitism; thought-terminating cliche; Jewish self-hatred; narcissism; goy; weaponized accusation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** human rights; myth of rights; category error; supremacism; project management; utopianism; role play
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

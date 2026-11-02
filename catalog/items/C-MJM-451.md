@@ -15,7 +15,7 @@
 
 **Index terms:** Mexican Spanish; back-translation; predatory contract; cláusulas no negociables; Querétaro; lease negotiation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

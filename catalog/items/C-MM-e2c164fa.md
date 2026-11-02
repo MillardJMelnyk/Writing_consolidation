@@ -15,7 +15,7 @@
 
 **Index terms:** Anthropic; refund; support ticket; Claude subscription
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

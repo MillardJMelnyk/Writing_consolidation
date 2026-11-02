@@ -15,7 +15,7 @@
 
 **Index terms:** MetaTrader 5; Strategy Tester; Pepperstone; software downgrade; User Account Control; LiveUpdate
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

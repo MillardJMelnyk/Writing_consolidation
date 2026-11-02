@@ -15,7 +15,7 @@
 
 **Index terms:** China; Confucianism; mianzi; emotional suppression; Japan; Korea; gaman
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

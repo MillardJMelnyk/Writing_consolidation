@@ -15,7 +15,7 @@
 
 **Index terms:** WhatsApp chat export; tomato stem; anthocyanin; Querétaro
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

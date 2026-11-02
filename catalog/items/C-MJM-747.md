@@ -15,7 +15,7 @@
 
 **Index terms:** Walmart México; free shipping; Walmart Pass; Walmex
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Steam Client WebHelper; Steam Cloud; Chromium; Planet Crafter; multiplayer
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

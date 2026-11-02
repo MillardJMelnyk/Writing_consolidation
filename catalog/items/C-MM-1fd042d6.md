@@ -15,7 +15,7 @@
 
 **Index terms:** under the influence of narrative; law as narrative; causation; shared hallucination; verdict; mind-body distinction
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

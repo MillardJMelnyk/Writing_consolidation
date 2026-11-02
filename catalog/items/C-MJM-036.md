@@ -15,7 +15,7 @@
 
 **Index terms:** content editing; prompt template; artifact
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

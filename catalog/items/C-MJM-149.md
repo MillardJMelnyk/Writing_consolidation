@@ -15,7 +15,7 @@
 
 **Index terms:** honesty; visual metaphor; crystal prism; SVG illustration; light and darkness
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

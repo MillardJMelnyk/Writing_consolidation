@@ -1,6 +1,6 @@
 # Harry Frankfurt
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [H](../H.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [H](../H.md)
 
 6 items · Sort: [by date](#by-date) · [by title](#by-title)
 

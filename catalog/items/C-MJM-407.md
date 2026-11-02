@@ -15,7 +15,7 @@
 
 **Index terms:** Bayo Akomolafe; Charles Eisenstein; Daniel Schmachtenberger; Genevieve Vaughan; Kate Raworth; Michel Bauwens; gift economy; posthumanism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

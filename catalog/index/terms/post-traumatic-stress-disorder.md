@@ -1,6 +1,6 @@
 # post-traumatic stress disorder
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [P](../P.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [P](../P.md)
 
 3 items · Sort: [by date](#by-date) · [by title](#by-title)
 

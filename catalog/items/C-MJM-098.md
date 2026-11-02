@@ -15,7 +15,7 @@
 
 **Index terms:** coercive authority; competence; false dichotomy; absolutist claim; mental illness; peer cooperation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** National Childhood Vaccine Injury Act; Restatement (Second) of Torts; comment k; unavoidably unsafe; Bruesewitz v. Wyeth; 42 U.S.C. 300aa-22; vaccine manufacturer liability
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

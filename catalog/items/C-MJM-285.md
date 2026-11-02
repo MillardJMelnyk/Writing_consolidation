@@ -15,7 +15,7 @@
 
 **Index terms:** Mary Anne Trump; Donald Trump; fabricated quote; fact-checking
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

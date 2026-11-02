@@ -15,7 +15,7 @@
 
 **Index terms:** Kamala Harris; foreign policy; Gaza genocide; IFLScience; mRNA vaccine; World Health Organization
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

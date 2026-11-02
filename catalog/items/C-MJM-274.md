@@ -15,7 +15,7 @@
 
 **Index terms:** subject-verb agreement; intent to harm; hysteria; evildoing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Gaza; Palestinian Center for Policy and Survey Research; casualty; opinion poll; Trump Plan
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

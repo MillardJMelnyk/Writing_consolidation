@@ -15,7 +15,7 @@
 
 **Index terms:** DeepSeek; International Mathematical Olympiad; reasoning model; AI benchmark; DeepSeek-R1
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

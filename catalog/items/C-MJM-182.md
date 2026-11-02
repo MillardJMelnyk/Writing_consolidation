@@ -15,7 +15,7 @@
 
 **Index terms:** evildoing; atrocity; transgression; iniquity; relative clause
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

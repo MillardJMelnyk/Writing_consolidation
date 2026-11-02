@@ -15,7 +15,7 @@
 
 **Index terms:** loanable funds theory; interest rate; graded exam; academic integrity
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

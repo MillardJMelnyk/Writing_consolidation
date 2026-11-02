@@ -15,7 +15,7 @@
 
 **Index terms:** Deadvlei; Namib-Naukluft National Park; Namibia; camel thorn tree; Namib Desert
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

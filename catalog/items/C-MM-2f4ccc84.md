@@ -15,7 +15,7 @@
 
 **Index terms:** National Defense Authorization Act; US-Israel Defense Technology Cooperation Initiative; Thomas Massie; Ro Khanna; Gog and Magog; Ezekiel 38
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

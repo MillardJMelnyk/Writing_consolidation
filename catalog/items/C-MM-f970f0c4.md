@@ -15,7 +15,7 @@
 
 **Index terms:** Windows 11 taskbar; Windhawk; ExplorerPatcher; Start11
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

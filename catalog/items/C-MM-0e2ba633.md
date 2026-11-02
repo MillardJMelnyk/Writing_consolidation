@@ -15,7 +15,7 @@
 
 **Index terms:** thread spool; sewing thread; cross winding
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

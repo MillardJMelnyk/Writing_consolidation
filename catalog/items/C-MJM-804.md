@@ -15,7 +15,7 @@
 
 **Index terms:** codependence; humanness; enablement; trauma-induced suggestibility; MKUltra; submission; body of Christ; authenticity
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

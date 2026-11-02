@@ -15,7 +15,7 @@
 
 **Index terms:** theory of evolution; random mutation; natural selection; Alexander Shapson-Coe; Russell Ackoff; systems thinking; temporal cortex
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

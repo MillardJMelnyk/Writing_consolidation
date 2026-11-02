@@ -15,7 +15,7 @@
 
 **Index terms:** belief; abstraction; certainty; inside-out belief; outside-in belief; imaginary abstraction
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

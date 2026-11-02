@@ -15,7 +15,7 @@
 
 **Index terms:** Nicene Creed; First Council of Nicaea; Constantine; Church Fathers; Tanakh; reyach nichoach; Molech; Ezekiel 20
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

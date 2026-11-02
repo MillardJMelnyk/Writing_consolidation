@@ -15,7 +15,7 @@
 
 **Index terms:** resentment; hatred; nopal cactus; insulin resistance; pharmaceutical industry; journal publishing; medical censorship
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

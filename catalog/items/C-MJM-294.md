@@ -15,7 +15,7 @@
 
 **Index terms:** psychotic hallucination; egotistical advantage; survival; reasonableness
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

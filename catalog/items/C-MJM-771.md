@@ -15,7 +15,7 @@
 
 **Index terms:** Programs and Features; appwiz.cpl; control.exe; taskbar pinning; Windows 11
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

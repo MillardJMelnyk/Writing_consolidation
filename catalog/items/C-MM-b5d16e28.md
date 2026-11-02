@@ -15,7 +15,7 @@
 
 **Index terms:** Unchained AI; uncensored AI; Facebook advertising; JakeMarketing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

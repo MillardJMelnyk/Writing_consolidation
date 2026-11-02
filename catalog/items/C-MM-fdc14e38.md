@@ -15,7 +15,7 @@
 
 **Index terms:** Nick Hanauer; The Pitchforks Are Coming… For Us Plutocrats; Politico; inequality; Seattle; minimum wage
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

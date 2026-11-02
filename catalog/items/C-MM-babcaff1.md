@@ -15,7 +15,7 @@
 
 **Index terms:** nginx; sites-available; sites-enabled; symbolic link; server configuration
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Trading and markets › Trading competitions and prop firms
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Trading and markets](trading-and-markets.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Trading and markets](trading-and-markets.md)
 
 3 items · Sort: [by date](#by-date) · [by title](#by-title)
 

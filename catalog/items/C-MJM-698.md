@@ -15,7 +15,7 @@
 
 **Index terms:** permutation; transition graph; line cross; indicator ordering
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

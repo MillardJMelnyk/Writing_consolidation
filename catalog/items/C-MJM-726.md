@@ -15,7 +15,7 @@
 
 **Index terms:** Everything; voidtools; subfolder search; file search
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

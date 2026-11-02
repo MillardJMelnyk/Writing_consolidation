@@ -15,7 +15,7 @@
 
 **Index terms:** The5ers; MetaTrader 5; trading commission; prop firm; profit split; funded account
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

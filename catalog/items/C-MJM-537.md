@@ -15,7 +15,7 @@
 
 **Index terms:** Vox; peer review; replication crisis; Julia Belluz; perverse incentive; survey of scientists
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

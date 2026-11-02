@@ -15,7 +15,7 @@
 
 **Index terms:** Eran Elhaik; Khazar hypothesis; Ashkenazi Jews; Palestinians; population genetics; Johns Hopkins University; Semite
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

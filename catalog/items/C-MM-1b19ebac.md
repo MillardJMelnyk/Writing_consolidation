@@ -15,7 +15,7 @@
 
 **Index terms:** eisegesis; straw man; read-in; conscientiousness; negligence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

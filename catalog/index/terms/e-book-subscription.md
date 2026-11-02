@@ -1,6 +1,6 @@
 # e-book subscription
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [E](../E.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [E](../E.md)
 
 1 items · Sort: [by date](#by-date) · [by title](#by-title)
 

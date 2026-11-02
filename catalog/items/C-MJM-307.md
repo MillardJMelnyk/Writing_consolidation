@@ -15,7 +15,7 @@
 
 **Index terms:** Mihaly Csikszentmihalyi; optimal experience; social adjustment; subjective enrichment; goal orientation of psychology; humanistic psychology
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

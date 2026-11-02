@@ -15,7 +15,7 @@
 
 **Index terms:** Hialeah; Miami-Dade County; Florida; Cuban Americans
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

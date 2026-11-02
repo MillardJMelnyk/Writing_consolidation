@@ -1,6 +1,6 @@
 # US empire, politics and current events › United Terrorist States of America
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [US empire, politics and current events](us-empire-politics-and-current-events.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [US empire, politics and current events](us-empire-politics-and-current-events.md)
 
 59 items · Sort: [by date](#by-date) · [by title](#by-title)
 

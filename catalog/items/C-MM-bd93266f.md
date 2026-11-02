@@ -15,7 +15,7 @@
 
 **Index terms:** coloso; colossus; Spanish vocabulary
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

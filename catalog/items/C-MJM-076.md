@@ -15,7 +15,7 @@
 
 **Index terms:** Donald Trump; presidential vocabulary; Flesch-Kincaid grade level; political rhetoric
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

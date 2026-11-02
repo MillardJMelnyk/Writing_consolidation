@@ -15,7 +15,7 @@
 
 **Index terms:** Anthropic; COVID-19; vaccine mandate; mask mandate; employee policy
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

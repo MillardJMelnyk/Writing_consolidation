@@ -15,7 +15,7 @@
 
 **Index terms:** Unturned; Steam; dedicated server; free-to-play; co-op game; crafting
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

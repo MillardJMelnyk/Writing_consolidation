@@ -15,7 +15,7 @@
 
 **Index terms:** Claude; conversation search; chat retrieval; belief; inside-out belief; outside-in belief
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

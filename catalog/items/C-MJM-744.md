@@ -15,7 +15,7 @@
 
 **Index terms:** calabacita; Mexican zucchini; chayote; Cucurbita pepo; central Mexico
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Mexican peso; US dollar; exchange rate
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

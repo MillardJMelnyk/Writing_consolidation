@@ -15,7 +15,7 @@
 
 **Index terms:** scientific consensus; fringe theory; Alfred Wegener; Ignaz Semmelweis; Gregor Mendel; Thomas Kuhn; Karl Popper; survivorship bias
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

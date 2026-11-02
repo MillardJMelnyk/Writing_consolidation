@@ -15,7 +15,7 @@
 
 **Index terms:** SWF; Web Open Font Format; Embedded OpenType; JavaScript; file extension
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

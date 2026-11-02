@@ -15,7 +15,7 @@
 
 **Index terms:** product recall classification; violative product; self-contradiction; disjunction; adverse health consequence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

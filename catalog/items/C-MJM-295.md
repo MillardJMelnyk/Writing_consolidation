@@ -15,7 +15,7 @@
 
 **Index terms:** violence; power; Megalo; provoke-and-blame strategy; monopoly on violence; diplomacy
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

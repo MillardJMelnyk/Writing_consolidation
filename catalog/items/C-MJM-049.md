@@ -15,7 +15,7 @@
 
 **Index terms:** Donald Trump; Secretary of War; Secretary of Defense; political correctness
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

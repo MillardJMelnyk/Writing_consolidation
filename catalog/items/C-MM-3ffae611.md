@@ -15,7 +15,7 @@
 
 **Index terms:** cTrader; indicator line; line thickness; MetaTrader 5
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

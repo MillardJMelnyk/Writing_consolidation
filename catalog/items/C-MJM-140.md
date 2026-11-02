@@ -15,7 +15,7 @@
 
 **Index terms:** kudos; props; slang; praise; idiom
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

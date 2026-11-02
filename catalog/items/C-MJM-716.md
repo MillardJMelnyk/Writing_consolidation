@@ -15,7 +15,7 @@
 
 **Index terms:** Microsoft Paint; DPI; canvas resolution; font rendering; image metadata
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

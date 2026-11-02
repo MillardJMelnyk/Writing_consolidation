@@ -15,7 +15,7 @@
 
 **Index terms:** stock; Basilica of Our Lady of Guadalupe; Tepeyac; Juan Diego; Mexico City
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

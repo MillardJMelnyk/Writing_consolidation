@@ -15,7 +15,7 @@
 
 **Index terms:** Jewish anti-Zionism; occupation of Palestine; Balfour Declaration; world Jewish population; 1967 Six-Day War; settlements
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

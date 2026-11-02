@@ -15,7 +15,7 @@
 
 **Index terms:** dishonesty; human nature; scientific method; peer review; Paul the Apostle; 2 Corinthians 13:8
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** affidavit; one and the same person; San Miguel de Allende; US consular agency; birth certificate; family unity residency; Canadian passport
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

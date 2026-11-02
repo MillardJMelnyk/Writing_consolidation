@@ -15,7 +15,7 @@
 
 **Index terms:** vaccine hesitancy; gun control; partisanship; Republican Party; polling
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

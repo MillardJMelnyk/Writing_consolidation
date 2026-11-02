@@ -15,7 +15,7 @@
 
 **Index terms:** alternative medical protocol; HIV; AI moralizing; refusal; self-treatment
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

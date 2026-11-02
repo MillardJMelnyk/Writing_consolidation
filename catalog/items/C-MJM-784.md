@@ -15,7 +15,7 @@
 
 **Index terms:** Microsoft Edge; Chromium; custom search engine; %s placeholder; Web Data; SQLite; keywords table; @favorites
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

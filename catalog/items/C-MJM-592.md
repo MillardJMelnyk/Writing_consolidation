@@ -15,7 +15,7 @@
 
 **Index terms:** Clasivo; LinkedIn; cover image; logo design; layout
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

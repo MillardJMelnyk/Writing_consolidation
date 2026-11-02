@@ -15,7 +15,7 @@
 
 **Index terms:** child sex trafficking; International Labour Organization; forced commercial sexual exploitation; revenue estimate; illegal industry operating cost
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Substack app; Substack Notes; Edvard Grieg; In the Hall of the Mountain King; Peer Gynt
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Itamar Ben-Gvir; Al-Aqsa Mosque; Temple Mount; East Jerusalem; Israeli sovereignty
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

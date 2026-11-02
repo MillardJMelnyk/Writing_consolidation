@@ -15,7 +15,7 @@
 
 **Index terms:** dogma; belief; identity; existential dread; mutual exclusivity; codependence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** URL query string; ampersand; Grok; URL parameter
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

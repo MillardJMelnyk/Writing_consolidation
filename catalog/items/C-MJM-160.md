@@ -15,7 +15,7 @@
 
 **Index terms:** randomized controlled trial; Pfizer; placebo group; Sasha Latypova; Denis Rancourt; all-cause mortality; excess death
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

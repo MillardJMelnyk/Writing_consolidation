@@ -15,7 +15,7 @@
 
 **Index terms:** reproducibility; replication; scientific method; Wikipedia
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

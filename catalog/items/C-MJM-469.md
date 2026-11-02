@@ -15,7 +15,7 @@
 
 **Index terms:** experimental science; argumentation; category error; epistemic orientation; empirical evidence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

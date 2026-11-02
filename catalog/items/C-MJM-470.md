@@ -15,7 +15,7 @@
 
 **Index terms:** póliza jurídica; PROFECO; demand letter; non-refundable advance; Mexican consumer law
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

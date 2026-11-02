@@ -15,7 +15,7 @@
 
 **Index terms:** armyworm; Spodoptera; basil; garden pest
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

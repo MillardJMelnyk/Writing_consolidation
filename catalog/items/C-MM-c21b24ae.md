@@ -15,7 +15,7 @@
 
 **Index terms:** black widow spider; Latrodectus mexicanus; false widow spider; war of the currents; Pinkerton National Detective Agency; Homestead Strike; Henry Clay Frick; Carnegie Steel
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

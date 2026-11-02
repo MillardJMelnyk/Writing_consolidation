@@ -15,7 +15,7 @@
 
 **Index terms:** Claude; usage limit; limit reset
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

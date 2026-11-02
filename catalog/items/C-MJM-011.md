@@ -15,7 +15,7 @@
 
 **Index terms:** Substack; writer dashboard; Substack Notes
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Sigmund Freud; Carl Jung; seduction theory; Oedipus complex; Harry Frankfurt; bullshit versus lying; childhood sexual abuse
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

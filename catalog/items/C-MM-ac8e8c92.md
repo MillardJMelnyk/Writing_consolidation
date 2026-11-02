@@ -15,7 +15,7 @@
 
 **Index terms:** supplement plan; magnesium glycinate; zinc bisglycinate; fish oil; Thorne; Klean Athlete; cabbage; mineral deficiency
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

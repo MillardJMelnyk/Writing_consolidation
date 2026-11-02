@@ -15,7 +15,7 @@
 
 **Index terms:** wire transfer; exchange rate markup; Wise; Mexican peso; add-on
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

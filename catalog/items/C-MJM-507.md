@@ -15,7 +15,7 @@
 
 **Index terms:** inalienable rights; European colonialism; dehumanization; Burma; Indonesia; crimes against humanity
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** infidel; goyim; pagan; heathen; Christianity
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

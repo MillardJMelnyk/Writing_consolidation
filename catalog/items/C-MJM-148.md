@@ -15,7 +15,7 @@
 
 **Index terms:** AI image generator; DALL-E 3; ChatGPT; Leonardo AI; GPT-5
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

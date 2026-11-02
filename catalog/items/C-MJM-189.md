@@ -15,7 +15,7 @@
 
 **Index terms:** stipulation; stipulate to; Merriam-Webster; argument; aggressor; rights declaration
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

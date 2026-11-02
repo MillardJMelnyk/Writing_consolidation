@@ -15,7 +15,7 @@
 
 **Index terms:** MMR vaccine; autism; Epic Cosmos; electronic health record; study design; follow-up period
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

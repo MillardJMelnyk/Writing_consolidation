@@ -15,7 +15,7 @@
 
 **Index terms:** mnemonic; mnemic; lexical gap; memory; adjective
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

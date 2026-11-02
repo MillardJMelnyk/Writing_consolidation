@@ -15,7 +15,7 @@
 
 **Index terms:** gap theory; Genesis Rabbah; YHWH; El; Elohim; Amalek; Nephilim; Sodom and Gomorrah
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Windows Memory Diagnostic; DDR4 RAM; G.Skill; RMA warranty; Amazon Mexico; AM5; Intel Core i7-9700K
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

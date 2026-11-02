@@ -15,7 +15,7 @@
 
 **Index terms:** psychopathy; empathy; Frontiers in Psychology; Harma Meffert; fMRI; empathy switch
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

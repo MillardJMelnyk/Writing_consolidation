@@ -15,7 +15,7 @@
 
 **Index terms:** subincision; Aboriginal Australians; initiation rite; genital modification
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

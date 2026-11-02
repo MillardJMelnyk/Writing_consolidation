@@ -1,6 +1,6 @@
 # All items — B (by title)
 
-[← Catalog home](../README.md) · [All items](README.md)
+[← Catalog home](../Master_catalog.md) · [All items](All_items.md)
 
 65 items
 

@@ -15,7 +15,7 @@
 
 **Index terms:** A great theory sitting on a pile of pigshit; theory of evolution; cascading probability; lottery fallacy; historical science; straw man; Category 2 evidence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

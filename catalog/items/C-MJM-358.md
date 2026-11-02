@@ -15,7 +15,7 @@
 
 **Index terms:** Philippine peso; currency conversion; US dollar; exchange rate
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

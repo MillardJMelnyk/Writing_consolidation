@@ -15,7 +15,7 @@
 
 **Index terms:** Instituto Nacional de Migración; permanent residency; family unity; apostille; birth certificate; Mexico
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

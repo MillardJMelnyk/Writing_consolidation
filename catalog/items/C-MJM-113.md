@@ -15,7 +15,7 @@
 
 **Index terms:** Erich Fromm; psychological oppression; criminalization; authority; social control; conformity
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Language, words and definitions › Greek and Hebrew word studies
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Language, words and definitions](language-words-and-definitions.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Language, words and definitions](language-words-and-definitions.md)
 
 14 items · Sort: [by date](#by-date) · [by title](#by-title)
 

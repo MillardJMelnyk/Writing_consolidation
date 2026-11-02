@@ -15,7 +15,7 @@
 
 **Index terms:** Manor Lords; marketplace stall; storehouse; granary
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

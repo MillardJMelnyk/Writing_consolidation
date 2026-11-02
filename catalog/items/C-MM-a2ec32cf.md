@@ -15,7 +15,7 @@
 
 **Index terms:** trauma bonding; Stockholm syndrome; intermittent reinforcement; Biderman's Chart of Coercion; base effect; DeepStash
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

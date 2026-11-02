@@ -15,7 +15,7 @@
 
 **Index terms:** pip; point; pipette; lot size; quote currency
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

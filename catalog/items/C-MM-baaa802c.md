@@ -15,7 +15,7 @@
 
 **Index terms:** uBlock Origin; uBlock Origin Lite; Microsoft Edge; Mozilla Firefox; Manifest V2
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

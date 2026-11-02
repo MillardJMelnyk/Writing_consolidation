@@ -15,7 +15,7 @@
 
 **Index terms:** IELTS; legal English; B1 level; judicial law clerk; amparo; Ireland
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

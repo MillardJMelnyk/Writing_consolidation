@@ -15,7 +15,7 @@
 
 **Index terms:** necessary evil; addiction to evil; thought-terminating cliché; domination; legalized violence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

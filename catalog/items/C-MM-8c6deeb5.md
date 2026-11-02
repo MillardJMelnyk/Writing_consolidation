@@ -15,7 +15,7 @@
 
 **Index terms:** Payoneer; New York State Department of Financial Services; mass arbitration; Better Business Bureau; Reddit; identity verification
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Visual Studio Code; out of memory; tasklist; PowerShell; batch file
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

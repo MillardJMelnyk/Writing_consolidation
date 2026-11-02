@@ -1,6 +1,6 @@
 # History, colonialism and genocide › Non-hierarchical and indigenous societies
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [History, colonialism and genocide](history-colonialism-and-genocide.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [History, colonialism and genocide](history-colonialism-and-genocide.md)
 
 27 items · Sort: [by date](#by-date) · [by title](#by-title)
 

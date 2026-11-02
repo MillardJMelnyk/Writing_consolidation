@@ -15,7 +15,7 @@
 
 **Index terms:** cult specialist; cultic studies; cult intervention; Millard Melnyk; researcher and investigator
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

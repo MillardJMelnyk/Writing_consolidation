@@ -15,7 +15,7 @@
 
 **Index terms:** superior mirage; Fata Morgana; Kathryn Schulz; Being Wrong; Crocker Land; John Ross; Northwest Passage
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

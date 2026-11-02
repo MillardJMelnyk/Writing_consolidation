@@ -15,7 +15,7 @@
 
 **Index terms:** Bret Weinstein; DarkHorse Podcast; ivermectin; Joe Rogan; COVID-19 vaccine
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

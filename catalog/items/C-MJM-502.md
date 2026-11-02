@@ -15,7 +15,7 @@
 
 **Index terms:** measles vaccine; measles mortality; hospital ownership; CMS; AI hallucination; 1963
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

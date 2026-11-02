@@ -15,7 +15,7 @@
 
 **Index terms:** Path of Exile; socket color; skill gem; white socket
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** motivated reasoning; cognitive dissonance; practicality objection; Leon Festinger; Socratic method; status quo bias
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

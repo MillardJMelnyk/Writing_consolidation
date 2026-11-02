@@ -15,7 +15,7 @@
 
 **Index terms:** Ixtapa; Tropical Storm Vance; National Hurricane Center; hurricane season; dry season
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

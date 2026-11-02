@@ -15,7 +15,7 @@
 
 **Index terms:** Jeremiah 17:9; heart; lev; kardia; born again; the flesh; Paul the Apostle
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

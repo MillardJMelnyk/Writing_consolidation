@@ -15,7 +15,7 @@
 
 **Index terms:** psychological oppression; criminalization; Anthony Bradney; Taking Law Less Seriously; Erich Fromm; Escape from Freedom; panopticism; anarchist legal theory
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** 1918 influenza pandemic; Milton Rosenau; Gallops Island; Angel Island; contagion theory; United States Public Health Service
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

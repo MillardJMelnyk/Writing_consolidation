@@ -15,7 +15,7 @@
 
 **Index terms:** frybread; Native American cuisine; indigenous food
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

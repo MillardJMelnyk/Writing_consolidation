@@ -15,7 +15,7 @@
 
 **Index terms:** dupeGuru; Recycle Bin; folder exclusion; duplicate file
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

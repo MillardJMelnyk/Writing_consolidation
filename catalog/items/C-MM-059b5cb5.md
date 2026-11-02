@@ -15,7 +15,7 @@
 
 **Index terms:** denim; cotton twill; lye; lie
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

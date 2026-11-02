@@ -15,7 +15,7 @@
 
 **Index terms:** Nazi Germany; Zionism; Smith Research Institute; 1933 German federal election; Robert Gellately; Götz Aly; postwar German public opinion
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

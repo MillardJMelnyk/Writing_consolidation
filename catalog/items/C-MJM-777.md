@@ -15,7 +15,7 @@
 
 **Index terms:** Logi MX Master 3S; Logi Options+; Ctrl+F4; Firefox Troubleshoot Mode; autoscroll; Microsoft Edge
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

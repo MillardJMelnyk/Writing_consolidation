@@ -15,7 +15,7 @@
 
 **Index terms:** alcohol in pregnancy; dose-response; safe threshold; epistemics; empirical orientation; ontology
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

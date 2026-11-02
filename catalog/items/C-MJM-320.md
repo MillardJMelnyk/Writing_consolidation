@@ -15,7 +15,7 @@
 
 **Index terms:** forex; partial close; position size; FIFO rule
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

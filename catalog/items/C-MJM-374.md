@@ -15,7 +15,7 @@
 
 **Index terms:** JPN225; Nikkei 225; ZigZag indicator; pivot point; micro contract; index trading
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

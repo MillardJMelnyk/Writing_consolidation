@@ -15,7 +15,7 @@
 
 **Index terms:** vaccinated versus unvaccinated study; Aaron Siri; Nicolas Hulscher; Brian Hooker; Anthony Mawson; Henry Ford study; Japanese vaccine study
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Ben Shapiro; Tucker Carlson; Turning Point USA; deplatforming; Nick Fuentes; Charlie Kirk
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

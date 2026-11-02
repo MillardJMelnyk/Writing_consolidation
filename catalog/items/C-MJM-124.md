@@ -15,7 +15,7 @@
 
 **Index terms:** tafoni; honeycomb weathering; salt weathering; differential weathering; rock formation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

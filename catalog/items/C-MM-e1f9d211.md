@@ -15,7 +15,7 @@
 
 **Index terms:** dual boot; Linux Mint; Fedora; disk partitioning; BIOS; USB boot drive; Fedora Media Writer
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

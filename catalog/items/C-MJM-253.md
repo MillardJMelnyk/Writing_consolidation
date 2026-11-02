@@ -15,7 +15,7 @@
 
 **Index terms:** Armageddon; Gog and Magog; end of days; Ezekiel 38; Al-Malhama al-Kubra; Yajuj and Majuj; eschatology
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Mount McKinley; William McKinley; Chris McCandless; Into the Wild
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

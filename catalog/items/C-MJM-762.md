@@ -15,7 +15,7 @@
 
 **Index terms:** Pennsylvania; pharmaceutical industry; vaccine exemption; slopaganda; Madison Avenue; autocratize; National Conference of State Legislatures; Amish
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

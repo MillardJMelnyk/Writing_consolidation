@@ -15,7 +15,7 @@
 
 **Index terms:** Ashkenazi Jews; Sephardi Jews; Mizrahi Jews; Zionism; Haredi Judaism; South Lebanon; Lebanese Jews
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

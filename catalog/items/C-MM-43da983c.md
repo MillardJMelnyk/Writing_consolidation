@@ -15,7 +15,7 @@
 
 **Index terms:** polio; Andrew Kaufman; lead arsenate; DDT; The Moth and the Iron Lung; virus isolation; Koch's postulates
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

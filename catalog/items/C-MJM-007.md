@@ -15,7 +15,7 @@
 
 **Index terms:** foam backer rod; expanding foam sealant; weatherstripping; insect control; door frame
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

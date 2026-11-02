@@ -15,7 +15,7 @@
 
 **Index terms:** Burned-over district; Whitney R. Cross; American Messiahs; Adam Morris; Mormonism; Oneida Community; Miles Harvey
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

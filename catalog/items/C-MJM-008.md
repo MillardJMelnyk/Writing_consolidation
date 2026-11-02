@@ -15,7 +15,7 @@
 
 **Index terms:** electric scooter; hoverboard; birthday gift; grandson; Razor
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

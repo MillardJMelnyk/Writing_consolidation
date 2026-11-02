@@ -15,7 +15,7 @@
 
 **Index terms:** Miguel Hidalgo y Costilla; Grito de Dolores; Mexican War of Independence; Jardín Zenea; Querétaro; Battle of Calderón Bridge
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** child safety; product label; talisman
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

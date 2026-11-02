@@ -15,7 +15,7 @@
 
 **Index terms:** OCR; tab-delimited text; deduplication; MQL5 include file
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

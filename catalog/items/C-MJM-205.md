@@ -15,7 +15,7 @@
 
 **Index terms:** prompt engineering; infantilism; human rights; United Nations Human Rights Commission; think tank
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

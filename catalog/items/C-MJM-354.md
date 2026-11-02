@@ -15,7 +15,7 @@
 
 **Index terms:** Roman Catholic Church; women as chattel; canon law; patriarchy; children as property
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

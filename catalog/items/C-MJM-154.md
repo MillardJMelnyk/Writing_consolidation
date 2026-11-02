@@ -15,7 +15,7 @@
 
 **Index terms:** truth; fidelity in representation; correspondence theory of truth; actuality; qualia; Colin McGinn; love of reality
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** GoTrax Nova; Gyroor G13; hoverboard; children's toy
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

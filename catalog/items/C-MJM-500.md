@@ -15,7 +15,7 @@
 
 **Index terms:** Leahy Law; Patrick Leahy; military assistance; human rights violation; US State Department
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

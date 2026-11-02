@@ -15,7 +15,7 @@
 
 **Index terms:** MMR vaccine; autism; PubMed; study design; follow-up period; misleading conclusion
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

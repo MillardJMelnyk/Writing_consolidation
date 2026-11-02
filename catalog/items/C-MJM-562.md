@@ -15,7 +15,7 @@
 
 **Index terms:** ZigZag indicator; depth; deviation; backstep; swing pivot
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

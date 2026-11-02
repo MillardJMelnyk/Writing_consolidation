@@ -15,7 +15,7 @@
 
 **Index terms:** WhatsApp; group invite link; messaging app
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

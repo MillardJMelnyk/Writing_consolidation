@@ -15,7 +15,7 @@
 
 **Index terms:** performative argument; Harry Frankfurt; bullshit; signaling; rhetoric
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

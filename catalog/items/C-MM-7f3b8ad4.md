@@ -15,7 +15,7 @@
 
 **Index terms:** security deposit; Centro de Justicia Alternativa; Bufete Jurídico Gratuito UAQ; landlord dispute; Querétaro; mediation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

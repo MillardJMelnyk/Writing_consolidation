@@ -15,7 +15,7 @@
 
 **Index terms:** supremacism; chosenness; anti-Semitism; Zionism; Nazism; Americanism; identity group; Reform Judaism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

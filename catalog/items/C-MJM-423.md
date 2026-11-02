@@ -15,7 +15,7 @@
 
 **Index terms:** Poetiq; ARC-AGI; AI reasoning; kdb+
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

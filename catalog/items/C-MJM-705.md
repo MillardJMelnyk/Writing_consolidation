@@ -15,7 +15,7 @@
 
 **Index terms:** jewelry making kit; Amazon; gift; Xmada; MODDA
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

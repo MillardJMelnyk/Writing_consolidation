@@ -15,7 +15,7 @@
 
 **Index terms:** Homo sapiens; Jebel Irhoud; genetic divergence; human evolution; AI hallucination
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Chevrolet Corvette Stingray; Jaguar E-Type; Buckminster Fuller; Operating Manual for Spaceship Earth; sports car handling
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

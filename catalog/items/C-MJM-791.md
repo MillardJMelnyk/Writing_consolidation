@@ -15,7 +15,7 @@
 
 **Index terms:** Microsoft Word 365; document comparison; Track Changes Options; Microsoft Copilot; Claude Sonnet
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

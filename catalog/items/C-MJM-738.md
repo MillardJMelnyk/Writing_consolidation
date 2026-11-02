@@ -15,7 +15,7 @@
 
 **Index terms:** Hare Psychopathy Checklist-Revised; Robert Hare; Craig Neumann; psychopathy prevalence; gamma distribution
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

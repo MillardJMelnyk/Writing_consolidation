@@ -15,7 +15,7 @@
 
 **Index terms:** Cursor; Claude Haiku 4.5; Claude Sonnet 4; GPT-5.1 Codex; Gemini; LLM pricing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

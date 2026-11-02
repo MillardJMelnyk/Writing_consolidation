@@ -15,7 +15,7 @@
 
 **Index terms:** ruling class; social hierarchy; Mesopotamia; Hassuna culture; minority rule; archaeological evidence; representation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

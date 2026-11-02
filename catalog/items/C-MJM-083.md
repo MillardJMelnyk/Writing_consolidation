@@ -15,7 +15,7 @@
 
 **Index terms:** Niccolò Machiavelli; Arthashastra; Han Feizi; Thomas Hobbes; Carl Schmitt; statecraft
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

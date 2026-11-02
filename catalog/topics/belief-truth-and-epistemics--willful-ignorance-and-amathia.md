@@ -1,6 +1,6 @@
 # Belief, truth and epistemics › Willful ignorance and amathia
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Belief, truth and epistemics](belief-truth-and-epistemics.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Belief, truth and epistemics](belief-truth-and-epistemics.md)
 
 55 items · Sort: [by date](#by-date) · [by title](#by-title)
 

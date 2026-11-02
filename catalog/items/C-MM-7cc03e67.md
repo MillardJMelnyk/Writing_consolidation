@@ -15,7 +15,7 @@
 
 **Index terms:** Big RAG; Pandoc; AnythingLLM; Ollama; PowerShell; OneNote; document indexing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

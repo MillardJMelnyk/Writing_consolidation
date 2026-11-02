@@ -15,7 +15,7 @@
 
 **Index terms:** skyscraper; lateral load; overturning moment; foundation; earthquake; hurricane wind
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

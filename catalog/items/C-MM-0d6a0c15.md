@@ -15,7 +15,7 @@
 
 **Index terms:** Job W. Price; SEAL Team 4; Cubbler; Kevin Ebbert; Tucker Carlson; Afghanistan
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

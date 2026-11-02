@@ -15,7 +15,7 @@
 
 **Index terms:** Dahiya doctrine; Gadi Eisenkot; Dahieh; 2006 Lebanon War; Goldstone Report
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

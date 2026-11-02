@@ -15,7 +15,7 @@
 
 **Index terms:** rough sex; female sexuality; submission; Roy Baumeister; masochism; excitation transfer
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Fred Hampton; Black Panther Party; COINTELPRO; Federal Bureau of Investigation; William O'Neal; Edward Hanrahan; Deborah Johnson; Fred Hampton Jr.
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

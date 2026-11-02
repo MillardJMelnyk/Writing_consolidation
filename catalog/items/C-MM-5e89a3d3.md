@@ -15,7 +15,7 @@
 
 **Index terms:** international dialing; US country code; Mexico landline
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

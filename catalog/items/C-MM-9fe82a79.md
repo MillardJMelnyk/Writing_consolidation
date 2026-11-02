@@ -15,7 +15,7 @@
 
 **Index terms:** water bill; cuota base; consumo promedio; saneamiento; Mexico
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

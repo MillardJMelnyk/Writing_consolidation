@@ -15,7 +15,7 @@
 
 **Index terms:** public official; policymaker; the authorities
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

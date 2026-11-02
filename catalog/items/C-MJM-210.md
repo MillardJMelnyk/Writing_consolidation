@@ -15,7 +15,7 @@
 
 **Index terms:** subject-verb agreement; hifalutin; redundancy; Kobe beef; wagyu; female judge; Canada
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

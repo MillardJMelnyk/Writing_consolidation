@@ -15,7 +15,7 @@
 
 **Index terms:** first strike; preemptive strike; first-mover advantage; initiative; cede; military doctrine
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Claude subscription; annual billing; monthly billing; Anthropic support
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

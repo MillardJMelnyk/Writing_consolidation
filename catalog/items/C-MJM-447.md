@@ -15,7 +15,7 @@
 
 **Index terms:** curling up in a ball; fetal position; idiom
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

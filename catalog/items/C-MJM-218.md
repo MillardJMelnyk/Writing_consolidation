@@ -15,7 +15,7 @@
 
 **Index terms:** KBC void; Local Void; Hubble tension; Milky Way; cosmic void; Brent Tully
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

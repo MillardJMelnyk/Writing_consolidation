@@ -15,7 +15,7 @@
 
 **Index terms:** Pepperstone; MetaTrader 5; mobile trading app; demo account; MetaQuotes
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

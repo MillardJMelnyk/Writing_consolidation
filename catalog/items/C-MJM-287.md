@@ -15,7 +15,7 @@
 
 **Index terms:** ground rules; conversation memory; Claude
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

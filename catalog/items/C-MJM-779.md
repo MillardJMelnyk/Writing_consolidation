@@ -15,7 +15,7 @@
 
 **Index terms:** Law of Return; Israel; safe haven; extradition; sex offender; pedantry
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

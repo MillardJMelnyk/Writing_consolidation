@@ -15,7 +15,7 @@
 
 **Index terms:** despise; despite; contempt; spite; archaism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

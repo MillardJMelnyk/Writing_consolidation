@@ -15,7 +15,7 @@
 
 **Index terms:** HDMI; Vizio; display output; no signal
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

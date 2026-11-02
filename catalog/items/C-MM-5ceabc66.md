@@ -15,7 +15,7 @@
 
 **Index terms:** Jacinda Ardern; Barry Young; CARM; Pfizer; excess deaths; New Zealand
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

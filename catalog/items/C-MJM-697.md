@@ -15,7 +15,7 @@
 
 **Index terms:** software development contract; translation; Mexican peso; currency conversion; payment schedule
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

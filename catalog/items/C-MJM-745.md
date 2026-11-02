@@ -15,7 +15,7 @@
 
 **Index terms:** Gmail; search operator; Mercado Libre; Telmex; bulk delete
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** backup; file exclusion list; Windows folders; whitelist; file comparison
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

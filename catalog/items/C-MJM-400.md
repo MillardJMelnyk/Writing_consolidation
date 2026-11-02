@@ -15,7 +15,7 @@
 
 **Index terms:** Christianity; Islam; honor killing; infanticide; Crusades; male circumcision; Christmas tree; paganism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

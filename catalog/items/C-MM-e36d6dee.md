@@ -15,7 +15,7 @@
 
 **Index terms:** Reuters Fact Check; fact-checking; base rate fallacy; sophistry; gaslighting; motivated reasoning
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Studebaker Hawk; Golden Hawk; Raymond Loewy; Studebaker; V8 engine
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

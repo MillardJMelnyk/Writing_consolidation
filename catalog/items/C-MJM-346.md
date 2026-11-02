@@ -15,7 +15,7 @@
 
 **Index terms:** Spikevax; European Medicines Agency; periodic safety update report; AI deception; Fin support bot
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

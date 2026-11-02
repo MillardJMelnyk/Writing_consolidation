@@ -15,7 +15,7 @@
 
 **Index terms:** Williamsburg Modern Lit Book Club; book club scam; author scam; Meetup; Gmail
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

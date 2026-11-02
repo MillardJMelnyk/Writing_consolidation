@@ -15,7 +15,7 @@
 
 **Index terms:** Gaza Tribunal; Richard Falk; Russell Tribunal; people's tribunal; Istanbul; genocide
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

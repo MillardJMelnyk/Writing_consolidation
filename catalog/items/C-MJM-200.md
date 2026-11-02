@@ -15,7 +15,7 @@
 
 **Index terms:** human rights; stipulation; category error; moral realism; normative rule; blizurf
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

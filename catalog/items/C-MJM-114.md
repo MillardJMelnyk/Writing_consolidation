@@ -15,7 +15,7 @@
 
 **Index terms:** Internet Archive; print disability; digital library; HathiTrust; Project Gutenberg; Open Library
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

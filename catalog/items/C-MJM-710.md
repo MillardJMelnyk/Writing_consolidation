@@ -15,7 +15,7 @@
 
 **Index terms:** DBSCAN; HDBSCAN; hierarchical clustering; tick chart; normalization; gold price
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

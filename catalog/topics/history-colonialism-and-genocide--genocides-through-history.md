@@ -1,6 +1,6 @@
 # History, colonialism and genocide › Genocides through history
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [History, colonialism and genocide](history-colonialism-and-genocide.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [History, colonialism and genocide](history-colonialism-and-genocide.md)
 
 23 items · Sort: [by date](#by-date) · [by title](#by-title)
 

@@ -15,7 +15,7 @@
 
 **Index terms:** PDF annotation; Adobe Acrobat; Google Drive; PyMuPDF; comment export
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** DDR4 RAM; ASUS PRIME Z390-A; Intel Core i7-9700K; Cyberpuerta; Mercado Libre; Gemini; facturación
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

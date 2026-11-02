@@ -1,6 +1,6 @@
 # Science, nature and the cosmos › History of physics and scientists
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Science, nature and the cosmos](science-nature-and-the-cosmos.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Science, nature and the cosmos](science-nature-and-the-cosmos.md)
 
 1 items · Sort: [by date](#by-date) · [by title](#by-title)
 

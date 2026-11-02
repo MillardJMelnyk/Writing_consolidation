@@ -15,7 +15,7 @@
 
 **Index terms:** Gaza genocide; The Lancet; Gaza Ministry of Health; mortality estimation; Babi Yar; Einsatzgruppe C; Kyiv
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

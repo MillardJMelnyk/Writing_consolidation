@@ -15,7 +15,7 @@
 
 **Index terms:** topes; amortiguadores; cabinet bumper; Spanish translation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

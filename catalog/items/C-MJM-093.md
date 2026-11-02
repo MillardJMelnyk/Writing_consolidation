@@ -15,7 +15,7 @@
 
 **Index terms:** classist T-hatred; MAGA; Joe Biden; Marco Polo report
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

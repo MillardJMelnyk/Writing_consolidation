@@ -15,7 +15,7 @@
 
 **Index terms:** MAGA; The Resistance; Democratic Party; political tribalism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

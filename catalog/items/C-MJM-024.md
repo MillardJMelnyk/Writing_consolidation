@@ -15,7 +15,7 @@
 
 **Index terms:** certainty; experiential artifact; faith; embodied wisdom; humanness; belligerent honesty; verification problem
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

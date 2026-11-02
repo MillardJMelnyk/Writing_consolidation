@@ -15,7 +15,7 @@
 
 **Index terms:** H. G. Wells; new world order; world social democracy; supremacism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

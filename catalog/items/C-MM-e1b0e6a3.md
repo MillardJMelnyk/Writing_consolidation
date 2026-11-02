@@ -15,7 +15,7 @@
 
 **Index terms:** Noam Chomsky; Gaza; apartheid; Operation Protective Edge; Democracy Now!
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

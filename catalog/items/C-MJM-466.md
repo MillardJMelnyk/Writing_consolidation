@@ -15,7 +15,7 @@
 
 **Index terms:** Rohingya genocide; Myanmar; Bangladesh; International Court of Justice; refugee camp
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

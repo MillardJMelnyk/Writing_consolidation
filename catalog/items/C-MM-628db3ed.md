@@ -15,7 +15,7 @@
 
 **Index terms:** Path of Exile; Divine Orb; Orb of Alteration; unique item; magic item
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

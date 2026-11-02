@@ -15,7 +15,7 @@
 
 **Index terms:** Jerusalem Post; Channel 14; MintPress News; Middle East Eye; ethnic cleansing; Gaza
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Active Denial System; directed-energy weapon; skin burn; Vivek Ramaswamy; Amy Acton; Ohio gubernatorial election
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

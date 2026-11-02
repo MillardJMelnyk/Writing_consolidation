@@ -15,7 +15,7 @@
 
 **Index terms:** Duna Language; business address; rental application form
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

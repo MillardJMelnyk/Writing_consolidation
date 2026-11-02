@@ -15,7 +15,7 @@
 
 **Index terms:** livestock judge; head of cattle; beef cattle; collective noun
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

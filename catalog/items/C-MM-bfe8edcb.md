@@ -15,7 +15,7 @@
 
 **Index terms:** YouTube; LoneStar Dance Crew; channel termination appeal; Google account recovery; Annielle Vera Melnyk
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

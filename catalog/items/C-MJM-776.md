@@ -15,7 +15,7 @@
 
 **Index terms:** European colonialism; Christianity; Crusades; Portuguese capture of Ceuta; Christopher Columbus; gaslighting; mainstream narrative
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

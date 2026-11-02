@@ -15,7 +15,7 @@
 
 **Index terms:** nonsense word; blurf; Urban Dictionary; slang; neologism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** human violence rate; Paleolithic; warfare death toll; confidence rating; Gemini
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

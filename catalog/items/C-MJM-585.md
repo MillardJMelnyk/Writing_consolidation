@@ -15,7 +15,7 @@
 
 **Index terms:** Upwork; freelance profile; web development; Shopify; Laravel; Vue.js
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

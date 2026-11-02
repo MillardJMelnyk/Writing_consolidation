@@ -15,7 +15,7 @@
 
 **Index terms:** stateless society; ruling class; anarchy; AI bias; status quo propaganda
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

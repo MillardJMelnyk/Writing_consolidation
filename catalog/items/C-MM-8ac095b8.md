@@ -15,7 +15,7 @@
 
 **Index terms:** projector; Mercado Libre; ANSI lumen; 8K claim; Canon; 220 volt
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

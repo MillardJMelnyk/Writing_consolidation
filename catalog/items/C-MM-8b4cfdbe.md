@@ -15,7 +15,7 @@
 
 **Index terms:** Ixtapa; Krystal Ixtapa; resort day pass; Casa Ixtapa; Gamma Plaza Ixtapa; Hotel Fontan Ixtapa; Tesoro Ixtapa
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

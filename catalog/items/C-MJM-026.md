@@ -15,7 +15,7 @@
 
 **Index terms:** Audacity; stereo to mono; keyboard shortcut; audio editing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

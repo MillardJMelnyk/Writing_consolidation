@@ -15,7 +15,7 @@
 
 **Index terms:** cultist; Margaret Singer; Steven Hassan; American Psychological Association; undue influence; thought reform
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

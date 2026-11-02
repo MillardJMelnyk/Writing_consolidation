@@ -15,7 +15,7 @@
 
 **Index terms:** Windows 11; BIOS; EFI system partition; Media Creation Tool; OneDrive; diskpart; dual boot
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

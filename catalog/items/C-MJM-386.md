@@ -15,7 +15,7 @@
 
 **Index terms:** major depressive disorder; persistent depressive disorder; sertraline; depression prevalence; male depression stigma; encephalitis; Grok
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

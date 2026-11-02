@@ -15,7 +15,7 @@
 
 **Index terms:** Palestinian people; antisemitism; Zionism; Ottoman Palestine; Hamas 2017 charter; Nakba; Anti-Defamation League
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

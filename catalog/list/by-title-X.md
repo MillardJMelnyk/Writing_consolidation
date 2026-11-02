@@ -1,6 +1,6 @@
 # All items — X (by title)
 
-[← Catalog home](../README.md) · [All items](README.md)
+[← Catalog home](../Master_catalog.md) · [All items](All_items.md)
 
 2 items
 

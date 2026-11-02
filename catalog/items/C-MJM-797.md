@@ -15,7 +15,7 @@
 
 **Index terms:** airline; vaccinated passenger ban; IATA; Lead Stories; Full Fact; pilot death
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** futilism; cosplay; Death Star; Luke Skywalker; good faith; conspiracy theory; megalo class; noncompliance
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

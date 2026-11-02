@@ -15,7 +15,7 @@
 
 **Index terms:** Magna Carta; Code of Hammurabi; English Bill of Rights; United States Constitution; Petition of Right; Twelve Tables
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

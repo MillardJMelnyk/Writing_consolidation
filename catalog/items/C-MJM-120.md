@@ -15,7 +15,7 @@
 
 **Index terms:** AnythingLLM; LM Studio; Phi-4; Llama 3.2; Phi-3.5-mini; semantic search; document embedding
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

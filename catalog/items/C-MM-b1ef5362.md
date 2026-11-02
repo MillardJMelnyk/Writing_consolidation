@@ -15,7 +15,7 @@
 
 **Index terms:** OneNote; Microsoft Store; free software
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

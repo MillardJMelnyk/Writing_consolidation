@@ -1,6 +1,6 @@
 # Writing, Substack and publishing › Link-only shares
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Writing, Substack and publishing](writing-substack-and-publishing.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Writing, Substack and publishing](writing-substack-and-publishing.md)
 
 27 items · Sort: [by date](#by-date) · [by title](#by-title)
 

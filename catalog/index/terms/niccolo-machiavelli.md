@@ -1,6 +1,6 @@
 # Niccolò Machiavelli
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [N](../N.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [N](../N.md)
 
 2 items · Sort: [by date](#by-date) · [by title](#by-title)
 

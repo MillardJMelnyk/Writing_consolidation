@@ -15,7 +15,7 @@
 
 **Index terms:** lease agreement; pena convencional; contract amendment; Querétaro; ChatGPT
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** ignorance; willful ignorance; motivated ignorance; ignorare; etymology
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** domination; human nature; Neolithic Revolution; archaeology; Caitlin Johnstone; How Power Learned To Hide In Plain Sight; Homo genus
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

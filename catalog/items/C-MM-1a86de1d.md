@@ -15,7 +15,7 @@
 
 **Index terms:** póliza jurídica; depósito en garantía; apartado; security deposit; Querétaro
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** scaredy-cat; fear-mongering; Little Boy; Fat Man; Hiroshima; Nagasaki
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

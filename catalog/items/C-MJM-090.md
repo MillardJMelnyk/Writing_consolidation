@@ -15,7 +15,7 @@
 
 **Index terms:** theocracy; Vatican City; Iran; Saudi Arabia; established church
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

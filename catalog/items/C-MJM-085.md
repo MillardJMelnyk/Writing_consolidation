@@ -15,7 +15,7 @@
 
 **Index terms:** theory of mind; knowledge production; apologetics; rulemaking; epistemic poverty
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

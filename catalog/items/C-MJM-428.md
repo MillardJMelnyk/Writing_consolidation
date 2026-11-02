@@ -15,7 +15,7 @@
 
 **Index terms:** claude.ai; chat search; conversation_search; user interface; Anthropic
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** paradigm; mental architecture; reality tunnel; Robert Anton Wilson; supremacism; peerness; worldview
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

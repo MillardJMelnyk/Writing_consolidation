@@ -15,7 +15,7 @@
 
 **Index terms:** embodied wisdom; theory-first indoctrination; phenomenology; mutually exclusive modes; Claude Opus
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

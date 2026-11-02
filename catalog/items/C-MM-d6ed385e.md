@@ -15,7 +15,7 @@
 
 **Index terms:** prune; prune juice; constipation; sorbitol; dietary fiber
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** sacrifice; service; glory; sanctify; valorize; militarism; religious language
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** authoritarianism; cultism; insularizing; ringfencing; idiosyncing; domain
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

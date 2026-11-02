@@ -15,7 +15,7 @@
 
 **Index terms:** selfie; sex difference; social media; sensuality; evolutionary psychology; mate attraction
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

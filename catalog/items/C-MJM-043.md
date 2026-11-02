@@ -15,7 +15,7 @@
 
 **Index terms:** mRNA vaccine; all-cause mortality; Florida; Norway; medRxiv; Pfizer-BioNTech; Moderna
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

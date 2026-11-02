@@ -15,7 +15,7 @@
 
 **Index terms:** paperback trim size; sans-serif font; Arial; PT Sans; Google Fonts; book fold; Windows 11
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** human cell; natural selection; probability; cell differentiation; Claude Sonnet; Claude Opus
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** boxing; right cross; footwork; hip rotation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

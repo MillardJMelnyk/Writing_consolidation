@@ -15,7 +15,7 @@
 
 **Index terms:** authoritarianism; rule of law; ruling class; Bolshevik Revolution; Chiang Kai-shek; Mao Zedong; Chinese Civil War; Iran
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Aaron Siri; Ron Johnson; Senate hearing; placebo-controlled trial; childhood vaccine schedule; Jake Scott
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

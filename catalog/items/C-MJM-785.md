@@ -15,7 +15,7 @@
 
 **Index terms:** Microsoft Edge; Gmail; cookie; Storage Sense; Fast Startup; sleep mode
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

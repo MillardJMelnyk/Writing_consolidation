@@ -15,7 +15,7 @@
 
 **Index terms:** Death vigil must end; share-first economics; Charles Eisenstein; Foster Gamble; Nora Bateson; Grace Blakeley; Vulture Capitalism; outreach letter
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

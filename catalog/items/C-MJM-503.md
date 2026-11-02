@@ -15,7 +15,7 @@
 
 **Index terms:** religious conquest; colonization of the Americas; Crusades; Reconquista; Early Islamic conquests; Thirty Years' War; Spanish conquest of the Aztec Empire
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

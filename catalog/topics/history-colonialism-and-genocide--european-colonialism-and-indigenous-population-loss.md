@@ -1,6 +1,6 @@
 # History, colonialism and genocide › European colonialism and indigenous population loss
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [History, colonialism and genocide](history-colonialism-and-genocide.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [History, colonialism and genocide](history-colonialism-and-genocide.md)
 
 30 items · Sort: [by date](#by-date) · [by title](#by-title)
 

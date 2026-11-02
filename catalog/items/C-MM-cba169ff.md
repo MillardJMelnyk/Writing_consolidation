@@ -15,7 +15,7 @@
 
 **Index terms:** strawberry; seed germination; cold stratification; paper towel method; tomato
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

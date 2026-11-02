@@ -15,7 +15,7 @@
 
 **Index terms:** Edward Said; Orientalism; willful ignorance; Columbia University; Palestinian National Council
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

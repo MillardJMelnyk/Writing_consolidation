@@ -15,7 +15,7 @@
 
 **Index terms:** Thomas Massie; Ed Gallrein; Kentucky's 4th congressional district; Republican primary; Epstein files bill; Forbes
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

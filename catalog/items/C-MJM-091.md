@@ -15,7 +15,7 @@
 
 **Index terms:** authority; legitimate authority; benevolent; beneficent; arsenic; atrocity
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

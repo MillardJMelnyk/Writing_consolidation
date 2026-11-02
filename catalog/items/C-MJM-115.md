@@ -15,7 +15,7 @@
 
 **Index terms:** Erich Fromm; On Disobedience; HarperCollins; citation; Harper Perennial Modern Thought
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

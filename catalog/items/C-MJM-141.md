@@ -15,7 +15,7 @@
 
 **Index terms:** sovereign; sovereignty; monarch; self-government; sovereign state
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

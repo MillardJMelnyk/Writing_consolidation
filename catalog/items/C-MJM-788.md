@@ -15,7 +15,7 @@
 
 **Index terms:** Disha Patani; Krishna Shroff; Tiger Shroff; Jackie Shroff; Bollywood; MMA Matrix
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

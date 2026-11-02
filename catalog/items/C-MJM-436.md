@@ -15,7 +15,7 @@
 
 **Index terms:** epistemic work; embodied wisdom; Cook and Brown; epistemology of possession; tacit knowledge; knowing and doing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

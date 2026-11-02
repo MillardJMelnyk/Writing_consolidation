@@ -15,7 +15,7 @@
 
 **Index terms:** Ayn Rand; Capitalism: The Unknown Ideal; retaliatory force; Objectivism; state
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

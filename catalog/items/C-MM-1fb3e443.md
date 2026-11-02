@@ -15,7 +15,7 @@
 
 **Index terms:** National Institutes of Health; Division of Research Grants; study section; site visit; genetics research
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

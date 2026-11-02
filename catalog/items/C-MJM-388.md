@@ -15,7 +15,7 @@
 
 **Index terms:** Mexican address format; Corregidora; Querétaro; fraccionamiento; código postal
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

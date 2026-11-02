@@ -15,7 +15,7 @@
 
 **Index terms:** gigabyte; kilobyte; dupeGuru; reference file; folder priority
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

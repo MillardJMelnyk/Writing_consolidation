@@ -15,7 +15,7 @@
 
 **Index terms:** Anthony Fauci; Fauci diary; social distancing; six-foot rule; Rand Paul; congressional testimony
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

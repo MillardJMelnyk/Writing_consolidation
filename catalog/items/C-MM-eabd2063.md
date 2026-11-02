@@ -15,7 +15,7 @@
 
 **Index terms:** Ammon Hillman; Garden of Gethsemane; Mark 14:51-52; neaniskos; Secret Gospel of Mark; Morton Smith; Clement of Alexandria
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

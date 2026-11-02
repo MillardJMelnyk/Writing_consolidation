@@ -15,7 +15,7 @@
 
 **Index terms:** Sven Co-op; crystal map; firewall puzzle; cooperative play
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

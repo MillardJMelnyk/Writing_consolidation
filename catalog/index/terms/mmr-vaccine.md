@@ -1,6 +1,6 @@
 # MMR vaccine
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [M](../M.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [M](../M.md)
 
 4 items · Sort: [by date](#by-date) · [by title](#by-title)
 

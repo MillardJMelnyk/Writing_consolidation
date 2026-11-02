@@ -15,7 +15,7 @@
 
 **Index terms:** sensorimotor integration; physical interaction; feedback loop; perception-action loop
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

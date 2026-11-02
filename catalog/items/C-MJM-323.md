@@ -15,7 +15,7 @@
 
 **Index terms:** Microsoft Word; emoji; Segoe UI Emoji; character formatting
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Everything (search tool); subfolder search; FreeFileSync; file filter; file extension
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

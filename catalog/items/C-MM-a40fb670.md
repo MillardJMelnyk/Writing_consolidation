@@ -15,7 +15,7 @@
 
 **Index terms:** snoring; mandibular advancement device; tongue-retaining device; SO DENT Querétaro; Candiles; Airwaav RX1
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

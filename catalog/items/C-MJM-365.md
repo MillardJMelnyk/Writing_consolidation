@@ -15,7 +15,7 @@
 
 **Index terms:** ownership; universal deprivation; share-first principle; gift economy; Jacque Fresco; Charles Eisenstein; the commons; Our treasured death vigil must end
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

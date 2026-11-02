@@ -15,7 +15,7 @@
 
 **Index terms:** Chinese adoption; child trafficking; The New Yorker; David Ben-Gurion; Tom Segev; Internet Archive
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

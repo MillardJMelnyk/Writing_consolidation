@@ -15,7 +15,7 @@
 
 **Index terms:** GPT-5.2; Gemini 3 Pro; Claude; LMArena; AI benchmark; Google
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

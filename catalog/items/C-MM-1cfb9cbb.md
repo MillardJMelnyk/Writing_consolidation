@@ -15,7 +15,7 @@
 
 **Index terms:** Osiris; open-source intelligence; GitHub; Palantir; pump.fun; Solana
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

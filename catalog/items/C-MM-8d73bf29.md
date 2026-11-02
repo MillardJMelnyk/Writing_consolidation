@@ -15,7 +15,7 @@
 
 **Index terms:** Chris Hedges; Cornel West; Jill Stein; 2024 United States presidential election
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

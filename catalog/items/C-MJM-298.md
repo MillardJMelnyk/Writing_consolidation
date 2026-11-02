@@ -15,7 +15,7 @@
 
 **Index terms:** image generation; brain implant; radiation detector; cybernetics
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

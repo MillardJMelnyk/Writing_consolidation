@@ -15,7 +15,7 @@
 
 **Index terms:** Venezuela; Donald Trump; Kim Iversen; oil nationalization; PDVSA; drug boat strike; double-tap strike
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

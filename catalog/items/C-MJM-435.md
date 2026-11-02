@@ -15,7 +15,7 @@
 
 **Index terms:** arsenic; brown rice; white rice; barley; lentils; Japanese diet; Mexico
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

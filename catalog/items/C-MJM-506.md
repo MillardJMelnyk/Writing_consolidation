@@ -15,7 +15,7 @@
 
 **Index terms:** US Supreme Court; Dred Scott v. Sandford; Prigg v. Pennsylvania; Roger Taney; Fugitive Slave Act; slavery
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

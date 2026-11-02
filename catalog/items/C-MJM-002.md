@@ -15,7 +15,7 @@
 
 **Index terms:** AI takeover; artificial general intelligence; consensus governance; abolition of law; mutual aid; distributed expertise
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

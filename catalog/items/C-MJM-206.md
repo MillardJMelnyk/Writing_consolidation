@@ -15,7 +15,7 @@
 
 **Index terms:** infantilism; United Nations Human Rights Commission; bewildered herd; useless eater; human rights
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

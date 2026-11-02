@@ -15,7 +15,7 @@
 
 **Index terms:** Meta; Take a Break feature; Instagram; DeepSeek; James Meehan
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

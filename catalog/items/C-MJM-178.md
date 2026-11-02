@@ -15,7 +15,7 @@
 
 **Index terms:** YHWH; Hashem; Adonai; Tetragrammaton; God the Father; Trinity
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

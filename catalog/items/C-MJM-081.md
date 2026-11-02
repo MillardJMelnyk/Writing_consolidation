@@ -15,7 +15,7 @@
 
 **Index terms:** empire; dynasty; Ancient Egypt; Imperial Japan; Byzantine Empire; Ottoman Empire
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

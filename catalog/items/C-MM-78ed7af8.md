@@ -15,7 +15,7 @@
 
 **Index terms:** Andrew Melnyk; forgiveness; victim/perpetrator perspective; Facebook comment thread; land affordability; Seattle
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

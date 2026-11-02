@@ -15,7 +15,7 @@
 
 **Index terms:** pattern knowledge base; level of abstraction; entity relationship diagram; technical analysis; backtesting; pattern of patterns
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

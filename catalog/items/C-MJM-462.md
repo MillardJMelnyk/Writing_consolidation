@@ -15,7 +15,7 @@
 
 **Index terms:** Friedrich von Hayek; The Road to Serfdom; Austrian School; spontaneous order; central planning
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

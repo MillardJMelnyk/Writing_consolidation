@@ -15,7 +15,7 @@
 
 **Index terms:** trauma bonding; Stockholm syndrome; Patty Hearst; Lenore Walker; diabetic complications; NXIVM
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

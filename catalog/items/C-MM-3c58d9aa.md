@@ -15,7 +15,7 @@
 
 **Index terms:** Arab slave trade; Atlantic slave trade; Google Gemini; slave mortality; castration
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

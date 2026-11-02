@@ -15,7 +15,7 @@
 
 **Index terms:** valerian root; pregnancy; herbal supplement; uterotonic
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

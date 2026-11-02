@@ -15,7 +15,7 @@
 
 **Index terms:** worksheet; Google Docs; word partnership; ESL exercise
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

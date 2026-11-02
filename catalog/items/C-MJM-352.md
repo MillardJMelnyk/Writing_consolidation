@@ -15,7 +15,7 @@
 
 **Index terms:** Global Vaccine Data Network; Faksova study; myocarditis; acute disseminated encephalomyelitis; observed-versus-expected ratio; COVID-19 vaccine; meta-analysis
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

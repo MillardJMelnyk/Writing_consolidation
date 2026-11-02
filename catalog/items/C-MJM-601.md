@@ -15,7 +15,7 @@
 
 **Index terms:** Uruguay; Paraguay; Panama; Ecuador; residency; cost of living; Tequisquiapan; apostille
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

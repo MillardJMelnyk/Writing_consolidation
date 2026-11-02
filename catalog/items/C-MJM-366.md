@@ -15,7 +15,7 @@
 
 **Index terms:** Flixtor; streaming piracy; Mexican copyright law; Mexican Institute of Industrial Property; subscription aggregator; AI refusal
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

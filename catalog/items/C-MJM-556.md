@@ -15,7 +15,7 @@
 
 **Index terms:** Pepperstone; Razor account; spread; commission; MetaEditor; MetaTrader 5
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

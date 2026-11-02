@@ -15,7 +15,7 @@
 
 **Index terms:** electrician apprenticeship; journeyman license; National Electrical Code; Mike Holt; NFPA 70; CONOCER; solar power
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

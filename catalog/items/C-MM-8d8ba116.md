@@ -15,7 +15,7 @@
 
 **Index terms:** Pomeranian; dog cone; Elizabethan collar
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

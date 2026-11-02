@@ -15,7 +15,7 @@
 
 **Index terms:** Kindle for PC; mbpV2 file; Send to Kindle; PDF annotation; Michael Huemer; OneDrive
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

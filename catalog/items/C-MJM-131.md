@@ -15,7 +15,7 @@
 
 **Index terms:** calcium deposit; toilet bowl; pumice stone; white vinegar; CLR
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

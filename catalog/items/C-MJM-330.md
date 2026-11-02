@@ -15,7 +15,7 @@
 
 **Index terms:** Jillian Michaels; Ana Kasparian; Her Take; Nakba; Zionism; First Zionist Congress; genocide
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

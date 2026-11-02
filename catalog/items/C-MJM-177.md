@@ -15,7 +15,7 @@
 
 **Index terms:** humanness; codependence; moral courage; empathy; James Gilligan; shame; violence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

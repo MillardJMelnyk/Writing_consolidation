@@ -15,7 +15,7 @@
 
 **Index terms:** authority; competence; content-independence; straw man; consensus decision-making; Ju/'hoansi; worker cooperative
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

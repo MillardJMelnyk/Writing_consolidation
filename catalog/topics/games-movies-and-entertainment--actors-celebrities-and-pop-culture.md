@@ -1,6 +1,6 @@
 # Games, movies and entertainment › Actors, celebrities and pop culture
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Games, movies and entertainment](games-movies-and-entertainment.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Games, movies and entertainment](games-movies-and-entertainment.md)
 
 13 items · Sort: [by date](#by-date) · [by title](#by-title)
 

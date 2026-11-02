@@ -15,7 +15,7 @@
 
 **Index terms:** Marc Castro; Mark A. Castro; Chrysler Museum of Art; boxing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

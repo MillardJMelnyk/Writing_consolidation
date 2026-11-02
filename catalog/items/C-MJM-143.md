@@ -15,7 +15,7 @@
 
 **Index terms:** Will Smith; Chris Rock; Academy Awards; Academy of Motion Picture Arts and Sciences; staged event
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

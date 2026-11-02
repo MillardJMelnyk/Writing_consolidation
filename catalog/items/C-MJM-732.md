@@ -15,7 +15,7 @@
 
 **Index terms:** Recycle Bin; rd command; OneNote backup; qss file; AppData
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

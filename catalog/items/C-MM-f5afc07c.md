@@ -15,7 +15,7 @@
 
 **Index terms:** babushka; headscarf; Slavic culture; babcia; Ukrainian language
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

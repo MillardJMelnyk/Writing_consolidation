@@ -15,7 +15,7 @@
 
 **Index terms:** Exness; Fusion Markets; Pepperstone; Trustpilot; Forex Peace Army; cTrader; C#; Python
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

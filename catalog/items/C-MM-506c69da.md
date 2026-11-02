@@ -15,7 +15,7 @@
 
 **Index terms:** Operation Economic Outcast; Iran sanctions; Iranian rial; Strait of Hormuz; gold price; US dollar index; Federal Reserve
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

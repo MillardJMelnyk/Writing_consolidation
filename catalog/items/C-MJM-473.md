@@ -15,7 +15,7 @@
 
 **Index terms:** measles mortality; measles vaccine; United States; vital statistics; comorbidity
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

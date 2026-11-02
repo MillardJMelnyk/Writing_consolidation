@@ -15,7 +15,7 @@
 
 **Index terms:** Henry David Thoreau; civil disobedience; Martin Luther King Jr.; Underground Railroad; poll tax
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

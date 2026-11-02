@@ -15,7 +15,7 @@
 
 **Index terms:** toilet bowl cleaner; product instructions; Spanish-English translation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

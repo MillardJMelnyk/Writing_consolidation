@@ -15,7 +15,7 @@
 
 **Index terms:** codependence; solity; Robert Jay Lifton; Central Intelligence Agency; Jonestown; subjective enrichment; faith
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

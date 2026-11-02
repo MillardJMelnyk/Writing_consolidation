@@ -15,7 +15,7 @@
 
 **Index terms:** pattern recognition; ZigZag indicator; convolutional neural network; technical indicator; time series; shape grammar; hill-and-vale pattern
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** blind faith; knowledge; experiential learning; historical knowledge; proof
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

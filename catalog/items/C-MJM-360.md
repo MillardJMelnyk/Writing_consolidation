@@ -15,7 +15,7 @@
 
 **Index terms:** reloveution.org; Zoho Mail; Cloudflare Email Routing; custom domain email; MX record
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

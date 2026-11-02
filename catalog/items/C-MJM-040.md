@@ -15,7 +15,7 @@
 
 **Index terms:** Joe Walsh; facial recognition; Eagles
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

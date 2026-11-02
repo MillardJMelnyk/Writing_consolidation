@@ -15,7 +15,7 @@
 
 **Index terms:** Carmeli Brigade; 22nd Battalion; Netzarim; Gaza; subtitle burn-in; H.264; video encoding
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

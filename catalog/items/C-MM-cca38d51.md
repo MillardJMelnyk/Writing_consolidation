@@ -15,7 +15,7 @@
 
 **Index terms:** manuscript; PDF upload; file upload; Word document
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

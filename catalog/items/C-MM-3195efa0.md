@@ -15,7 +15,7 @@
 
 **Index terms:** Irgun; Haganah; Deir Yassin massacre; B'Tselem; UN OCHA; Palestinian casualties; ChatGPT
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

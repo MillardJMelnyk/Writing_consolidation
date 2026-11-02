@@ -15,7 +15,7 @@
 
 **Index terms:** vaccine harm; counterfactual modeling; inferred causality; smallpox; polio; vaccine benefit
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

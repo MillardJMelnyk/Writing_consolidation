@@ -15,7 +15,7 @@
 
 **Index terms:** contact list; Charles Eisenstein; Nora Bateson; Michel Bauwens; David Bollier; Silvia Federici; Memory #4
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

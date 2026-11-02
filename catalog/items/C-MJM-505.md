@@ -15,7 +15,7 @@
 
 **Index terms:** Kary Mullis; PCR test; HIV/AIDS; diagnostic testing; Santa Monica
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

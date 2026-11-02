@@ -15,7 +15,7 @@
 
 **Index terms:** population health ranking; obesity; psychotropic medication; Bloomberg Global Health Index; childhood obesity; ESPAD
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

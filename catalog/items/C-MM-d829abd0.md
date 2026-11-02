@@ -15,7 +15,7 @@
 
 **Index terms:** antisemitism; hypothesis testing; AI censorship; prejudgment
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

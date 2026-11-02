@@ -15,7 +15,7 @@
 
 **Index terms:** ad hominem; informal fallacy; mental imagery; visualization; athletic performance; effect size
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

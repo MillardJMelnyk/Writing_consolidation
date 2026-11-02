@@ -15,7 +15,7 @@
 
 **Index terms:** Microsoft Word 365; document comparison; Tracking group; Track Changes Options; markup
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

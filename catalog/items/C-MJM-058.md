@@ -15,7 +15,7 @@
 
 **Index terms:** Hannah Arendt; The Origins of Totalitarianism; Timothy Snyder; The Road to Unfreedom; propaganda; totalitarianism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

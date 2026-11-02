@@ -15,7 +15,7 @@
 
 **Index terms:** Stephen Pepper; World Hypotheses; root metaphor; structural corroboration; multiplicative corroboration
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

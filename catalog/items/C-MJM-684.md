@@ -15,7 +15,7 @@
 
 **Index terms:** XAUUSD; gold; pip; point; MetaTrader 5; troy ounce
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

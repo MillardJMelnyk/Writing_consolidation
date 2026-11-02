@@ -15,7 +15,7 @@
 
 **Index terms:** objectivity; subjectivity; Edmund Husserl; Alfred North Whitehead; fallacy of misplaced concreteness; phenomenology; aggregated subjectivity
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

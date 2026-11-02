@@ -15,7 +15,7 @@
 
 **Index terms:** Anthony Fauci; TikTok; COVID-19 officials; facial recognition
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

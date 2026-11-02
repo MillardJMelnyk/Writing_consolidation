@@ -15,7 +15,7 @@
 
 **Index terms:** Condominio Helios; Avenida de la Vida; Corregidora; Querétaro; Residencial la Vida
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

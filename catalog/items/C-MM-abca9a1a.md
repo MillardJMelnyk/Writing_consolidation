@@ -15,7 +15,7 @@
 
 **Index terms:** Facebook post; Grok; fact-checking
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

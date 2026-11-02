@@ -15,7 +15,7 @@
 
 **Index terms:** shared chat link; claude.ai; chat history
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

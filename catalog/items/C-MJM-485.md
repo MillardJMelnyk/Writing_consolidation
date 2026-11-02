@@ -15,7 +15,7 @@
 
 **Index terms:** LED message board; Amazon; Alpine Industries; gift ideas; Snap Circuits; Polaroid Lab
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

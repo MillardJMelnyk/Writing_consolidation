@@ -15,7 +15,7 @@
 
 **Index terms:** The PDF Method; digital product; AI-generated content; Canva; Reddit; niche research
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

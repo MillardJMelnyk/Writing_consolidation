@@ -15,7 +15,7 @@
 
 **Index terms:** Planet Crafter; Terraformation Index; heater; Machine Optimizer; fuse
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

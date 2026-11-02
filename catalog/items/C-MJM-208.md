@@ -15,7 +15,7 @@
 
 **Index terms:** prompt engineering; instruction following; custom instructions; Claude
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** UltraFlix; 4K streaming; Amazon Prime Video; YouTube; Kaleidescape; video bitrate
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

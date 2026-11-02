@@ -15,7 +15,7 @@
 
 **Index terms:** Ursula K. Le Guin; The Dispossessed; Taoism; anarchism; Earthsea; Tao Te Ching
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

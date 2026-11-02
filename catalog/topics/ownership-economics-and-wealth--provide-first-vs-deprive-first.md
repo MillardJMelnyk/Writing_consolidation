@@ -1,6 +1,6 @@
 # Ownership, economics and wealth › Provide-first vs deprive-first
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Ownership, economics and wealth](ownership-economics-and-wealth.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Ownership, economics and wealth](ownership-economics-and-wealth.md)
 
 24 items · Sort: [by date](#by-date) · [by title](#by-title)
 

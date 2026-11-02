@@ -15,7 +15,7 @@
 
 **Index terms:** psychopathy; PCL-R; prevalence; heritability; tribalism; communal society; genetic marker
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

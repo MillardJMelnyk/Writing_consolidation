@@ -15,7 +15,7 @@
 
 **Index terms:** cyanoacrylate; Dermabond; liquid bandage; wound closure; super glue
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

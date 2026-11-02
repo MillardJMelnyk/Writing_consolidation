@@ -15,7 +15,7 @@
 
 **Index terms:** Sumer; Göbekli Tepe; Çatalhöyük; hierarchy; Indus Valley; civilization
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

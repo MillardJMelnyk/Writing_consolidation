@@ -15,7 +15,7 @@
 
 **Index terms:** Joker; Carnage; Venom; Cletus Kasady; comic book
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

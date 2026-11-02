@@ -15,7 +15,7 @@
 
 **Index terms:** problem of evil; Marilyn McCord Adams; Horrendous Evils and the Goodness of God; Bart Ehrman; God's Problem; agnosticism; theodicy; Book of Genesis
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

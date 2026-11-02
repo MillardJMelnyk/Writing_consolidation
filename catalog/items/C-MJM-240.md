@@ -15,7 +15,7 @@
 
 **Index terms:** Microsoft Word; Microsoft 365; smooth scrolling; hardware graphics acceleration; hallucination
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

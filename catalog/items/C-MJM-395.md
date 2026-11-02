@@ -15,7 +15,7 @@
 
 **Index terms:** embodied wisdom; theory-first indoctrination; cult dogma; academic models; present moment; phenomenology
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

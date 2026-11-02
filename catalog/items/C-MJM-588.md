@@ -15,7 +15,7 @@
 
 **Index terms:** local LLM; Ollama; LM Studio; document management; computer vision; Google Cloud Vision
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

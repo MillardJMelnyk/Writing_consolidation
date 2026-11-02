@@ -15,7 +15,7 @@
 
 **Index terms:** childhood gender dysphoria; DSM-5; gender transition; puberty blockers; medical data collection
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** divorce rate; United States; marriage; no-fault divorce; Great Depression
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

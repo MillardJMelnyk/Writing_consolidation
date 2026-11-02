@@ -15,7 +15,7 @@
 
 **Index terms:** stochastic oscillator; %K; %D; slowing; price range
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

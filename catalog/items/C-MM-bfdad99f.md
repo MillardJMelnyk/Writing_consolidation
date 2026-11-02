@@ -15,7 +15,7 @@
 
 **Index terms:** valerian root; Carlyle; Nutricost; Nature's Answer; Farmacias Similares; Mercado Libre; sertraline; pastry blender
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** forex broker; IC Markets; Pepperstone; Blueberry Markets; withdrawal; debit card; ASIC
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

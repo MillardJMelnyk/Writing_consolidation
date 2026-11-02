@@ -15,7 +15,7 @@
 
 **Index terms:** AI honesty; sycophancy; prompt engineering; URL parameter; ChatGPT; Grok; Gemini; DeepSeek
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** layperson; sic; rights advocate; impermissible; italics
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Children's Health Defense; CHD v. FDA; Meta; lawsuit; standing; Integrative Kit
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

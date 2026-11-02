@@ -15,7 +15,7 @@
 
 **Index terms:** ownership; deprivation; provide-first; property right; human nature objection; provision mechanism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

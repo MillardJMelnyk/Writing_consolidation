@@ -15,7 +15,7 @@
 
 **Index terms:** Spanish vocabulary; imperfect tense; infinitive; pozole; Lingoforme; independent contractor agreement; sole proprietor
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

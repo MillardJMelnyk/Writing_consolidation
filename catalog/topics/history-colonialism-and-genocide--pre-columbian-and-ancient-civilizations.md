@@ -1,6 +1,6 @@
 # History, colonialism and genocide › Pre-Columbian and ancient civilizations
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [History, colonialism and genocide](history-colonialism-and-genocide.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [History, colonialism and genocide](history-colonialism-and-genocide.md)
 
 12 items · Sort: [by date](#by-date) · [by title](#by-title)
 

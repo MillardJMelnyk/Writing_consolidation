@@ -15,7 +15,7 @@
 
 **Index terms:** Megalo; law; class hierarchy; outcast class; autocracy; legitimacy
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

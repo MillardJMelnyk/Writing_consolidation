@@ -15,7 +15,7 @@
 
 **Index terms:** sbstck-dl; Substack; ReLOVEution; substack.sid cookie; PowerShell; Substack Notes; Apify
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

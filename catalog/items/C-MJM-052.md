@@ -15,7 +15,7 @@
 
 **Index terms:** Klean Athlete; multivitamin; GNC; methylfolate; methylcobalamin; Querétaro
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

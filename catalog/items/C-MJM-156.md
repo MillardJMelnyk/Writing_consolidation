@@ -15,7 +15,7 @@
 
 **Index terms:** artificial general intelligence; superalignment; master-slave relationship; gaslighting; AI alignment
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

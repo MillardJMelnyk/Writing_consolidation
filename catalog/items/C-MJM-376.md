@@ -15,7 +15,7 @@
 
 **Index terms:** 24-hour clock; Mexican Spanish; de la tarde; time format
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

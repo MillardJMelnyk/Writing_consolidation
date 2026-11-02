@@ -15,7 +15,7 @@
 
 **Index terms:** Claude Code; Visual Studio Code; Cloudflare; DNS; HTTP 403
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

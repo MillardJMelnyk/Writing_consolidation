@@ -15,7 +15,7 @@
 
 **Index terms:** naive realism; anchorage; narrative; color perception; embodied cognition; feedback loop
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

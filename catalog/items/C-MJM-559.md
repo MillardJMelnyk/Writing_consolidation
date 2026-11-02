@@ -15,7 +15,7 @@
 
 **Index terms:** NVIDIA GeForce RTX 2060 Super; Game Ready driver; Studio driver; graphics driver
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

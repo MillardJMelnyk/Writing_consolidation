@@ -15,7 +15,7 @@
 
 **Index terms:** Martha and Mary; Gospel of Luke; textual variant; New International Version; NET Bible; Revised Standard Version
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

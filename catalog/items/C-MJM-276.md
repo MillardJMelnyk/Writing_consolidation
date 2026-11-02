@@ -15,7 +15,7 @@
 
 **Index terms:** grief; mourning; social withdrawal; cross-cultural psychology; bereavement
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

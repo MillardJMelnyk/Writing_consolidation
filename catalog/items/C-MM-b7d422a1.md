@@ -15,7 +15,7 @@
 
 **Index terms:** Path of Exile; item rarity; magic item; rare item; unique item; affix
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

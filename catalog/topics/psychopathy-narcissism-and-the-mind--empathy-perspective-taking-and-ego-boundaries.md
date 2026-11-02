@@ -1,6 +1,6 @@
 # Psychopathy, narcissism and the mind › Empathy, perspective-taking and ego boundaries
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Psychopathy, narcissism and the mind](psychopathy-narcissism-and-the-mind.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Psychopathy, narcissism and the mind](psychopathy-narcissism-and-the-mind.md)
 
 25 items · Sort: [by date](#by-date) · [by title](#by-title)
 

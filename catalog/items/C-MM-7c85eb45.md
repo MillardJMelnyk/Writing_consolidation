@@ -15,7 +15,7 @@
 
 **Index terms:** C2 level; Google; Don't Be Evil; Claire Stapleton; 2018 Google walkout; corporate culture
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

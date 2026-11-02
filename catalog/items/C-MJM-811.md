@@ -15,7 +15,7 @@
 
 **Index terms:** codependence; cultism; Cultist, Actually; Janja Lalich; Steven Hassan; Madeleine Tobias; Carol Giambalvo; cultic studies
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

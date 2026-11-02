@@ -15,7 +15,7 @@
 
 **Index terms:** zaibatsu; Mitsubishi; Mitsui; keiretsu; Meiji era; Japan
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

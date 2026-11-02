@@ -15,7 +15,7 @@
 
 **Index terms:** ceremony; ritual; pomp; military parade; oath-taking; institutional glorification
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

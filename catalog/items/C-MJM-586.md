@@ -15,7 +15,7 @@
 
 **Index terms:** a day late and a dollar short; idiom; word order
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

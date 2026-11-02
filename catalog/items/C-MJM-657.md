@@ -15,7 +15,7 @@
 
 **Index terms:** Kimi Code; Visual Studio Code; kimi-cli; Moonshot AI; VS Code extension
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

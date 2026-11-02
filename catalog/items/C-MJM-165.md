@@ -15,7 +15,7 @@
 
 **Index terms:** Federal Reserve; monetary policy; central bank; Federal Reserve Act of 1913; private banking
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

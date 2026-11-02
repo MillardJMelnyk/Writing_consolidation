@@ -15,7 +15,7 @@
 
 **Index terms:** Programs and Features; Windows shortcut; shell CLSID; Windows taskbar; Control Panel
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

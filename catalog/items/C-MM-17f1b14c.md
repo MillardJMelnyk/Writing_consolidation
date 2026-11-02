@@ -15,7 +15,7 @@
 
 **Index terms:** sleep apnea; snoring; SnoreLab; Sleep as Android; SnoreClock; sleep tracking
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

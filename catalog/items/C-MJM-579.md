@@ -15,7 +15,7 @@
 
 **Index terms:** slang; kudos; Gen Z slang; goated; based
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Candace Owens; Gaza genocide; Israel; October 7 attack; AI bias
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

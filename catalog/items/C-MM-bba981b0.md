@@ -15,7 +15,7 @@
 
 **Index terms:** landlord dispute; security deposit; pago de lo indebido; Registro Público de la Propiedad; sublease; Catastro; CURP; Querétaro
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

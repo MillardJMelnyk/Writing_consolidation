@@ -15,7 +15,7 @@
 
 **Index terms:** Charlie Kirk; Turning Point USA; Utah Valley University; Orem, Utah; assassination; Israel
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

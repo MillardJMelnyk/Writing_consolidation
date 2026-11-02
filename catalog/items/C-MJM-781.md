@@ -15,7 +15,7 @@
 
 **Index terms:** Chedraui; eggs; Pan de 7 Granos Selecto; net weight; fatsecret
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

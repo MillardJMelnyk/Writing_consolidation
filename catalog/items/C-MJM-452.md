@@ -15,7 +15,7 @@
 
 **Index terms:** Murray Rothbard; anarcho-capitalism; private defense agency; rulership; decentralization; coercion
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

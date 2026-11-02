@@ -15,7 +15,7 @@
 
 **Index terms:** The5ers; MetaTrader 5; trading contest; account credentials
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

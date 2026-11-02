@@ -1,6 +1,6 @@
 # Substack Notes
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [S](../S.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [S](../S.md)
 
 6 items · Sort: [by date](#by-date) · [by title](#by-title)
 

@@ -15,7 +15,7 @@
 
 **Index terms:** cockamamie; voice mode; transcript; spelling
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

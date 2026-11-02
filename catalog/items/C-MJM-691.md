@@ -15,7 +15,7 @@
 
 **Index terms:** usage limit; Anthropic; customer support; claude.ai
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

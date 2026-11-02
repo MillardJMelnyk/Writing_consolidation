@@ -15,7 +15,7 @@
 
 **Index terms:** space-based solar power; OHISAMA; Japan Space Systems; wireless power transmission; Caltech MAPLE
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** dopamine; nothing-buttery; reductionism; materialism; social media scrolling; level of abstraction
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

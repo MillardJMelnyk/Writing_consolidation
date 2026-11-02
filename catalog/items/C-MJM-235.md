@@ -15,7 +15,7 @@
 
 **Index terms:** war to end all wars; World War I; wrong ballpark; paradigm; idiom
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

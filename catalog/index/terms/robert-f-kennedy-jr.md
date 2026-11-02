@@ -1,6 +1,6 @@
 # Robert F. Kennedy Jr.
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [R](../R.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [R](../R.md)
 
 17 items · Sort: [by date](#by-date) · [by title](#by-title)
 

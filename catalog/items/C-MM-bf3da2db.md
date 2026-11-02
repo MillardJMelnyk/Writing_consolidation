@@ -15,7 +15,7 @@
 
 **Index terms:** Rocket League; Psyonix; game physics; hitbox; input latency
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** aluminum adjuvant; Annals of Internal Medicine; Statens Serum Institut; Denmark; cohort study; childhood vaccine
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

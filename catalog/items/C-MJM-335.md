@@ -15,7 +15,7 @@
 
 **Index terms:** bitcoin; market crash; COVID crash of 2020; liquidity; risk asset
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

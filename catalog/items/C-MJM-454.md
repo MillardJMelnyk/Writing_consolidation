@@ -15,7 +15,7 @@
 
 **Index terms:** demonology; Satan; Ars Goetia; Beelzebub; Angra Mainyu; grimoire
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

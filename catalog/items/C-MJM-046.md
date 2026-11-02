@@ -15,7 +15,7 @@
 
 **Index terms:** Nick Hanauer; Pitchfork Economics; middle-out economics; inequality; Democracy Journal
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

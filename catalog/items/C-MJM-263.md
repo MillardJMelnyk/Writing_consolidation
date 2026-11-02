@@ -15,7 +15,7 @@
 
 **Index terms:** epistemology; epistemics; epistomics; supremacism; epistemic commons; peer consensus
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

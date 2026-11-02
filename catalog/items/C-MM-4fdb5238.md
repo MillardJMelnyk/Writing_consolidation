@@ -15,7 +15,7 @@
 
 **Index terms:** Cursor; Anysphere; Michael Truell; file modification date; line ending
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Claude Projects; knowledge base; custom instructions; chat organization
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

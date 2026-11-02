@@ -15,7 +15,7 @@
 
 **Index terms:** NotallyX; Google Keep; JotterPad; OnePlus 12; Android; text selection
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

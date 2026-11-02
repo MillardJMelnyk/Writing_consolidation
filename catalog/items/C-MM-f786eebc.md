@@ -15,7 +15,7 @@
 
 **Index terms:** Yomi no Tsugai; Daemons of the Shadow Realm; Asa; Yuru; anime
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

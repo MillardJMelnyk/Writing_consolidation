@@ -15,7 +15,7 @@
 
 **Index terms:** snoring; SnoreLab; Prime Sleep Recorder; Snore Tracker; sleep tracking
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

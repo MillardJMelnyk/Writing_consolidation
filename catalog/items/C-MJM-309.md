@@ -15,7 +15,7 @@
 
 **Index terms:** Christianity; Islam; religious violence; death toll; Thirty Years' War; colonialism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

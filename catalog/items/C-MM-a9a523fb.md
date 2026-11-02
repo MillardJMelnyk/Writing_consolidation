@@ -15,7 +15,7 @@
 
 **Index terms:** Mexican Spanish; tu and usted; menospreciar
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

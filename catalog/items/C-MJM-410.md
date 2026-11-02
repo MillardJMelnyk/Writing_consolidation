@@ -15,7 +15,7 @@
 
 **Index terms:** belief; abstraction; positional commitment; inside-out belief; outside-in belief; Bayesian epistemology
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

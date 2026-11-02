@@ -15,7 +15,7 @@
 
 **Index terms:** fertilizer; N-P-K ratio; shade plant; basil; lavender
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

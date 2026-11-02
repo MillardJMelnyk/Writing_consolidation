@@ -15,7 +15,7 @@
 
 **Index terms:** George Orwell; Fabian Society; Independent Labour Party; DeepSeek; socialism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

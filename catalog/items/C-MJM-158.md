@@ -15,7 +15,7 @@
 
 **Index terms:** OneDrive; photo album; file extension; bulk selection; Microsoft
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

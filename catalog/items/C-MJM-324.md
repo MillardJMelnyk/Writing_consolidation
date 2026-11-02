@@ -15,7 +15,7 @@
 
 **Index terms:** GoBalance; BoBo Balance; Stealth Core Trainer; balance board; children's fitness
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

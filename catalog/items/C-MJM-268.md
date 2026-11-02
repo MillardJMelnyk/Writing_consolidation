@@ -15,7 +15,7 @@
 
 **Index terms:** cynicism; despair; fatalism; defeatism; disappointment; neologism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

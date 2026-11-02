@@ -15,7 +15,7 @@
 
 **Index terms:** military spending; world hunger; Stockholm International Peace Research Institute; meme fact-check
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

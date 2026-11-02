@@ -15,7 +15,7 @@
 
 **Index terms:** psychosis; codependence; representation as reality; approval; fusion; definition of psychosis
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

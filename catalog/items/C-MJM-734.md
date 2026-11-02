@@ -15,7 +15,7 @@
 
 **Index terms:** Windows 11; Linux Mint; ASUS N76VJ; solid-state drive; Intel Core i7; AMD Ryzen; Belarc Advisor; Cinnamon desktop
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** sacred violence; René Girard; Violence and the Sacred; scapegoat mechanism; human sacrifice; terror management; relational deprivation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

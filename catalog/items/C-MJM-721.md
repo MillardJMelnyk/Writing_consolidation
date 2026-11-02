@@ -15,7 +15,7 @@
 
 **Index terms:** Róisín Doyle; burden of proof; hypothesis; fact; epistemics; weather modification
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

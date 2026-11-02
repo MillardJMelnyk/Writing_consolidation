@@ -15,7 +15,7 @@
 
 **Index terms:** Chase Hughes; Narrative Credibility Index; NCI University; Shawn Ryan Show; psychological manipulation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

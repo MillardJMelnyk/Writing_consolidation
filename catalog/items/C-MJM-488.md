@@ -15,7 +15,7 @@
 
 **Index terms:** kafir; goyim; Yiddish; supremacism; caste system; Buddhism; Hinduism; chosenness
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Gender, transgender and sexuality › Gender dysphoria and transitioning
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Gender, transgender and sexuality](gender-transgender-and-sexuality.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Gender, transgender and sexuality](gender-transgender-and-sexuality.md)
 
 5 items · Sort: [by date](#by-date) · [by title](#by-title)
 

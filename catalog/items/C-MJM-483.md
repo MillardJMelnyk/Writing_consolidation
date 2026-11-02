@@ -15,7 +15,7 @@
 
 **Index terms:** Grok; goyim; kafir; AI bias; Yiddish
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

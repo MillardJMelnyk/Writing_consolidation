@@ -15,7 +15,7 @@
 
 **Index terms:** One Big Beautiful Bill Act; child tax credit; adoption credit; refundable tax credit; tax deduction
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

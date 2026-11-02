@@ -1,6 +1,6 @@
 # All items — 2022 (by date)
 
-[← Catalog home](../README.md) · [All items](README.md)
+[← Catalog home](../Master_catalog.md) · [All items](All_items.md)
 
 13 items
 

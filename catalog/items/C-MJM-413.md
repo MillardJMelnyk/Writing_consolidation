@@ -15,7 +15,7 @@
 
 **Index terms:** belief; flow; Mihaly Csikszentmihalyi; narrative overlay; ego; Peter walking on water; wonder
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

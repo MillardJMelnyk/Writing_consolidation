@@ -15,7 +15,7 @@
 
 **Index terms:** The death vigil must end; ownership; deprive-first; share-first; civilization; humanness
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

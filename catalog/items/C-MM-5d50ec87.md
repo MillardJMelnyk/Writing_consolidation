@@ -15,7 +15,7 @@
 
 **Index terms:** Claude Fable; Claude Mythos; GPT-6 Astra; Anthropic; OpenAI
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

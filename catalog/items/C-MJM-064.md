@@ -15,7 +15,7 @@
 
 **Index terms:** PayPal; currency conversion fee; class action lawsuit; money transfer
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Nicolas Hulscher; Peter McCullough; vaccine-autism link; McCullough Foundation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

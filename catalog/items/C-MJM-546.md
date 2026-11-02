@@ -15,7 +15,7 @@
 
 **Index terms:** green card; Form I-407; lawful permanent resident; IRS; Social Security; ISR; US-Mexico tax treaty; expatriation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

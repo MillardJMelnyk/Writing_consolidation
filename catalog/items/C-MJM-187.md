@@ -15,7 +15,7 @@
 
 **Index terms:** Hetalia; anime; AnimeKAI; release date
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

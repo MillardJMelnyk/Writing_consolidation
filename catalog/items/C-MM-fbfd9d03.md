@@ -15,7 +15,7 @@
 
 **Index terms:** lease contract; pena convencional; forced term; rent withholding; notice clause
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

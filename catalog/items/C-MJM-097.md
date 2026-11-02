@@ -15,7 +15,7 @@
 
 **Index terms:** authority; supremacism; partnership; codependence; humanness; self-actualization; Abraham Maslow
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

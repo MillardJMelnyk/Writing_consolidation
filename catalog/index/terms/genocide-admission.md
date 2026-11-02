@@ -1,6 +1,6 @@
 # genocide admission
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [G](../G.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [G](../G.md)
 
 1 items · Sort: [by date](#by-date) · [by title](#by-title)
 

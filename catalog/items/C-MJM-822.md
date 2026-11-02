@@ -15,7 +15,7 @@
 
 **Index terms:** bugcheck 0x0000000A; WinDbg; Reliability Monitor; minidump; XMP; Windows Memory Diagnostic; MemTest86; RAM
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

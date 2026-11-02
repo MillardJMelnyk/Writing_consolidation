@@ -15,7 +15,7 @@
 
 **Index terms:** Joy Garner; Control Group Survey; unvaccinated children; self-selection bias; chronic illness; KiGGS
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Famous.ai; no-code app builder; billing complaint
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

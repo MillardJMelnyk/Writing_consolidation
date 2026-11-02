@@ -15,7 +15,7 @@
 
 **Index terms:** Nazism; fascism; Robert Paxton; Roger Griffin; Stanley Payne; Zeev Sternhell; Nazi Party membership
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

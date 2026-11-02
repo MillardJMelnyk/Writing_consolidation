@@ -15,7 +15,7 @@
 
 **Index terms:** cognition; affective processing; subconscious; mood; introspection; cognitive psychology
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

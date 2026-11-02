@@ -15,7 +15,7 @@
 
 **Index terms:** cultist; Robert Jay Lifton; behaviorism; subjective psychology; object relations theory; cultic studies
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Comisión Federal de Electricidad; CFEmático; electricity reconnection; Querétaro; 071 hotline
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

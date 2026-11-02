@@ -15,7 +15,7 @@
 
 **Index terms:** Claude Opus; pattern recognition; trading chart; model version
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

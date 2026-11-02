@@ -15,7 +15,7 @@
 
 **Index terms:** morality; hypocrisy; TINA; embodied wisdom; Ollama; LM Studio
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** occult; grimoire; Grand Grimoire; King Solomon; demonology; ritual magic
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

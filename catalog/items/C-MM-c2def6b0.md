@@ -15,7 +15,7 @@
 
 **Index terms:** clipboard manager; Linux Mint; Linux desktop software
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

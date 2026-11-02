@@ -15,7 +15,7 @@
 
 **Index terms:** overwhelming majority; cooperation; communality; lovingkindness; fitra; incontestably
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Claude Mythos Preview; Project Glasswing; Anthropic; Amazon Bedrock; Google Vertex AI
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

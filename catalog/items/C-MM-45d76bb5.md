@@ -15,7 +15,7 @@
 
 **Index terms:** Claude Code; Codex; JSONL; Visual Studio Code; PowerShell; chat transcript
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

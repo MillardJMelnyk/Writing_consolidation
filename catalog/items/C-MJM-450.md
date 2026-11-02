@@ -15,7 +15,7 @@
 
 **Index terms:** Joseph Campbell; comparative mythology; codependent culture; Carl Jung; follow your bliss; universalism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

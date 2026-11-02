@@ -15,7 +15,7 @@
 
 **Index terms:** sycophancy; Anthropic; AI training; contrarian reflex
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

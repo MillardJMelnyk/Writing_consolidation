@@ -15,7 +15,7 @@
 
 **Index terms:** Upwork; React; onboarding tour; job proposal; GitHub; TanStack Query
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

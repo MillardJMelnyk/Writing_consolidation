@@ -15,7 +15,7 @@
 
 **Index terms:** póliza jurídica; Grupo Roselle; Buró de Rentas Nacional; rescission clause; RFC; lease agreement
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

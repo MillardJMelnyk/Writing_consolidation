@@ -15,7 +15,7 @@
 
 **Index terms:** Peter Joseph; Zeitgeist: The Movie; The Zeitgeist Movement
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** X Chat; X; end-to-end encryption; direct message; PIN
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

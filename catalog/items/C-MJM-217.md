@@ -15,7 +15,7 @@
 
 **Index terms:** Carl Jung; Basel Cathedral; vision; Switzerland
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

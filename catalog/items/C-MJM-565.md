@@ -15,7 +15,7 @@
 
 **Index terms:** timestamp; Claude memory; Memory #4; new chat protocol
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** extraordinary claims require extraordinary evidence; conservatism bias; status quo bias; confirmation bias; Bayesian reasoning
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

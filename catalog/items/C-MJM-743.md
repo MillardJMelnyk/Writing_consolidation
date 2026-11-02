@@ -15,7 +15,7 @@
 
 **Index terms:** Western Digital; hard disk failure; ddrescue; disk imaging; data recovery; Linux
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Walmart Mexico; T-fal P2584403; pressure cooker; Sears Mexico; El Palacio de Hierro; Abasteo; Cyberpuerta
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

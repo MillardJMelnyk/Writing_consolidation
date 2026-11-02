@@ -15,7 +15,7 @@
 
 **Index terms:** self-description; professional bio; change agent; social research
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

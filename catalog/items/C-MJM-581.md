@@ -15,7 +15,7 @@
 
 **Index terms:** Windows shortcut; taskbar pinning; Microsoft Word; start command; case-based reasoning
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

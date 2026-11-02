@@ -15,7 +15,7 @@
 
 **Index terms:** katalambano; Koine Greek; John 1:5; apprehend; overtake
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

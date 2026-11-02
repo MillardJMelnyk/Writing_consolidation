@@ -15,7 +15,7 @@
 
 **Index terms:** Kabbalah; Zohar; Shimon bar Yochai; Ein Sof; Sefirot; red string; tikkun
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

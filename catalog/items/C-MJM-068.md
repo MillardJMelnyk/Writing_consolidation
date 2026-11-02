@@ -15,7 +15,7 @@
 
 **Index terms:** senior dog; vinegar odor; ear infection; yeast infection; kidney disease
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

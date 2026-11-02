@@ -15,7 +15,7 @@
 
 **Index terms:** mobile hotspot; Microsoft Wi-Fi Direct Virtual Adapter; network adapter; netcfg
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

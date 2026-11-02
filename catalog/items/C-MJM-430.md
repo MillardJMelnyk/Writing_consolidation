@@ -15,7 +15,7 @@
 
 **Index terms:** interpretation services; Querétaro; consecutive interpretation; remote interpreting; Mexico
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

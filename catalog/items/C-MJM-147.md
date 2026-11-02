@@ -15,7 +15,7 @@
 
 **Index terms:** epistemic narcissism; epistemic humility; honesty; codependence; representativeness; ruling class; cult thinking
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

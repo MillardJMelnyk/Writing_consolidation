@@ -15,7 +15,7 @@
 
 **Index terms:** truth-seeking motivation; fear of error; avoidance motivation; academia; belief; identity stake
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

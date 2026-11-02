@@ -1,6 +1,6 @@
 # iatrogenesis
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [I](../I.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [I](../I.md)
 
 5 items · Sort: [by date](#by-date) · [by title](#by-title)
 

@@ -15,7 +15,7 @@
 
 **Index terms:** The Root of All Evil; 1 Timothy 6:10; love of money; book title search
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

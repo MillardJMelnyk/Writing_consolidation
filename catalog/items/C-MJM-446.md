@@ -15,7 +15,7 @@
 
 **Index terms:** Bacardi; rum; red flag; lease negotiation; Mexican Spanish
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

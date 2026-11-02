@@ -15,7 +15,7 @@
 
 **Index terms:** CapCut; referral code; free trial; ByteDance
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

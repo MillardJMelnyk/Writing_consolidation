@@ -15,7 +15,7 @@
 
 **Index terms:** kyrios; pistis; propitiation; Apostle Paul; Doubting Thomas; lake of fire; coercive control
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** rightspeak; rights paradigm; protection; cause and effect; repercussion
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

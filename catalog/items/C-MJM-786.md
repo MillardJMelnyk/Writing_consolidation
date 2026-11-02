@@ -15,7 +15,7 @@
 
 **Index terms:** exousia; dynamis; exesti; rightful power; authority; Koine Greek
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

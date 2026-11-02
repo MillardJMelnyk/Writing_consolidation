@@ -1,6 +1,6 @@
 # Belief, truth and epistemics › Scientific consensus, peer review and replication
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Belief, truth and epistemics](belief-truth-and-epistemics.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Belief, truth and epistemics](belief-truth-and-epistemics.md)
 
 63 items · Sort: [by date](#by-date) · [by title](#by-title)
 

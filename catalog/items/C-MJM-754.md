@@ -15,7 +15,7 @@
 
 **Index terms:** Linux Mint; CopyQ; GPaste; Ditto; clipboard manager
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

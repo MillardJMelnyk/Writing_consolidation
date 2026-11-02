@@ -15,7 +15,7 @@
 
 **Index terms:** global wealth; wealth redistribution; offshore wealth; UBS Global Wealth Report
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

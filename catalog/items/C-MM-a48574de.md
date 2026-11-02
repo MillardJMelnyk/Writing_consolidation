@@ -15,7 +15,7 @@
 
 **Index terms:** drug withdrawal; street slang; dope sick; kicking; cold turkey
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

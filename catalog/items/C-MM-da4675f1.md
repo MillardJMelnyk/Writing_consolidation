@@ -15,7 +15,7 @@
 
 **Index terms:** threat; speech act theory; J. L. Austin; John Searle; inference of intent; consult-decide-inform paradigm; consensus decision-making; slippery slope
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Iliad; Homer; Beowulf; Epic of Gilgamesh; Book of Job; world of men
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** content-independence; Joseph Raz; Larry Alexander; Emily Sherwin; The Deceptive Nature of Rules; legal authority; jurisprudence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

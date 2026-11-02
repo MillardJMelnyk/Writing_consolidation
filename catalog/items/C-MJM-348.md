@@ -15,7 +15,7 @@
 
 **Index terms:** Consumer Price Index; Producer Price Index; House Price Index; inflation measurement; wholesale price
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

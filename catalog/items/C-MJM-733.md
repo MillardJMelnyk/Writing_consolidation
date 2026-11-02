@@ -15,7 +15,7 @@
 
 **Index terms:** Venmo; bank account; routing number; Plaid; micro-deposit verification
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

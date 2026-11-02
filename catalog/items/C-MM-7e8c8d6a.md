@@ -15,7 +15,7 @@
 
 **Index terms:** response timeout; Claude memory; XAUUSD; CSV processing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

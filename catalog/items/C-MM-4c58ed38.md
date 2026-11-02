@@ -15,7 +15,7 @@
 
 **Index terms:** Claude data export; chat archive; Cultist, Actually; codependence; Janja Lalich; Steven Hassan; Microsoft Word find and replace
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

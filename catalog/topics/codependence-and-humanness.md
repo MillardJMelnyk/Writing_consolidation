@@ -1,6 +1,6 @@
 # Codependence and humanness
 
-[← Catalog home](../README.md) · [Topic outline](README.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md)
 
 **Subheadings:**
 

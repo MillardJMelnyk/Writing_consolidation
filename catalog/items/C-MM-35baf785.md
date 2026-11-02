@@ -15,7 +15,7 @@
 
 **Index terms:** DeepStash; Brilliant; microlearning app; subscription billing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

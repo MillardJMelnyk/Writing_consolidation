@@ -15,7 +15,7 @@
 
 **Index terms:** indigenous depopulation; pre-Columbian population; smallpox; Henry Dobyns; William Denevan; 1492
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

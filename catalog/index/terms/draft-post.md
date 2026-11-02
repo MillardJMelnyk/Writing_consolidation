@@ -1,6 +1,6 @@
 # draft post
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [D](../D.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [D](../D.md)
 
 1 items · Sort: [by date](#by-date) · [by title](#by-title)
 

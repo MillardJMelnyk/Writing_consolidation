@@ -15,7 +15,7 @@
 
 **Index terms:** self-abnegation; soul; ego death; self-denial
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

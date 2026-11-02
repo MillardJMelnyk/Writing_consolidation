@@ -15,7 +15,7 @@
 
 **Index terms:** Hittite language; extinct language; Taushiro; endangered language; Anatolia
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

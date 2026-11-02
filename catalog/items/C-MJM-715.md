@@ -15,7 +15,7 @@
 
 **Index terms:** forgiveness; Robert Enright; Everett Worthington; teshuvah; therapeutic psychology; Stoicism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

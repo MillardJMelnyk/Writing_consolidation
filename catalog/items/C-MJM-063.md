@@ -15,7 +15,7 @@
 
 **Index terms:** defensive force; moral equivalence; overkill; self-defense; evildoer
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

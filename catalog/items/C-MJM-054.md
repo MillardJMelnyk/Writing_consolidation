@@ -15,7 +15,7 @@
 
 **Index terms:** Mahatma Gandhi; Bhagat Singh; Chandra Shekhar Azad; Anushilan Samiti; British Raj
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

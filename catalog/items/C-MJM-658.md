@@ -15,7 +15,7 @@
 
 **Index terms:** rental contract; Querétaro; tácita reconducción; póliza jurídica; holdover rent penalty; Código Civil de Querétaro
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

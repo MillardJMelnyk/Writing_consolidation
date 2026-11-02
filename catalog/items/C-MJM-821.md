@@ -15,7 +15,7 @@
 
 **Index terms:** Correos de México; international mail; El Pueblito; Plaza Citadina; DHL; Querétaro
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

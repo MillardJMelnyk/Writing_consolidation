@@ -15,7 +15,7 @@
 
 **Index terms:** GLM-5.3-Flash; Z.ai; open weights; VS Code; Kilo Code; Cline; OpenRouter
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

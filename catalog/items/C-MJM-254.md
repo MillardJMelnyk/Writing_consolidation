@@ -15,7 +15,7 @@
 
 **Index terms:** epistemic hallucination; justified true belief; circular reasoning; epistemology; formal logic; PhilPeople
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

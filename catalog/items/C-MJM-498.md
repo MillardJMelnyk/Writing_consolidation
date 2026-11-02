@@ -15,7 +15,7 @@
 
 **Index terms:** La Grange; ZZ Top; Howlin' Wolf; ChatGPT; song identification
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

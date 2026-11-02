@@ -15,7 +15,7 @@
 
 **Index terms:** Claude; Claude desktop app; Anthropic
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

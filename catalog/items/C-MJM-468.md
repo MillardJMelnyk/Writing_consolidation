@@ -15,7 +15,7 @@
 
 **Index terms:** Claude data export; JSON; HTML conversion; chat history
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

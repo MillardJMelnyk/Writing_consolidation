@@ -15,7 +15,7 @@
 
 **Index terms:** Mexican Spanish; Google Translate; idiom translation; Blame It on the Boogie
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

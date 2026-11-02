@@ -15,7 +15,7 @@
 
 **Index terms:** canasta navideña; Mexican Christmas; ponche; gift basket
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

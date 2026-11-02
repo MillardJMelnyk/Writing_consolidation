@@ -15,7 +15,7 @@
 
 **Index terms:** Anna Sims; National Vaccine Injury Compensation Program; U.S. Court of Federal Claims; sudden infant death syndrome; encephalopathy; Pediarix
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

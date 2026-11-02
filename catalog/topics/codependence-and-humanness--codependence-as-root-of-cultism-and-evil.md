@@ -1,6 +1,6 @@
 # Codependence and humanness › Codependence as root of cultism and evil
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Codependence and humanness](codependence-and-humanness.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Codependence and humanness](codependence-and-humanness.md)
 
 69 items · Sort: [by date](#by-date) · [by title](#by-title)
 

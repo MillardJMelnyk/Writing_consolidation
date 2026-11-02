@@ -15,7 +15,7 @@
 
 **Index terms:** Omarchy; CachyOS; Pop!_OS; COSMIC desktop; Arch Linux; Hyprland; DistroWatch
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

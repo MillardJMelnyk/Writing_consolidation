@@ -1,6 +1,6 @@
 # Games, movies and entertainment › Music and literature
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Games, movies and entertainment](games-movies-and-entertainment.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Games, movies and entertainment](games-movies-and-entertainment.md)
 
 19 items · Sort: [by date](#by-date) · [by title](#by-title)
 

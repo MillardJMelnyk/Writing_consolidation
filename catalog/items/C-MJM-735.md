@@ -15,7 +15,7 @@
 
 **Index terms:** dupeGuru; portable application; Program Files; Hardcoded Software
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

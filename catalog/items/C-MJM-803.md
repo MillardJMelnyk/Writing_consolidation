@@ -15,7 +15,7 @@
 
 **Index terms:** Claude memory; Millard Protocol; Opus 5.5; hedging; communication preference
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

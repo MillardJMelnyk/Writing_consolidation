@@ -1,6 +1,6 @@
 # X (social network)
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [X](../X.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [X](../X.md)
 
 2 items · Sort: [by date](#by-date) · [by title](#by-title)
 

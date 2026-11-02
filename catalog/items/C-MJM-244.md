@@ -15,7 +15,7 @@
 
 **Index terms:** sacrifice; love; inherent preciousness; transactionalism; valuation; category error
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

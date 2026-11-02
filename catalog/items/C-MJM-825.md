@@ -15,7 +15,7 @@
 
 **Index terms:** Claude Projects; project removal; chat organization
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

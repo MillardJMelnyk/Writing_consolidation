@@ -15,7 +15,7 @@
 
 **Index terms:** October 7 attack; 40 beheaded babies; Mila Cohen; Kfar Aza; Claude preferences; atrocity propaganda
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

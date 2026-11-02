@@ -1,6 +1,6 @@
 # AI chatbots and working with Claude › Local LLMs and AI document search
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [AI chatbots and working with Claude](ai-chatbots-and-working-with-claude.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [AI chatbots and working with Claude](ai-chatbots-and-working-with-claude.md)
 
 11 items · Sort: [by date](#by-date) · [by title](#by-title)
 

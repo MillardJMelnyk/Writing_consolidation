@@ -15,7 +15,7 @@
 
 **Index terms:** session limit; Claude; usage reset; interface message
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** screen time; adolescent wellbeing; specification curve analysis; moral panic; video games; self-reported data
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

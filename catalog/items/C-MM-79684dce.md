@@ -15,7 +15,7 @@
 
 **Index terms:** ivermectin; Soumya Swaminathan; World Health Organization; Indian Bar Association; American Council on Science and Health; doublespeak
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

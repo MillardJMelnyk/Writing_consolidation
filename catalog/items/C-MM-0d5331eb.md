@@ -15,7 +15,7 @@
 
 **Index terms:** Yandex; CAPTCHA; Firefox Enhanced Tracking Protection; browser fingerprinting; cookie
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

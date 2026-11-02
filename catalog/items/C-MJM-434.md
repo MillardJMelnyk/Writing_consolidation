@@ -15,7 +15,7 @@
 
 **Index terms:** BRICS; The Unit; gold-backed currency; US dollar; sanctions circumvention; SWIFT; BRICS Pay
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

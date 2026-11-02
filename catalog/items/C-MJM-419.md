@@ -15,7 +15,7 @@
 
 **Index terms:** Lofi Girl; Chillhop Music; College Music; The Jazz Hop Café; lo-fi hip-hop; YouTube
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

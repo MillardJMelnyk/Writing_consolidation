@@ -15,7 +15,7 @@
 
 **Index terms:** Millard Protocol; sheep without a shepherd; cut off the head of the snake; leadership
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

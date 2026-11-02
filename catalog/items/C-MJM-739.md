@@ -15,7 +15,7 @@
 
 **Index terms:** CPU-Z; CPUID; system information utility; uninstall
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

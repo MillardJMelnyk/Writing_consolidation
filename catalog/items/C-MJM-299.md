@@ -15,7 +15,7 @@
 
 **Index terms:** narrative; pulpit; dogma; indoctrination; institutional authority
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

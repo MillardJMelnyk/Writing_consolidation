@@ -15,7 +15,7 @@
 
 **Index terms:** X (social network); account deactivation; Android app; 30-day deletion period
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

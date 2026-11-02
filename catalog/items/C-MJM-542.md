@@ -15,7 +15,7 @@
 
 **Index terms:** Alan Watts; cultural dishonesty; individual awakening; misattributed quote
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

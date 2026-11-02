@@ -15,7 +15,7 @@
 
 **Index terms:** ReLOVEution Glossary; ReLOVEution NOW!; Substack; document comparison
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

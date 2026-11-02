@@ -15,7 +15,7 @@
 
 **Index terms:** fallibilism; certainty; self-refutation; cogito; infinite regress
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

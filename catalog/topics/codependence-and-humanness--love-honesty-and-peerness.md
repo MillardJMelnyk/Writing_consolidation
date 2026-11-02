@@ -1,6 +1,6 @@
 # Codependence and humanness › Love, honesty and peerness
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Codependence and humanness](codependence-and-humanness.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Codependence and humanness](codependence-and-humanness.md)
 
 68 items · Sort: [by date](#by-date) · [by title](#by-title)
 

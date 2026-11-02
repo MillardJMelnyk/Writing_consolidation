@@ -15,7 +15,7 @@
 
 **Index terms:** Logitech MX Master 3S; Logi Bolt; FSearch; Everything; Linux Mint
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

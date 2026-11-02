@@ -15,7 +15,7 @@
 
 **Index terms:** Max Weber; monopoly on violence; government; coercion
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

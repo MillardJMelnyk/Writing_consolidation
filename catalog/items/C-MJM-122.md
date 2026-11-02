@@ -15,7 +15,7 @@
 
 **Index terms:** cetirizine; fexofenadine; loratadine; sertraline; allergy; drug interaction; Mexico pharmacy
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

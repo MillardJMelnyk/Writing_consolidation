@@ -15,7 +15,7 @@
 
 **Index terms:** October 7 attack; Bibas family; Mila Cohen; Gaza Health Ministry; UNICEF; child casualties
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

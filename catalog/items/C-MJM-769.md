@@ -15,7 +15,7 @@
 
 **Index terms:** Berzelius beaker; laboratory glassware; Jöns Jacob Berzelius; Sam Altman; OpenAI
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** enzyme cleaner; baking soda; pet odor; upholstery; Biokleen Bac-Out
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

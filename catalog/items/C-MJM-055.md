@@ -15,7 +15,7 @@
 
 **Index terms:** Aleister Crowley; Jack Parsons; Jet Propulsion Laboratory; NASA; Thelema
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

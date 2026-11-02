@@ -15,7 +15,7 @@
 
 **Index terms:** Zenposture Pro; loveinloft.com; dropshipping scam; HBADA; Sihoo Doro C300 Pro; Sihoo Doro S300; office chair; BIFMA
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

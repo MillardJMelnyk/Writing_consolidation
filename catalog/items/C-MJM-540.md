@@ -15,7 +15,7 @@
 
 **Index terms:** Del Bigtree; Ty Bollinger; The HighWire; The Truth About Cancer; Robert F. Kennedy Jr.; Charlene Bollinger
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

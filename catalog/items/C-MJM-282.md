@@ -15,7 +15,7 @@
 
 **Index terms:** semiotic relationship; titled versus entitled; comma usage; symbolic mapping
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

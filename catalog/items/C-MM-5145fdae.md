@@ -15,7 +15,7 @@
 
 **Index terms:** Best Buy; B&H Photo; PayPal Credit; APR; penalty APR; package forwarding
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

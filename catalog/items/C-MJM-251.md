@@ -15,7 +15,7 @@
 
 **Index terms:** smallpox vaccination; Vaccination Act 1853; Massachusetts; polio vaccine; measles; compulsory vaccination
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

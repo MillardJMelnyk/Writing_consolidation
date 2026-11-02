@@ -15,7 +15,7 @@
 
 **Index terms:** religion; snake oil; spiritual privateer; religious authority; unholy shotgun wedding; love of truth
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

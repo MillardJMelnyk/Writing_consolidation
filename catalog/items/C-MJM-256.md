@@ -15,7 +15,7 @@
 
 **Index terms:** performative utterance; J. L. Austin; Friedrich Nietzsche; abyss; thou; justified true belief; Edmund Gettier
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** hallucination; instruction following; sentence completion; Claude
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

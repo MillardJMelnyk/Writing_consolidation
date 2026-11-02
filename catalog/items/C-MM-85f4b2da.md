@@ -15,7 +15,7 @@
 
 **Index terms:** tick data; XAUUSD; CSV file; M1 bar; bid-ask spread
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

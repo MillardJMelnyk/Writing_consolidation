@@ -15,7 +15,7 @@
 
 **Index terms:** Fuentes de Balvanera; Apaseo el Grande; Guanajuato; homicide rate; Corregidora
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

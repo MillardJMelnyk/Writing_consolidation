@@ -15,7 +15,7 @@
 
 **Index terms:** pantheism; Baruch Spinoza; John Wheeler; it from bit; information theory; God
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

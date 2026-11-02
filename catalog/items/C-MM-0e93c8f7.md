@@ -15,7 +15,7 @@
 
 **Index terms:** verb fly; palitos; cricket; croquet; Kubb
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

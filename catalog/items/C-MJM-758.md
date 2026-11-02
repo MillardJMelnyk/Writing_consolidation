@@ -15,7 +15,7 @@
 
 **Index terms:** Firefox Sync; Mozilla Firefox; Microsoft Edge; bookmark sync
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

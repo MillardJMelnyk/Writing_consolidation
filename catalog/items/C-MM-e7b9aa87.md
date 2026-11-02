@@ -15,7 +15,7 @@
 
 **Index terms:** evidence; truth; epistemic circularity; infinite regress; prior knowledge; indoctrination
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

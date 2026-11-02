@@ -15,7 +15,7 @@
 
 **Index terms:** infantilism; human rights; United Nations Human Rights Commission; elite; prompt engineering
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

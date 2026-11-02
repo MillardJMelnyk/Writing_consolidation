@@ -15,7 +15,7 @@
 
 **Index terms:** URL parameter; browser shortcut; custom instructions; Claude Projects
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

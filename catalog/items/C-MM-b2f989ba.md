@@ -15,7 +15,7 @@
 
 **Index terms:** Anthony Fauci; Rand Paul; gain-of-function research; Wuhan Institute of Virology; David Morens; preemptive pardon; perjury
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

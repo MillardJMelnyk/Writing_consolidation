@@ -15,7 +15,7 @@
 
 **Index terms:** Luddite; anti-intellectualism; obscurantism; rejection of knowledge
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

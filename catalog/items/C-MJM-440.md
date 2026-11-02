@@ -15,7 +15,7 @@
 
 **Index terms:** globe lamp shade; R6 size; opal glass; lamp diffuser
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

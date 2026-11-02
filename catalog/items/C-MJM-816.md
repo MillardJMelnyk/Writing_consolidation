@@ -15,7 +15,7 @@
 
 **Index terms:** Ted Pike; Talmud; Grok; child sexual abuse; Jewish law; pederasty
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

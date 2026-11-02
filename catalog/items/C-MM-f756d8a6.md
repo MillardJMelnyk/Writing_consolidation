@@ -15,7 +15,7 @@
 
 **Index terms:** psychopathy; PCL-R; prevalence; meta-analysis; general population
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

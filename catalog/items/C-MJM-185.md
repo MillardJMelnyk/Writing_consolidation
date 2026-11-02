@@ -15,7 +15,7 @@
 
 **Index terms:** human rights; victimhood; stipulation; reification; supremacism; extortion; colonization of the mind
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

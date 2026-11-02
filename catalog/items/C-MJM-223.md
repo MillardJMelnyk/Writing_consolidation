@@ -15,7 +15,7 @@
 
 **Index terms:** Midjourney; DALL-E 3; Adobe Firefly; FLUX; Bing Image Creator; prompt adherence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

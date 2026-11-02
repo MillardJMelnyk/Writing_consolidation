@@ -15,7 +15,7 @@
 
 **Index terms:** Cahokia; Teotihuacan; Cusco; Quito; Inca Empire; V. Gordon Childe; civilization
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

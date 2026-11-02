@@ -15,7 +15,7 @@
 
 **Index terms:** US foreign interventions; regime change; Rwandan genocide; National Security Archive; America at War map
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** usufruct; Murray Bookchin; Genevieve Vaughan; potlatch; gift economy; share-first; the commons
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

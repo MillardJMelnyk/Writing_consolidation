@@ -15,7 +15,7 @@
 
 **Index terms:** rocket science; brain surgery; idiom; rocket surgery
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

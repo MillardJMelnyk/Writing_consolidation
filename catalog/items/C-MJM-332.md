@@ -15,7 +15,7 @@
 
 **Index terms:** Central Intelligence Agency; Indonesian mass killings of 1965-66; Operation Condor; Phoenix Program; Tuskegee Syphilis Study; Tuskegee Airmen
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Shahid Bolsen; image identification; public figure
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

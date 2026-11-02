@@ -15,7 +15,7 @@
 
 **Index terms:** evil; harm; intent; hysterical evil; rational evil; lesser evil; BDSM
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

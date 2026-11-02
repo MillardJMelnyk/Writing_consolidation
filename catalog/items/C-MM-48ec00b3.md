@@ -15,7 +15,7 @@
 
 **Index terms:** State of Israel; Kurds; Persians; Arabs; goyim; genocidal intent; Periphery Doctrine; October 7 attack
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

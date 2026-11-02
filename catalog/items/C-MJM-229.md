@@ -15,7 +15,7 @@
 
 **Index terms:** Kol Nidre; Yom Kippur; annulment of vows; copyright; public domain; AI refusal
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

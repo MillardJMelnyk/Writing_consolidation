@@ -15,7 +15,7 @@
 
 **Index terms:** Imgflip; meme generator; image macro
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

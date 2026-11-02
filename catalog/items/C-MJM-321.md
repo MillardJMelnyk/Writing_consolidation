@@ -15,7 +15,7 @@
 
 **Index terms:** Volodymyr Zelensky; Energoatom; National Anti-Corruption Bureau of Ukraine; Timur Mindich; Operation Midas; corruption
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

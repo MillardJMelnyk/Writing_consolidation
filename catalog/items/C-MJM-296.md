@@ -15,7 +15,7 @@
 
 **Index terms:** invocation; conjuration; summoning; evocation; sorcery
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

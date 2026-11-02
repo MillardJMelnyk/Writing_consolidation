@@ -1,6 +1,6 @@
 # Trading and markets › cTrader migration and features
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Trading and markets](trading-and-markets.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Trading and markets](trading-and-markets.md)
 
 10 items · Sort: [by date](#by-date) · [by title](#by-title)
 

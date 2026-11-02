@@ -15,7 +15,7 @@
 
 **Index terms:** domination; human nature; hypothesis; refusal to look; Jebel Sahaba; psychopathy; cultism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

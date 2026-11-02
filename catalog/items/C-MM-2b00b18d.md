@@ -15,7 +15,7 @@
 
 **Index terms:** The Sims 2; disc image; DAEMON Tools Lite; PowerISO; expansion pack
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

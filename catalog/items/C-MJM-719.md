@@ -15,7 +15,7 @@
 
 **Index terms:** omnipresence; Ephesians 4:6; 1 Corinthians 15:28; Colossians 3:11; Acts 17:28
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

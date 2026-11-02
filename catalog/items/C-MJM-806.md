@@ -15,7 +15,7 @@
 
 **Index terms:** hasbara; propaganda; public diplomacy; Ministry of Truth; George Orwell; Office of War Information
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

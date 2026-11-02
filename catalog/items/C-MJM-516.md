@@ -15,7 +15,7 @@
 
 **Index terms:** Gboard; voice typing; Android; chabacano; Robert F. Kennedy Jr.; US Supreme Court
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

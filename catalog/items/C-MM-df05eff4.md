@@ -15,7 +15,7 @@
 
 **Index terms:** cTrader; Pepperstone; chart watermark; chart properties
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

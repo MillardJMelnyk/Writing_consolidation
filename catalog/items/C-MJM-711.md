@@ -15,7 +15,7 @@
 
 **Index terms:** cTrader; Spotware; ECN; dealing desk; B-book; STP execution
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

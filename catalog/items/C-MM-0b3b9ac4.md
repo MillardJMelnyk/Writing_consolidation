@@ -15,7 +15,7 @@
 
 **Index terms:** Epistle to the Hebrews; old covenant; Matthew 5:18; Apostle Paul; 1 John 4; repentance; New American Standard Bible
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

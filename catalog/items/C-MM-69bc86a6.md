@@ -15,7 +15,7 @@
 
 **Index terms:** Americas; colonial occupation; Haiti; Bolivia; Taíno; genocide
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

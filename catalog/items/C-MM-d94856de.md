@@ -15,7 +15,7 @@
 
 **Index terms:** economic system; Marshall Sahlins; Karl Polanyi; Marcel Mauss; David Graeber; substantivist economic anthropology; Grok; unexamined premise
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

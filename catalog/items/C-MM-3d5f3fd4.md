@@ -15,7 +15,7 @@
 
 **Index terms:** Islamic Revolutionary Guard Corps; Donald Trump; Iran war; 2026 midterm election; Al Jazeera; open letter
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Kash Patel; Federal Bureau of Investigation; The Atlantic; Chuck Schumer; defamation lawsuit
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

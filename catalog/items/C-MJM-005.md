@@ -15,7 +15,7 @@
 
 **Index terms:** ARM64; processor architecture; x64; Qualcomm Snapdragon; Microsoft Surface
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

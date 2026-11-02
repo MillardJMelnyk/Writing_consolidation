@@ -15,7 +15,7 @@
 
 **Index terms:** codependence; conversation search; Claude data export; My Work project; partial-word search
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

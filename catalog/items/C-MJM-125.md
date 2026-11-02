@@ -15,7 +15,7 @@
 
 **Index terms:** Solvay Conference; Ernest Solvay; Albert Einstein; Marie Curie; Brussels; Solvay process
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

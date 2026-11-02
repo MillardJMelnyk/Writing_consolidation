@@ -15,7 +15,7 @@
 
 **Index terms:** Claude Code; Visual Studio Code; Claude Fable; permission prompt; settings.json; bypassPermissions
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

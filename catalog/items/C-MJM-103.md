@@ -15,7 +15,7 @@
 
 **Index terms:** Anthropic; ground rules; pushback; conversation memory; feedback mechanism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

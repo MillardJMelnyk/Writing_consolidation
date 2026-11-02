@@ -15,7 +15,7 @@
 
 **Index terms:** cultist; desire to understand; falsifiability; testable hypothesis; social contagion; emergence; group as construct
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

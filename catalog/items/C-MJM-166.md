@@ -15,7 +15,7 @@
 
 **Index terms:** soap opera; General Hospital; Guiding Light; Coronation Street; Guinness World Records
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

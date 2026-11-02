@@ -15,7 +15,7 @@
 
 **Index terms:** Rosa Koire; Behind the Green Mask; Agenda 21; ICLEI; World Economic Forum; central bank digital currency; thought-terminating cliché; digital ID
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

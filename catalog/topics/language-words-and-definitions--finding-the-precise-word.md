@@ -1,6 +1,6 @@
 # Language, words and definitions › Finding the precise word
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Language, words and definitions](language-words-and-definitions.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Language, words and definitions](language-words-and-definitions.md)
 
 67 items · Sort: [by date](#by-date) · [by title](#by-title)
 

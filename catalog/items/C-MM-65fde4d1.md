@@ -15,7 +15,7 @@
 
 **Index terms:** Zumbi Blocks 2; Steam friends; multiplayer lobby; perk
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

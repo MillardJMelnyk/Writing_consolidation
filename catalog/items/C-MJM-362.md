@@ -15,7 +15,7 @@
 
 **Index terms:** Donald Trump; Susie Wiles; Pam Bondi; Kristi Noem; Tulsi Gabbard; Karoline Leavitt; Casey Means
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

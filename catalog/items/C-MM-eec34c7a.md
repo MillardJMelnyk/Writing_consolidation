@@ -15,7 +15,7 @@
 
 **Index terms:** Steam; cooperative game; free-to-play game; We Were Here; Warframe; Alien Swarm: Reactive Drop; Sixth Force; StarMade
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** went off the deep end; idiom; swimming pool
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

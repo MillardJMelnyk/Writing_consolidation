@@ -15,7 +15,7 @@
 
 **Index terms:** Kimi Code; Moonshot AI; usage points
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Codependence - The Counterfeit We Live In; codependence; addiction recovery movement; embodied wisdom; infantile dependence; duplicitous overlay
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

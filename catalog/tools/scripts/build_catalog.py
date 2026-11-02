@@ -49,7 +49,7 @@ for it in items:
     if t.get('caption'): L += ['', '**Image:** %s' % t['caption']]
     L += ['', '**Topics:** ' + '; '.join(t.get('topics') or []),
           '', '**Index terms:** ' + '; '.join(t.get('terms') or []),
-          '', '[← Catalog home](../README.md)', '', '---', '', it['text'] or '*(no text)*']
+          '', '[← Catalog home](../Master_catalog.md)', '', '---', '', it['text'] or '*(no text)*']
     if it.get('images'):
         L += ['', '---', '', '**Images**', ''] + ['![](%s)' % u for u in it['images']]
     open(os.path.join(CAT, 'items', it['id'] + '.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
@@ -88,7 +88,7 @@ def item_list_page(path, heading, intro, rows, prefix, back):
     open(path, 'w', encoding='utf-8').write('\n'.join(L))
 
 
-HOME = '[← Catalog home](../README.md)'
+HOME = '[← Catalog home](../Master_catalog.md)'
 
 # ---------- full item list (split by year / by letter) ----------
 years = collections.defaultdict(list); letters = collections.defaultdict(list)
@@ -96,17 +96,17 @@ for it in items:
     years[it['date'][:4] or 'undated'].append(it)
     letters[first_letter(it['title'])].append(it)
 for y, rows in years.items():
-    L = ['# All items — %s (by date)' % y, '', HOME + ' · [All items](README.md)', '', '%d items' % len(rows), ''] + \
+    L = ['# All items — %s (by date)' % y, '', HOME + ' · [All items](All_items.md)', '', '%d items' % len(rows), ''] + \
         table(sorted(rows, key=lambda i: i['date'], reverse=True), '../') + ['']
     open(os.path.join(CAT, 'list', 'by-date-%s.md' % y), 'w', encoding='utf-8').write('\n'.join(L))
 for c, rows in letters.items():
-    L = ['# All items — %s (by title)' % c, '', HOME + ' · [All items](README.md)', '', '%d items' % len(rows), ''] + \
+    L = ['# All items — %s (by title)' % c, '', HOME + ' · [All items](All_items.md)', '', '%d items' % len(rows), ''] + \
         table(sorted(rows, key=title_key), '../') + ['']
     open(os.path.join(CAT, 'list', 'by-title-%s.md' % c), 'w', encoding='utf-8').write('\n'.join(L))
 L = ['# All items', '', HOME, '', '%d items.' % len(items), '', '## By date (newest first)', '']
 L += ['- [%s](by-date-%s.md) — %d items' % (y, y, len(years[y])) for y in sorted(years, reverse=True)]
 L += ['', '## By title', '', ' · '.join('[%s](by-title-%s.md)' % (c, c) for c in sorted(letters, key=lambda c: (c == '0-9', c))), '']
-open(os.path.join(CAT, 'list', 'README.md'), 'w', encoding='utf-8').write('\n'.join(L))
+open(os.path.join(CAT, 'list', 'All_items.md'), 'w', encoding='utf-8').write('\n'.join(L))
 
 # ---------- A-Z index ----------
 term_items = collections.defaultdict(list)
@@ -117,18 +117,18 @@ used = set(); term_slug = {}
 for term in sorted(term_items, key=str.lower):
     term_slug[term] = slug(term, used)
     item_list_page(os.path.join(CAT, 'index', 'terms', term_slug[term] + '.md'), cell(term), None, term_items[term], '../../',
-                   '[← Catalog home](../../README.md) · [A–Z index](../README.md) · [%s](../%s.md)' % (first_letter(term), first_letter(term)))
+                   '[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [%s](../%s.md)' % (first_letter(term), first_letter(term)))
 by_letter = collections.defaultdict(list)
 for term in term_items: by_letter[first_letter(term)].append(term)
 letter_list = sorted(by_letter, key=lambda c: (c == '0-9', c))
 nav = ' · '.join('[%s](%s.md)' % (c, c) for c in letter_list)
 for c in letter_list:
-    L = ['# Index — %s' % c, '', '[← Catalog home](../README.md) · [A–Z index](README.md)', '', nav, '']
+    L = ['# Index — %s' % c, '', '[← Catalog home](../Master_catalog.md) · [A–Z index](A-Z_index.md)', '', nav, '']
     L += ['- [%s](terms/%s.md) (%d)' % (cell(t), term_slug[t], len(term_items[t])) for t in sorted(by_letter[c], key=str.lower)]
     open(os.path.join(CAT, 'index', c + '.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
 L = ['# A–Z index', '', HOME, '', 'Subjects, names and terms, like the index of a book. %d entries. Each entry opens the list of items it appears in.' % len(term_items), '']
 L += ['- [%s](%s.md) — %d entries' % (c, c, len(by_letter[c])) for c in letter_list]
-open(os.path.join(CAT, 'index', 'README.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
+open(os.path.join(CAT, 'index', 'A-Z_index.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
 
 # ---------- topic outline ----------
 topic_items = collections.defaultdict(dict); sub_items = collections.defaultdict(list)
@@ -149,20 +149,20 @@ for t in tops_sorted:
     L.append('')
     sublinks = ['- [%s](%s.md) (%d)' % (cell(k[1]), sslug[k], len(sub_items[k])) for k in subs]
     item_list_page(os.path.join(CAT, 'topics', tslug[t] + '.md'), cell(t), ['**Subheadings:**', ''] + sublinks,
-                   list(topic_items[t].values()), '../', '[← Catalog home](../README.md) · [Topic outline](README.md)')
+                   list(topic_items[t].values()), '../', '[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md)')
     for k in subs:
         item_list_page(os.path.join(CAT, 'topics', sslug[k] + '.md'), '%s › %s' % (cell(t), cell(k[1])), None, sub_items[k], '../',
-                       '[← Catalog home](../README.md) · [Topic outline](README.md) · [%s](%s.md)' % (cell(t), tslug[t]))
-open(os.path.join(CAT, 'topics', 'README.md'), 'w', encoding='utf-8').write('\n'.join(L))
+                       '[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [%s](%s.md)' % (cell(t), tslug[t]))
+open(os.path.join(CAT, 'topics', 'Topic_outline.md'), 'w', encoding='utf-8').write('\n'.join(L))
 
 # ---------- home ----------
 src = collections.Counter(it['source'] for it in items)
-L = ['# Master catalog of Millard J Melnyk\'s work', '', 'Last updated: %s' % TODAY, '',
+L = ['# Master catalog of Millard J Melnyk\'s work', '', 'Last updated: %s' % TODAY, '', '**New here? Read [How to use the catalog](How_to_use_the_catalog.md).**', '',
      '%d items: %s.' % (len(items), ', '.join('%d %s' % (n, s) for s, n in src.most_common())), '',
-     '1. **[All items](list/README.md)** — every item, by date or by title.',
-     '2. **[A–Z index](index/README.md)** — %d subjects, names and terms.' % len(term_items),
-     '3. **[Topic outline](topics/README.md)** — %d topics, %d subheadings.' % (len(topic_items), len(sub_items)), '',
+     '1. **[All items](list/All_items.md)** — every item, by date or by title.',
+     '2. **[A–Z index](index/A-Z_index.md)** — %d subjects, names and terms.' % len(term_items),
+     '3. **[Topic outline](topics/Topic_outline.md)** — %d topics, %d subheadings.' % (len(topic_items), len(sub_items)), '',
      'Data lists (one per source): ' + ' · '.join('[%s](data/%s.csv)' % (k, k) for k in sorted(groups)) + '.', '',
      'Not yet included: 190 coding chats ([list](data/set_aside_coding_chats.csv)).', '']
-open(os.path.join(CAT, 'README.md'), 'w', encoding='utf-8').write('\n'.join(L))
+open(os.path.join(CAT, 'Master_catalog.md'), 'w', encoding='utf-8').write('\n'.join(L))
 print('items', len(items), 'terms', len(term_items), 'topics', len(topic_items), 'subheadings', len(sub_items))

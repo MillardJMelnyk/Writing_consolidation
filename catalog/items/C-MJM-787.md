@@ -15,7 +15,7 @@
 
 **Index terms:** body of Christ; Paul the Apostle; ummah; autonym; puberty; economic sanctions; The Lancet Global Health; Center for Economic and Policy Research
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

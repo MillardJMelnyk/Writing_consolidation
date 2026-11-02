@@ -15,7 +15,7 @@
 
 **Index terms:** René Descartes; cogito ergo sum; methodical doubt; foundationalism; certainty
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

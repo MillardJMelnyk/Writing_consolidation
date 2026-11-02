@@ -15,7 +15,7 @@
 
 **Index terms:** Audacity; Windows 10; audio tempo change; voice recorder
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

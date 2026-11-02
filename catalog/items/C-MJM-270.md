@@ -15,7 +15,7 @@
 
 **Index terms:** evil; evildoing; intent to harm; circular definition; essentialism; consequentialism; Kantian ethics
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

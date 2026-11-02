@@ -15,7 +15,7 @@
 
 **Index terms:** hasbara; Ministry of Strategic Affairs; National Public Diplomacy Directorate; Henry Ford vaccine study; propaganda; AI guardrail; autism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

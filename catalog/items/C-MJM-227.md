@@ -15,7 +15,7 @@
 
 **Index terms:** CLR cleaner; limescale; Amazon Mexico; household cleaner
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

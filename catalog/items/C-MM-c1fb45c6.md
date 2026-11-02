@@ -15,7 +15,7 @@
 
 **Index terms:** amathia; Socrates; Plato; Karl Popper; I. F. Stone; The Republic; authoritarianism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

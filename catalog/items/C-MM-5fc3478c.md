@@ -15,7 +15,7 @@
 
 **Index terms:** timestamp rule; Claude memory; time zone
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

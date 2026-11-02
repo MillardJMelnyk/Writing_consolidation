@@ -15,7 +15,7 @@
 
 **Index terms:** share first; deprive first; authority; content independence; evil; commons
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

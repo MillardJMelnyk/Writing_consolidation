@@ -15,7 +15,7 @@
 
 **Index terms:** potting soil; coco coir; vegetable gardening; compost; Querétaro
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

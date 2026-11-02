@@ -15,7 +15,7 @@
 
 **Index terms:** Daniel Pinchbeck; Nick Land; codependence paradigm; fully adult humanness; accelerationism; nihilism; capital as machine intelligence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

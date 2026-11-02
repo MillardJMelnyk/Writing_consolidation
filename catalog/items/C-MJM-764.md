@@ -15,7 +15,7 @@
 
 **Index terms:** Paulo Freire; Pedagogy of the Oppressed; fair use; oppression; liberation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

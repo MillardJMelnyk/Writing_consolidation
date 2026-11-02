@@ -15,7 +15,7 @@
 
 **Index terms:** Amichai Eliyahu; Israeli Heritage Ministry; Gaza; Palestinian; genocidal rhetoric
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

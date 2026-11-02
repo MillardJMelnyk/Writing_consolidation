@@ -15,7 +15,7 @@
 
 **Index terms:** Steam; disk speed; Windows 11; The Sims 3; Windows Registry; uninstall
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

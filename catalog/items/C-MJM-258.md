@@ -15,7 +15,7 @@
 
 **Index terms:** Lord Acton; absolute power; corruption; 1887
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

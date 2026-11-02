@@ -15,7 +15,7 @@
 
 **Index terms:** chido; Mexican slang; Mexican Spanish
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

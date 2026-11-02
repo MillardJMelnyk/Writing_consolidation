@@ -15,7 +15,7 @@
 
 **Index terms:** rights as fraud; atrocity; human nature; police violence; pacification; magical thinking
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

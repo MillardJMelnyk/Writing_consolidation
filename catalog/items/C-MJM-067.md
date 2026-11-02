@@ -15,7 +15,7 @@
 
 **Index terms:** ownership; paranoid delusion; Pierre-Joseph Proudhon; Kevin Carson; PM Press; Zero Books
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

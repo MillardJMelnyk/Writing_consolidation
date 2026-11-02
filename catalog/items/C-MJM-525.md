@@ -15,7 +15,7 @@
 
 **Index terms:** Jesse Ventura; Minnesota; Conspiracy Theory with Jesse Ventura; truTV; RT America
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

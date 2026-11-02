@@ -15,7 +15,7 @@
 
 **Index terms:** psychosis; psychopathy; Wikipedia; reality testing; false dichotomy; empathy; spectrum
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

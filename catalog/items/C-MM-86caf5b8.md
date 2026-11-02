@@ -15,7 +15,7 @@
 
 **Index terms:** John B. McKinlay; Sonja M. McKinlay; Milbank Memorial Fund Quarterly; mortality decline; sanitation; nutrition
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

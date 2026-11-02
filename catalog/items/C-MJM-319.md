@@ -15,7 +15,7 @@
 
 **Index terms:** secrecy; exposure; transparency; hallucination of power; psychosis
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

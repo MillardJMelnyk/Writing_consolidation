@@ -15,7 +15,7 @@
 
 **Index terms:** Mihaly Csikszentmihalyi; Ed Diener; Martin Seligman; positive psychology; flow; subjective well-being; American Psychological Association
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

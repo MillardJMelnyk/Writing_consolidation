@@ -15,7 +15,7 @@
 
 **Index terms:** rabbi; gentile; Kabbalah; messianic era; antisemitic propaganda; Cristiano Conservador
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

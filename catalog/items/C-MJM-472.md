@@ -15,7 +15,7 @@
 
 **Index terms:** póliza jurídica; WhatsApp; predatory business practice; extortion; back-translation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

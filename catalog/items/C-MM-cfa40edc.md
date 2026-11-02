@@ -15,7 +15,7 @@
 
 **Index terms:** presentation skills; C2 level; Xbox Game Bar; Snipping Tool; screen recording
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** prefix de-; degrowth; decroissance; back-formation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

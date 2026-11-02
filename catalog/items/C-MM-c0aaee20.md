@@ -15,7 +15,7 @@
 
 **Index terms:** sinus congestion; headache; eustachian tube; saline nasal rinse; oxymetazoline; tension headache
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

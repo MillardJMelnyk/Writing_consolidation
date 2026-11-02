@@ -15,7 +15,7 @@
 
 **Index terms:** Mercado Libre; Amazon México; gift option; Gama Italy; hair dryer
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

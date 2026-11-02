@@ -15,7 +15,7 @@
 
 **Index terms:** Ford Pinto; Ford Motor Company; vehicle recall; fuel tank defect; corporate ethics
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

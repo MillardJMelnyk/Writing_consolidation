@@ -15,7 +15,7 @@
 
 **Index terms:** moving company; cotización; WhatsApp message; Spanish translation; Mexico
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

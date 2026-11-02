@@ -15,7 +15,7 @@
 
 **Index terms:** OneNote; Office Theme; dark mode; page color
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

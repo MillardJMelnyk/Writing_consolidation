@@ -15,7 +15,7 @@
 
 **Index terms:** codependence; DSM-5; ICD-11; dependent personality disorder; attachment theory; Bowen family systems theory; infantilism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

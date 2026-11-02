@@ -15,7 +15,7 @@
 
 **Index terms:** Robert Jay Lifton; Thought Reform and the Psychology of Totalism; Central Intelligence Agency; Society for the Investigation of Human Ecology; Korean War; new religious movement; coercive persuasion
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

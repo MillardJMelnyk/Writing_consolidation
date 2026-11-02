@@ -15,7 +15,7 @@
 
 **Index terms:** NVIDIA ShadowPlay; screen recording; LosslessCut; Clipchamp; video cropping
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

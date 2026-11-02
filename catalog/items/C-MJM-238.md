@@ -15,7 +15,7 @@
 
 **Index terms:** psychosis; enculturation; inculturation; racism; misogyny; normalization
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

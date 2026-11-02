@@ -15,7 +15,7 @@
 
 **Index terms:** Los Angeles; smog; ozone; San Gabriel Mountains; climate investment; Low-Emission Vehicle Program
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

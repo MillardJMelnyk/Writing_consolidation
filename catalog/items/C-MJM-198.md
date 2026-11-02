@@ -15,7 +15,7 @@
 
 **Index terms:** roast; joke; children's humor; insult comedy
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

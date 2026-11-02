@@ -15,7 +15,7 @@
 
 **Index terms:** mar; archaic spelling; Pull&Bear; brand name
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

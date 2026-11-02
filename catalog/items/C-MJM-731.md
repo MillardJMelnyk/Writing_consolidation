@@ -15,7 +15,7 @@
 
 **Index terms:** dupeGuru; access denied; OneNote cache; WindowsImageBackup; system image
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

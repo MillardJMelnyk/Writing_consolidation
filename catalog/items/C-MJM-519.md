@@ -15,7 +15,7 @@
 
 **Index terms:** Hilary Swank; Boys Don't Cry; Brandon Teena; Falls City; John Lotter; Academy Award
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

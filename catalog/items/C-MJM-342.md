@@ -15,7 +15,7 @@
 
 **Index terms:** HONOR Magic V5; Samsung Galaxy Z Fold 7; OPPO Find N5; Google Pixel 10 Pro Fold; foldable smartphone
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

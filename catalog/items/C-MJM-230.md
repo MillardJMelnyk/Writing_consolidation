@@ -15,7 +15,7 @@
 
 **Index terms:** red herring; snipe hunt; baldfaced lie; barefaced lie; fool's errand
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Facebook; notification; Meta; account status; shadowban; Accounts Center
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Start11; Stardock; Windows 11 taskbar; pinned shortcut; AppData
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

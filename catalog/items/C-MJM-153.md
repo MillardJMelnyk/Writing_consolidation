@@ -15,7 +15,7 @@
 
 **Index terms:** Luddite; Ned Ludd; technophobe; Industrial Revolution; textile worker
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

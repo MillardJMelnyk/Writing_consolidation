@@ -15,7 +15,7 @@
 
 **Index terms:** Book of Joshua; conquest of Canaan; 1 Kings 6:1; biblical chronology
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

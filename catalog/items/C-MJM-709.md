@@ -15,7 +15,7 @@
 
 **Index terms:** anime; sflix; animewave; Hepburn romanization; Journal with Witch; Jaadugar: A Witch in Mongolia
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

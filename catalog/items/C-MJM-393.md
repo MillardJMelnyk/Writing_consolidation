@@ -15,7 +15,7 @@
 
 **Index terms:** DeepSeek V3.2; Hugging Face; MIT License; local LLM; vLLM; GPU requirements
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** David Graeber; David Wengrow; Robert Kelly; Brian Hayden; egalitarianism; pre-law society; Microsoft Word custom dictionary; domination
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

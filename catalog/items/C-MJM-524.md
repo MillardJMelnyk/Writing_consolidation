@@ -15,7 +15,7 @@
 
 **Index terms:** Canaan; Levant; Palestine; Amarna letters; Habiru; herem; conquest of Canaan; Amalekites
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

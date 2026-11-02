@@ -15,7 +15,7 @@
 
 **Index terms:** Andrzej Lobaczewski; Political Ponerology; pathocracy; Michael Shellenberger; Hannah Arendt; The Dictator's Handbook; Bruce Bueno de Mesquita
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

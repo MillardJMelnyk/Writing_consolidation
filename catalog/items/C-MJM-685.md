@@ -15,7 +15,7 @@
 
 **Index terms:** forex; trading strategy; technical analysis
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

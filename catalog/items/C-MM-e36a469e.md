@@ -15,7 +15,7 @@
 
 **Index terms:** old covenant; Epistle to the Hebrews; Hebrews 8:13; King James Version; admixture; Mozilla Firefox
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Keltner channel; TEMA; EMA; price pivot; channel cross; repulsion; net P/L
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

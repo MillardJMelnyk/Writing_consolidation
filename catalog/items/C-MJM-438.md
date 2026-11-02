@@ -15,7 +15,7 @@
 
 **Index terms:** epistemic work; Rebecca Olson; interprofessional education; video-reflexive ethnography; radiation oncology; Advances in Health Sciences Education
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

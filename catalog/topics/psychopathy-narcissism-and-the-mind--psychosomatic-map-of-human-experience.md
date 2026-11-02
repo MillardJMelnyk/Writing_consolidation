@@ -1,6 +1,6 @@
 # Psychopathy, narcissism and the mind › Psychosomatic map of human experience
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Psychopathy, narcissism and the mind](psychopathy-narcissism-and-the-mind.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Psychopathy, narcissism and the mind](psychopathy-narcissism-and-the-mind.md)
 
 10 items · Sort: [by date](#by-date) · [by title](#by-title)
 

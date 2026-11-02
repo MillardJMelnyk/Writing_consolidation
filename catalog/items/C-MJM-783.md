@@ -15,7 +15,7 @@
 
 **Index terms:** Microsoft Edge; favorites bar; favicon; touch mode; hallucination
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

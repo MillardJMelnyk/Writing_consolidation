@@ -15,7 +15,7 @@
 
 **Index terms:** logic; theory; formal system; shenanigans
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

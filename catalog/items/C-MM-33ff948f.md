@@ -15,7 +15,7 @@
 
 **Index terms:** Lingoforme; cancellation policy; teacher pay; late cancellation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

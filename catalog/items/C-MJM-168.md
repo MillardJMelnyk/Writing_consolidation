@@ -15,7 +15,7 @@
 
 **Index terms:** MacGuffin; canard; agitating; officialdom; hyperbole; morality versus ethics
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

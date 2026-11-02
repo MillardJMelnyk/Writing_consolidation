@@ -15,7 +15,7 @@
 
 **Index terms:** lease agreement; póliza jurídica; SBI Comercializadora; security deposit; penalty clause; Querétaro
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

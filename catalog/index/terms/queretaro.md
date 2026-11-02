@@ -1,6 +1,6 @@
 # Querétaro
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [Q](../Q.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [Q](../Q.md)
 
 28 items · Sort: [by date](#by-date) · [by title](#by-title)
 

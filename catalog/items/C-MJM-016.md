@@ -15,7 +15,7 @@
 
 **Index terms:** archipelago; Kimberley region; satellite imagery; Microsoft Copilot; image geolocation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

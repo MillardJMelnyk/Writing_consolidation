@@ -15,7 +15,7 @@
 
 **Index terms:** stop-loss order; flash crash; liquidity; slippage
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

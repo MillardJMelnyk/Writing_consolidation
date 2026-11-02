@@ -15,7 +15,7 @@
 
 **Index terms:** curt mode; human rights; child sexual abuse; polemical repetition; codependence; psychosis
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

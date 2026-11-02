@@ -15,7 +15,7 @@
 
 **Index terms:** Our treasured death vigil must end; deprive-first; share-first; tragedy of the commons; human nature; Charles Eisenstein; death vigil metaphor
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

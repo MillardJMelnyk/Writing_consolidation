@@ -15,7 +15,7 @@
 
 **Index terms:** patriotism; nationalism; exceptionalism; category error; love of country
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

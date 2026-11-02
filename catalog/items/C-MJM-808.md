@@ -15,7 +15,7 @@
 
 **Index terms:** peer basis; guard-railing; what-about; Claude memory; date and time stamp
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

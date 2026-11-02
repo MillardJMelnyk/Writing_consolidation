@@ -15,7 +15,7 @@
 
 **Index terms:** Hare Psychopathy Checklist-Revised; PCL:SV; Jeremy Coid; Craig Neumann; Robert Hare; score distribution; psychopathy prevalence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Pizzagate; Comet Ping Pong; Jeffrey Epstein; John Podesta; WikiLeaks
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** United Nations; Universal Declaration of Human Rights; Gaza; psychosis; codependence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

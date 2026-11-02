@@ -15,7 +15,7 @@
 
 **Index terms:** BRICS summit; New Delhi; Vladimir Putin; Narendra Modi; Dmitry Peskov; New Development Bank; indigence; homelessness
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

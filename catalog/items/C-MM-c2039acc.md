@@ -15,7 +15,7 @@
 
 **Index terms:** Path of Exile; Vesper crafting; rare item; Chaos Orb; Tzamoto's Ducat
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

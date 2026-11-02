@@ -15,7 +15,7 @@
 
 **Index terms:** Nicolas Hulscher; criminal referral; Anthony Fauci; Vires Law Group; state attorney general; Peter Daszak
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

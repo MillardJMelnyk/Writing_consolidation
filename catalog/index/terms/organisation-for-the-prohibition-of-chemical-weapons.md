@@ -1,6 +1,6 @@
 # Organisation for the Prohibition of Chemical Weapons
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [O](../O.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [O](../O.md)
 
 1 items · Sort: [by date](#by-date) · [by title](#by-title)
 

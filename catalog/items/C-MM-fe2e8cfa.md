@@ -15,7 +15,7 @@
 
 **Index terms:** make ends meet; idiom; personal finance
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Path of Exile; item highlighting; skill gem; gem level lock; gem requirement
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

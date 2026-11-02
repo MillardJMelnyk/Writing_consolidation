@@ -15,7 +15,7 @@
 
 **Index terms:** wind turbine; lifecycle analysis; composite resin; carbon emissions; green energy
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

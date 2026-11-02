@@ -15,7 +15,7 @@
 
 **Index terms:** Logitech MX Master 4; Logitech MX Master 3S; Logitech G515; wireless keyboard
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

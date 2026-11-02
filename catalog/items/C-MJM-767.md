@@ -15,7 +15,7 @@
 
 **Index terms:** empty conversation; Claude; availability check
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Facebook; Simpsonwood conference; McCullough Foundation; Association of American Physicians and Surgeons; CDC whistleblower; vaccine injury testimonial
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Microsoft Word 365; hyperlink; VBA macro; terminatei.com; LED beanie; Bluetooth headphones; Amazon
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

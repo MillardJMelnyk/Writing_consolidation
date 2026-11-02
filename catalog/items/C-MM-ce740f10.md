@@ -15,7 +15,7 @@
 
 **Index terms:** Gaza Health Ministry; The Lancet; indirect death; Gaza death toll; famine
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** narrow way; strait gate; Matthew 7:13-14; Luke 13:24; solity; codependence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

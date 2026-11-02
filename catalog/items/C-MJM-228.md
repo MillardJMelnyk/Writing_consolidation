@@ -15,7 +15,7 @@
 
 **Index terms:** barley; wheat berry; farro; bulgur; satiety; dietary fiber; central Mexico
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

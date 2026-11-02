@@ -1,6 +1,6 @@
 # Belief, truth and epistemics › Epistemics and epistemic work
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Belief, truth and epistemics](belief-truth-and-epistemics.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Belief, truth and epistemics](belief-truth-and-epistemics.md)
 
 82 items · Sort: [by date](#by-date) · [by title](#by-title)
 

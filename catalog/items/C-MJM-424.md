@@ -15,7 +15,7 @@
 
 **Index terms:** Epistle to the Hebrews; cloud of witnesses; martys; nephos; afterlife; departed souls
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

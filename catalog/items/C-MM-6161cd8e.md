@@ -15,7 +15,7 @@
 
 **Index terms:** Claude Code; Claude Opus 4.5; agentic coding; Claude Code on the web
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

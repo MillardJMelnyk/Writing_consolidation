@@ -15,7 +15,7 @@
 
 **Index terms:** cocaine; physical dependence; microdosing; LSD; dopamine; withdrawal
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

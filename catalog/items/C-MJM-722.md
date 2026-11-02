@@ -15,7 +15,7 @@
 
 **Index terms:** dupeGuru; Duplicate Cleaner; DigitalVolcano; duplicate file; file hashing
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

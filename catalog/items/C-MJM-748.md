@@ -15,7 +15,7 @@
 
 **Index terms:** Shahid Bolsen; African slave trade; trans-Saharan slave trade; Arab slave trade; Indian Ocean slave trade; Portugal
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

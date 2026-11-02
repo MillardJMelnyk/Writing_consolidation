@@ -15,7 +15,7 @@
 
 **Index terms:** Max Stirner; Lysander Spooner; Wilhelm Reich; Andrew Łobaczewski; pathocracy; natural law; spook
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

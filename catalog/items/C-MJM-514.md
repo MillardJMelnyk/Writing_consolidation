@@ -15,7 +15,7 @@
 
 **Index terms:** Abrahamic religions; Muhammad; Judaism; Islam; Christianity; pre-Islamic Arabia
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

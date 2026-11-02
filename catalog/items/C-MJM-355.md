@@ -15,7 +15,7 @@
 
 **Index terms:** joint probability; marginal probability; law of large numbers; frequentist probability; coin flip; compound probability
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

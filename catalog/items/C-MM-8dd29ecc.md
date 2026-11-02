@@ -15,7 +15,7 @@
 
 **Index terms:** sic; fool's calculus; cariño; Mexican Spanish; term of endearment
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

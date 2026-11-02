@@ -15,7 +15,7 @@
 
 **Index terms:** filicide; altruistic filicide; postpartum psychosis; Munchausen syndrome by proxy; filicide-suicide; maternal violence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

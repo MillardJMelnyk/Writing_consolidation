@@ -15,7 +15,7 @@
 
 **Index terms:** lemming; White Wilderness; Walt Disney Productions; herd behavior; staged documentary
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

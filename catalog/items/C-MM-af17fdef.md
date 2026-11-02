@@ -15,7 +15,7 @@
 
 **Index terms:** animal intelligence; pig; horse; giraffe; vinyl repair; Coconix
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

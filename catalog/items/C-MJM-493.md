@@ -15,7 +15,7 @@
 
 **Index terms:** 3I/ATLAS; interstellar object; Avi Loeb; James Webb Space Telescope; 'Oumuamua; comet
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

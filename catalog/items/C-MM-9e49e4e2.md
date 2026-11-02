@@ -15,7 +15,7 @@
 
 **Index terms:** excess mortality; JMA Journal; Denis Rancourt; John Campbell; Robert Clancy; Japan; mRNA vaccine
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

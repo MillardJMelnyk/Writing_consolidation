@@ -1,6 +1,6 @@
 # A–Z index
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 Subjects, names and terms, like the index of a book. 7197 entries. Each entry opens the list of items it appears in.
 

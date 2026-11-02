@@ -15,7 +15,7 @@
 
 **Index terms:** Claude Shannon; information theory; entropy; Landauer's principle; equivocation; materialism; DNA
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

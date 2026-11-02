@@ -1,6 +1,6 @@
 # Israel, Zionism and the Gaza genocide › Gaza genocide and casualty figures
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Israel, Zionism and the Gaza genocide](israel-zionism-and-the-gaza-genocide.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Israel, Zionism and the Gaza genocide](israel-zionism-and-the-gaza-genocide.md)
 
 61 items · Sort: [by date](#by-date) · [by title](#by-title)
 

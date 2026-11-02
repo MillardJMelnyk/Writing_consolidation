@@ -15,7 +15,7 @@
 
 **Index terms:** RuneScape: Dragonwilds; Old School RuneScape; Jagex; Valheim; Steam gifting; PvP
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

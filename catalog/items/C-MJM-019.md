@@ -15,7 +15,7 @@
 
 **Index terms:** ownership; deprivation; deprive first, think later; paranoid fantasy; perversity
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

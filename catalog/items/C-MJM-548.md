@@ -15,7 +15,7 @@
 
 **Index terms:** hasbara; Hasbara Handbook; Frank Luntz; The Israel Project; Jewish Agency for Israel; World Union of Jewish Students
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

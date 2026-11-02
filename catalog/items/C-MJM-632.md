@@ -15,7 +15,7 @@
 
 **Index terms:** MetaTrader 5; take profit; trade levels; chart properties
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

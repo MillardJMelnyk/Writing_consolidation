@@ -15,7 +15,7 @@
 
 **Index terms:** Jacque Fresco; resource-based economy; R. D. Laing; Sigmund Freud; Judith Herman; seduction theory; solity; codependence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

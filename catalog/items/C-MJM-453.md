@@ -15,7 +15,7 @@
 
 **Index terms:** remittance tax; One Big Beautiful Bill Act; Wise; Venmo; Bank Secrecy Act; Western Union
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

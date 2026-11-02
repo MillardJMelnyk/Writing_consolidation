@@ -15,7 +15,7 @@
 
 **Index terms:** Central Intelligence Agency; Kuwait; Iran; CENTCOM; Fars News Agency; Grok; misinformation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

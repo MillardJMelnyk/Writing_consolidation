@@ -15,7 +15,7 @@
 
 **Index terms:** Proverbs 24:6; tachbulot; deception; Septuagint; Bible translation; Christianization
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

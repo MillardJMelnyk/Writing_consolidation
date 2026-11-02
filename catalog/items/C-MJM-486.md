@@ -15,7 +15,7 @@
 
 **Index terms:** Moloch; child sacrifice; owl; Bohemian Grove; occult ritual
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

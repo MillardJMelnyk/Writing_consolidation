@@ -1,6 +1,6 @@
 # Android
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [A](../A.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [A](../A.md)
 
 5 items · Sort: [by date](#by-date) · [by title](#by-title)
 

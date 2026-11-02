@@ -15,7 +15,7 @@
 
 **Index terms:** society; social construct; infantilism; codependence; PTSD; Homo sapiens; socialization
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

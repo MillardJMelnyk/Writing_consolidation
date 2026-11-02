@@ -15,7 +15,7 @@
 
 **Index terms:** humanness; codependence; competence; confidence; agency; self-motivation; integrity
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

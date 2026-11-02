@@ -15,7 +15,7 @@
 
 **Index terms:** Jean-Jacques Rousseau; Pierre-Joseph Proudhon; John Locke; What Is Property?; origin of property; labor theory of property
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

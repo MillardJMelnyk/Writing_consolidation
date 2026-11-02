@@ -15,7 +15,7 @@
 
 **Index terms:** John F. Kennedy; The President and the Press; Dimona; Federal Reserve; fabricated quote
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

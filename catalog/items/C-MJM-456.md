@@ -15,7 +15,7 @@
 
 **Index terms:** codependence prevalence; solity; authority deference; bifurcation; civilization
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

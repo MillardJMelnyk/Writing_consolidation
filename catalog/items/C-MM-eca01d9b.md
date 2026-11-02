@@ -15,7 +15,7 @@
 
 **Index terms:** steelman; thesis statement; scope control; debate; discussion question
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

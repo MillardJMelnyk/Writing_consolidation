@@ -15,7 +15,7 @@
 
 **Index terms:** Windows 11; in-place repair install; DISM; sfc scannow; Windows Update; PowerShell
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

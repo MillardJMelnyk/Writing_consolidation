@@ -15,7 +15,7 @@
 
 **Index terms:** debt consolidation; personal loan; Upgrade; PenFed Credit Union; FICO score; APR; credit card debt
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

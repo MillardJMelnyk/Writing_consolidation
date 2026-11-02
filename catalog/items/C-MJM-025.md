@@ -15,7 +15,7 @@
 
 **Index terms:** Audacity; noise reduction; overdubbing; audio recording; keyboard shortcut
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

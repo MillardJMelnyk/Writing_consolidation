@@ -15,7 +15,7 @@
 
 **Index terms:** pariah; social outcast; redundancy; social leper
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

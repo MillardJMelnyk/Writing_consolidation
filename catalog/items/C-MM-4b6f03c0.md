@@ -15,7 +15,7 @@
 
 **Index terms:** margin requirement; leverage; NZDUSD; TRYJPY; exotic currency pair; cTrader
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Jehovah's Witnesses; An End to War — How?; Kingdom of God; preaching campaign; war abolition
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

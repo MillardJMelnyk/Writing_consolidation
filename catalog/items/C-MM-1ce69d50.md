@@ -15,7 +15,7 @@
 
 **Index terms:** radioactivity; thorium; uranium; bismuth; International Journal of Vaccine Theory, Practice, and Research; emoji
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

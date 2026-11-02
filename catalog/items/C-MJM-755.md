@@ -15,7 +15,7 @@
 
 **Index terms:** Linux Mint; NetworkManager; nmcli; USB Wi-Fi adapter; nm-connection-editor
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** comeback; sarcasm; insult
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

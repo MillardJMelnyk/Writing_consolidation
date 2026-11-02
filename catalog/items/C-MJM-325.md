@@ -15,7 +15,7 @@
 
 **Index terms:** BoBo Balance; GoBalance Sport; balance board; build quality
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

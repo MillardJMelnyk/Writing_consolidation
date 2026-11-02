@@ -15,7 +15,7 @@
 
 **Index terms:** handwriting; memory; typing; neural connectivity; Scientific American; learning
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

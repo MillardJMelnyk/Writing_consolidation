@@ -1,6 +1,6 @@
 # Violence, power and evil › War is not war: massacres and euphemisms
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Violence, power and evil](violence-power-and-evil.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Violence, power and evil](violence-power-and-evil.md)
 
 11 items · Sort: [by date](#by-date) · [by title](#by-title)
 

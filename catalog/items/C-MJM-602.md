@@ -15,7 +15,7 @@
 
 **Index terms:** piriformis; greater trochanter; muscle spasm; single-leg bridge; Famous.ai; Deal.ai
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

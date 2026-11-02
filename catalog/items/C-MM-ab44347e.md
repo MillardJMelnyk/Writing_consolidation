@@ -15,7 +15,7 @@
 
 **Index terms:** Anna Paulina Luna; Anthony Fauci; federal pardon; state prosecution; James Uthmeier; Rand Paul; Florida
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

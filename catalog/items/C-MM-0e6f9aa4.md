@@ -15,7 +15,7 @@
 
 **Index terms:** candle wick; retracement; tick data; XAUUSD; approach and recovery segment
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

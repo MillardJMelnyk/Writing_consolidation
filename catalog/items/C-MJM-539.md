@@ -15,7 +15,7 @@
 
 **Index terms:** Law Itself Is the Violation; ReLOVEution NOW!; manuscript redundancy; rule observance; magical thinking
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

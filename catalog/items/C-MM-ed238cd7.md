@@ -15,7 +15,7 @@
 
 **Index terms:** John B. McKinlay; Sonja M. McKinlay; Thomas McKeown; mortality decline; measles; Milbank Memorial Fund Quarterly
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

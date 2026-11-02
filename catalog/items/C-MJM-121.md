@@ -15,7 +15,7 @@
 
 **Index terms:** misanthropy; Anthropic; wordplay; neologism; Greek root anthropos
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

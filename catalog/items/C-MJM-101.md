@@ -15,7 +15,7 @@
 
 **Index terms:** sugar; carbohydrate; glycemic response; blood glucose; legume; diet
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

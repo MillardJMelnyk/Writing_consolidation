@@ -15,7 +15,7 @@
 
 **Index terms:** cTrader; trailing stop; MetaTrader 5; cBot; XAUUSD; past perfect
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

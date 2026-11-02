@@ -15,7 +15,7 @@
 
 **Index terms:** John Ioannidis; Watson et al.; Raphael Lataster; COVID-19 vaccine; lives saved estimate; Journal of Independent Medicine; contrarian
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

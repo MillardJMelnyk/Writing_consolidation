@@ -15,7 +15,7 @@
 
 **Index terms:** JPEG; MacBinary; file header; file recovery
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

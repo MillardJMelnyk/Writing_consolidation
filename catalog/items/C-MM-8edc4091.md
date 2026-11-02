@@ -15,7 +15,7 @@
 
 **Index terms:** SPEI; clave de rastreo; Comprobante Electrónico de Pago; Banxico; BBVA; Banco Azteca
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

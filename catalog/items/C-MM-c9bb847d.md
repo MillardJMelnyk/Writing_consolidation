@@ -15,7 +15,7 @@
 
 **Index terms:** medio ambiente; entorno; energy efficiency label; refrigerator; Mexico
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

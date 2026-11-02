@@ -15,7 +15,7 @@
 
 **Index terms:** gift economy; share first; bioregionalism; consensus; authority; utopia
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

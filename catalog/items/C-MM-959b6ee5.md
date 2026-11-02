@@ -15,7 +15,7 @@
 
 **Index terms:** Menachem Begin; Yitzhak Shamir; Ariel Sharon; Irgun; Lehi; King David Hotel bombing; Balfour Declaration; Deir Yassin massacre
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

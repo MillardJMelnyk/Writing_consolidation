@@ -15,7 +15,7 @@
 
 **Index terms:** Spanish pronunciation; alveolar trill; alveolar tap; diphthong; IPA vowel chart
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

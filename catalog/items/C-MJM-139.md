@@ -15,7 +15,7 @@
 
 **Index terms:** Danish vaccine study; aluminum adjuvant; thimerosal; Simpsonwood meeting; Centers for Disease Control and Prevention; autism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

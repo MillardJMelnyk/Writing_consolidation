@@ -15,7 +15,7 @@
 
 **Index terms:** law; monopoly on violence; sovereign exception; Carl Schmitt; rule of law; cultic denial
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

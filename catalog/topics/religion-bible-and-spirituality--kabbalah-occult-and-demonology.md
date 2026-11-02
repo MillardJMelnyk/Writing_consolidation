@@ -1,6 +1,6 @@
 # Religion, Bible and spirituality › Kabbalah, occult and demonology
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Religion, Bible and spirituality](religion-bible-and-spirituality.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Religion, Bible and spirituality](religion-bible-and-spirituality.md)
 
 11 items · Sort: [by date](#by-date) · [by title](#by-title)
 

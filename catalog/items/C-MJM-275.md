@@ -15,7 +15,7 @@
 
 **Index terms:** hyperia; hysteria; mania; persecution complex; psychopathy; child abuse; epigenetics
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

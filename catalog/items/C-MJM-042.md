@@ -15,7 +15,7 @@
 
 **Index terms:** Geliqua Lala Amini; social media screenshot; facial recognition
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

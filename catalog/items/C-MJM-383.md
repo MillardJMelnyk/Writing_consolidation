@@ -15,7 +15,7 @@
 
 **Index terms:** Francisco Tárrega; classical guitar; Recuerdos de la Alhambra; Capricho Árabe; tremolo technique
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

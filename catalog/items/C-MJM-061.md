@@ -15,7 +15,7 @@
 
 **Index terms:** Siskiyou Pass; Interstate 5; US Route 101; Redwood National and State Parks; Avenue of the Giants
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

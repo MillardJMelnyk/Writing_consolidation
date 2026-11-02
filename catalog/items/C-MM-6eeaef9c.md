@@ -15,7 +15,7 @@
 
 **Index terms:** alcohol consumption; World Health Organization; Romania; Mexico; Vietnam; United Kingdom
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

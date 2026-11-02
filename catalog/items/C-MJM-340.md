@@ -15,7 +15,7 @@
 
 **Index terms:** Cahokia; Teotihuacan; Tenochtitlan; pre-Columbian America; human sacrifice; metallurgy
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

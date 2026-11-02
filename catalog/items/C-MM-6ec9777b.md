@@ -15,7 +15,7 @@
 
 **Index terms:** Damn Yankees; Shoeless Joe from Hannibal Mo; Joe Hardy; Shoeless Joe Jackson; Black Sox Scandal; Kenesaw Mountain Landis; Chicago White Sox
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

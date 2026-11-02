@@ -15,7 +15,7 @@
 
 **Index terms:** Pomeranian; dog behavior; guilty look; Alexandra Horowitz; growling
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

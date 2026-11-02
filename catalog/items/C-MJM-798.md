@@ -15,7 +15,7 @@
 
 **Index terms:** Max Stirner; Eigentum; The Ego and Its Own; Leo Tolstoy; Gustav Landauer; Saul Newman; egoism; anarchism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

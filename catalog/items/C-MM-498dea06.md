@@ -15,7 +15,7 @@
 
 **Index terms:** lease contract; contract translation; PDF generation; notice clause; Claude memory
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

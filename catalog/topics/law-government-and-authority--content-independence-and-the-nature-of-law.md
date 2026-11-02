@@ -1,6 +1,6 @@
 # Law, government and authority › Content-independence and the nature of law
 
-[← Catalog home](../README.md) · [Topic outline](README.md) · [Law, government and authority](law-government-and-authority.md)
+[← Catalog home](../Master_catalog.md) · [Topic outline](Topic_outline.md) · [Law, government and authority](law-government-and-authority.md)
 
 29 items · Sort: [by date](#by-date) · [by title](#by-title)
 

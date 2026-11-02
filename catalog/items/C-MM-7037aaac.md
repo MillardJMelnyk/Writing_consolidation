@@ -15,7 +15,7 @@
 
 **Index terms:** Pfizer documents; 75-year secrecy request; safe and effective; Centers for Disease Control and Prevention; Robert Redfield; Nancy Messonnier
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

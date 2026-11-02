@@ -15,7 +15,7 @@
 
 **Index terms:** Ashkenazi Jews; Sephardic Jews; Mizrahi Jews; Beta Israel; Bukharan Jews; Jewish population
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

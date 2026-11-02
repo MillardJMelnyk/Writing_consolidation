@@ -15,7 +15,7 @@
 
 **Index terms:** Train Dreams; aspect ratio; Adolpho Veloso; Clint Bentley; cinematography
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

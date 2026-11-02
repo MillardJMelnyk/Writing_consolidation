@@ -15,7 +15,7 @@
 
 **Index terms:** Netherlands COVID lawsuit; Rechtbank Noord-Nederland; Leeuwarden; Hearica; live captions; Microsoft Edge
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

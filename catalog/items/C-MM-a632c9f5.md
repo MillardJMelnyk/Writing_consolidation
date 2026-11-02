@@ -15,7 +15,7 @@
 
 **Index terms:** Jeffrey Tucker; Great Barrington Declaration; American Institute for Economic Research; Martin Kulldorff; Jay Bhattacharya; Sunetra Gupta
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

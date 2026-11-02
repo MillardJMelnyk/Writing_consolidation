@@ -15,7 +15,7 @@
 
 **Index terms:** peirasmos; dokimion; Epistle of James; 1 Peter; testing of faith; Koine Greek
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

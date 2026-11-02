@@ -15,7 +15,7 @@
 
 **Index terms:** Gabriela Saldana; Benjamin Netanyahu; Florida Statute 836.10; written threat; Ocean Bank Convocation Center; First Amendment
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

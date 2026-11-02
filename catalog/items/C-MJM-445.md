@@ -15,7 +15,7 @@
 
 **Index terms:** Querétaro; pagaré; lease contract; power of attorney; juicio ejecutivo mercantil; renter's insurance; visa overstay; eviction
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

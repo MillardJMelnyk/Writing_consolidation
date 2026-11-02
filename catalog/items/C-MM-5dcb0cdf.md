@@ -15,7 +15,7 @@
 
 **Index terms:** Dalai Lama; Jeffrey Epstein; Epstein files; pedophilia; Tibetan Computer Resources Centre; US Department of Justice
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Brandon Tatum; YouTube; conservative commentary; former police officer; Trump rally
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

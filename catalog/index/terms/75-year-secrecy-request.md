@@ -1,6 +1,6 @@
 # 75-year secrecy request
 
-[← Catalog home](../../README.md) · [A–Z index](../README.md) · [0-9](../0-9.md)
+[← Catalog home](../../Master_catalog.md) · [A–Z index](../A-Z_index.md) · [0-9](../0-9.md)
 
 1 items · Sort: [by date](#by-date) · [by title](#by-title)
 

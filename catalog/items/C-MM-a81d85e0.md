@@ -15,7 +15,7 @@
 
 **Index terms:** ClocX; Firefox about:config; Split View; container tab; Windows 11
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

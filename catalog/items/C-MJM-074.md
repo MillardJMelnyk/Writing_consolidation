@@ -15,7 +15,7 @@
 
 **Index terms:** immortal time bias; observational study; epidemiology; cohort study
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

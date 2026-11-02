@@ -15,7 +15,7 @@
 
 **Index terms:** OpenAI Codex; GPT-5.3-Codex; Visual Studio Code; approval policy; config.toml
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

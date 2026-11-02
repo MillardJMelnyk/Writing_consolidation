@@ -15,7 +15,7 @@
 
 **Index terms:** sync; resonance; alignment; attuned
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

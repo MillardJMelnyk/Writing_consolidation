@@ -15,7 +15,7 @@
 
 **Index terms:** Croatia; Istria; Rovinj; Adriatic coast; image geolocation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

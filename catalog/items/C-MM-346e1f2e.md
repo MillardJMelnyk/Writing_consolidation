@@ -15,7 +15,7 @@
 
 **Index terms:** Klean Athlete; Pure Encapsulations O.N.E.; Thorne; multivitamin; black seed oil; Nigella sativa; blood pressure; parasite cleanse
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** T-fal; cookware set; pressure cooker; Amazon Mexico; Walmart Mexico; Max-Air Nose Cones; nasal dilator; milk
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

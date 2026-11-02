@@ -15,7 +15,7 @@
 
 **Index terms:** narcissism; theory of mind; ego; persona; C.S. Lewis; The Great Divorce; supremacism
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

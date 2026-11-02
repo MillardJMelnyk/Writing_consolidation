@@ -15,7 +15,7 @@
 
 **Index terms:** untitled chat; empty conversation; Claude
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

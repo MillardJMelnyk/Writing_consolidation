@@ -15,7 +15,7 @@
 
 **Index terms:** Jacques Derrida; il n'y a pas de hors-texte; deconstruction; non-verbal thought; willful blindness
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

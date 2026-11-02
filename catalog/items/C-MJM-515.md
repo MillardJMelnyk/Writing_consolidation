@@ -15,7 +15,7 @@
 
 **Index terms:** Abraham; Genesis Rabbah; midrash; Terah; Sefer HaYashar; Sefaria
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

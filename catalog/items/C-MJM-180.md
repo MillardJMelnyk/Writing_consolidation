@@ -15,7 +15,7 @@
 
 **Index terms:** Bob Black; The Myth of Human Rights; The Abolition of Work; post-left anarchism; human rights; rights formulation
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

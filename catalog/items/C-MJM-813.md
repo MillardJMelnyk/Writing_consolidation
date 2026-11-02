@@ -15,7 +15,7 @@
 
 **Index terms:** baby walker; American Academy of Pediatrics; pediatrician; infant motor development; Canada walker ban
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

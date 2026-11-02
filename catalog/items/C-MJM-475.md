@@ -15,7 +15,7 @@
 
 **Index terms:** conspiracy; Auschwitz-Birkenau; Dachau; Holocaust; crematoria; willful blindness
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

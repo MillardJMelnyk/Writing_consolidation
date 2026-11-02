@@ -15,7 +15,7 @@
 
 **Index terms:** Rosie O'Donnell; Donald Trump; The View; celebrity feud
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

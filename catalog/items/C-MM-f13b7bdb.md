@@ -15,7 +15,7 @@
 
 **Index terms:** lease agreement; penalty clause; rescission; extinción de dominio; tenant rights; contract amendment
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

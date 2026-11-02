@@ -15,7 +15,7 @@
 
 **Index terms:** Lingofor.me; Payoneer; PayPal; IVA; identity verification; PayPal Payouts
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

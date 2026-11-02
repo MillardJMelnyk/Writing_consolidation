@@ -15,7 +15,7 @@
 
 **Index terms:** codependence; solity; infantile dependency; motivated ignorance; recovery movement; information control
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

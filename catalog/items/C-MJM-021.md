@@ -15,7 +15,7 @@
 
 **Index terms:** sensory signal; subconsciousness; perception; filtering function; interface
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

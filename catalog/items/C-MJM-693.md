@@ -15,7 +15,7 @@
 
 **Index terms:** Max Stirner; The Ego and Its Own; spook; Lysander Spooner; No Treason; faith in government; psychosis
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

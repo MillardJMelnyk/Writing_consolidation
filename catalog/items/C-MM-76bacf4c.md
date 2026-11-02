@@ -15,7 +15,7 @@
 
 **Index terms:** Cinépolis; Cinépolis GO; movie theater app; Mexico
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

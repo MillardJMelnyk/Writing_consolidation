@@ -15,7 +15,7 @@
 
 **Index terms:** star of Remphan; Acts 7:43; Amos 5:26; Kiyyun; Saturn; Michael Heiser; Septuagint
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

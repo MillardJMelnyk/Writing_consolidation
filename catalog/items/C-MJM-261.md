@@ -15,7 +15,7 @@
 
 **Index terms:** James Gilligan; hysteria; hyperia; shame; humiliation; demeaning; violence
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

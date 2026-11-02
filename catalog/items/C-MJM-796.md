@@ -15,7 +15,7 @@
 
 **Index terms:** Bill Gates; Albert Bourla; Mark Rutte; Leeuwarden District Court; Peter Stassen; Arno van Kessel; mRNA injury
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

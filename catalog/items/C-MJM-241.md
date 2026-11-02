@@ -15,7 +15,7 @@
 
 **Index terms:** red herring; a-prefixing; straw man; decoy; idiom
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

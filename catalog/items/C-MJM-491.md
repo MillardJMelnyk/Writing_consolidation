@@ -15,7 +15,7 @@
 
 **Index terms:** Harina; Mexico City; Puebla; Querétaro; Seattle; Detroit; homicide rate; ENVIPE
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

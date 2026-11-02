@@ -15,7 +15,7 @@
 
 **Index terms:** Dalai Lama; Tibetan Buddhism; Penpa Tsering; child abuse allegation; Central Tibetan Administration
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

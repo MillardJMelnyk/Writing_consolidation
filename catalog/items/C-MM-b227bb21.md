@@ -15,7 +15,7 @@
 
 **Index terms:** W-8BEN; W-9; 1099-MISC; US citizen abroad; independent contractor agreement; Lingoforme
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** mobile hotspot; Internet Connection Sharing; IP address; Motorola; Totalplay; bandwidth monitoring
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

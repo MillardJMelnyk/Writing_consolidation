@@ -15,7 +15,7 @@
 
 **Index terms:** Ron Johnson; Aaron Siri; Toby Rogers; Jake Scott; United States Senate hearing; Brownstone Institute
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

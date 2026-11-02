@@ -15,7 +15,7 @@
 
 **Index terms:** mnemonic; butcher; slaughter; flay; synonym
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

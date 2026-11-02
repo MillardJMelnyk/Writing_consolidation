@@ -15,7 +15,7 @@
 
 **Index terms:** semantic search; Copilot+ PC; neural processing unit; AI PC; Intel Arrow Lake
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** rightspeak; human rights; violation; child sexual abuse; officialdom; poisoned tree
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

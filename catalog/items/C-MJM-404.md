@@ -15,7 +15,7 @@
 
 **Index terms:** psychopathy; political leader; Google Ngram; Donald Trump; media discourse
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Asurion; Amazon; protection plan; warranty claim
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

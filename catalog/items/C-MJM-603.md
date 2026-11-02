@@ -15,7 +15,7 @@
 
 **Index terms:** sertraline; pregnancy; SSRI; neonatal adaptation syndrome; persistent pulmonary hypertension of the newborn; cardiac septal defect
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

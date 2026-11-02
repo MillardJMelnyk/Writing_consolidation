@@ -15,7 +15,7 @@
 
 **Index terms:** JD Vance; Turning Point USA; child sacrifice; Aztec; Maya; Christian civilization; Mesoamerica
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

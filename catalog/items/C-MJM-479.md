@@ -15,7 +15,7 @@
 
 **Index terms:** Facebook; YouTube; scrolling; video search
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

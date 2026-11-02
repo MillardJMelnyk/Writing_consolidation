@@ -15,7 +15,7 @@
 
 **Index terms:** heterosexuality; homosexuality; LGBTQ+; straight; queer
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Index terms:** Kristi Noem; Donald Trump; Department of Homeland Security; Minneapolis shooting; South Dakota
 
-[← Catalog home](../README.md)
+[← Catalog home](../Master_catalog.md)
 
 ---
 
