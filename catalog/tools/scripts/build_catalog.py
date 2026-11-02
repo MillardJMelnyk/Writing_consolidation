@@ -163,6 +163,14 @@ L = ['# Master catalog of Millard J Melnyk\'s work', '', 'Last updated: %s' % TO
      '2. **[A–Z index](index/A-Z_index.md)** — %d subjects, names and terms.' % len(term_items),
      '3. **[Topic outline](topics/Topic_outline.md)** — %d topics, %d subheadings.' % (len(topic_items), len(sub_items)), '',
      'Data lists (one per source): ' + ' · '.join('[%s](data/%s.csv)' % (k, k) for k in sorted(groups)) + '.', '',
-     'Not yet included: 190 coding chats ([list](data/set_aside_coding_chats.csv)).', '']
+     'Not yet included: 190 coding chats ([list](data/set_aside_coding_chats.csv)).', '',
+     '## Pages', '',
+     '- [How to use the catalog](How_to_use_the_catalog.md) — quick guide.',
+     '- [All items](list/All_items.md) — every item, by year or by letter.',
+     '- [A–Z index](index/A-Z_index.md) — subjects, names and terms.',
+     '- [Topic outline](topics/Topic_outline.md) — topics and subheadings.', '',
+     '## Updating the catalog', '',
+     '- [How_to_update_the_catalog.md](tools/How_to_update_the_catalog.md) — how to add new material and rebuild the catalog.',
+     '- [Topic_tree_with_counts.md](tools/Topic_tree_with_counts.md) — the full topic tree with the number of items under each topic and subheading.', '']
 open(os.path.join(CAT, 'Master_catalog.md'), 'w', encoding='utf-8').write('\n'.join(L))
 print('items', len(items), 'terms', len(term_items), 'topics', len(topic_items), 'subheadings', len(sub_items))
