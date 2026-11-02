@@ -12,6 +12,9 @@
 1. Click this link: https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/Master_catalog.html
 2. At the top right of the file, next to **Raw**, click the download button (the arrow pointing down).
 3. The file saves to your Downloads folder. Move it wherever you like, double-click it to open it in your browser, and bookmark it.
+4. If you make a Windows shortcut to the file and Windows blocks it ("Smart App Control blocked a file that may be unsafe"), remove the "downloaded from the internet" mark from the file: open PowerShell in the folder where the file is and run
+   `Unblock-File "Master_catalog.html"`
+   (use the file's actual name if you renamed it). Or right-click the file, choose **Properties**, tick **Unblock** on the **General** tab, and click **OK**.
 
 The search covers everything in the catalog up to the "Last updated" date shown at the top of the file. After the catalog is updated, download the file again to search the new material.
 

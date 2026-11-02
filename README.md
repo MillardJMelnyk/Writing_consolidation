@@ -5,6 +5,7 @@ Millard J Melnyk's writing and notes from every source, gathered in one place an
 ## What's in this repository
 
 - **[Master catalog](catalog/Master_catalog.md)** — the catalog of all the work: a list of every item (by date or by title), an A–Z index of subjects, names and terms, and a topic outline. **[How to use the catalog](catalog/How_to_use_the_catalog.md)**.
+- **[Master_catalog.html](catalog/Master_catalog.html)** — a downloadable copy of the master catalog page with a full-text search box, to save and use from your own computer. Download steps are in How to use the catalog.
 - **Substack profile PDFs** (top level) — everything listed on substack.com/@millardjmelnyk as of 2026-11-01, newest first, in two searchable PDFs with images:
   - Substack_millardjmelnyk_profile_part1_of_2_2026-11-01_to_2025-08-19.pdf
   - Substack_millardjmelnyk_profile_part2_of_2_2025-08-19_to_2022-07-31.pdf
