@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Master catalog of Millard J Melnyk's work</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{font-family:-apple-system,"Segoe UI",Arial,sans-serif;max-width:920px;margin:30px auto;padding:0 20px;color:#1f2328;line-height:1.5}
+h1{font-size:28px;border-bottom:1px solid #d0d7de;padding-bottom:8px}h2{font-size:21px;border-bottom:1px solid #d0d7de;padding-bottom:6px;margin-top:28px}
+a{color:#0969da}
+.q{width:68%;font-size:16px;padding:7px 9px;border:1px solid #8c959f;border-radius:6px}
+button{font-size:15px;padding:6px 14px;border-radius:6px;border:1px solid #8c959f;background:#f6f8fa;cursor:pointer}
+.opts{font-size:14px;color:#333;margin:8px 0 4px;display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center}
+.opts select,.opts input[type=date]{font-size:14px;padding:2px 4px}
+.st{color:#59636e;margin:8px 0}
+#setup{display:none;border:1px solid #d4a72c;background:#fff8c5;border-radius:6px;padding:10px 14px;margin:14px 0}
+.bar{height:8px;background:#eaeef2;border-radius:4px;overflow:hidden;margin-top:6px}.bar div{height:100%;background:#2da44e;width:0}
+.r{padding:9px 0;border-bottom:1px solid #eaeef2}.r .m{color:#59636e;font-size:13px}.r .s{font-size:14px;color:#333;margin-top:2px}
+mark{background:#fff3a3}mark.w{background:#ffd8a8}
+</style></head><body>
+
+<div id="home">
+<h1>Master catalog of Millard J Melnyk's work</h1>
+<p>Last updated: @@TODAY@@</p>
+<p><b>New here? Read @@HOWTO@@.</b></p>
+<p>@@TOTALS@@</p>
+<div id="setup"><div id="setupmsg"></div><div class="bar"><div id="setupbar"></div></div></div>
+<h2>Search all items</h2>
+<div class="panel" data-p="1"></div>
+<ol>
+<li><b>@@ALL@@</b> — every item, by date or by title.</li>
+<li><b>@@AZ@@</b> — @@NTERMS@@ subjects, names and terms.</li>
+<li><b>@@TOP@@</b> — @@NTOP@@ topics, @@NSUB@@ subheadings.</li>
+</ol>
+<p>Spreadsheet lists: @@CSV1@@ · @@CSV2@@</p>
+<h2>About each part</h2>
+<ul><li>@@HOWTO@@</li><li>@@O1@@</li><li>@@O2@@</li><li>@@O3@@</li></ul>
+<h2>Updating the catalog</h2>
+<ul><li>@@U1@@ — how to add new material and rebuild the catalog.</li>
+<li>@@U2@@ — the full topic tree with the number of items under each topic and subheading.</li>
+<li>@@U3@@ — the 190 coding chats waiting to be added.</li></ul>
+</div>
+
+<div id="resview" style="display:none">
+<p><a href="#" class="back">← Master catalog</a></p>
+<h1>Search results</h1>
+<div class="panel" data-p="2"></div>
+<div id="status" class="st"></div><div id="results"></div>
+<p><button id="more" style="display:none">Show 50 more</button></p>
+<p style="margin-top:18px"><a href="#" class="back">← Master catalog</a></p>
+</div>
+
+<template id="paneltpl">
+<div><input class="q" type="text" placeholder="Word, phrase or idea"> <button class="go">Search</button></div>
+<div class="opts">
+ <label><input type="radio" class="mode" value="meaning" checked> By meaning</label>
+ <label><input type="radio" class="mode" value="exact"> Exact words</label>
+ <label>Level <select class="level">
+  <option value="0">Phrases</option><option value="1">Sentences</option><option value="2" selected>Paragraphs</option>
+  <option value="3">Passages / sections</option><option value="4">Whole items</option></select></label>
+ <label class="strict">Strictness <input type="range" class="cut" min="0.35" max="0.75" step="0.01" value="0.50"> <span class="cutv">0.50</span></label>
+</div>
+<div class="opts">
+ <label><input type="checkbox" class="me"> Only my own words</label>
+ <label>Type <select class="type"><option value="">All</option></select></label>
+ <label>From <input type="date" class="from"></label><label>to <input type="date" class="to"></label>
+ <label>Sort <select class="sort"><option value="strength">Strongest first</option><option value="date">Newest first</option></select></label>
+</div>
+<div class="st ready"></div>
+</template>
+
+<script>/*@@ORTJS@@*/</script>
+<script>/*@@TOKENIZER@@*/</script>
+<script>/*@@CORE@@*/</script>
+<script>
+window.CATALOG_ITEMS = /*@@ITEMS@@*/;
+window.CATALOG_ASSETS = {
+  mjs: "/*@@MJS@@*/", wasm: "/*@@WASM@@*/", model: "/*@@MODEL@@*/", proj: "/*@@PROJ@@*/",
+  vocab: /*@@VOCAB@@*/, dim: /*@@DIM@@*/, scale: /*@@SCALE@@*/,
+  raw: "https://raw.githubusercontent.com/MillardJMelnyk/Writing_consolidation/main/catalog/items/",
+  page: "https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/items/"
+};
+</script>
+<script src="catalog_search_index.js" onerror="window.CATALOG_INDEX_MISSING=true"></script>
+<script>
+/*@@APP@@*/
+</script>
+</body></html>

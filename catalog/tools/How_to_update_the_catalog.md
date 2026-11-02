@@ -13,7 +13,11 @@ Everything needed to add new material and rebuild the catalog. Built 2026-11-02.
   - `extract_items.py` — reads the Substack entries and the AI chat files (from the AI_Chats repo) into one item list, and cuts the reading batches for the helper agents.
   - `finalize_tags.py`, `finalize_tags2.py` — merge the helper agents' tags (first pass, second pass) into one file and build the topic tree with counts.
   - `build_catalog.py` — writes all catalog pages: item pages, item lists, A–Z index, topic outline, data lists.
-  - `build_html.py` — writes `Master_catalog.html`, the downloadable copy of the master catalog page with full-text search of every item.
+  - `build_search_html.py` — writes `Master_catalog.html`, the downloadable copy of the master catalog page with search by meaning and by exact words. It uses the files in `search_build/`.
+  - `fit_projection.py` — fits the fingerprint shrinking stored in `search_build/projection.json`.
+  - `build_html.py`, `build_semantic.py` — earlier versions, replaced by `build_search_html.py`.
+- `search_build/` — the search page's parts: page template and code, the meaning model and its browser engine, tokenizer and projection.
+- `Search_index_format.md` — the layout of the `catalog_search_index.js` file the page builds, for use by other programs.
   - `build_items.py` — older item-page builder, replaced by `build_catalog.py`.
 - `READ2_INSTRUCTIONS.md` — the instructions the helper agents follow when tagging items (current version). `READ_INSTRUCTIONS.md` is the first-pass version.
 - `tree_v1.md` — the current topic tree the agents tag against. `seed_tree.md` is the first draft.
@@ -39,5 +43,5 @@ Everything needed to add new material and rebuild the catalog. Built 2026-11-02.
 2. Turn it into items in the same form as `data/items.jsonl`, with new permanent IDs that never reuse old ones.
 3. Have helper agents tag only the new items with `READ2_INSTRUCTIONS.md` against `tree_v1.md`; any new branches they propose get added to the tree.
 4. Add the new tags to `data/tags_final2.jsonl` and rerun `build_catalog.py` to rebuild every page.
-   Then rerun `build_html.py` to rebuild `Master_catalog.html` (the downloadable copy of the master catalog page with its search box).
+   Then rerun `build_search_html.py` to rebuild `Master_catalog.html`. Note: the search index people build on their own computers is not updated automatically; handling updates is still to be designed.
 5. Check links and counts, then upload.
