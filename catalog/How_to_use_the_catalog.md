@@ -2,6 +2,19 @@
 
 [← Master catalog](Master_catalog.md)
 
+## Two ways to use the catalog
+
+- **On GitHub:** open the master catalog page (below). Everything is one click from there.
+- **From your own computer:** download **Master_catalog.html** once and open it from your drive. It has the same links as the master catalog page, plus a **search box** that finds every item containing a word or phrase.
+
+### Downloading Master_catalog.html
+
+1. Click this link: https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/Master_catalog.html
+2. At the top right of the file, next to **Raw**, click the download button (the arrow pointing down).
+3. The file saves to your Downloads folder. Move it wherever you like, double-click it to open it in your browser, and bookmark it.
+
+The search covers everything in the catalog up to the "Last updated" date shown at the top of the file. After the catalog is updated, download the file again to search the new material.
+
 ## Opening the catalog
 
 1. Click this link: https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/Master_catalog.md — it opens the master catalog page directly.
