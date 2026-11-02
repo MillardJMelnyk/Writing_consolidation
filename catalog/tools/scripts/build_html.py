@@ -41,16 +41,17 @@ body{font-family:-apple-system,"Segoe UI",Arial,sans-serif;max-width:900px;margi
 h1{font-size:28px;border-bottom:1px solid #d0d7de;padding-bottom:8px}h2{font-size:21px;border-bottom:1px solid #d0d7de;padding-bottom:6px;margin-top:28px}
 a{color:#0969da}#q{width:70%%;font-size:16px;padding:7px 9px;border:1px solid #8c959f;border-radius:6px}
 button{font-size:16px;padding:7px 14px;border-radius:6px;border:1px solid #8c959f;background:#f6f8fa;cursor:pointer}
-#status{color:#59636e;margin:8px 0}.r{padding:8px 0;border-bottom:1px solid #eaeef2}.r .m{color:#59636e;font-size:13px}.r .s{font-size:14px;color:#333}
+#status,.st{color:#59636e;margin:8px 0}#q2{width:70%%;font-size:16px;padding:7px 9px;border:1px solid #8c959f;border-radius:6px}.r{padding:8px 0;border-bottom:1px solid #eaeef2}.r .m{color:#59636e;font-size:13px}.r .s{font-size:14px;color:#333}
 mark{background:#fff8c5}
 </style></head><body>
+<div id="home">
 <h1>Master catalog of Millard J Melnyk's work</h1>
 <p>Last updated: %(today)s</p>
 <p><b>New here? Read %(howto)s.</b></p>
 <p>%(total)s items: %(srcline)s.</p>
 <h2>Search all items</h2>
 <p><input id="q" type="text" placeholder="Word or phrase" autofocus> <button id="go">Search</button></p>
-<div id="status">Loading search…</div><div id="results"></div>
+<div id="ready" class="st">Loading search…</div>
 <ol>
 <li><b>%(all)s</b> — every item, by date or by title.</li>
 <li><b>%(az)s</b> — %(nterms)s subjects, names and terms.</li>
@@ -63,29 +64,53 @@ mark{background:#fff8c5}
 <ul><li>%(u1)s — how to add new material and rebuild the catalog.</li>
 <li>%(u2)s — the full topic tree with the number of items under each topic and subheading.</li>
 <li>%(u3)s — the 190 coding chats waiting to be added.</li></ul>
+</div>
+<div id="resview" style="display:none">
+<p><a href="#" id="back">← Master catalog</a></p>
+<h1>Search results</h1>
+<p><input id="q2" type="text" placeholder="Word or phrase"> <button id="go2">Search</button></p>
+<div id="status">Loading search…</div><div id="results"></div>
+</div>
 <script>
 const BASE=%(base)s; const BLOB="%(blob)s"; let DATA=null;
 async function load(){
   const bin=Uint8Array.from(atob(BLOB),c=>c.charCodeAt(0));
   const txt=await new Response(new Blob([bin]).stream().pipeThrough(new DecompressionStream('gzip'))).text();
   DATA=JSON.parse(txt).map(r=>({id:r[0],date:r[1],type:r[2],title:r[3],text:r[4],low:r[4].toLowerCase()}));
-  document.getElementById('status').textContent='Search ready: '+DATA.length.toLocaleString()+' items.';
+  document.getElementById('ready').textContent='Search ready: '+DATA.length.toLocaleString()+' items.';
+  route();
 }
 function esc(s){return s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
-function search(){
-  const q=document.getElementById('q').value.trim(); const out=document.getElementById('results');
-  if(!DATA){return;} if(!q){out.innerHTML='';document.getElementById('status').textContent='Type a word or phrase.';return;}
+function show(q){
+  const out=document.getElementById('results'), st=document.getElementById('status');
+  document.getElementById('q2').value=q;
+  if(!DATA){st.textContent='Loading search…';out.innerHTML='';return;}
   const ql=q.toLowerCase(); const hits=[];
   for(const d of DATA){const i=d.low.indexOf(ql); if(i>=0){let n=0,j=i;while(j>=0){n++;j=d.low.indexOf(ql,j+ql.length);} hits.push([d,i,n]);}}
   hits.sort((x,y)=>y[0].date.localeCompare(x[0].date));
-  document.getElementById('status').textContent=hits.length.toLocaleString()+' items contain "'+q+'" (newest first).';
+  st.textContent=hits.length.toLocaleString()+' items contain "'+q+'" (newest first).';
   out.innerHTML=hits.map(([d,i,n])=>{const s=Math.max(0,i-120),e=Math.min(d.text.length,i+ql.length+160);
     const snip=esc(d.text.slice(s,i))+'<mark>'+esc(d.text.slice(i,i+ql.length))+'</mark>'+esc(d.text.slice(i+ql.length,e));
     return '<div class="r"><a href="'+BASE+'items/'+d.id+'.md">'+esc(d.title)+'</a><div class="m">'+d.date+' · '+esc(d.type)+' · '+n+' match'+(n>1?'es':'')+'</div><div class="s">'+(s>0?'…':'')+snip+(e<d.text.length?'…':'')+'</div></div>';}).join('');
 }
-document.getElementById('go').onclick=search;
-document.getElementById('q').addEventListener('keydown',e=>{if(e.key==='Enter')search();});
-load().catch(e=>{document.getElementById('status').textContent='Search could not load: '+e;});
+function route(){
+  const h=location.hash;
+  if(h.startsWith('#q=')){
+    document.getElementById('home').style.display='none'; document.getElementById('resview').style.display='';
+    show(decodeURIComponent(h.slice(3))); window.scrollTo(0,0);
+  } else {
+    document.getElementById('resview').style.display='none'; document.getElementById('home').style.display='';
+  }
+}
+function go(id){const q=document.getElementById(id).value.trim(); if(q) location.hash='#q='+encodeURIComponent(q);}
+document.getElementById('go').onclick=()=>go('q');
+document.getElementById('go2').onclick=()=>go('q2');
+document.getElementById('q').addEventListener('keydown',e=>{if(e.key==='Enter')go('q');});
+document.getElementById('q2').addEventListener('keydown',e=>{if(e.key==='Enter')go('q2');});
+document.getElementById('back').onclick=e=>{e.preventDefault(); location.hash='';};
+window.addEventListener('hashchange',route);
+route();
+load().catch(e=>{document.getElementById('ready').textContent='Search could not load: '+e;});
 </script></body></html>
 ''' % {
     'today': today, 'howto': a('How_to_use_the_catalog.md', 'How to use the catalog'), 'total': '{:,}'.format(len(items)),
