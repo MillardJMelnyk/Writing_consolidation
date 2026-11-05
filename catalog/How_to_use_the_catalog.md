@@ -40,9 +40,13 @@ The first time, Millards_master_writing_catalog_manager.py gets the parts it nee
 2. **By meaning** finds passages that express the idea, even in different words. **Exact words** finds the words exactly as typed, in that order.
 3. **Level** sets what each result is: a phrase, a sentence, a paragraph, a passage or section, or a whole item. A result counts if what you searched for is present anywhere in it.
 4. **Strictness** (meaning search only): move it right for closer matches only, left for looser ones.
-5. **Only my own words** leaves out Claude's replies and other people's restacked or quoted text. **Type** and **From / to** limit the results by kind of item and by date.
+5. **Only my own words** leaves out Claude's replies and other people's restacked or quoted text. **Type** and **From / to** limit the results by kind of item and by date. Leave **to** empty for no end date.
+   **Type** choices: *AI chat*; *Blog post* (posts from Millard's blogs, with their comments); *Substack chat*; *Substack note* (every note, including restacks of other people's notes and posts); *Substack post*; *Writer's notes* (OneNote and other private sources). Blog posts and writer's notes will appear once that material is added.
 6. **Sort**: *Strongest first* puts first the results most taken up with what you searched for; *Newest first* sorts by date.
-7. Each result shows the item's title (click it to open the item), date, type, strength, and an excerpt with the match highlighted. Excerpts and items are read from GitHub, so they need an internet connection; the search itself does not.
+7. **Results at a time**: how many results are shown at first (20, 50, 200 or 500; 500 if not chosen). **Show … more** at the bottom adds the same number again and says how many it will add; it disappears when every result is shown.
+8. Each result shows the item's title (click it to open the item on GitHub), date, type, strength, and an excerpt with the match highlighted. Excerpts and items are read from GitHub, so they need an internet connection; the search itself does not.
+9. Click the **highlighted text** in a result to read the item right in the catalog page: it opens formatted as on GitHub, scrolled to that spot, with the match highlighted. **← Back to results** (or the browser's back button) returns to the same list at the same spot; **Open on GitHub** opens the item's page on GitHub.
+10. The address of a results page holds all the settings above, so a bookmarked or copied results page shows the same search when opened again.
 
 ## Opening the catalog
 

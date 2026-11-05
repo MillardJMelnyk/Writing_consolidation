@@ -394,7 +394,9 @@ function readyText() {
 function refreshReady() { document.querySelectorAll('.ready').forEach(el => el.textContent = readyText()); }
 let RESULTS = [], SHOWN = 0, CURF = null, LASTSEARCH = '', SAVEDY = 0;
 const PER_OK = [20, 50, 200, 500];
+let ROUTE_SEQ = 0;
 async function route() {
+  const my = ++ROUTE_SEQ; // only the latest call shows its results
   const h = location.hash, rv = $('#resview'), dv = $('#readview');
   if (h.startsWith('#read?')) {
     if (rv.style.display !== 'none') SAVEDY = window.scrollY;
@@ -418,7 +420,9 @@ async function route() {
   if (f.mode === 'meaning' && !SESSION) { st.textContent = 'Meaning search is still loading — try again in a few seconds.'; return; }
   st.textContent = 'Searching…';
   const t = performance.now();
-  RESULTS = await runSearch(f); CURF = f; SHOWN = 0; LASTSEARCH = h;
+  const found = await runSearch(f);
+  if (my !== ROUTE_SEQ) return;
+  RESULTS = found; CURF = f; SHOWN = 0; LASTSEARCH = h;
   st.textContent = RESULTS.length.toLocaleString() + ' ' + LEVELS[f.level] + (RESULTS.length === 1 ? '' : 's') + ' found for "' + f.q + '"' +
     (f.mode === 'meaning' ? ' by meaning' : ' (exact words)') + ' — ' + (f.sort === 'date' ? 'newest first' : f.sort === 'oldest' ? 'oldest first' : 'strongest first') + '. (' + Math.round(performance.now() - t) + ' ms)';
   showMore();
