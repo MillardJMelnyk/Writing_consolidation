@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-04-22 | [PREP Act Brief: "License to Kill" must be repealed.](../../items/S-p-160870124.md) | Substack restacked post |
+| 2025-04-22 | [PREP Act Brief: "License to Kill" must be repealed.](../../items/S-p-160870124.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-04-22 | [PREP Act Brief: "License to Kill" must be repealed.](../../items/S-p-160870124.md) | Substack restacked post |
+| 2025-04-22 | [PREP Act Brief: "License to Kill" must be repealed.](../../items/S-p-160870124.md) | Substack note |

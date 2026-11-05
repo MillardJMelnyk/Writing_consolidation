@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../../items/S-p-199459065.md) | Substack restacked post |
+| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../../items/S-p-199459065.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../../items/S-p-199459065.md) | Substack restacked post |
+| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../../items/S-p-199459065.md) | Substack note |

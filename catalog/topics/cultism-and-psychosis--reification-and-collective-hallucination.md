@@ -9,7 +9,7 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-10-27 | [Spectrum thinking and categorical exclusion](../items/C-MM-958e4363.md) | AI chat |
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack note |
 | 2026-10-17 | [Law as narrative without causal power](../items/C-MM-1fd042d6.md) | AI chat |
 | 2026-10-12 | [Abstract nature of political entities and borders](../items/C-MM-155d18c2.md) | AI chat |
 | 2026-10-04 | [If they lied to you about this, then why the fuck would you still believe they wouldn't li…](../items/S-c-352998828.md) | Substack note |
@@ -44,7 +44,7 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-10-12 | [Abstract nature of political entities and borders](../items/C-MM-155d18c2.md) | AI chat |
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack note |
 | 2025-09-16 | [Also known as "bullshit", "pigshit", "horseshit", and just plain old "shit" as in, "You're…](../items/S-c-156644015.md) | Substack note |
 | 2026-03-27 | [Anarchists who rejected government legitimacy](../items/C-MJM-693.md) | AI chat |
 | 2026-05-16 | [Beliefs are of the devil. Not certain beliefs. Believing itself. There is only one kind of…](../items/S-c-260119887.md) | Substack note |

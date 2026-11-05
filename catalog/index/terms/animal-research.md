@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-08-10 | [Vaccines Induce Autism, Encephalopathy, and Neuropathy in Primates, and Other Lab Animals.](../../items/S-p-209261951.md) | Substack restacked post |
+| 2026-08-10 | [Vaccines Induce Autism, Encephalopathy, and Neuropathy in Primates, and Other Lab Animals.](../../items/S-p-209261951.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-08-10 | [Vaccines Induce Autism, Encephalopathy, and Neuropathy in Primates, and Other Lab Animals.](../../items/S-p-209261951.md) | Substack restacked post |
+| 2026-08-10 | [Vaccines Induce Autism, Encephalopathy, and Neuropathy in Primates, and Other Lab Animals.](../../items/S-p-209261951.md) | Substack note |

@@ -32,7 +32,7 @@
 | 2026-10-16 | [Living permanently in Panama as a US citizen](../items/C-MM-21f74416.md) | AI chat |
 | 2026-10-15 | [Information requires consciousness to exist](../items/C-MM-060e5ad2.md) | AI chat |
 | 2026-10-14 | [Food and dopamine motivation](../items/C-MM-b0268dbc.md) | AI chat |
-| 2026-10-13 | [Defend Your Right To Natural Sunshine](../items/S-p-218936666.md) | Substack restacked post |
+| 2026-10-13 | [Defend Your Right To Natural Sunshine](../items/S-p-218936666.md) | Substack note |
 | 2026-10-12 | [Abstract nature of political entities and borders](../items/C-MM-155d18c2.md) | AI chat |
 | 2026-10-10 | [When human thinking begins](../items/C-MM-7071db62.md) | AI chat |
 | 2026-10-08 | [Limits of historical knowledge on human violence](../items/C-MM-048017ed.md) | AI chat |
@@ -48,16 +48,16 @@
 | 2026-08-27 | [Companion planting for tomatoes](../items/C-MM-e357a2eb.md) | AI chat |
 | 2026-08-21 | [Global alcohol consumption by country](../items/C-MM-6eeaef9c.md) | AI chat |
 | 2026-06-25 | [The funny bone nerve explained](../items/C-MM-56d046bb.md) | AI chat |
-| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../items/S-c-264699275.md) | Substack restacked note |
+| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../items/S-c-264699275.md) | Substack note |
 | 2026-06-11 | [Location of Hialeah](../items/C-MM-bad1727c.md) | AI chat |
 | 2026-06-10 | [Operation High Jump facts and evidence](../items/C-MM-5b147bad.md) | AI chat |
 | 2026-05-30 | [Hoof and mouth disease severity](../items/C-MM-5a385a91.md) | AI chat |
 | 2026-05-25 | [Organic vs toxic arsenic](../items/C-MM-543c4d31.md) | AI chat |
 | 2026-03-28 | [Information as divine consciousness](../items/C-MM-ed0eeb14.md) | AI chat |
-| 2026-02-11 | [Project In Humanity](../items/S-p-187299346.md) | Substack restacked post |
+| 2026-02-11 | [Project In Humanity](../items/S-p-187299346.md) | Substack note |
 | 2026-02-03 | [Global health rankings by population wellness](../items/C-MJM-636.md) | AI chat |
 | 2026-01-27 | [Good explanation of an aspect of the nature of information and its dynamics. This is why t…](../items/S-c-205926904.md) | Substack note |
-| 2026-01-18 | [Opinion: Geopolitical Context of the Embattled Climate Racket](../items/S-p-184919765.md) | Substack restacked post |
+| 2026-01-18 | [Opinion: Geopolitical Context of the Embattled Climate Racket](../items/S-p-184919765.md) | Substack note |
 | 2026-01-18 | [💬 If I want to get away from Ame...](../items/C-MJM-601.md) | AI chat |
 | 2026-01-14 | [Tall buildings resisting lateral forces](../items/C-MJM-587.md) | AI chat |
 | 2026-01-05 | [If there were nothing to the idea that the universe is aware of us (sun included), there w…](../items/S-c-195677321.md) | Substack note |
@@ -123,7 +123,7 @@
 | 2026-08-27 | [Companion planting for tomatoes](../items/C-MM-e357a2eb.md) | AI chat |
 | 2025-08-23 | [Cosmic Void Comparison](../items/C-MJM-219.md) | AI chat |
 | 2025-09-17 | [Cycle of domestic violence](../items/C-MJM-262.md) | AI chat |
-| 2026-10-13 | [Defend Your Right To Natural Sunshine](../items/S-p-218936666.md) | Substack restacked post |
+| 2026-10-13 | [Defend Your Right To Natural Sunshine](../items/S-p-218936666.md) | Substack note |
 | 2025-12-06 | [Defining belief and its meaning](../items/C-MJM-413.md) | AI chat |
 | 2026-09-03 | [Detecting remote internet connections to your computer](../items/C-MM-f37ab00f.md) | AI chat |
 | 2025-11-24 | [Evolution through mutation and natural selection](../items/C-MJM-349.md) | AI chat |
@@ -137,7 +137,7 @@
 | 2025-10-12 | [Grace and the normalized narcissism of “discovery”](../items/S-p-175984702.md) | Substack post |
 | 2025-07-27 | [Handwriting and Brain Memory](../items/C-MJM-110.md) | AI chat |
 | 2026-05-30 | [Hoof and mouth disease severity](../items/C-MM-5a385a91.md) | AI chat |
-| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../items/S-c-264699275.md) | Substack restacked note |
+| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../items/S-c-264699275.md) | Substack note |
 | 2025-05-29 | [Identifying Coastal Archipelago Region](../items/C-MJM-016.md) | AI chat |
 | 2026-01-18 | [💬 If I want to get away from Ame...](../items/C-MJM-601.md) | AI chat |
 | 2026-01-05 | [If there were nothing to the idea that the universe is aware of us (sun included), there w…](../items/S-c-195677321.md) | Substack note |
@@ -165,14 +165,14 @@
 | 2026-10-29 | [Niassa location](../items/C-MM-f1797d02.md) | AI chat |
 | 2026-10-27 | [NIH genetics research site visits](../items/C-MM-1fb3e443.md) | AI chat |
 | 2026-06-10 | [Operation High Jump facts and evidence](../items/C-MM-5b147bad.md) | AI chat |
-| 2026-01-18 | [Opinion: Geopolitical Context of the Embattled Climate Racket](../items/S-p-184919765.md) | Substack restacked post |
+| 2026-01-18 | [Opinion: Geopolitical Context of the Embattled Climate Racket](../items/S-p-184919765.md) | Substack note |
 | 2025-11-23 | [Opus - Probability of human complexity without directed design](../items/C-MJM-344.md) | AI chat |
 | 2026-05-25 | [Organic vs toxic arsenic](../items/C-MM-543c4d31.md) | AI chat |
 | 2025-07-16 | [Origins of Homo Sapiens Timeline](../items/C-MJM-082.md) | AI chat |
 | 2025-08-03 | [Photo Metadata Analysis](../items/C-MJM-125.md) | AI chat |
 | 2025-09-04 | [Political System Models Taxonomy](../items/C-MJM-243.md) | AI chat |
 | 2026-09-29 | [Pomeranian growling when feeling guilty](../items/C-MM-2d694df6.md) | AI chat |
-| 2026-02-11 | [Project In Humanity](../items/S-p-187299346.md) | Substack restacked post |
+| 2026-02-11 | [Project In Humanity](../items/S-p-187299346.md) | Substack note |
 | 2024-09-10 | [Proof of grace](../items/S-p-148741302.md) | Substack post |
 | 2025-06-05 | [Psychosomatic map of human experience](../items/C-MJM-027.md) | AI chat |
 | 2026-10-26 | [Radioactive elements](../items/C-MM-1ce69d50.md) | AI chat |

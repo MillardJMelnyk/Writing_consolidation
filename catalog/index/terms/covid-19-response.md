@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2023-09-17 | [This is a great essay and I like Boenhoffer. However, I disagree that the government respo…](../../items/S-c-39821218.md) | Substack restacked note |
+| 2023-09-17 | [This is a great essay and I like Boenhoffer. However, I disagree that the government respo…](../../items/S-c-39821218.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2023-09-17 | [This is a great essay and I like Boenhoffer. However, I disagree that the government respo…](../../items/S-c-39821218.md) | Substack restacked note |
+| 2023-09-17 | [This is a great essay and I like Boenhoffer. However, I disagree that the government respo…](../../items/S-c-39821218.md) | Substack note |

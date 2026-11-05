@@ -8,12 +8,12 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-24 | [The Silent War of Eugenics: Investigating the 1990's "bump" in cancer rates in the US.](../../items/S-p-200230336.md) | Substack restacked post |
-| 2026-06-03 | [Vaccination Campaigns and Coverage Prior to 1930.](../../items/S-p-198494607.md) | Substack restacked post |
+| 2026-06-24 | [The Silent War of Eugenics: Investigating the 1990's "bump" in cancer rates in the US.](../../items/S-p-200230336.md) | Substack note |
+| 2026-06-03 | [Vaccination Campaigns and Coverage Prior to 1930.](../../items/S-p-198494607.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-24 | [The Silent War of Eugenics: Investigating the 1990's "bump" in cancer rates in the US.](../../items/S-p-200230336.md) | Substack restacked post |
-| 2026-06-03 | [Vaccination Campaigns and Coverage Prior to 1930.](../../items/S-p-198494607.md) | Substack restacked post |
+| 2026-06-24 | [The Silent War of Eugenics: Investigating the 1990's "bump" in cancer rates in the US.](../../items/S-p-200230336.md) | Substack note |
+| 2026-06-03 | [Vaccination Campaigns and Coverage Prior to 1930.](../../items/S-p-198494607.md) | Substack note |

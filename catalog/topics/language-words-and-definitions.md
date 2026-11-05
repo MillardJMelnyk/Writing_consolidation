@@ -37,7 +37,7 @@
 | 2026-10-16 | [Understanding binomials](../items/C-MM-623c5f58.md) | AI chat |
 | 2026-10-15 | [Degrow prefix analysis](../items/C-MM-df6522f8.md) | AI chat |
 | 2026-10-15 | [Violent felony crime rate and systemic targeting](../items/C-MM-7a09c73d.md) | AI chat |
-| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack note |
 | 2026-10-14 | [(no text)](../items/S-c-360821232.md) | Substack note |
 | 2026-10-14 | [Food and dopamine motivation](../items/C-MM-b0268dbc.md) | AI chat |
 | 2026-10-14 | [Thought-terminating clichés as performative judgment](../items/C-MM-24ed7721.md) | AI chat |
@@ -118,7 +118,7 @@
 | 2026-05-26 | [There is no honor in military service. There is no honor in terrorizing and killing people…](../items/S-c-265418770.md) | Substack note |
 | 2026-05-18 | [<https://www.facebook.com/share/p/1E7Jx1k1Vu/ "Orgy of antisemitism". I'm not saying there…](../items/S-c-261009362.md) | Substack note |
 | 2026-05-16 | [Evaluating Grok's responses on Polycarp and Gnosticism](../items/C-MM-8179fe55.md) | AI chat |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack note |
 | 2026-04-06 | [99 out of 100 people I hear using "cognitive dissonance" have not a fucking clue what it i…](../items/S-c-239202844.md) | Substack note |
 | 2026-03-19 | [There's someone lately who keeps barking, "BULLSHIT!" in response to my Israel-related pos…](../items/S-c-230246836.md) | Substack note |
 | 2026-03-15 | [Casual greeting exchange](../items/C-MM-d6f7b2ec.md) | AI chat |
@@ -461,7 +461,7 @@
 | 2026-01-12 | [Modern slang for giving praise and respect](../items/C-MJM-579.md) | AI chat |
 | 2025-08-18 | [Moral Erosion and Tolerance](../items/C-MJM-186.md) | AI chat |
 | 2025-10-12 | [Narratives of power and persuasion](../items/C-MJM-299.md) | AI chat |
-| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack note |
 | 2026-10-14 | [(no text)](../items/S-c-360821232.md) | Substack note |
 | 2026-10-10 | [(no text)](../items/S-c-357499662.md) | Substack note |
 | 2026-09-27 | [(no text)](../items/S-c-347323878.md) | Substack note |
@@ -563,7 +563,7 @@
 | 2026-10-15 | [Violent felony crime rate and systemic targeting](../items/C-MM-7a09c73d.md) | AI chat |
 | 2025-09-25 | [Watch this and ask yourself: To whom do the distinctions between mass murder, ethnic clean…](../items/S-c-159779770.md) | Substack note |
 | 2025-12-28 | [Watts on cultural dishonesty and individual awakening](../items/C-MJM-542.md) | AI chat |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack note |
 | 2026-10-01 | [What is denim](../items/C-MM-059b5cb5.md) | AI chat |
 | 2025-08-10 | [What is truth, really?](../items/C-MJM-154.md) | AI chat |
 | 2026-09-28 | [// When you accept a particular ideology as the absolute truth and become so devoted to it…](../items/S-c-348187056.md) | Substack note |

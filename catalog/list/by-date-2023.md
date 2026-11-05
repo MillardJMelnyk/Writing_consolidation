@@ -17,7 +17,7 @@
 | 2023-09-20 | [If you can't do this, you're no revolutionary](../items/S-p-107660041.md) | Substack post |
 | 2023-09-19 | [(no text)](../items/S-c-40330157.md) | Substack note |
 | 2023-09-19 | [Bronny James, Jamie Fox, and more. McCullough talks with these guys because they want to t…](../items/S-c-40329432.md) | Substack note |
-| 2023-09-17 | [This is a great essay and I like Boenhoffer. However, I disagree that the government respo…](../items/S-c-39821218.md) | Substack restacked note |
+| 2023-09-17 | [This is a great essay and I like Boenhoffer. However, I disagree that the government respo…](../items/S-c-39821218.md) | Substack note |
 | 2023-09-17 | [I read stuff I wrote a decade past or more, and it still speaks to me. Or at least I don’t…](../items/S-c-40229789.md) | Substack note |
 | 2023-09-16 | [The ReLOVEution logo. You get to choose which finger you want…](../items/S-c-40199919.md) | Substack note |
 | 2023-09-16 | [Started my new author page on Facebook, check it out! <https://www.facebook.com/MJMelnyk/](../items/S-c-40199882.md) | Substack note |

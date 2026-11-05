@@ -43,12 +43,12 @@
 | 2025-11-25 | [Finding studies cited in vaccine article](../items/C-MJM-352.md) | AI chat |
 | 2025-11-24 | [Evolution through random variation and natural selection](../items/C-MJM-350.md) | AI chat |
 | 2025-11-23 | [Opus - Probability of human complexity without directed design](../items/C-MJM-344.md) | AI chat |
-| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../items/S-c-169646454.md) | Substack restacked note |
+| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../items/S-c-169646454.md) | Substack note |
 | 2025-10-29 | [Very few scientists will understand this. Very few scientists have read Kuhn. The majority…](../items/S-c-171291191.md) | Substack note |
 | 2025-10-19 | [So, when this is the case and this has always been the case -- NO EVIDENCE -- what do your…](../items/S-c-168021131.md) | Substack note |
 | 2025-10-13 | [Kind off the ReLOVEution topic—except failures of clear thinking are always well in scope—…](../items/S-c-165906608.md) | Substack note |
 | 2025-10-04 | [@Denis Rancourt : Sorry to bother you, you’re probably busy, but could you take a minute, …](../items/S-c-162900969.md) | Substack note |
-| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../items/S-c-155670947.md) | Substack restacked note |
+| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../items/S-c-155670947.md) | Substack note |
 | 2025-09-17 | [Universe composition percentage](../items/C-MJM-264.md) | AI chat |
 | 2025-09-01 | [Scientific Information Verification Criteria](../items/C-MJM-234.md) | AI chat |
 | 2025-08-27 | [(no text)](../items/S-c-149753349.md) | Substack note |
@@ -110,11 +110,11 @@
 | 2025-08-27 | [(no text)](../items/S-c-149753349.md) | Substack note |
 | 2025-08-18 | [(no text)](../items/S-c-146620437.md) | Substack note |
 | 2025-08-08 | [(no text)](../items/S-c-143515468.md) | Substack note |
-| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../items/S-c-155670947.md) | Substack restacked note |
+| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../items/S-c-155670947.md) | Substack note |
 | 2025-08-11 | [Objectivity vs. Subjectivity: A Philosophical Challenge](../items/C-MJM-159.md) | AI chat |
 | 2025-11-23 | [Opus - Probability of human complexity without directed design](../items/C-MJM-344.md) | AI chat |
 | 2025-08-11 | [Part I - Objectivity is a myth ———————————— I delve into epistemics because pretty much al…](../items/S-c-144420704.md) | Substack note |
-| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../items/S-c-169646454.md) | Substack restacked note |
+| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../items/S-c-169646454.md) | Substack note |
 | 2025-06-07 | [Philosophical Reflection on Evil](../items/C-MJM-037.md) | AI chat |
 | 2026-10-26 | [Radioactive elements](../items/C-MM-1ce69d50.md) | AI chat |
 | 2025-11-29 | [Science under enforced honesty](../items/C-MJM-380.md) | AI chat |

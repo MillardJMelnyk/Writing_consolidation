@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-09 | [Hospitals Took Bribes to Kill You and Blame It on COVID](../../items/S-p-200128464.md) | Substack restacked post |
+| 2026-06-09 | [Hospitals Took Bribes to Kill You and Blame It on COVID](../../items/S-p-200128464.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-09 | [Hospitals Took Bribes to Kill You and Blame It on COVID](../../items/S-p-200128464.md) | Substack restacked post |
+| 2026-06-09 | [Hospitals Took Bribes to Kill You and Blame It on COVID](../../items/S-p-200128464.md) | Substack note |

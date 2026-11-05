@@ -23,7 +23,7 @@
 | 2025-12-07 | [Domination impulse in human nature](../../items/C-MJM-417.md) | AI chat |
 | 2025-09-21 | [How many people who truly think freely do you know? How many will stick to the truth and r…](../../items/S-c-158436636.md) | Substack note |
 | 2025-09-21 | [What would your reaction have been to this meme 10 years ago? Or even just 5 years ago? Th…](../../items/S-c-158434948.md) | Substack note |
-| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../../items/S-p-174131078.md) | Substack restacked post |
+| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../../items/S-p-174131078.md) | Substack note |
 | 2025-09-19 | [Authoritarian narrative psychology](../../items/C-MJM-266.md) | AI chat |
 | 2025-09-01 | [(no text)](../../items/S-c-151410737.md) | Substack note |
 | 2025-08-19 | [(no text)](../../items/S-c-146967337.md) | Substack note |
@@ -61,7 +61,7 @@
 | 2025-09-21 | [How many people who truly think freely do you know? How many will stick to the truth and r…](../../items/S-c-158436636.md) | Substack note |
 | 2024-08-01 | [I was recently asked, “Given that the authorities keep lying to the people, why do the peo…](../../items/S-c-64042876.md) | Substack note |
 | 2024-11-23 | [If you "support" Israel, you are a fucking evil, violence-crazed, genocide-loving, idiot c…](../../items/S-c-78559453.md) | Substack note |
-| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../../items/S-p-174131078.md) | Substack restacked post |
+| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../../items/S-p-174131078.md) | Substack note |
 | 2025-12-07 | [In which I show that the idea that domination is inherent to "human nature" is itself a sy…](../../items/S-c-185248865.md) | Substack note |
 | 2026-09-05 | [Mental slaves deny their slavery. Cultists deny their cultism. Both alike vilify and demon…](../../items/S-c-330447583.md) | Substack note |
 | 2025-09-01 | [(no text)](../../items/S-c-151410737.md) | Substack note |

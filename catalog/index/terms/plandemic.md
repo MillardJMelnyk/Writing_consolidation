@@ -9,11 +9,11 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-09-04 | [(no text)](../../items/S-c-329683340.md) | Substack note |
-| 2025-11-12 | [(no text)](../../items/S-c-170629689.md) | Substack restacked note |
+| 2025-11-12 | [(no text)](../../items/S-c-170629689.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
 | 2026-09-04 | [(no text)](../../items/S-c-329683340.md) | Substack note |
-| 2025-11-12 | [(no text)](../../items/S-c-170629689.md) | Substack restacked note |
+| 2025-11-12 | [(no text)](../../items/S-c-170629689.md) | Substack note |

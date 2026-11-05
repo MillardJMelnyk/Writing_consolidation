@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../../items/S-c-374235140.md) | Substack restacked note |
+| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../../items/S-c-374235140.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../../items/S-c-374235140.md) | Substack restacked note |
+| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../../items/S-c-374235140.md) | Substack note |

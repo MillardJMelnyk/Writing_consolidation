@@ -251,11 +251,15 @@ function phraseStart(s) { // first phrase index of sentence s (phrases are store
 }
 
 // ---------- excerpts (read live from the item page on GitHub)
-const MD_CACHE = new Map();
+const MD_CACHE = new Map(), PLAIN_CACHE = new Map();
+function itemMd(id) {
+  if (!MD_CACHE.has(id)) MD_CACHE.set(id, fetch(A.raw + id + '.md').then(r => { if (!r.ok) throw new Error('not found'); return r.text(); }));
+  return MD_CACHE.get(id);
+}
 async function itemPlain(n) {
   const id = IDX.itemMeta[n].id;
-  if (!MD_CACHE.has(id)) MD_CACHE.set(id, fetch(A.raw + id + '.md').then(r => r.text()).then(md => C.parseItem(md, IDX.itemMeta[n].by).plain));
-  return MD_CACHE.get(id);
+  if (!PLAIN_CACHE.has(id)) PLAIN_CACHE.set(id, itemMd(id).then(md => C.parseItem(md, IDX.itemMeta[n].by).plain));
+  return PLAIN_CACHE.get(id);
 }
 async function excerptHTML(r, f) {
   const X = IDX, plain = await itemPlain(r.item);
@@ -263,22 +267,106 @@ async function excerptHTML(r, f) {
   let hs, he;
   if (r.phr >= 0) { hs = X.phr_start[r.phr]; he = X.phr_end[r.phr]; } else { hs = X.sen_start[r.sen]; he = X.sen_end[r.sen]; }
   let s = Math.max(ps, hs - 220), e = Math.min(pe, he + 260);
-  let body = esc(plain.slice(s, hs)) + '<mark>' + esc(plain.slice(hs, he)) + '</mark>' + esc(plain.slice(he, e));
+  let mk = t => esc(t);
   if (f.mode === 'exact') {
     const words = C.wordSpans(f.q).map(w => w[2]);
     const re = new RegExp('\\b(' + words.map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('\\W+') + ')\\b', 'gi');
-    body = body.replace(re, '<mark class="w">$1</mark>');
+    mk = t => esc(t).replace(re, '<mark class="w">$1</mark>');
   }
+  const link = '#read?' + new URLSearchParams({ id: X.itemMeta[r.item].id, hs: String(hs), he: String(he) }).toString();
+  const body = mk(plain.slice(s, hs)) + '<a class="hit" href="' + esc(link) + '" title="Open the item at this spot"><mark>' + mk(plain.slice(hs, he)) + '</mark></a>' + mk(plain.slice(he, e));
   return (s > ps ? '…' : '') + body + (e < pe ? '…' : '');
+}
+
+// ---------- reading view: the item shown in this page, formatted, scrolled to the hit
+const READ_OK = { A: 1, B: 1, I: 1, EM: 1, STRONG: 1, P: 1, BR: 1, HR: 1, H1: 1, H2: 1, H3: 1, H4: 1, H5: 1, H6: 1, UL: 1, OL: 1, LI: 1,
+  BLOCKQUOTE: 1, PRE: 1, CODE: 1, TABLE: 1, THEAD: 1, TBODY: 1, TR: 1, TH: 1, TD: 1, IMG: 1, DEL: 1, S: 1, SUP: 1, SUB: 1, CITE: 1,
+  DETAILS: 1, SUMMARY: 1, KBD: 1, INPUT: 1 };
+const READ_DROP = { SCRIPT: 1, STYLE: 1, IFRAME: 1, OBJECT: 1, EMBED: 1, NOSCRIPT: 1, TEMPLATE: 1 };
+function renderMd(md, base) { // markdown -> safe element, links and images resolved against the item's GitHub page
+  const box = document.createElement('div');
+  box.innerHTML = window.marked.parse(md, { gfm: true });
+  [...box.querySelectorAll('*')].forEach(el => {
+    if (!el.parentNode) return;
+    if (READ_DROP[el.tagName]) { el.remove(); return; }
+    if (!READ_OK[el.tagName]) { el.replaceWith(...el.childNodes); return; }
+    for (const at of [...el.attributes]) {
+      const keep = (el.tagName === 'A' && at.name === 'href') || (el.tagName === 'IMG' && (at.name === 'src' || at.name === 'alt' || at.name === 'title')) ||
+        (el.tagName === 'INPUT' && (at.name === 'type' || at.name === 'checked' || at.name === 'disabled')) || ((el.tagName === 'TH' || el.tagName === 'TD') && at.name === 'align');
+      if (!keep) el.removeAttribute(at.name);
+    }
+    if (el.tagName === 'INPUT') { if (el.getAttribute('type') !== 'checkbox') el.remove(); else el.setAttribute('disabled', ''); }
+    for (const at of ['href', 'src']) if (el.hasAttribute(at)) {
+      let u; try { u = new URL(el.getAttribute(at), base); } catch (e) { u = null; }
+      if (u && /^(https?|mailto):$/.test(u.protocol)) el.setAttribute(at, u.href); else el.removeAttribute(at);
+    }
+  });
+  return box;
+}
+function markHit(root, hitText, nth) { // find the hit's words in the shown text and highlight them; returns the first mark or null
+  const want = C.wordSpans(hitText).map(w => w[2]);
+  if (!want.length) return null;
+  const words = [], walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+  for (let n = walker.nextNode(); n; n = walker.nextNode()) for (const w of C.wordSpans(n.nodeValue)) words.push({ n, s: w[0], e: w[1], w: w[2] });
+  const find = seq => { const out = []; for (let i = 0; i + seq.length <= words.length; i++) { let ok = true; for (let j = 0; j < seq.length; j++) if (words[i + j].w !== seq[j]) { ok = false; break; } if (ok) out.push(i); } return out; };
+  const noNum = want.filter(w => !/^\d+$/.test(w)); // list numbers in the text are not part of the shown text
+  let at = -1;
+  for (const seq of [want, want.slice(0, 6), want.slice(0, 3), noNum.length >= 2 ? noNum : []]) { if (!seq.length) continue; const m = find(seq); if (m.length) { at = m[Math.min(nth, m.length - 1)]; break; } }
+  if (at < 0) return null;
+  const last = Math.min(words.length - 1, at + want.length - 1), first = words[at];
+  // nodes from the first word's node to the last word's node, each marked over the covered part
+  const nodes = []; let inside = false;
+  const w2 = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+  for (let n = w2.nextNode(); n; n = w2.nextNode()) { if (n === first.n) inside = true; if (inside) nodes.push(n); if (n === words[last].n) break; }
+  let firstMark = null;
+  nodes.forEach(n => {
+    const s = n === first.n ? first.s : 0, e = n === words[last].n ? words[last].e : n.nodeValue.length;
+    if (e <= s) return;
+    const r = document.createRange(); r.setStart(n, s); r.setEnd(n, e);
+    const m = document.createElement('mark'); m.className = 'hitmark';
+    try { r.surroundContents(m); if (!firstMark) firstMark = m; } catch (err) { }
+  });
+  return firstMark;
+}
+let READ_SEQ = 0;
+async function openRead(sp) {
+  const my = ++READ_SEQ;
+  const id = sp.get('id') || '', hs = +(sp.get('hs') || 0), he = +(sp.get('he') || 0);
+  const ghUrl = A.page + id + '.md';
+  $('#readgh').href = ghUrl;
+  const back = $('#readback');
+  if (LASTSEARCH) { back.href = LASTSEARCH; back.textContent = '← Back to results'; } else { back.href = '#'; back.textContent = '← Master catalog'; }
+  const note = $('#readnote'), box = $('#readtext');
+  note.textContent = 'Loading…'; box.innerHTML = '';
+  let md;
+  try { md = (await itemMd(id)).replace(/\r\n?/g, '\n'); }
+  catch (e) { if (my !== READ_SEQ) return; note.innerHTML = 'This item could not be read from GitHub (no internet connection?). <a href="' + esc(ghUrl) + '">Open it on GitHub</a>.'; return; }
+  if (my !== READ_SEQ || location.hash.indexOf('#read?') !== 0) return; // moved on meanwhile
+  // same split as the search uses: the item's text starts after the line under "Catalog home"
+  const home = md.indexOf('[← Catalog home]');
+  const cut = home >= 0 ? md.indexOf('\n---\n', home) + 5 : 0;
+  box.appendChild(renderMd(md.slice(0, cut), ghUrl));
+  const bodyBox = renderMd(md.slice(cut), ghUrl);
+  box.appendChild(bodyBox);
+  note.textContent = '';
+  if (he > hs) {
+    const meta = ITEMS.find(x => x.id === id);
+    const plain = C.parseItem(md, meta ? meta.by : '').plain, hit = plain.slice(hs, he);
+    const want = C.wordSpans(hit).map(w => w[2]), pw = C.wordSpans(plain.slice(0, hs)).map(w => w[2]);
+    let nth = 0; // how many times the same words appear before the hit
+    for (let i = 0; i + want.length <= pw.length; i++) { let ok = true; for (let j = 0; j < want.length; j++) if (pw[i + j] !== want[j]) { ok = false; break; } if (ok) nth++; }
+    const m = markHit(bodyBox, hit, nth);
+    if (m) { m.scrollIntoView({ block: 'center' }); return; }
+    note.textContent = 'The exact spot could not be found on this page; showing the item from the top.';
+  }
+  window.scrollTo(0, 0);
 }
 
 // ---------- UI
 const LEVELS = ['phrase', 'sentence', 'paragraph', 'passage / section', 'whole item'];
 function buildPanels() {
-  const types = [...new Set(ITEMS.map(x => x.type))].sort();
   document.querySelectorAll('.panel').forEach(p => {
     p.appendChild($('#paneltpl').content.cloneNode(true));
-    const sel = $('.type', p); types.forEach(t => { const o = document.createElement('option'); o.value = t; o.textContent = t; sel.appendChild(o); });
     const cut = $('.cut', p), cv = $('.cutv', p); cut.oninput = () => cv.textContent = (+cut.value).toFixed(2);
     p.querySelectorAll('.mode').forEach(r => { r.name = 'mode' + p.dataset.p; r.onchange = () => { $('.strict', p).style.display = $('.mode:checked', p).value === 'meaning' ? '' : 'none'; }; });
     $('.go', p).onclick = () => submit(p);
@@ -287,12 +375,12 @@ function buildPanels() {
 }
 function readPanel(p) {
   return { q: $('.q', p).value.trim(), mode: $('.mode:checked', p).value, level: +$('.level', p).value, cut: +$('.cut', p).value,
-    me: $('.me', p).checked, type: $('.type', p).value, from: $('.from', p).value, to: $('.to', p).value, sort: $('.sort', p).value };
+    me: $('.me', p).checked, type: $('.type', p).value, from: $('.from', p).value, to: $('.to', p).value, sort: $('.sort', p).value, per: +$('.per', p).value };
 }
 function fillPanel(p, f) {
   $('.q', p).value = f.q; p.querySelectorAll('.mode').forEach(r => r.checked = r.value === f.mode); $('.level', p).value = f.level;
   $('.cut', p).value = f.cut; $('.cutv', p).textContent = (+f.cut).toFixed(2); $('.me', p).checked = !!f.me; $('.type', p).value = f.type || '';
-  $('.from', p).value = f.from || ''; $('.to', p).value = f.to || ''; $('.sort', p).value = f.sort || 'strength';
+  $('.from', p).value = f.from || ''; $('.to', p).value = f.to || ''; $('.sort', p).value = f.sort || 'strength'; $('.per', p).value = String(f.per);
   $('.strict', p).style.display = f.mode === 'meaning' ? '' : 'none';
 }
 function submit(p) { const f = readPanel(p); if (!f.q) return; location.hash = '#search?' + new URLSearchParams(Object.entries(f).map(([k, v]) => [k, String(v)])).toString(); }
@@ -304,27 +392,39 @@ function readyText() {
   return 'Search ready: ' + IDX.header.items.length.toLocaleString() + ' items, ' + (IDX.nS + IDX.nP).toLocaleString() + ' phrases and sentences.';
 }
 function refreshReady() { document.querySelectorAll('.ready').forEach(el => el.textContent = readyText()); }
-let RESULTS = [], SHOWN = 0, CURF = null;
+let RESULTS = [], SHOWN = 0, CURF = null, LASTSEARCH = '', SAVEDY = 0;
+const PER_OK = [20, 50, 200, 500];
 async function route() {
-  const h = location.hash;
-  if (!h.startsWith('#search?')) { $('#resview').style.display = 'none'; $('#home').style.display = ''; return; }
+  const h = location.hash, rv = $('#resview'), dv = $('#readview');
+  if (h.startsWith('#read?')) {
+    if (rv.style.display !== 'none') SAVEDY = window.scrollY;
+    $('#home').style.display = 'none'; rv.style.display = 'none'; dv.style.display = '';
+    openRead(new URLSearchParams(h.slice(6))); return;
+  }
+  dv.style.display = 'none';
+  if (!h.startsWith('#search?')) { rv.style.display = 'none'; $('#home').style.display = ''; return; }
+  if (h === LASTSEARCH && CURF && rv.style.display === 'none') { // back from the reading view: same list, same spot
+    $('#home').style.display = 'none'; rv.style.display = ''; window.scrollTo(0, SAVEDY); return;
+  }
   const sp = new URLSearchParams(h.slice(8));
+  const per = +(sp.get('per') || 500);
   const f = { q: sp.get('q') || '', mode: sp.get('mode') || 'meaning', level: +(sp.get('level') || 2), cut: +(sp.get('cut') || 0.5),
-    me: sp.get('me') === 'true', type: sp.get('type') || '', from: sp.get('from') || '', to: sp.get('to') || '', sort: sp.get('sort') || 'strength' };
-  $('#home').style.display = 'none'; $('#resview').style.display = ''; window.scrollTo(0, 0);
+    me: sp.get('me') === 'true', type: sp.get('type') || '', from: sp.get('from') || '', to: sp.get('to') || '', sort: sp.get('sort') || 'strength',
+    per: PER_OK.includes(per) ? per : 500 };
+  $('#home').style.display = 'none'; rv.style.display = ''; window.scrollTo(0, 0);
   fillPanel($('.panel[data-p="2"]'), f);
   const st = $('#status'); $('#results').innerHTML = ''; $('#more').style.display = 'none';
   if (!IDX) { st.textContent = readyText(); return; }
   if (f.mode === 'meaning' && !SESSION) { st.textContent = 'Meaning search is still loading — try again in a few seconds.'; return; }
   st.textContent = 'Searching…';
   const t = performance.now();
-  RESULTS = await runSearch(f); CURF = f; SHOWN = 0;
+  RESULTS = await runSearch(f); CURF = f; SHOWN = 0; LASTSEARCH = h;
   st.textContent = RESULTS.length.toLocaleString() + ' ' + LEVELS[f.level] + (RESULTS.length === 1 ? '' : 's') + ' found for "' + f.q + '"' +
     (f.mode === 'meaning' ? ' by meaning' : ' (exact words)') + ' — ' + (f.sort === 'date' ? 'newest first' : f.sort === 'oldest' ? 'oldest first' : 'strongest first') + '. (' + Math.round(performance.now() - t) + ' ms)';
   showMore();
 }
 async function showMore() {
-  const X = IDX, f = CURF, box = $('#results'), batch = RESULTS.slice(SHOWN, SHOWN + (SHOWN ? 500 : 50)); SHOWN += batch.length;
+  const X = IDX, f = CURF, box = $('#results'), batch = RESULTS.slice(SHOWN, SHOWN + f.per); SHOWN += batch.length;
   for (const r of batch) {
     const m = X.itemMeta[r.item], div = document.createElement('div'); div.className = 'r';
     div.innerHTML = '<a href="' + A.page + m.id + '.md">' + esc(m.title) + '</a><div class="m">' + m.date + ' · ' + esc(m.type) +
@@ -332,6 +432,7 @@ async function showMore() {
     box.appendChild(div);
     excerptHTML(r, f).then(html => { $('.s', div).innerHTML = html; }).catch(() => { $('.s', div).textContent = '(excerpt unavailable offline — open the item)'; });
   }
+  $('#more').textContent = 'Show ' + Math.min(f.per, RESULTS.length - SHOWN).toLocaleString() + ' more';
   $('#more').style.display = SHOWN < RESULTS.length ? '' : 'none';
 }
 

@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-28 | [The pharmaceutical industry rigs vaccine safety studies by lying about the definitions of …](../../items/S-c-163740397.md) | Substack restacked note |
+| 2025-10-28 | [The pharmaceutical industry rigs vaccine safety studies by lying about the definitions of …](../../items/S-c-163740397.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-28 | [The pharmaceutical industry rigs vaccine safety studies by lying about the definitions of …](../../items/S-c-163740397.md) | Substack restacked note |
+| 2025-10-28 | [The pharmaceutical industry rigs vaccine safety studies by lying about the definitions of …](../../items/S-c-163740397.md) | Substack note |

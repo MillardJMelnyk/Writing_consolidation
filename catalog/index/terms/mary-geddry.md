@@ -8,7 +8,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../../items/S-p-174432792.md) | Substack restacked post |
+| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../../items/S-p-174432792.md) | Substack note |
 | 2025-07-27 | [None of us have a real clue what exactly is the reason ICE is abducting people. Their stat…](../../items/S-c-139555409.md) | Substack note |
 | 2025-07-27 | [<https://marygeddry.substack.com/p/the-united-states-department-of-human](../../items/S-c-139553600.md) | Substack note |
 
@@ -16,6 +16,6 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../../items/S-p-174432792.md) | Substack restacked post |
+| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../../items/S-p-174432792.md) | Substack note |
 | 2025-07-27 | [<https://marygeddry.substack.com/p/the-united-states-department-of-human](../../items/S-c-139553600.md) | Substack note |
 | 2025-07-27 | [None of us have a real clue what exactly is the reason ICE is abducting people. Their stat…](../../items/S-c-139555409.md) | Substack note |

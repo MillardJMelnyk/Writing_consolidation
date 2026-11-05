@@ -11,7 +11,7 @@
 | 2026-10-05 | [She's a riot! Love it. Her “exercise” isn’t new news, but it was a delight to get to know …](../items/S-c-353555435.md) | Substack note |
 | 2026-10-05 | [She's a riot! Love it. Her “exercise” isn’t new news, but it was a delight to get to know …](../items/S-c-353555006.md) | Substack note |
 | 2026-09-28 | [<https://bailiwicknewsarchives.wordpress.com/2026/09/28/sept-19-2026-statement-in-support-…](../items/S-c-348188764.md) | Substack note |
-| 2026-09-22 | [Under Attack](../items/S-p-216829224.md) | Substack restacked post |
+| 2026-09-22 | [Under Attack](../items/S-p-216829224.md) | Substack note |
 | 2026-09-06 | [<https://x.com/TheWyteRabbit1/status/2096388660484591967?s=20](../items/S-c-331103841.md) | Substack note |
 | 2026-04-01 | [Hey Daniel, brand new to your Substack. Read a couple things. I like what I feel here. I'v…](../items/S-c-236856722.md) | Substack note |
 | 2026-03-19 | [Chat with Claude last summer about what "societies" actually are. Well worth the read. The…](../items/S-c-230298703.md) | Substack note |
@@ -64,6 +64,6 @@
 | 2026-10-05 | [She's a riot! Love it. Her “exercise” isn’t new news, but it was a delight to get to know …](../items/S-c-353555435.md) | Substack note |
 | 2026-10-05 | [She's a riot! Love it. Her “exercise” isn’t new news, but it was a delight to get to know …](../items/S-c-353555006.md) | Substack note |
 | 2025-08-13 | [True story. <https://x.com/jgreyfriend/status/1955256758512881863](../items/S-c-145035172.md) | Substack note |
-| 2026-09-22 | [Under Attack](../items/S-p-216829224.md) | Substack restacked post |
+| 2026-09-22 | [Under Attack](../items/S-p-216829224.md) | Substack note |
 | 2023-12-31 | [You’ve got to hear this.](../items/S-c-46307921.md) | Substack note |
 | 2025-01-31 | [Yup. I knew it. Verdict rendered. Jury dismissed. <https://reloveution.substack.com/p/why-…](../items/S-c-90064645.md) | Substack note |

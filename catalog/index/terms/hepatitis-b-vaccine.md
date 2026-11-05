@@ -9,11 +9,11 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-08-27 | [Hepatitis B vaccine timeline for newborns](../../items/C-MM-15714202.md) | AI chat |
-| 2025-09-21 | [Kennedy vaccine committee sticks with recommending the Hepatitis B vaccine and the MMR; brain damage business as usual](../../items/S-p-174089108.md) | Substack restacked post |
+| 2025-09-21 | [Kennedy vaccine committee sticks with recommending the Hepatitis B vaccine and the MMR; brain damage business as usual](../../items/S-p-174089108.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
 | 2026-08-27 | [Hepatitis B vaccine timeline for newborns](../../items/C-MM-15714202.md) | AI chat |
-| 2025-09-21 | [Kennedy vaccine committee sticks with recommending the Hepatitis B vaccine and the MMR; brain damage business as usual](../../items/S-p-174089108.md) | Substack restacked post |
+| 2025-09-21 | [Kennedy vaccine committee sticks with recommending the Hepatitis B vaccine and the MMR; brain damage business as usual](../../items/S-p-174089108.md) | Substack note |

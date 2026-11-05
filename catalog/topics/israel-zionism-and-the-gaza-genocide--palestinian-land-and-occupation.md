@@ -22,7 +22,7 @@
 | 2026-07-23 | [Motives behind Ben-Gvir's Al-Aqsa Mosque visit](../items/C-MJM-714.md) | AI chat |
 | 2026-06-21 | [Israeli leaders with pre-state terrorism involvement](../items/C-MM-959b6ee5.md) | AI chat |
 | 2026-06-09 | [Shizzraeli Police brutalizing Palestinians carrying their flag. That's a little girl of no…](../items/S-c-273417661.md) | Substack note |
-| 2026-06-07 | [Palestinians Don't Care About Antisemitism](../items/S-p-200959334.md) | Substack restacked post |
+| 2026-06-07 | [Palestinians Don't Care About Antisemitism](../items/S-p-200959334.md) | Substack note |
 | 2026-06-03 | [Jews have NO right to land in Palestine. NONE. They never did. Their Torah proves it. READ…](../items/S-c-269979348.md) | Substack note |
 | 2026-05-31 | [It’s not just that the facts blow them away. The fact that you would have to be psychotic …](../items/S-c-268287849.md) | Substack note |
 | 2026-05-24 | [The lesson here isn’t, “Oh, we got it wrong about them!” Nor is it, “Oh, we seriously got …](../items/S-c-264431439.md) | Substack note |
@@ -91,7 +91,7 @@
 | 2025-06-04 | [(no text)](../items/S-c-122939646.md) | Substack note |
 | 2026-10-28 | [Noam Chomsky on the Gaza genocide](../items/C-MM-e1b0e6a3.md) | AI chat |
 | 2025-12-02 | [Palestinian attitudes toward Jews and Zionism](../items/C-MJM-391.md) | AI chat |
-| 2026-06-07 | [Palestinians Don't Care About Antisemitism](../items/S-p-200959334.md) | Substack restacked post |
+| 2026-06-07 | [Palestinians Don't Care About Antisemitism](../items/S-p-200959334.md) | Substack note |
 | 2026-06-09 | [Shizzraeli Police brutalizing Palestinians carrying their flag. That's a little girl of no…](../items/S-c-273417661.md) | Substack note |
 | 2026-10-06 | [Situation in Gaza in 2023](../items/C-MM-537d0e80.md) | AI chat |
 | 2024-04-09 | [The gruesome crimes of the monster that is Israel, sheepskin finally thrown off for all to…](../items/S-c-53517721.md) | Substack note |

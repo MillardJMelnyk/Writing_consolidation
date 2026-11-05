@@ -8,7 +8,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-09-06 | [Dr. Reiner Fuellmich Shares His Whole Story](../../items/S-p-210966874.md) | Substack restacked post |
+| 2026-09-06 | [Dr. Reiner Fuellmich Shares His Whole Story](../../items/S-p-210966874.md) | Substack note |
 | 2026-09-04 | [(no text)](../../items/S-c-329683340.md) | Substack note |
 | 2025-09-13 | [Justice and Separation Methods](../../items/C-MJM-249.md) | AI chat |
 
@@ -16,6 +16,6 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-09-06 | [Dr. Reiner Fuellmich Shares His Whole Story](../../items/S-p-210966874.md) | Substack restacked post |
+| 2026-09-06 | [Dr. Reiner Fuellmich Shares His Whole Story](../../items/S-p-210966874.md) | Substack note |
 | 2025-09-13 | [Justice and Separation Methods](../../items/C-MJM-249.md) | AI chat |
 | 2026-09-04 | [(no text)](../../items/S-c-329683340.md) | Substack note |

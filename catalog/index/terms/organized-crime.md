@@ -9,11 +9,11 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-07-10 | [(no text)](../../items/S-c-292070712.md) | Substack note |
-| 2025-11-16 | [<https://drwojakmd.substack.com/p/pharma-is-organized-crime?r=5dxsrn&utmcampaign=post&utmm…](../../items/S-c-177590409.md) | Substack restacked note |
+| 2025-11-16 | [<https://drwojakmd.substack.com/p/pharma-is-organized-crime?r=5dxsrn&utmcampaign=post&utmm…](../../items/S-c-177590409.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-11-16 | [<https://drwojakmd.substack.com/p/pharma-is-organized-crime?r=5dxsrn&utmcampaign=post&utmm…](../../items/S-c-177590409.md) | Substack restacked note |
+| 2025-11-16 | [<https://drwojakmd.substack.com/p/pharma-is-organized-crime?r=5dxsrn&utmcampaign=post&utmm…](../../items/S-c-177590409.md) | Substack note |
 | 2026-07-10 | [(no text)](../../items/S-c-292070712.md) | Substack note |

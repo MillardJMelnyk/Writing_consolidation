@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-29 | [Massive shift in the official autism narrative.](../../items/S-c-168532187.md) | Substack restacked note |
+| 2025-10-29 | [Massive shift in the official autism narrative.](../../items/S-c-168532187.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-29 | [Massive shift in the official autism narrative.](../../items/S-c-168532187.md) | Substack restacked note |
+| 2025-10-29 | [Massive shift in the official autism narrative.](../../items/S-c-168532187.md) | Substack note |

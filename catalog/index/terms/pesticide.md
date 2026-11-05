@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-01-03 | [“Wherever the pesticide went, polio would soon follow.”](../../items/S-c-194531750.md) | Substack restacked note |
+| 2026-01-03 | [“Wherever the pesticide went, polio would soon follow.”](../../items/S-c-194531750.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-01-03 | [“Wherever the pesticide went, polio would soon follow.”](../../items/S-c-194531750.md) | Substack restacked note |
+| 2026-01-03 | [“Wherever the pesticide went, polio would soon follow.”](../../items/S-c-194531750.md) | Substack note |

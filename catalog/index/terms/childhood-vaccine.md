@@ -8,7 +8,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-25 | [(no text)](../../items/S-c-356709252.md) | Substack restacked note |
+| 2026-10-25 | [(no text)](../../items/S-c-356709252.md) | Substack note |
 | 2026-08-10 | [Identifying a study reference](../../items/C-MJM-737.md) | AI chat |
 
 ## By title
@@ -16,4 +16,4 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-08-10 | [Identifying a study reference](../../items/C-MJM-737.md) | AI chat |
-| 2026-10-25 | [(no text)](../../items/S-c-356709252.md) | Substack restacked note |
+| 2026-10-25 | [(no text)](../../items/S-c-356709252.md) | Substack note |

@@ -8,7 +8,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-28 | [The WHO is a criminal organization. They were central actors in one of the greatest crimes…](../../items/S-c-370263925.md) | Substack restacked note |
+| 2026-10-28 | [The WHO is a criminal organization. They were central actors in one of the greatest crimes…](../../items/S-c-370263925.md) | Substack note |
 | 2026-09-04 | [So, you've got to ask: WHY THE FUCK was anyone in such trenchant denial of the genocide th…](../../items/S-c-329681401.md) | Substack note |
 | 2026-08-28 | [Verifying UN human rights investigator quotes from Epstein files](../../items/C-MM-95302e87.md) | AI chat |
 | 2026-05-03 | [I can't get over how in our faces this is and no one says anything about it. Recognize tha…](../../items/S-c-253193645.md) | Substack note |
@@ -28,6 +28,6 @@
 | 2026-05-03 | [I can't get over how in our faces this is and no one says anything about it. Recognize tha…](../../items/S-c-253193645.md) | Substack note |
 | 2025-12-22 | [Inalienable rights and historical violations](../../items/C-MJM-507.md) | AI chat |
 | 2026-09-04 | [So, you've got to ask: WHY THE FUCK was anyone in such trenchant denial of the genocide th…](../../items/S-c-329681401.md) | Substack note |
-| 2026-10-28 | [The WHO is a criminal organization. They were central actors in one of the greatest crimes…](../../items/S-c-370263925.md) | Substack restacked note |
+| 2026-10-28 | [The WHO is a criminal organization. They were central actors in one of the greatest crimes…](../../items/S-c-370263925.md) | Substack note |
 | 2026-08-28 | [Verifying UN human rights investigator quotes from Epstein files](../../items/C-MM-95302e87.md) | AI chat |
 | 2026-04-06 | [What should we do to psychotics committing heinous crimes against humanity? Take them the …](../../items/S-c-239208695.md) | Substack note |

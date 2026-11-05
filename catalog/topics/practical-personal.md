@@ -415,7 +415,7 @@
 | 2025-11-20 | [Emojis appearing in black and white in Word 365](../items/C-MJM-323.md) | AI chat |
 | 2025-11-20 | [Gobalance product quality and ratings](../items/C-MJM-324.md) | AI chat |
 | 2025-11-20 | [BoBo vs GoBalance Sport comparison](../items/C-MJM-325.md) | AI chat |
-| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../items/S-c-159038934.md) | Substack restacked note |
+| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../items/S-c-159038934.md) | Substack note |
 | 2025-09-16 | [Dara Ó Briain identity verification](../items/C-MJM-259.md) | AI chat |
 | 2025-09-04 | [Word 365 Smooth Scrolling Issue](../items/C-MJM-240.md) | AI chat |
 | 2025-08-27 | [Barley vs Rice: Grain Satiety](../items/C-MJM-228.md) | AI chat |
@@ -464,7 +464,7 @@
 | 2025-01-25 | [I've maintained a HUGE open window for bloviators to let rip their flatulence, for two rea…](../items/S-c-88653629.md) | Substack note |
 | 2024-12-29 | [I've been pretty quiet the last few weeks getting ready, moving to Mexico, looking for a p…](../items/S-c-83547696.md) | Substack note |
 | 2024-10-05 | [It's a lot clearer now. Most of the shit I've gotten over the years has nothing to do with…](../items/S-c-71529515.md) | Substack note |
-| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../items/S-c-70060219.md) | Substack restacked note |
+| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../items/S-c-70060219.md) | Substack note |
 | 2024-03-07 | [Pay attention to the absurd lengths and the hysteria involved. Pay attention to the langua…](../items/S-c-51163889.md) | Substack note |
 | 2023-09-16 | [The ReLOVEution logo. You get to choose which finger you want…](../items/S-c-40199919.md) | Substack note |
 | 2023-09-16 | [This is just test 2 (with image) to see if these notes shared to Facebook get passed on to…](../items/S-c-40187799.md) | Substack note |
@@ -677,7 +677,7 @@
 | 2026-08-26 | [Installing Linux Mint from USB](../items/C-MM-a41bd43f.md) | AI chat |
 | 2025-07-27 | [Internet Archive Disability Book Lending](../items/C-MJM-114.md) | AI chat |
 | 2026-09-17 | [Interpreting unclear information](../items/C-MM-96b8b251.md) | AI chat |
-| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../items/S-c-70060219.md) | Substack restacked note |
+| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../items/S-c-70060219.md) | Substack note |
 | 2024-10-05 | [It's a lot clearer now. Most of the shit I've gotten over the years has nothing to do with…](../items/S-c-71529515.md) | Substack note |
 | 2026-10-26 | [Ixtapa hurricane and November weather](../items/C-MJM-818.md) | AI chat |
 | 2026-04-29 | [Jewelry making kits for 9-year-old girls](../items/C-MJM-705.md) | AI chat |
@@ -891,7 +891,7 @@
 | 2026-08-12 | [What is CPU-Z](../items/C-MJM-739.md) | AI chat |
 | 2025-12-17 | [WhatsApp desktop MP4 upload issue](../items/C-MJM-474.md) | AI chat |
 | 2026-10-10 | [When human thinking begins](../items/C-MM-7071db62.md) | AI chat |
-| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../items/S-c-159038934.md) | Substack restacked note |
+| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../items/S-c-159038934.md) | Substack note |
 | 2025-11-24 | [When you tell me how crazy or stupid or evil I am because I investigated the CONVID party …](../items/S-c-180646810.md) | Substack note |
 | 2026-10-01 | [Why dogs put their paw on you](../items/C-MM-e5e19094.md) | AI chat |
 | 2026-08-11 | [WiFi button disappeared after turning it off](../items/C-MM-006c8733.md) | AI chat |

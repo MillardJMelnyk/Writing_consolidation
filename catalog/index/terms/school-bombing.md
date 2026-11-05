@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../../items/S-c-249686813.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../../items/S-c-249686813.md) | Substack note |

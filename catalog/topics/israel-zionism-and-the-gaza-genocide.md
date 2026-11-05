@@ -34,9 +34,9 @@
 | 2026-10-20 | [Feedback on attachment](../items/C-MM-05236744.md) | AI chat |
 | 2026-10-17 | [Naming the beneficiaries of slavery](../items/C-MM-bb309845.md) | AI chat |
 | 2026-10-16 | [Palestinian casualties and family impact in Gaza](../items/C-MJM-809.md) | AI chat |
-| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack note |
 | 2026-10-14 | [Jewish terrorism's role in Israeli statehood](../items/C-MM-06e41e19.md) | AI chat |
-| 2026-10-12 | [If The Truth Is A Threat To Israel, Then Israel Should Not Exist](../items/S-p-219958654.md) | Substack restacked post |
+| 2026-10-12 | [If The Truth Is A Threat To Israel, Then Israel Should Not Exist](../items/S-p-219958654.md) | Substack note |
 | 2026-10-11 | [Because spiritually, socially, psychologically, culturally, and in every other way that ma…](../items/S-c-358465973.md) | Substack note |
 | 2026-10-10 | [“Jew hate”, “antisemitism”, and other thought-terminating clichés](../items/S-p-219790088.md) | Substack post |
 | 2026-10-10 | [Look. If Shizzrael and it's genocidal, racist psychosis defines what it is to be Semitic..…](../items/S-c-357548192.md) | Substack note |
@@ -92,7 +92,7 @@
 | 2026-06-12 | [Empathy vs. perspective-taking](../items/C-MM-846b3bc3.md) | AI chat |
 | 2026-06-09 | [Shizzraeli Police brutalizing Palestinians carrying their flag. That's a little girl of no…](../items/S-c-273417661.md) | Substack note |
 | 2026-06-09 | [Gaza has proven that Euro-Americans don't give a shit about human life unless it belongs t…](../items/S-c-273410098.md) | Substack note |
-| 2026-06-07 | [Palestinians Don't Care About Antisemitism](../items/S-p-200959334.md) | Substack restacked post |
+| 2026-06-07 | [Palestinians Don't Care About Antisemitism](../items/S-p-200959334.md) | Substack note |
 | 2026-06-04 | [Understanding "based" slang](../items/C-MM-1c935dc6.md) | AI chat |
 | 2026-06-03 | [Jews have NO right to land in Palestine. NONE. They never did. Their Torah proves it. READ…](../items/S-c-269979348.md) | Substack note |
 | 2026-06-02 | [Defining Christianity through Nicene tradition](../items/C-MM-6fd61e3e.md) | AI chat |
@@ -106,18 +106,18 @@
 | 2026-05-28 | [Psychos](../items/S-p-199628864.md) | Substack post |
 | 2026-05-28 | [This is the playbook, as old as violence itself: 1. Attack 2. Pretend your attack never ha…](../items/S-c-266656844.md) | Substack note |
 | 2026-05-26 | [They're just doing what their Tanakh tells them to do: "Blessed shall he be who takes your…](../items/S-c-265549530.md) | Substack note |
-| 2026-05-24 | [Israel Rapes Everyone, And Other Notes](../items/S-p-199026239.md) | Substack restacked post |
+| 2026-05-24 | [Israel Rapes Everyone, And Other Notes](../items/S-p-199026239.md) | Substack note |
 | 2026-05-24 | [The lesson here isn’t, “Oh, we got it wrong about them!” Nor is it, “Oh, we seriously got …](../items/S-c-264431439.md) | Substack note |
-| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack restacked post |
-| 2026-05-21 | [They're Not Mad At Ben-Gvir For Being Evil, They're Mad At Him For Being Honest](../items/S-p-198646183.md) | Substack restacked post |
-| 2026-05-20 | [One Final Blow: Why Thomas Massie Must Name Epstein’s Accomplices on the House Floor Now](../items/S-p-198444648.md) | Substack restacked post |
+| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack note |
+| 2026-05-21 | [They're Not Mad At Ben-Gvir For Being Evil, They're Mad At Him For Being Honest](../items/S-p-198646183.md) | Substack note |
+| 2026-05-20 | [One Final Blow: Why Thomas Massie Must Name Epstein’s Accomplices on the House Floor Now](../items/S-p-198444648.md) | Substack note |
 | 2026-05-18 | [<https://www.facebook.com/share/p/1E7Jx1k1Vu/ "Orgy of antisemitism". I'm not saying there…](../items/S-c-261009362.md) | Substack note |
 | 2026-05-16 | [If I were born into a "Melnyk" family line that had been supremacist, racist, genocidal, a…](../items/S-c-260028516.md) | Substack note |
 | 2026-05-13 | [I don’t deal in beliefs. I deal in facts. If I don’t know something is a fact, I don’t pre…](../items/S-c-258624460.md) | Substack note |
 | 2026-05-13 | [Yes, UK/US/Commonwealth has always been an unholy, malignant cancer. Shizzrael is more lik…](../items/S-c-258544939.md) | Substack note |
 | 2026-05-13 | [We should talk. We've got roughly the same intentions (same basic one at least) coming fro…](../items/S-c-258544630.md) | Substack note |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack restacked note |
-| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack note |
+| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack note |
 | 2026-05-08 | [Excellent. Exactly. If only the perpetrators and supporters of this heinous, anti-human sh…](../items/S-c-255798736.md) | Substack note |
 | 2026-05-06 | [(no text)](../items/S-c-254857611.md) | Substack note |
 | 2026-05-06 | [<https://dzyk.substack.com/p/zionism-is-decolonization/comment/254444655?utmsource=share&u…](../items/S-c-254445250.md) | Substack note |
@@ -133,7 +133,7 @@
 | 2026-03-19 | [There's someone lately who keeps barking, "BULLSHIT!" in response to my Israel-related pos…](../items/S-c-230246836.md) | Substack note |
 | 2026-01-31 | [(no text)](../items/S-c-207856282.md) | Substack note |
 | 2026-01-13 | [United Terrorist States of America. This isn't some recent development. This isn't some co…](../items/S-c-199140375.md) | Substack note |
-| 2026-01-06 | [Edward Snowden blew the whistle on illegal mass surveillance by US authorities of their ow…](../items/S-c-186885617.md) | Substack restacked note |
+| 2026-01-06 | [Edward Snowden blew the whistle on illegal mass surveillance by US authorities of their ow…](../items/S-c-186885617.md) | Substack note |
 | 2025-12-30 | [Gaza tribunal overview](../items/C-MJM-547.md) | AI chat |
 | 2025-12-30 | [Hasbará as systematic discourse management](../items/C-MJM-548.md) | AI chat |
 | 2025-12-25 | [Canaan, Levant, and Palestine geographic relationship](../items/C-MJM-524.md) | AI chat |
@@ -164,8 +164,8 @@
 | 2025-10-08 | [I’ve commented on Naomi Wolf’s recent essay that attempts to rationalize her capitulation …](../items/S-c-164325074.md) | Substack note |
 | 2025-10-08 | [So, yet another example of someone who SOUNDS intelligent, but whose soul is black, coming…](../items/S-c-164285011.md) | Substack note |
 | 2025-09-25 | [Watch this and ask yourself: To whom do the distinctions between mass murder, ethnic clean…](../items/S-c-159779770.md) | Substack note |
-| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../items/S-p-174432792.md) | Substack restacked post |
-| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack restacked post |
+| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../items/S-p-174432792.md) | Substack note |
+| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack note |
 | 2025-09-19 | [But don’t forget about 11, John Spencer (who suddenly made his profile @ <https://spencerg…](../items/S-c-157758469.md) | Substack note |
 | 2025-09-19 | [@John Spencer, regarding your article, “The U.N. Genocide Report Against Israel Is an Assa…](../items/S-c-157737349.md) | Substack note |
 | 2025-09-16 | [Candace Owens and Gaza conflict views](../items/C-MJM-255.md) | AI chat |
@@ -269,7 +269,7 @@
 | 2026-10-09 | [Defining accuracy](../items/C-MM-94466c4c.md) | AI chat |
 | 2026-06-02 | [Defining Christianity through Nicene tradition](../items/C-MM-6fd61e3e.md) | AI chat |
 | 2025-07-20 | [Earth is becoming a genocidal planet. How long are you going to continuing your ridiculous…](../items/S-c-137174607.md) | Substack note |
-| 2026-01-06 | [Edward Snowden blew the whistle on illegal mass surveillance by US authorities of their ow…](../items/S-c-186885617.md) | Substack restacked note |
+| 2026-01-06 | [Edward Snowden blew the whistle on illegal mass surveillance by US authorities of their ow…](../items/S-c-186885617.md) | Substack note |
 | 2026-10-30 | [Eggs and bananas political ad](../items/C-MM-592c3ec1.md) | AI chat |
 | 2026-10-03 | [Embedding subtitles in video without quality loss](../items/C-MJM-800.md) | AI chat |
 | 2026-06-12 | [Empathy vs. perspective-taking](../items/C-MM-846b3bc3.md) | AI chat |
@@ -286,7 +286,7 @@
 | 2025-12-30 | [Gaza tribunal overview](../items/C-MJM-547.md) | AI chat |
 | 2026-06-13 | [Genesis 1 as a second creation account](../items/C-MM-8d6c310c.md) | AI chat |
 | 2025-08-08 | [Genetic Origins of Middle Eastern Populations](../items/C-MJM-136.md) | AI chat |
-| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../items/S-p-174432792.md) | Substack restacked post |
+| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../items/S-p-174432792.md) | Substack note |
 | 2026-04-02 | [Go the whole nine yards and see the forest, Caitlin. There are no good supremacists, no ma…](../items/S-c-237116826.md) | Substack note |
 | 2026-09-21 | [Great dissection of a debate whose premises are all false. He aptly describes how the enti…](../items/S-c-342397662.md) | Substack note |
 | 2026-10-06 | [Hamas and allegations of deliberate harm to infants](../items/C-MM-425c44bf.md) | AI chat |
@@ -305,23 +305,23 @@
 | 2026-05-03 | [I can't get over how in our faces this is and no one says anything about it. Recognize tha…](../items/S-c-253193645.md) | Substack note |
 | 2025-07-22 | [I don't give a shit what dumbshit, lame excuse you make... You chose pedophiles for presid…](../items/S-c-137627309.md) | Substack note |
 | 2025-07-31 | [I don't know how any person who isn't a flaming asshole and a liar can pretend that this w…](../items/S-c-140901706.md) | Substack note |
-| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack restacked note |
+| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack note |
 | 2026-05-13 | [I don’t deal in beliefs. I deal in facts. If I don’t know something is a fact, I don’t pre…](../items/S-c-258624460.md) | Substack note |
 | 2026-04-28 | [I just can't fucking believe the idiocy -- and it spans the whole world -- resulting in as…](../items/S-c-250536968.md) | Substack note |
 | 2025-08-04 | [I keep hearing people mention the heinous atrocities of Hamas as if it were the Goliath an…](../items/S-c-141952030.md) | Substack note |
 | 2026-06-01 | [I see a direct line between the ethno-supremacism of Judaism and Zionism. Jews repudiating…](../items/S-c-268763330.md) | Substack note |
 | 2026-06-01 | [I see a direct line between the ethno-supremacism of Judaism and Zionism. Jews repudiating…](../items/S-c-268762783.md) | Substack note |
 | 2025-07-29 | [I see. So his argument--once he's done with shameless self-promotion--is that Zionist colo…](../items/S-c-140099634.md) | Substack note |
-| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack restacked post |
+| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack note |
 | 2025-08-30 | [I'm wondering why this says "unrecognized" instead of "dissolved". Give the land back to t…](../items/S-c-150715539.md) | Substack note |
 | 2026-05-16 | [If I were born into a "Melnyk" family line that had been supremacist, racist, genocidal, a…](../items/S-c-260028516.md) | Substack note |
-| 2026-10-12 | [If The Truth Is A Threat To Israel, Then Israel Should Not Exist](../items/S-p-219958654.md) | Substack restacked post |
+| 2026-10-12 | [If The Truth Is A Threat To Israel, Then Israel Should Not Exist](../items/S-p-219958654.md) | Substack note |
 | 2024-11-23 | [If you "support" Israel, you are a fucking evil, violence-crazed, genocide-loving, idiot c…](../items/S-c-78559453.md) | Substack note |
 | 2026-09-16 | [Ilan Pappe's activism beyond academia](../items/C-MM-d4b69034.md) | AI chat |
-| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack restacked post |
+| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack note |
 | 2025-11-03 | [In May 2025, The New York Times found that the 2nd Trump administration had, in just its f…](../items/S-c-173129038.md) | Substack note |
 | 2025-07-15 | [Israel is a demonic "nation". And Jews -- EVERY SINGLE FUCKING ONE OF THEM WHO HAVE NOT TR…](../items/S-c-135542450.md) | Substack note |
-| 2026-05-24 | [Israel Rapes Everyone, And Other Notes](../items/S-p-199026239.md) | Substack restacked post |
+| 2026-05-24 | [Israel Rapes Everyone, And Other Notes](../items/S-p-199026239.md) | Substack note |
 | 2025-08-30 | [Israel: a crime against humanity](../items/S-p-168743715.md) | Substack post |
 | 2026-06-21 | [Israeli leaders with pre-state terrorism involvement](../items/C-MM-959b6ee5.md) | AI chat |
 | 2025-01-26 | [Israelis are genocidists](../items/S-p-155791038.md) | Substack post |
@@ -354,7 +354,7 @@
 | 2026-07-23 | [Motives behind Ben-Gvir's Al-Aqsa Mosque visit](../items/C-MJM-714.md) | AI chat |
 | 2025-08-10 | [Nails it](../items/S-c-144089254.md) | Substack note |
 | 2026-10-17 | [Naming the beneficiaries of slavery](../items/C-MM-bb309845.md) | AI chat |
-| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack note |
 | 2026-07-27 | [(no text)](../items/S-c-302782442.md) | Substack note |
 | 2026-05-06 | [(no text)](../items/S-c-254857611.md) | Substack note |
 | 2026-04-28 | [(no text)](../items/S-c-250682514.md) | Substack note |
@@ -376,14 +376,14 @@
 | 2025-11-03 | [Not sure who is speaking or how right-on they are or aren't, but... FUCKING FINALLY!!!!! I…](../items/S-c-173148002.md) | Substack note |
 | 2025-08-08 | [Note: The caption says, “Israel is God’s,” but that is absolutely incorrect. Listen closel…](../items/S-c-143489455.md) | Substack note |
 | 2025-08-07 | [Once genocidal, always genocidal? The United Terrorist States of America and The United Ki…](../items/S-c-143070504.md) | Substack note |
-| 2026-05-20 | [One Final Blow: Why Thomas Massie Must Name Epstein’s Accomplices on the House Floor Now](../items/S-p-198444648.md) | Substack restacked post |
+| 2026-05-20 | [One Final Blow: Why Thomas Massie Must Name Epstein’s Accomplices on the House Floor Now](../items/S-p-198444648.md) | Substack note |
 | 2025-07-19 | [Ordinary people, protecting their egos. The Germans living in towns within sight and smell…](../items/S-c-136904229.md) | Substack note |
 | 2025-10-14 | [Overall, this brings us right back to the "where is the truth" question. It's not in the w…](../items/S-c-166372667.md) | Substack note |
 | 2025-12-02 | [Palestinian attitudes toward Jews and Zionism](../items/C-MJM-391.md) | AI chat |
 | 2026-10-16 | [Palestinian casualties and family impact in Gaza](../items/C-MJM-809.md) | AI chat |
 | 2026-10-09 | [Palestinian casualties in Israeli-Palestinian conflict](../items/C-MM-3195efa0.md) | AI chat |
 | 2026-08-01 | [Palestinian casualty estimates in Gaza conflict](../items/C-MM-1dce3848.md) | AI chat |
-| 2026-06-07 | [Palestinians Don't Care About Antisemitism](../items/S-p-200959334.md) | Substack restacked post |
+| 2026-06-07 | [Palestinians Don't Care About Antisemitism](../items/S-p-200959334.md) | Substack note |
 | 2024-08-25 | [People still, actually, incredibly believe that actions like these are legit for states th…](../items/S-c-66704834.md) | Substack note |
 | 2025-12-23 | [Proverbs 24:6 deception versus counsel translation](../items/C-MJM-513.md) | AI chat |
 | 2026-05-28 | [Psychos](../items/S-p-199628864.md) | Substack post |
@@ -415,7 +415,7 @@
 | 2026-03-19 | [There's someone lately who keeps barking, "BULLSHIT!" in response to my Israel-related pos…](../items/S-c-230246836.md) | Substack note |
 | 2025-05-28 | [There’s no honest, intelligent argument here. "Western values" are frauds—patently, deeply…](../items/S-c-120890008.md) | Substack note |
 | 2026-05-26 | [They're just doing what their Tanakh tells them to do: "Blessed shall he be who takes your…](../items/S-c-265549530.md) | Substack note |
-| 2026-05-21 | [They're Not Mad At Ben-Gvir For Being Evil, They're Mad At Him For Being Honest](../items/S-p-198646183.md) | Substack restacked post |
+| 2026-05-21 | [They're Not Mad At Ben-Gvir For Being Evil, They're Mad At Him For Being Honest](../items/S-p-198646183.md) | Substack note |
 | 2026-05-28 | [This is the playbook, as old as violence itself: 1. Attack 2. Pretend your attack never ha…](../items/S-c-266656844.md) | Substack note |
 | 2026-10-04 | [This just goes to show what a fucking horrific word game the whole thing is. You're not gu…](../items/S-c-353008552.md) | Substack note |
 | 2025-07-28 | [To John Spencer and every other genocide apologist:](../items/S-p-169471396.md) | Substack post |
@@ -429,7 +429,7 @@
 | 2025-12-11 | [Way past fucking time, but what can I say? Not that I consider Carlson much more than cont…](../items/S-c-186740330.md) | Substack note |
 | 2026-05-13 | [We should talk. We've got roughly the same intentions (same basic one at least) coming fro…](../items/S-c-258544630.md) | Substack note |
 | 2025-07-20 | [Well then, here are our options: 1. Become genocidists ourselves by refusing to stop them.…](../items/S-c-137169627.md) | Substack note |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack note |
 | 2025-08-30 | [What do you know when you hear someone say "Human Rights"? 1. Masses of human beings, some…](../items/S-c-150665886.md) | Substack note |
 | 2026-05-29 | [WHEN are you going to fucking start believing the victims? AT THE VERY LEAST, you cannot a…](../items/S-c-267333354.md) | Substack note |
 | 2025-11-21 | [When Jews say that Zionism does not represent all Jews -- other than it being mushmouthed,…](../items/S-c-179865555.md) | Substack note |

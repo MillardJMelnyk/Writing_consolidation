@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../../items/S-c-159038934.md) | Substack restacked note |
+| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../../items/S-c-159038934.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../../items/S-c-159038934.md) | Substack restacked note |
+| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../../items/S-c-159038934.md) | Substack note |

@@ -20,7 +20,7 @@
 | 2022-08-13 | [Declaration of War](../items/S-p-67777783.md) | Substack post |
 | 2026-08-17 | [Deconstructing cultism comprehensively](../items/C-MM-cec6b93d.md) | AI chat |
 | 2025-11-28 | [DeepSeek's reasoner performance on IMO 2025](../items/C-MJM-375.md) | AI chat |
-| 2026-10-13 | [Defend Your Right To Natural Sunshine](../items/S-p-218936666.md) | Substack restacked post |
+| 2026-10-13 | [Defend Your Right To Natural Sunshine](../items/S-p-218936666.md) | Substack note |
 | 2026-10-09 | [Defining accuracy](../items/C-MM-94466c4c.md) | AI chat |
 | 2025-12-06 | [Defining belief and its meaning](../items/C-MJM-413.md) | AI chat |
 | 2025-12-08 | [Defining belief through perspective and framework](../items/C-MJM-427.md) | AI chat |
@@ -86,8 +86,8 @@
 | 2025-12-03 | [Double standard of "calm down"](../items/C-MJM-401.md) | AI chat |
 | 2025-12-15 | [Downloading all Claude chat history](../items/C-MJM-468.md) | AI chat |
 | 2026-07-27 | [Downloading Sims 2 from .mds files](../items/C-MM-2b00b18d.md) | AI chat |
-| 2026-08-17 | [Dr David E Martin speaking in Oklahoma City about the domestic bio terrorism inflicted on …](../items/S-c-298709040.md) | Substack restacked note |
-| 2026-09-06 | [Dr. Reiner Fuellmich Shares His Whole Story](../items/S-p-210966874.md) | Substack restacked post |
+| 2026-08-17 | [Dr David E Martin speaking in Oklahoma City about the domestic bio terrorism inflicted on …](../items/S-c-298709040.md) | Substack note |
+| 2026-09-06 | [Dr. Reiner Fuellmich Shares His Whole Story](../items/S-p-210966874.md) | Substack note |
 | 2026-08-25 | [Dual boot setup with Linux Mint and Windows](../items/C-MM-e1f9d211.md) | AI chat |
 | 2026-09-05 | [Dual-boot Linux and Windows 11 setup plan](../items/C-MM-758bc580.md) | AI chat |
 | 2026-04-15 | [Dude, I'm sure it's not lost on you whose ideas these resemble. I'm not intimating the bas…](../items/S-c-244016549.md) | Substack note |

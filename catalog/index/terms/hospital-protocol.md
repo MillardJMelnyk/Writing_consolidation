@@ -8,14 +8,14 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-29 | [Everything James Miller is saying here is true. I corresponded with him for a year (he was…](../../items/S-c-348392530.md) | Substack restacked note |
-| 2026-10-28 | [SHOCKING: This woman was nearly killed in a hospital for being unvaccinated. Gail Seiler g…](../../items/S-c-356329606.md) | Substack restacked note |
-| 2026-06-09 | [Hospitals Took Bribes to Kill You and Blame It on COVID](../../items/S-p-200128464.md) | Substack restacked post |
+| 2026-10-29 | [Everything James Miller is saying here is true. I corresponded with him for a year (he was…](../../items/S-c-348392530.md) | Substack note |
+| 2026-10-28 | [SHOCKING: This woman was nearly killed in a hospital for being unvaccinated. Gail Seiler g…](../../items/S-c-356329606.md) | Substack note |
+| 2026-06-09 | [Hospitals Took Bribes to Kill You and Blame It on COVID](../../items/S-p-200128464.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-29 | [Everything James Miller is saying here is true. I corresponded with him for a year (he was…](../../items/S-c-348392530.md) | Substack restacked note |
-| 2026-06-09 | [Hospitals Took Bribes to Kill You and Blame It on COVID](../../items/S-p-200128464.md) | Substack restacked post |
-| 2026-10-28 | [SHOCKING: This woman was nearly killed in a hospital for being unvaccinated. Gail Seiler g…](../../items/S-c-356329606.md) | Substack restacked note |
+| 2026-10-29 | [Everything James Miller is saying here is true. I corresponded with him for a year (he was…](../../items/S-c-348392530.md) | Substack note |
+| 2026-06-09 | [Hospitals Took Bribes to Kill You and Blame It on COVID](../../items/S-p-200128464.md) | Substack note |
+| 2026-10-28 | [SHOCKING: This woman was nearly killed in a hospital for being unvaccinated. Gail Seiler g…](../../items/S-c-356329606.md) | Substack note |

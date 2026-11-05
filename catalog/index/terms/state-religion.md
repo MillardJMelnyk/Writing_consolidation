@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../../items/S-c-306624029.md) | Substack restacked note |
+| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../../items/S-c-306624029.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../../items/S-c-306624029.md) | Substack restacked note |
+| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../../items/S-c-306624029.md) | Substack note |

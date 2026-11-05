@@ -44,7 +44,7 @@
 | 2026-09-28 | [Comparing items and listing differences](../items/C-MM-0ab1dae2.md) | AI chat |
 | 2026-09-28 | [Finding a better word than "pretend"](../items/C-MM-7f0bcc68.md) | AI chat |
 | 2026-09-28 | [Psychosis and reality perception](../items/C-MM-20796985.md) | AI chat |
-| 2026-09-22 | [Under Attack](../items/S-p-216829224.md) | Substack restacked post |
+| 2026-09-22 | [Under Attack](../items/S-p-216829224.md) | Substack note |
 | 2026-09-07 | [Organizing Facebook links and resources into PDF](../items/C-MM-197afb24.md) | AI chat |
 | 2026-09-06 | [<https://x.com/TheWyteRabbit1/status/2096388660484591967?s=20](../items/S-c-331103841.md) | Substack note |
 | 2026-08-29 | [So far, I’ve kept my thoughts on pandemics/vaXXXes, etc., to my Facebook profile, separate…](../items/S-c-325358903.md) | Substack note |
@@ -93,7 +93,7 @@
 | 2025-10-07 | [Violence as a delusion of power](../items/C-MJM-295.md) | AI chat |
 | 2025-10-06 | [Critique of destructive decision-making](../items/C-MJM-294.md) | AI chat |
 | 2025-10-04 | [Social hierarchy and power structures](../items/C-MJM-293.md) | AI chat |
-| 2025-10-02 | [And thank you to all my supporters!](../items/S-c-161218710.md) | Substack restacked note |
+| 2025-10-02 | [And thank you to all my supporters!](../items/S-c-161218710.md) | Substack note |
 | 2025-09-24 | [Precision communication protocol](../items/C-MJM-280.md) | AI chat |
 | 2025-09-23 | [Critical analysis of theoretical discourse](../items/C-MJM-278.md) | AI chat |
 | 2025-09-20 | [Dogmas and identity traps](../items/C-MJM-269.md) | AI chat |
@@ -228,7 +228,7 @@
 | 2026-10-18 | [Academic blindness to alternative paradigms](../items/C-MM-bb3cfeb1.md) | AI chat |
 | 2025-08-31 | [Alternatives to Idiomatic Expressions](../items/C-MJM-232.md) | AI chat |
 | 2024-03-27 | [... and he said that 50 years ago](../items/S-cp-1d4a8f84-b895-42b1-ad47-af613b33e87c.md) | Substack chat |
-| 2025-10-02 | [And thank you to all my supporters!](../items/S-c-161218710.md) | Substack restacked note |
+| 2025-10-02 | [And thank you to all my supporters!](../items/S-c-161218710.md) | Substack note |
 | 2026-10-10 | [Antisemitism accusations as weaponized labels](../items/C-MM-b39d075c.md) | AI chat |
 | 2025-05-02 | [Are you a cultist?](../items/S-p-162703724.md) | Substack post |
 | 2025-09-19 | [Authoritarian narrative psychology](../items/C-MJM-266.md) | AI chat |
@@ -408,7 +408,7 @@
 | 2025-08-13 | [True story. <https://x.com/jgreyfriend/status/1955256758512881863](../items/S-c-145035172.md) | Substack note |
 | 2025-08-16 | [UN Rights Declaration: Systemic Hypocrisy](../items/C-MJM-179.md) | AI chat |
 | 2025-08-10 | [Uncompromising Truth-Telling](../items/C-MJM-150.md) | AI chat |
-| 2026-09-22 | [Under Attack](../items/S-p-216829224.md) | Substack restacked post |
+| 2026-09-22 | [Under Attack](../items/S-p-216829224.md) | Substack note |
 | 2025-06-05 | [Unwitnessed Suffering](../items/C-MJM-028.md) | AI chat |
 | 2025-10-07 | [Violence as a delusion of power](../items/C-MJM-295.md) | AI chat |
 | 2026-10-15 | [Violent felony crime rate and systemic targeting](../items/C-MM-7a09c73d.md) | AI chat |

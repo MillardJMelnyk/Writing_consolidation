@@ -8,14 +8,14 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-12-20 | [(no text)](../../items/S-c-187224832.md) | Substack restacked note |
+| 2025-12-20 | [(no text)](../../items/S-c-187224832.md) | Substack note |
 | 2025-12-03 | [Double standard of "calm down"](../../items/C-MJM-401.md) | AI chat |
-| 2025-11-10 | [(no text)](../../items/S-c-166666775.md) | Substack restacked note |
+| 2025-11-10 | [(no text)](../../items/S-c-166666775.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
 | 2025-12-03 | [Double standard of "calm down"](../../items/C-MJM-401.md) | AI chat |
-| 2025-12-20 | [(no text)](../../items/S-c-187224832.md) | Substack restacked note |
-| 2025-11-10 | [(no text)](../../items/S-c-166666775.md) | Substack restacked note |
+| 2025-12-20 | [(no text)](../../items/S-c-187224832.md) | Substack note |
+| 2025-11-10 | [(no text)](../../items/S-c-166666775.md) | Substack note |

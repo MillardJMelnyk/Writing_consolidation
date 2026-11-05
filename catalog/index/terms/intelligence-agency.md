@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-07-31 | [Fauci Show through the lens of Signature Reduction Program or the largest intelligence agency that goes largely unnoticed.](../../items/S-p-208988395.md) | Substack restacked post |
+| 2026-07-31 | [Fauci Show through the lens of Signature Reduction Program or the largest intelligence agency that goes largely unnoticed.](../../items/S-p-208988395.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-07-31 | [Fauci Show through the lens of Signature Reduction Program or the largest intelligence agency that goes largely unnoticed.](../../items/S-p-208988395.md) | Substack restacked post |
+| 2026-07-31 | [Fauci Show through the lens of Signature Reduction Program or the largest intelligence agency that goes largely unnoticed.](../../items/S-p-208988395.md) | Substack note |

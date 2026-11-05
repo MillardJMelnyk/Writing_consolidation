@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-02-10 | [Impossible to deny](../../items/S-c-212265856.md) | Substack restacked note |
+| 2026-02-10 | [Impossible to deny](../../items/S-c-212265856.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-02-10 | [Impossible to deny](../../items/S-c-212265856.md) | Substack restacked note |
+| 2026-02-10 | [Impossible to deny](../../items/S-c-212265856.md) | Substack note |

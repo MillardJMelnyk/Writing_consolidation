@@ -34,13 +34,13 @@
 | 2026-08-27 | [No laws, anywhere, at any time, were instituted for the benefit of the so-called common ma…](../items/S-c-323785759.md) | Substack note |
 | 2025-08-15 | [No one wants to touch it... because of the level of power of the people involved. Who's in…](../items/S-c-145777252.md) | Substack note |
 | 2026-05-23 | [No one yet is talking about the elephant in the room: Why have we allowed, and why does th…](../items/S-c-263927311.md) | Substack note |
-| 2026-10-25 | [(no text)](../items/S-c-368338965.md) | Substack restacked note |
-| 2026-10-25 | [(no text)](../items/S-c-366457509.md) | Substack restacked note |
-| 2026-10-25 | [(no text)](../items/S-c-356709252.md) | Substack restacked note |
-| 2026-10-21 | [(no text)](../items/S-c-364039749.md) | Substack restacked note |
+| 2026-10-25 | [(no text)](../items/S-c-368338965.md) | Substack note |
+| 2026-10-25 | [(no text)](../items/S-c-366457509.md) | Substack note |
+| 2026-10-25 | [(no text)](../items/S-c-356709252.md) | Substack note |
+| 2026-10-21 | [(no text)](../items/S-c-364039749.md) | Substack note |
 | 2026-10-20 | [(no text)](../items/S-c-366066476.md) | Substack note |
 | 2026-10-14 | [(no text)](../items/S-c-361040847.md) | Substack note |
-| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack note |
 | 2026-10-14 | [(no text)](../items/S-c-360821232.md) | Substack note |
 | 2026-10-10 | [(no text)](../items/S-c-357499662.md) | Substack note |
 | 2026-10-08 | [(no text)](../items/S-c-356298777.md) | Substack note |
@@ -53,16 +53,16 @@
 | 2026-09-10 | [(no text)](../items/S-c-334056887.md) | Substack note |
 | 2026-09-09 | [(no text)](../items/S-c-333317053.md) | Substack note |
 | 2026-09-09 | [(no text)](../items/S-c-333181676.md) | Substack note |
-| 2026-09-06 | [(no text)](../items/S-c-322163382.md) | Substack restacked note |
+| 2026-09-06 | [(no text)](../items/S-c-322163382.md) | Substack note |
 | 2026-09-05 | [(no text)](../items/S-c-330452136.md) | Substack note |
-| 2026-09-05 | [(no text)](../items/S-c-329961930.md) | Substack restacked note |
+| 2026-09-05 | [(no text)](../items/S-c-329961930.md) | Substack note |
 | 2026-09-05 | [(no text)](../items/S-c-330342910.md) | Substack note |
 | 2026-09-05 | [(no text)](../items/S-c-330313298.md) | Substack note |
 | 2026-09-04 | [(no text)](../items/S-c-329683340.md) | Substack note |
 | 2026-09-04 | [(no text)](../items/S-c-329317683.md) | Substack note |
 | 2026-08-31 | [(no text)](../items/S-c-326641627.md) | Substack note |
-| 2026-08-17 | [(no text)](../items/S-c-308488753.md) | Substack restacked note |
-| 2026-08-16 | [(no text)](../items/S-c-312779658.md) | Substack restacked note |
+| 2026-08-17 | [(no text)](../items/S-c-308488753.md) | Substack note |
+| 2026-08-16 | [(no text)](../items/S-c-312779658.md) | Substack note |
 | 2026-07-27 | [(no text)](../items/S-c-302782442.md) | Substack note |
 | 2026-07-26 | [(no text)](../items/S-c-302198092.md) | Substack note |
 | 2026-07-23 | [(no text)](../items/S-c-300287494.md) | Substack note |
@@ -103,7 +103,7 @@
 | 2026-01-23 | [(no text)](../items/S-c-203884554.md) | Substack note |
 | 2026-01-12 | [(no text)](../items/S-c-198861361.md) | Substack note |
 | 2025-12-23 | [(no text)](../items/S-c-190916423.md) | Substack note |
-| 2025-12-20 | [(no text)](../items/S-c-187224832.md) | Substack restacked note |
+| 2025-12-20 | [(no text)](../items/S-c-187224832.md) | Substack note |
 | 2025-12-20 | [(no text)](../items/S-c-189941747.md) | Substack note |
 | 2025-12-20 | [(no text)](../items/S-c-189862779.md) | Substack note |
 | 2025-12-19 | [(no text)](../items/S-c-189641500.md) | Substack note |
@@ -111,13 +111,13 @@
 | 2025-12-08 | [(no text)](../items/S-c-185560608.md) | Substack note |
 | 2025-11-22 | [(no text)](../items/S-c-180125872.md) | Substack note |
 | 2025-11-19 | [(no text)](../items/S-c-178916549.md) | Substack note |
-| 2025-11-16 | [(no text)](../items/S-c-171708855.md) | Substack restacked note |
+| 2025-11-16 | [(no text)](../items/S-c-171708855.md) | Substack note |
 | 2025-11-16 | [(no text)](../items/S-c-177948262.md) | Substack note |
 | 2025-11-16 | [(no text)](../items/S-c-177847155.md) | Substack note |
 | 2025-11-14 | [(no text)](../items/S-c-177209352.md) | Substack note |
-| 2025-11-12 | [(no text)](../items/S-c-170629689.md) | Substack restacked note |
+| 2025-11-12 | [(no text)](../items/S-c-170629689.md) | Substack note |
 | 2025-11-12 | [(no text)](../items/S-c-176247369.md) | Substack note |
-| 2025-11-10 | [(no text)](../items/S-c-166666775.md) | Substack restacked note |
+| 2025-11-10 | [(no text)](../items/S-c-166666775.md) | Substack note |
 | 2025-11-03 | [(no text)](../items/S-c-173169487.md) | Substack note |
 | 2025-11-03 | [(no text)](../items/S-c-173157289.md) | Substack note |
 | 2025-10-31 | [(no text)](../items/S-c-172285435.md) | Substack note |
@@ -148,7 +148,7 @@
 | 2025-08-31 | [(no text)](../items/S-c-150995154.md) | Substack note |
 | 2025-08-30 | [(no text)](../items/S-c-150736372.md) | Substack note |
 | 2025-08-30 | [(no text)](../items/S-c-150727735.md) | Substack note |
-| 2025-08-30 | [(no text)](../items/S-c-150224500.md) | Substack restacked note |
+| 2025-08-30 | [(no text)](../items/S-c-150224500.md) | Substack note |
 | 2025-08-27 | [(no text)](../items/S-c-149753349.md) | Substack note |
 | 2025-08-26 | [(no text)](../items/S-c-149323489.md) | Substack note |
 | 2025-08-25 | [(no text)](../items/S-c-148914432.md) | Substack note |
@@ -160,7 +160,7 @@
 | 2025-08-12 | [(no text)](../items/S-c-144750450.md) | Substack note |
 | 2025-08-12 | [(no text)](../items/S-c-144724868.md) | Substack note |
 | 2025-08-11 | [(no text)](../items/S-c-144323249.md) | Substack note |
-| 2025-08-09 | [(no text)](../items/S-c-139662913.md) | Substack restacked note |
+| 2025-08-09 | [(no text)](../items/S-c-139662913.md) | Substack note |
 | 2025-08-08 | [(no text)](../items/S-c-143551562.md) | Substack note |
 | 2025-08-08 | [(no text)](../items/S-c-143548989.md) | Substack note |
 | 2025-08-08 | [(no text)](../items/S-c-143546955.md) | Substack note |
@@ -219,7 +219,7 @@
 | 2024-09-08 | [Not a fucking one](../items/S-p-148653826.md) | Substack post |
 | 2024-03-31 | [Not Dead ...Yet](../items/S-p-143136208.md) | Substack post |
 | 2025-01-29 | [Not just now, but from the beginning. You're not qualified to have an opinion on this unle…](../items/S-c-89464259.md) | Substack note |
-| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../items/S-c-155670947.md) | Substack restacked note |
+| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../items/S-c-155670947.md) | Substack note |
 | 2025-11-03 | [Not sure who is speaking or how right-on they are or aren't, but... FUCKING FINALLY!!!!! I…](../items/S-c-173148002.md) | Substack note |
 | 2026-07-29 | [Not that anyone with a functioning brain needs convincing at this point... But sometimes i…](../items/S-c-304250248.md) | Substack note |
 | 2023-09-01 | [Not very revolutionary](../items/S-p-136647476.md) | Substack post |

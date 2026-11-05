@@ -8,7 +8,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../../items/S-p-220933195.md) | Substack note |
 | 2026-09-28 | [// When you accept a particular ideology as the absolute truth and become so devoted to it…](../../items/S-c-348187056.md) | Substack note |
 | 2026-07-08 | [For me, it’s not a “belief”.](../../items/S-c-290585670.md) | Substack note |
 | 2026-07-03 | [(no text)](../../items/S-c-287618104.md) | Substack note |
@@ -42,7 +42,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../../items/S-p-220933195.md) | Substack note |
 | 2025-12-05 | [Belief - really](../../items/C-MJM-410.md) | AI chat |
 | 2025-12-08 | [Belief - really article finalization](../../items/C-MJM-429.md) | AI chat |
 | 2026-05-16 | [Beliefs are of the devil. Not certain beliefs. Believing itself. There is only one kind of…](../../items/S-c-260119887.md) | Substack note |

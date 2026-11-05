@@ -9,10 +9,10 @@
 | 2026-08-04 | [C2 negative adverbial inversions lesson](../items/C-MM-a06d6268.md) | AI chat |
 | 2026-10-03 | [Caitlin, your points about so-called "capital punishment" (I'm so fucking sick of how thes…](../items/S-c-352165831.md) | Substack note |
 | 2026-05-08 | [Calculating indecision from tick data](../items/C-MM-82bba4bf.md) | AI chat |
-| 2026-08-24 | [Call for Action! Submit comments to HHS on vaccine recommendations and “shared decision making”. Deadline September 20.](../items/S-p-212293890.md) | Substack restacked post |
+| 2026-08-24 | [Call for Action! Submit comments to HHS on vaccine recommendations and “shared decision making”. Deadline September 20.](../items/S-p-212293890.md) | Substack note |
 | 2026-08-24 | [Cambio de motivo de devolución y reembolso](../items/C-MJM-752.md) | AI chat |
 | 2026-08-12 | [Cambridge A2 speaking test preparation](../items/C-MM-223068bf.md) | AI chat |
-| 2025-12-07 | [Can this level of stupidity possibly survive?](../items/S-p-180913436.md) | Substack restacked post |
+| 2025-12-07 | [Can this level of stupidity possibly survive?](../items/S-p-180913436.md) | Substack note |
 | 2025-02-09 | [Can you criticize this intelligently?](../items/S-c-92286220.md) | Substack note |
 | 2025-12-25 | [Canaan, Levant, and Palestine geographic relationship](../items/C-MJM-524.md) | AI chat |
 | 2025-06-24 | [Canadian Embassy Passport Section](../items/C-MJM-044.md) | AI chat |
@@ -103,7 +103,7 @@
 | 2025-12-01 | [Confirming December 15th scheduling](../items/C-MJM-389.md) | AI chat |
 | 2025-11-10 | [Confronting willful ignorance and fear](../items/C-MJM-303.md) | AI chat |
 | 2026-03-27 | [Confused reaction](../items/C-MJM-695.md) | AI chat |
-| 2026-05-20 | [Congressional records for Biological Testing Involving Human Subjects by the Department of Defense, 1942-1977](../items/S-p-184087057.md) | Substack restacked post |
+| 2026-05-20 | [Congressional records for Biological Testing Involving Human Subjects by the Department of Defense, 1942-1977](../items/S-p-184087057.md) | Substack note |
 | 2026-09-21 | [Conjugation of "lead" verb forms](../items/C-MM-375ed3bd.md) | AI chat |
 | 2025-11-21 | [Connecting MT5 platform to the5ers contest account](../items/C-MJM-329.md) | AI chat |
 | 2025-12-30 | [“Consent of the governed”. “Politicians don’t care.” “Politicians don’t hold themselves ac…](../items/S-c-193190543.md) | Substack note |
@@ -129,7 +129,7 @@
 | 2025-11-26 | [Corvette Stingray vs Jaguar XKE comparison](../items/C-MJM-368.md) | AI chat |
 | 2025-08-23 | [Cosmic Void Comparison](../items/C-MJM-219.md) | AI chat |
 | 2026-10-09 | [Costa Rica visa requirements](../items/C-MM-28c22c56.md) | AI chat |
-| 2026-10-02 | [Covid Shots are Indistinguishable From Bio-Chemical Weapons](../items/S-p-175070275.md) | Substack restacked post |
+| 2026-10-02 | [Covid Shots are Indistinguishable From Bio-Chemical Weapons](../items/S-p-175070275.md) | Substack note |
 | 2026-08-21 | [COVID-19 case fatality rate estimates](../items/C-MM-82571598.md) | AI chat |
 | 2026-10-22 | [Covid-19 The Great Reset publication date](../items/C-MM-15350962.md) | AI chat |
 | 2026-08-23 | [Creating a personalized supplement plan](../items/C-MM-ac8e8c92.md) | AI chat |

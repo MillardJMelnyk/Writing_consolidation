@@ -9,11 +9,11 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-07-23 | [Motives behind Ben-Gvir's Al-Aqsa Mosque visit](../../items/C-MJM-714.md) | AI chat |
-| 2026-05-21 | [They're Not Mad At Ben-Gvir For Being Evil, They're Mad At Him For Being Honest](../../items/S-p-198646183.md) | Substack restacked post |
+| 2026-05-21 | [They're Not Mad At Ben-Gvir For Being Evil, They're Mad At Him For Being Honest](../../items/S-p-198646183.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
 | 2026-07-23 | [Motives behind Ben-Gvir's Al-Aqsa Mosque visit](../../items/C-MJM-714.md) | AI chat |
-| 2026-05-21 | [They're Not Mad At Ben-Gvir For Being Evil, They're Mad At Him For Being Honest](../../items/S-p-198646183.md) | Substack restacked post |
+| 2026-05-21 | [They're Not Mad At Ben-Gvir For Being Evil, They're Mad At Him For Being Honest](../../items/S-p-198646183.md) | Substack note |

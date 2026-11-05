@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-12-20 | [(no text)](../../items/S-c-187224832.md) | Substack restacked note |
+| 2025-12-20 | [(no text)](../../items/S-c-187224832.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-12-20 | [(no text)](../../items/S-c-187224832.md) | Substack restacked note |
+| 2025-12-20 | [(no text)](../../items/S-c-187224832.md) | Substack note |

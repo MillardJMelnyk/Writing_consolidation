@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-03 | [Vaccination Campaigns and Coverage Prior to 1930.](../../items/S-p-198494607.md) | Substack restacked post |
+| 2026-06-03 | [Vaccination Campaigns and Coverage Prior to 1930.](../../items/S-p-198494607.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-03 | [Vaccination Campaigns and Coverage Prior to 1930.](../../items/S-p-198494607.md) | Substack restacked post |
+| 2026-06-03 | [Vaccination Campaigns and Coverage Prior to 1930.](../../items/S-p-198494607.md) | Substack note |

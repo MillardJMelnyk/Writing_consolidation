@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-25 | [Funny overview of the covid saga](../../items/S-c-361442671.md) | Substack restacked note |
+| 2026-10-25 | [Funny overview of the covid saga](../../items/S-c-361442671.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-25 | [Funny overview of the covid saga](../../items/S-c-361442671.md) | Substack restacked note |
+| 2026-10-25 | [Funny overview of the covid saga](../../items/S-c-361442671.md) | Substack note |

@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-12-21 | [Polemics in America](../../items/S-p-173557334.md) | Substack restacked post |
+| 2025-12-21 | [Polemics in America](../../items/S-p-173557334.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-12-21 | [Polemics in America](../../items/S-p-173557334.md) | Substack restacked post |
+| 2025-12-21 | [Polemics in America](../../items/S-p-173557334.md) | Substack note |

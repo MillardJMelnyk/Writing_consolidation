@@ -33,7 +33,7 @@
 | 2025-10-15 | [Well, yeah, I agree -- but not the kind of revolution that most people have in mind. The r…](../items/S-c-166732504.md) | Substack note |
 | 2026-01-18 | [Well, yet another rant from one wing of the bird to the other as if "There can only be ONE…](../items/S-c-201648539.md) | Substack note |
 | 2025-07-17 | [Wells' Social Change Dynamics](../items/C-MJM-084.md) | AI chat |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack note |
 | 2026-09-05 | [We’re talking about records, not events. Nothing is essentially different: burn it or dele…](../items/S-c-330339237.md) | Substack note |
 | 2025-05-07 | [We’ve been so fixated and obsessed on Law for so long, we can hardly think of any other wa…](../items/S-c-115317571.md) | Substack note |
 | 2023-08-22 | [What Americans really believe...](../items/S-p-136315082.md) | Substack post |
@@ -70,7 +70,7 @@
 | 2026-10-10 | [When human thinking begins](../items/C-MM-7071db62.md) | AI chat |
 | 2026-05-26 | [When it comes to government, ignorance and stupidity do not constitute innocence, ever. Sa…](../items/S-c-265465700.md) | Substack note |
 | 2025-11-21 | [When Jews say that Zionism does not represent all Jews -- other than it being mushmouthed,…](../items/S-c-179865555.md) | Substack note |
-| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../items/S-c-159038934.md) | Substack restacked note |
+| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../items/S-c-159038934.md) | Substack note |
 | 2026-05-24 | [When one of the smartest AIs can't find a problem with your thinking, it's not everything,…](../items/S-c-264437992.md) | Substack note |
 | 2026-09-28 | [// When you accept a particular ideology as the absolute truth and become so devoted to it…](../items/S-c-348187056.md) | Substack note |
 | 2026-11-01 | [When you have truth to share, you don't need to capture media. When your sources have been…](../items/S-c-375825593.md) | Substack note |
@@ -79,7 +79,7 @@
 | 2025-03-29 | [Where is the heart?](../items/S-p-160139866.md) | Substack post |
 | 2025-11-13 | [Where the world stands on the Gaza genocide and occupation of Palestinian lands since 1967…](../items/S-c-176829145.md) | Substack note |
 | 2025-12-08 | [Where to try Poetiq](../items/C-MJM-423.md) | AI chat |
-| 2026-01-03 | [“Wherever the pesticide went, polio would soon follow.”](../items/S-c-194531750.md) | Substack restacked note |
+| 2026-01-03 | [“Wherever the pesticide went, polio would soon follow.”](../items/S-c-194531750.md) | Substack note |
 | 2025-10-15 | [Which makes the people that use the epithet, what? Cultists.](../items/S-c-166720367.md) | Substack note |
 | 2024-03-02 | [Which straw is going to break the backs of the deniers? <https://www.youtube.com/watch?v=D…](../items/S-c-50790873.md) | Substack note |
 | 2023-08-25 | [Which straw will do it?](../items/S-p-136410737.md) | Substack post |
@@ -88,16 +88,16 @@
 | 2026-04-04 | [Who WASN'T and ISN'T controlled opposition? I've finally found the rule of thumb. If their…](../items/S-c-238171159.md) | Substack note |
 | 2025-11-22 | [Why are epistemics important? First, because if you don't know how you came to a conclusio…](../items/S-c-180139899.md) | Substack note |
 | 2023-05-23 | [Why do we love tyranny?](../items/S-p-123368359.md) | Substack post |
-| 2026-01-03 | [“Why does a product need immunity if it doesn’t cause harm?” <https://drwojakmd.substack.c…](../items/S-c-184672890.md) | Substack restacked note |
+| 2026-01-03 | [“Why does a product need immunity if it doesn’t cause harm?” <https://drwojakmd.substack.c…](../items/S-c-184672890.md) | Substack note |
 | 2024-09-15 | [Why does no one get this? David Korten on “Walking away from the King”: <https://vimeo.com…](../items/S-c-69099350.md) | Substack note |
 | 2026-10-01 | [Why dogs put their paw on you](../items/C-MM-e5e19094.md) | AI chat |
 | 2025-11-18 | [Why don't people put 2 and 2 together to realize what it means that you need "put pressure…](../items/S-c-178556283.md) | Substack note |
 | 2024-11-06 | [Why getting offended doesn't even matter](../items/S-p-151290155.md) | Substack post |
-| 2025-11-06 | [Why is DARPA modeling disease outbreaks & intervention strategies while simultaneously looking to predict & manipulate collective human behavior? perspective](../items/S-p-176096234.md) | Substack restacked post |
+| 2025-11-06 | [Why is DARPA modeling disease outbreaks & intervention strategies while simultaneously looking to predict & manipulate collective human behavior? perspective](../items/S-p-176096234.md) | Substack note |
 | 2026-10-29 | [Why is Jewish ethno-supremacism tolerated, protected, and defended as if it were something…](../items/S-c-373349661.md) | Substack note |
-| 2025-10-29 | [Why The Covid Pandemic Warrants A Holocaust Comparison](../items/S-p-48135874.md) | Substack restacked post |
+| 2025-10-29 | [Why The Covid Pandemic Warrants A Holocaust Comparison](../items/S-p-48135874.md) | Substack note |
 | 2025-05-31 | [Why the fuck not? The top 4 answers to that question, de-euphemized, are: 1. It’s differen…](../items/S-c-121737574.md) | Substack note |
-| 2026-10-20 | [Why Tolerate Medical Fraud?](../items/S-p-221063932.md) | Substack restacked post |
+| 2026-10-20 | [Why Tolerate Medical Fraud?](../items/S-p-221063932.md) | Substack note |
 | 2024-09-26 | [Why? Because our upbringing, education, religious training, socialization, and the ongoing…](../items/S-c-70443232.md) | Substack note |
 | 2026-08-11 | [WiFi button disappeared after turning it off](../items/C-MM-006c8733.md) | AI chat |
 | 2026-08-26 | [WiFi network adapter keeps disconnecting](../items/C-MJM-753.md) | AI chat |
@@ -124,5 +124,5 @@
 | 2025-08-22 | [Writing Clarity Critique](../items/C-MJM-208.md) | AI chat |
 | 2025-08-28 | [Writing this morning about how the legal doctrine of “consent” in rape cases privileges an…](../items/S-c-150047815.md) | Substack note |
 | 2026-06-10 | [Wrongdoing and guilt as separate concepts](../items/C-MM-82be14ac.md) | AI chat |
-| 2026-07-22 | [WTF did I just read? Vinay Prasad's Hellth-AI dreams leave a human stain....](../items/S-p-207297703.md) | Substack restacked post |
+| 2026-07-22 | [WTF did I just read? Vinay Prasad's Hellth-AI dreams leave a human stain....](../items/S-p-207297703.md) | Substack note |
 | 2025-08-30 | [WTF? I came here because I thought it wasn’t (or at least was less). Silly me. OK, fuck. I…](../items/S-c-150687764.md) | Substack note |

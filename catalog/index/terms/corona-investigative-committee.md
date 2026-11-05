@@ -8,12 +8,12 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-25 | [TRANSCRIPT ~ Dr. Reiner Fuellmich Shares His Whole Story](../../items/S-p-211032558.md) | Substack restacked post |
-| 2026-09-06 | [Dr. Reiner Fuellmich Shares His Whole Story](../../items/S-p-210966874.md) | Substack restacked post |
+| 2026-10-25 | [TRANSCRIPT ~ Dr. Reiner Fuellmich Shares His Whole Story](../../items/S-p-211032558.md) | Substack note |
+| 2026-09-06 | [Dr. Reiner Fuellmich Shares His Whole Story](../../items/S-p-210966874.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-09-06 | [Dr. Reiner Fuellmich Shares His Whole Story](../../items/S-p-210966874.md) | Substack restacked post |
-| 2026-10-25 | [TRANSCRIPT ~ Dr. Reiner Fuellmich Shares His Whole Story](../../items/S-p-211032558.md) | Substack restacked post |
+| 2026-09-06 | [Dr. Reiner Fuellmich Shares His Whole Story](../../items/S-p-210966874.md) | Substack note |
+| 2026-10-25 | [TRANSCRIPT ~ Dr. Reiner Fuellmich Shares His Whole Story](../../items/S-p-211032558.md) | Substack note |

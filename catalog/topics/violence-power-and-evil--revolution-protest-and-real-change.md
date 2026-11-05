@@ -27,7 +27,7 @@
 | 2026-03-28 | [I've watched "protest" activities since the 60s. They are completely overrated. For the mo…](../items/S-c-234410333.md) | Substack note |
 | 2025-11-18 | [I'm all for and down for what you guys say you're after, but I honestly wonder if you have…](../items/S-c-178593189.md) | Substack note |
 | 2025-11-18 | [I wonder what it will finally take for people to stop with the fucking bullshit and admit …](../items/S-c-178558597.md) | Substack note |
-| 2025-11-12 | [(no text)](../items/S-c-170629689.md) | Substack restacked note |
+| 2025-11-12 | [(no text)](../items/S-c-170629689.md) | Substack note |
 | 2025-11-12 | [(no text)](../items/S-c-176247369.md) | Substack note |
 | 2025-11-03 | [(no text)](../items/S-c-173157289.md) | Substack note |
 | 2025-10-31 | [(no text)](../items/S-c-172213500.md) | Substack note |
@@ -138,7 +138,7 @@
 | 2025-10-15 | [Loved this right up to the close. Excellent piece. Yes, there will be a final revolution, …](../items/S-c-166646066.md) | Substack note |
 | 2026-09-12 | [Most of us begin by countering violence on the same level as the aggression. This is where…](../items/S-c-335665727.md) | Substack note |
 | 2024-11-25 | [New Day Soon](../items/S-p-152105496.md) | Substack post |
-| 2025-11-12 | [(no text)](../items/S-c-170629689.md) | Substack restacked note |
+| 2025-11-12 | [(no text)](../items/S-c-170629689.md) | Substack note |
 | 2025-11-12 | [(no text)](../items/S-c-176247369.md) | Substack note |
 | 2025-11-03 | [(no text)](../items/S-c-173157289.md) | Substack note |
 | 2025-10-31 | [(no text)](../items/S-c-172213500.md) | Substack note |

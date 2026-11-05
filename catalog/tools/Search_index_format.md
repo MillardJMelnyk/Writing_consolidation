@@ -2,7 +2,7 @@
 
 [← How to update the catalog](How_to_update_the_catalog.md)
 
-`catalog_search_index.js` is created the first time the catalog is started with Millard's_master_writing_catalog_manager.py, and is saved next to Millard's_master_writing_catalog.html on your computer. Other programs can read it.
+`catalog_search_index.js` is created the first time the catalog is started with Millards_master_writing_catalog_manager.py, and is saved next to Millards_master_writing_catalog.html on your computer. Other programs can read it.
 
 ## File layout
 

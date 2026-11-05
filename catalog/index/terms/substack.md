@@ -16,7 +16,7 @@
 | 2026-06-09 | [(no text)](../../items/S-c-273420646.md) | Substack note |
 | 2026-06-09 | [Title capitalization conventions across formats](../../items/C-MM-e82b2592.md) | AI chat |
 | 2026-05-31 | [(no text)](../../items/S-c-268219885.md) | Substack note |
-| 2025-10-02 | [Absolute evisceration. Well done Sasha. Alarming though that these establishment hacks are…](../../items/S-c-161867674.md) | Substack restacked note |
+| 2025-10-02 | [Absolute evisceration. Well done Sasha. Alarming though that these establishment hacks are…](../../items/S-c-161867674.md) | Substack note |
 | 2025-08-30 | [WTF? I came here because I thought it wasn’t (or at least was less). Silly me. OK, fuck. I…](../../items/S-c-150687764.md) | Substack note |
 | 2025-07-26 | [Substack Draft Heading Links](../../items/C-MJM-106.md) | AI chat |
 | 2025-07-07 | [The insanity is spreading](../../items/S-c-132901814.md) | Substack note |
@@ -35,7 +35,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-02 | [Absolute evisceration. Well done Sasha. Alarming though that these establishment hacks are…](../../items/S-c-161867674.md) | Substack restacked note |
+| 2025-10-02 | [Absolute evisceration. Well done Sasha. Alarming though that these establishment hacks are…](../../items/S-c-161867674.md) | Substack note |
 | 2026-09-28 | [Comparing items and listing differences](../../items/C-MM-0ab1dae2.md) | AI chat |
 | 2026-06-14 | [(no text)](../../items/S-c-276229700.md) | Substack note |
 | 2026-06-13 | [(no text)](../../items/S-c-275384314.md) | Substack note |

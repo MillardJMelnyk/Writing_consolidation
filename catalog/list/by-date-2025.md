@@ -62,8 +62,8 @@
 | 2025-12-22 | [Space-based solar power claim debunked](../items/C-MJM-510.md) | AI chat |
 | 2025-12-22 | [Grace Blakeley biography](../items/C-MJM-511.md) | AI chat |
 | 2025-12-21 | [How is this not psychotic?](../items/S-c-190366116.md) | Substack note |
-| 2025-12-21 | [Polemics in America](../items/S-p-173557334.md) | Substack restacked post |
-| 2025-12-21 | [Poisoning kids with vaccines in utero, at birth, and throughout infancy... funneling the p…](../items/S-c-190003765.md) | Substack restacked note |
+| 2025-12-21 | [Polemics in America](../items/S-p-173557334.md) | Substack note |
+| 2025-12-21 | [Poisoning kids with vaccines in utero, at birth, and throughout infancy... funneling the p…](../items/S-c-190003765.md) | Substack note |
 | 2025-12-21 | [X Chat mandatory setup for sharing posts](../items/C-MJM-499.md) | AI chat |
 | 2025-12-21 | [Leahy Law overview](../items/C-MJM-500.md) | AI chat |
 | 2025-12-21 | [Traditional Mexican Christmas gift baskets](../items/C-MJM-501.md) | AI chat |
@@ -71,7 +71,7 @@
 | 2025-12-21 | [Untitled](../items/C-MJM-503.md) | AI chat |
 | 2025-12-21 | [Long-term olive oil consumption health effects](../items/C-MJM-504.md) | AI chat |
 | 2025-12-21 | [Kary Mullis on PCR as medical testing](../items/C-MJM-505.md) | AI chat |
-| 2025-12-20 | [(no text)](../items/S-c-187224832.md) | Substack restacked note |
+| 2025-12-20 | [(no text)](../items/S-c-187224832.md) | Substack note |
 | 2025-12-20 | [(no text)](../items/S-c-189941747.md) | Substack note |
 | 2025-12-20 | [List briefly all the key ways in which codependence is psychotic, when "psychosis" is defi…](../items/S-c-189889014.md) | Substack note |
 | 2025-12-20 | [(no text)](../items/S-c-189862779.md) | Substack note |
@@ -151,7 +151,7 @@
 | 2025-12-08 | [Improving search functionality for chat content](../items/C-MJM-428.md) | AI chat |
 | 2025-12-08 | [Belief - really article finalization](../items/C-MJM-429.md) | AI chat |
 | 2025-12-08 | [Translation services cost in Queretaro](../items/C-MJM-430.md) | AI chat |
-| 2025-12-07 | [Can this level of stupidity possibly survive?](../items/S-p-180913436.md) | Substack restacked post |
+| 2025-12-07 | [Can this level of stupidity possibly survive?](../items/S-p-180913436.md) | Substack note |
 | 2025-12-07 | [In which I show that the idea that domination is inherent to "human nature" is itself a sy…](../items/S-c-185248865.md) | Substack note |
 | 2025-12-07 | [Religion as snake oil](../items/C-MJM-414.md) | AI chat |
 | 2025-12-07 | [Religion as institutional authority hijacking spirituality](../items/C-MJM-415.md) | AI chat |
@@ -183,7 +183,7 @@
 | 2025-12-02 | [Embodied wisdom versus theoretical indoctrination](../items/C-MJM-395.md) | AI chat |
 | 2025-12-02 | [Superior mirage and Fata Morgana](../items/C-MJM-396.md) | AI chat |
 | 2025-12-02 | [English speakers struggling with Spanish vowels and consonants](../items/C-MJM-397.md) | AI chat |
-| 2025-12-01 | [From my latest article.](../items/S-c-181659036.md) | Substack restacked note |
+| 2025-12-01 | [From my latest article.](../items/S-c-181659036.md) | Substack note |
 | 2025-12-01 | [Time to double trading account with daily returns](../items/C-MJM-384.md) | AI chat |
 | 2025-12-01 | [Lightweight Android screen recording apps](../items/C-MJM-385.md) | AI chat |
 | 2025-12-01 | [Chronic depression diagnosis and terminology](../items/C-MJM-386.md) | AI chat |
@@ -230,7 +230,7 @@
 | 2025-11-24 | [Evolution through mutation and natural selection](../items/C-MJM-349.md) | AI chat |
 | 2025-11-24 | [Evolution through random variation and natural selection](../items/C-MJM-350.md) | AI chat |
 | 2025-11-23 | [I didn't take you as quoting him to praise it. What you distinguish as codependence in dif…](../items/S-c-180489386.md) | Substack note |
-| 2025-11-23 | [Imagine doing this to your child. <https://drwojakmd.substack.com/p/unvaccinated-children-…](../items/S-c-172456365.md) | Substack restacked note |
+| 2025-11-23 | [Imagine doing this to your child. <https://drwojakmd.substack.com/p/unvaccinated-children-…](../items/S-c-172456365.md) | Substack note |
 | 2025-11-23 | [And for the most part, statistically, on this issue, they’re disturbingly right.](../items/S-c-180442478.md) | Substack note |
 | 2025-11-23 | [I hear ya, but this applies only to people still listening to these professional liars and…](../items/S-c-180440606.md) | Substack note |
 | 2025-11-23 | [Pre-Columbian American civilizations and their achievements](../items/C-MJM-340.md) | AI chat |
@@ -272,9 +272,9 @@
 | 2025-11-18 | [Pt 3 - Codependence as a psychological diagnosis](../items/C-MJM-318.md) | AI chat |
 | 2025-11-17 | [Reviewing shared Claude conversation](../items/C-MJM-316.md) | AI chat |
 | 2025-11-17 | [Pt 2 - Codependence as a psychological diagnosis](../items/C-MJM-317.md) | AI chat |
-| 2025-11-16 | [(no text)](../items/S-c-171708855.md) | Substack restacked note |
+| 2025-11-16 | [(no text)](../items/S-c-171708855.md) | Substack note |
 | 2025-11-16 | [(no text)](../items/S-c-177948262.md) | Substack note |
-| 2025-11-16 | [<https://drwojakmd.substack.com/p/pharma-is-organized-crime?r=5dxsrn&utmcampaign=post&utmm…](../items/S-c-177590409.md) | Substack restacked note |
+| 2025-11-16 | [<https://drwojakmd.substack.com/p/pharma-is-organized-crime?r=5dxsrn&utmcampaign=post&utmm…](../items/S-c-177590409.md) | Substack note |
 | 2025-11-16 | [I'm kinda co-writing with Claude AI, works really well. I write, Claude is my sounding boa…](../items/S-c-177943100.md) | Substack note |
 | 2025-11-16 | [In this Idiocracy, we celebrate sub-par as "wisdom", just cuz it's way above our level. We…](../items/S-c-177923430.md) | Substack note |
 | 2025-11-16 | [(no text)](../items/S-c-177847155.md) | Substack note |
@@ -293,23 +293,23 @@
 | 2025-11-13 | [Definition of cultist from reputable source](../items/C-MJM-304.md) | AI chat |
 | 2025-11-13 | [History of cult studies](../items/C-MJM-305.md) | AI chat |
 | 2025-11-13 | [Defining cultism: academic versus critical perspectives](../items/C-MJM-306.md) | AI chat |
-| 2025-11-12 | [BREAKING: Bombshell Emails Released Showing Trump KNEW About Epstein's Conduct](../items/S-p-178686146.md) | Substack restacked post |
+| 2025-11-12 | [BREAKING: Bombshell Emails Released Showing Trump KNEW About Epstein's Conduct](../items/S-p-178686146.md) | Substack note |
 | 2025-11-12 | [If you were in an obscenely rich family, by now you would have figured out that competing …](../items/S-c-176420118.md) | Substack note |
-| 2025-11-12 | [(no text)](../items/S-c-170629689.md) | Substack restacked note |
+| 2025-11-12 | [(no text)](../items/S-c-170629689.md) | Substack note |
 | 2025-11-12 | [(no text)](../items/S-c-176247369.md) | Substack note |
 | 2025-11-11 | [I just love that so many people are doing their own research. I don't know if you've seen …](../items/S-c-176058234.md) | Substack note |
-| 2025-11-10 | [<https://drwojakmd.substack.com/p/vaccines-protected-by-law-not-science?r=5dxsrn&utmcampai…](../items/S-c-174667478.md) | Substack restacked note |
+| 2025-11-10 | [<https://drwojakmd.substack.com/p/vaccines-protected-by-law-not-science?r=5dxsrn&utmcampai…](../items/S-c-174667478.md) | Substack note |
 | 2025-11-10 | [I wonder if many people hold AI chatbots to simple rules of rationality and honesty, or ju…](../items/S-c-175811964.md) | Substack note |
-| 2025-11-10 | [BREAKING: 86% of PCR-Positive “COVID Cases” Were Not Real Infections](../items/S-p-178318689.md) | Substack restacked post |
-| 2025-11-10 | [(no text)](../items/S-c-166666775.md) | Substack restacked note |
+| 2025-11-10 | [BREAKING: 86% of PCR-Positive “COVID Cases” Were Not Real Infections](../items/S-p-178318689.md) | Substack note |
+| 2025-11-10 | [(no text)](../items/S-c-166666775.md) | Substack note |
 | 2025-11-10 | [Fuck morality. If it takes "moral obligation" to get you to do what's human, loving, and g…](../items/S-c-175666266.md) | Substack note |
 | 2025-11-10 | [Rand saw what was going on, even though her alternatives/solutions sucked dick.](../items/S-c-175624330.md) | Substack note |
 | 2025-11-10 | [Confronting willful ignorance and fear](../items/C-MJM-303.md) | AI chat |
 | 2025-11-08 | [This, of course, is completely rhetorical. The fact is: IT'S A WHOLE FUCKING SHITLOAD OF P…](../items/S-c-175003683.md) | Substack note |
 | 2025-11-07 | [“100% certain” <https://x.com/JOKAQARMY1/status/1986479593335726480?t=8HIlKSP0x-WdQYz7L8XM…](../items/S-c-174798971.md) | Substack note |
-| 2025-11-06 | [Why is DARPA modeling disease outbreaks & intervention strategies while simultaneously looking to predict & manipulate collective human behavior? perspective](../items/S-p-176096234.md) | Substack restacked post |
+| 2025-11-06 | [Why is DARPA modeling disease outbreaks & intervention strategies while simultaneously looking to predict & manipulate collective human behavior? perspective](../items/S-p-176096234.md) | Substack note |
 | 2025-11-04 | [<https://lionessofjudah.substack.com/p/horror-canada-is-upping-its-killing](../items/S-c-173573103.md) | Substack note |
-| 2025-11-04 | [Must-watch clip from @Toby Rogers on “biological colonialism”. A single vaccine injury can…](../items/S-c-173053734.md) | Substack restacked note |
+| 2025-11-04 | [Must-watch clip from @Toby Rogers on “biological colonialism”. A single vaccine injury can…](../items/S-c-173053734.md) | Substack note |
 | 2025-11-04 | [Cooperative efforts have always been not just successful, but so successful that they shre…](../items/S-c-173430934.md) | Substack note |
 | 2025-11-03 | [Veils. Moses covered his face with a veil so that people couldn't see the glory was fading…](../items/S-c-173180236.md) | Substack note |
 | 2025-11-03 | [(no text)](../items/S-c-173169487.md) | Substack note |
@@ -324,21 +324,21 @@
 | 2025-10-31 | [Katherine Watt has done fantastic work investigating and documenting the bioweapons assaul…](../items/S-c-172145531.md) | Substack note |
 | 2025-10-30 | [Hey Matt Walsh, I'm putting you in my upcoming book! Check it out... <https://x.com/joerog…](../items/S-c-171812109.md) | Substack note |
 | 2025-10-30 | [(no text)](../items/S-c-171608568.md) | Substack note |
-| 2025-10-29 | [<https://drwojakmd.substack.com/p/vaccines-kill-babies-sids-is-the](../items/S-c-163469125.md) | Substack restacked note |
-| 2025-10-29 | [Massive shift in the official autism narrative.](../items/S-c-168532187.md) | Substack restacked note |
+| 2025-10-29 | [<https://drwojakmd.substack.com/p/vaccines-kill-babies-sids-is-the](../items/S-c-163469125.md) | Substack note |
+| 2025-10-29 | [Massive shift in the official autism narrative.](../items/S-c-168532187.md) | Substack note |
 | 2025-10-29 | [I’ve been studying theories—philosophical, scientific, religious, political, economic, psy…](../items/S-c-171528193.md) | Substack note |
 | 2025-10-29 | [Your credulity in the official bullshit narrative, and your capacity to deny facts and sco…](../items/S-c-171292000.md) | Substack note |
-| 2025-10-29 | [Why The Covid Pandemic Warrants A Holocaust Comparison](../items/S-p-48135874.md) | Substack restacked post |
-| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../items/S-c-169646454.md) | Substack restacked note |
+| 2025-10-29 | [Why The Covid Pandemic Warrants A Holocaust Comparison](../items/S-p-48135874.md) | Substack note |
+| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../items/S-c-169646454.md) | Substack note |
 | 2025-10-29 | [Very few scientists will understand this. Very few scientists have read Kuhn. The majority…](../items/S-c-171291191.md) | Substack note |
 | 2025-10-29 | [Starting to get it? All this time you thought that the message was in the content. But the…](../items/S-c-171288558.md) | Substack note |
-| 2025-10-28 | [From Part 2 of my reply to Senator Blumenthal at the Sept. 9 hearing.](../items/S-c-165192822.md) | Substack restacked note |
+| 2025-10-28 | [From Part 2 of my reply to Senator Blumenthal at the Sept. 9 hearing.](../items/S-c-165192822.md) | Substack note |
 | 2025-10-28 | [(no text)](../items/S-c-171167569.md) | Substack note |
 | 2025-10-28 | [A Word to VaXXX Cultists](../items/S-p-177385648.md) | Substack post |
-| 2025-10-28 | [The pharmaceutical industry rigs vaccine safety studies by lying about the definitions of …](../items/S-c-163740397.md) | Substack restacked note |
+| 2025-10-28 | [The pharmaceutical industry rigs vaccine safety studies by lying about the definitions of …](../items/S-c-163740397.md) | Substack note |
 | 2025-10-28 | [States in the political sense are literally hallucinations resulting from collective psych…](../items/S-c-171105425.md) | Substack note |
 | 2025-10-26 | [The inane idea that "America" has ever been about freedom is one of the biggest cultic, tr…](../items/S-c-170406100.md) | Substack note |
-| 2025-10-23 | ['UNTHINKABLE TRAGEDY: Toddler Twins DIED TOGETHER Following Vaccinations On May 1, Dallas and Tyson, fraternal 18-month-old twins, were found dead by their mother after receiving the Hepatitis A, flu](../items/S-p-176560185.md) | Substack restacked post |
+| 2025-10-23 | ['UNTHINKABLE TRAGEDY: Toddler Twins DIED TOGETHER Following Vaccinations On May 1, Dallas and Tyson, fraternal 18-month-old twins, were found dead by their mother after receiving the Hepatitis A, flu](../items/S-p-176560185.md) | Substack note |
 | 2025-10-19 | [So, when this is the case and this has always been the case -- NO EVIDENCE -- what do your…](../items/S-c-168021131.md) | Substack note |
 | 2025-10-17 | [Power and privilege critique](../items/C-MJM-301.md) | AI chat |
 | 2025-10-15 | [1. I'd disagree, not that humans \\would be good\\ (as if the only factors involved are ci…](../items/S-c-166773045.md) | Substack note |
@@ -382,8 +382,8 @@
 | 2025-10-04 | [Social hierarchy and power structures](../items/C-MJM-293.md) | AI chat |
 | 2025-10-03 | [Shortcut troubleshooting](../items/C-MJM-291.md) | AI chat |
 | 2025-10-02 | [This is how weak such attempts are when “elites” are allowed to exist. The ultimate power …](../items/S-c-162235633.md) | Substack note |
-| 2025-10-02 | [And thank you to all my supporters!](../items/S-c-161218710.md) | Substack restacked note |
-| 2025-10-02 | [Absolute evisceration. Well done Sasha. Alarming though that these establishment hacks are…](../items/S-c-161867674.md) | Substack restacked note |
+| 2025-10-02 | [And thank you to all my supporters!](../items/S-c-161218710.md) | Substack note |
+| 2025-10-02 | [Absolute evisceration. Well done Sasha. Alarming though that these establishment hacks are…](../items/S-c-161867674.md) | Substack note |
 | 2025-10-02 | [(no text)](../items/S-c-162210563.md) | Substack note |
 | 2025-09-30 | [Establishing conversation ground rules](../items/C-MJM-290.md) | AI chat |
 | 2025-09-29 | [Conversation ground rules](../items/C-MJM-287.md) | AI chat |
@@ -395,14 +395,14 @@
 | 2025-09-28 | [(no text)](../items/S-c-160789018.md) | Substack note |
 | 2025-09-27 | [Posting this here not as an argument about CONVID, but as a glaring example of how totalit…](../items/S-c-160466625.md) | Substack note |
 | 2025-09-27 | [Metaphors of mass behavior](../items/C-MJM-286.md) | AI chat |
-| 2025-09-26 | [STOP THIS INSANITY](../items/S-p-157564328.md) | Substack restacked post |
+| 2025-09-26 | [STOP THIS INSANITY](../items/S-p-157564328.md) | Substack note |
 | 2025-09-25 | [“Liberty survives only if it is defended every single day.” Well, that’s only true if you …](../items/S-c-159785058.md) | Substack note |
 | 2025-09-25 | [Watch this and ask yourself: To whom do the distinctions between mass murder, ethnic clean…](../items/S-c-159779770.md) | Substack note |
 | 2025-09-25 | [Precise communication protocol](../items/C-MJM-285.md) | AI chat |
 | 2025-09-24 | [Nice](../items/S-c-159587876.md) | Substack note |
-| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../items/S-c-159038934.md) | Substack restacked note |
+| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../items/S-c-159038934.md) | Substack note |
 | 2025-09-24 | [Tooting my own horn again, lol. I don't get much validation from humans (nor competent com…](../items/S-c-159584524.md) | Substack note |
-| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../items/S-p-174432792.md) | Substack restacked post |
+| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../items/S-p-174432792.md) | Substack note |
 | 2025-09-24 | [Faulkner -- a racist, sexist, unfaithful, alcoholic Confederate and, given this quote, a h…](../items/S-c-159436244.md) | Substack note |
 | 2025-09-24 | [Chomsky was right, because this shit everyone (including him) calls "power" is violence it…](../items/S-c-159419211.md) | Substack note |
 | 2025-09-24 | [Precision communication protocol](../items/C-MJM-280.md) | AI chat |
@@ -413,8 +413,8 @@
 | 2025-09-23 | [Origins of ruling class emergence](../items/C-MJM-277.md) | AI chat |
 | 2025-09-23 | [Critical analysis of theoretical discourse](../items/C-MJM-278.md) | AI chat |
 | 2025-09-23 | [Meaning of moving the goalpost](../items/C-MJM-279.md) | AI chat |
-| 2025-09-22 | [One of the best articles in recent years. It's about the mass illnesses and deaths followi…](../items/S-c-158351005.md) | Substack restacked note |
-| 2025-09-22 | [For the record, when the covid vaccine was introduced in 2020 I warned that it would kill …](../items/S-c-158322813.md) | Substack restacked note |
+| 2025-09-22 | [One of the best articles in recent years. It's about the mass illnesses and deaths followi…](../items/S-c-158351005.md) | Substack note |
+| 2025-09-22 | [For the record, when the covid vaccine was introduced in 2020 I warned that it would kill …](../items/S-c-158322813.md) | Substack note |
 | 2025-09-22 | [(no text)](../items/S-c-158653077.md) | Substack note |
 | 2025-09-22 | [Social institutions and glorified rituals](../items/C-MJM-273.md) | AI chat |
 | 2025-09-22 | [Grammar precision in language](../items/C-MJM-274.md) | AI chat |
@@ -439,15 +439,15 @@
 | 2025-09-21 | [What would your reaction have been to this meme 10 years ago? Or even just 5 years ago? Th…](../items/S-c-158434948.md) | Substack note |
 | 2025-09-21 | [(no text)](../items/S-c-158434729.md) | Substack note |
 | 2025-09-21 | [“Fractional personality” is not the origin of competition, achieving, aggression, war any …](../items/S-c-158434539.md) | Substack note |
-| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack restacked post |
-| 2025-09-21 | [Kennedy vaccine committee sticks with recommending the Hepatitis B vaccine and the MMR; brain damage business as usual](../items/S-p-174089108.md) | Substack restacked post |
+| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack note |
+| 2025-09-21 | [Kennedy vaccine committee sticks with recommending the Hepatitis B vaccine and the MMR; brain damage business as usual](../items/S-p-174089108.md) | Substack note |
 | 2025-09-21 | [The shitshow that has been made out of the Charlie Kirk murder is, straight up, an orgy of…](../items/S-c-158329036.md) | Substack note |
 | 2025-09-21 | [Literary metaphor for system collapse](../items/C-MJM-271.md) | AI chat |
 | 2025-09-21 | [Redefining the concept of evil](../items/C-MJM-272.md) | AI chat |
 | 2025-09-20 | [Linguistic precision of occult terms](../items/C-MJM-268.md) | AI chat |
 | 2025-09-20 | [Dogmas and identity traps](../items/C-MJM-269.md) | AI chat |
 | 2025-09-20 | [Defining the nature of evil](../items/C-MJM-270.md) | AI chat |
-| 2025-09-19 | [The road from 911 to Charlie Kirk](../items/S-p-173970437.md) | Substack restacked post |
+| 2025-09-19 | [The road from 911 to Charlie Kirk](../items/S-p-173970437.md) | Substack note |
 | 2025-09-19 | [But don’t forget about 11, John Spencer (who suddenly made his profile @ <https://spencerg…](../items/S-c-157758469.md) | Substack note |
 | 2025-09-19 | [<https://www.facebook.com/millardjmelnyk/posts/pfbid02tDVXmvw1aosCfbUUuP2bVqXrymcJqi98vpK3…](../items/S-c-157746856.md) | Substack note |
 | 2025-09-19 | [@John Spencer, regarding your article, “The U.N. Genocide Report Against Israel Is an Assa…](../items/S-c-157737349.md) | Substack note |
@@ -455,7 +455,7 @@
 | 2025-09-19 | [Ancient literary world of men](../items/C-MJM-267.md) | AI chat |
 | 2025-09-18 | [Language precision and alternatives](../items/C-MJM-265.md) | AI chat |
 | 2025-09-17 | [(no text)](../items/S-c-157101441.md) | Substack note |
-| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../items/S-c-155670947.md) | Substack restacked note |
+| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../items/S-c-155670947.md) | Substack note |
 | 2025-09-17 | [I wonder how much of dent in the psychotic cultism it will make?](../items/S-c-156996031.md) | Substack note |
 | 2025-09-17 | [Every single one of you that pretends what's going on the world today is "inevitable" or "…](../items/S-c-156995602.md) | Substack note |
 | 2025-09-17 | [It's unfathomable to me how so many people listening to someone relating there own experie…](../items/S-c-156950480.md) | Substack note |
@@ -511,7 +511,7 @@
 | 2025-08-30 | [I'm wondering why this says "unrecognized" instead of "dissolved". Give the land back to t…](../items/S-c-150715539.md) | Substack note |
 | 2025-08-30 | [WTF? I came here because I thought it wasn’t (or at least was less). Silly me. OK, fuck. I…](../items/S-c-150687764.md) | Substack note |
 | 2025-08-30 | [Fact: You can't listen well while you're making words. Fact: If you don't hear, you can't …](../items/S-c-150686839.md) | Substack note |
-| 2025-08-30 | [(no text)](../items/S-c-150224500.md) | Substack restacked note |
+| 2025-08-30 | [(no text)](../items/S-c-150224500.md) | Substack note |
 | 2025-08-30 | [Exceptionally few things which Rand and I see eye to eye on, but this is one.](../items/S-c-150680838.md) | Substack note |
 | 2025-08-30 | [What do you know when you hear someone say "Human Rights"? 1. Masses of human beings, some…](../items/S-c-150665886.md) | Substack note |
 | 2025-08-29 | [Linguistic Analysis of "Scaredy-Catting"](../items/C-MJM-231.md) | AI chat |
@@ -555,7 +555,7 @@
 | 2025-08-22 | [Writing Clarity Critique](../items/C-MJM-208.md) | AI chat |
 | 2025-08-22 | [Elite Parasitism and Social Infantilism](../items/C-MJM-209.md) | AI chat |
 | 2025-08-22 | [Systems of Mass Control](../items/C-MJM-210.md) | AI chat |
-| 2025-08-21 | [It is not possible to make safe poison. All vaccines are deliberate, intentional poisoning…](../items/S-c-147323275.md) | Substack restacked note |
+| 2025-08-21 | [It is not possible to make safe poison. All vaccines are deliberate, intentional poisoning…](../items/S-c-147323275.md) | Substack note |
 | 2025-08-21 | [Inventing Nonsense Words](../items/C-MJM-199.md) | AI chat |
 | 2025-08-21 | [Human Rights: Existence and Recognition](../items/C-MJM-200.md) | AI chat |
 | 2025-08-21 | [Metaphors for Overwhelming Majority](../items/C-MJM-201.md) | AI chat |
@@ -574,7 +574,7 @@
 | 2025-08-20 | [Critique Guidelines Established](../items/C-MM-ef343347.md) | AI chat |
 | 2025-08-20 | [Rightspeak and Rights Discourse](../items/C-MM-cf68dbb2.md) | AI chat |
 | 2025-08-19 | [<https://x.com/iluminatibot/status/1956918387646529815?t=FCTqw3Ds36JCmWj-dkJQow&s=19 I hav…](../items/S-c-147109698.md) | Substack note |
-| 2025-08-19 | [Thank you for describing our work and its relevance in demonstrating the fraudulent and ne…](../items/S-c-144375479.md) | Substack restacked note |
+| 2025-08-19 | [Thank you for describing our work and its relevance in demonstrating the fraudulent and ne…](../items/S-c-144375479.md) | Substack note |
 | 2025-08-19 | [<https://substack.com/home/post/p-170650217](../items/S-c-147014081.md) | Substack note |
 | 2025-08-19 | [(no text)](../items/S-c-146967337.md) | Substack note |
 | 2025-08-19 | [Hetalia Anime Series Listing](../items/C-MJM-187.md) | AI chat |
@@ -592,7 +592,7 @@
 | 2025-08-17 | [Nature of Arguments and Doubt](../items/C-MJM-184.md) | AI chat |
 | 2025-08-17 | [Philosophical Crevasse of Logic](../items/C-MJM-185.md) | AI chat |
 | 2025-08-16 | [(no text)](../items/S-c-146147579.md) | Substack note |
-| 2025-08-16 | [100% of childhood cancers are due to vaccines.](../items/S-c-146136794.md) | Substack restacked note |
+| 2025-08-16 | [100% of childhood cancers are due to vaccines.](../items/S-c-146136794.md) | Substack note |
 | 2025-08-16 | [(no text)](../items/S-c-146145102.md) | Substack note |
 | 2025-08-16 | [UN Rights Declaration: Systemic Hypocrisy](../items/C-MJM-179.md) | AI chat |
 | 2025-08-16 | [Rights and Philosophical Critique](../items/C-MJM-180.md) | AI chat |
@@ -647,7 +647,7 @@
 | 2025-08-09 | [You'll be surprised how much more powerful simple, daily, uncompromising, belligerent hone…](../items/S-c-143811667.md) | Substack note |
 | 2025-08-09 | [ReLOVEution Glossary](../items/S-p-170534838.md) | Substack post |
 | 2025-08-09 | [Chatting with a new friend about anarchism and how it characterized indigenous societies, …](../items/S-c-143703095.md) | Substack note |
-| 2025-08-09 | [(no text)](../items/S-c-139662913.md) | Substack restacked note |
+| 2025-08-09 | [(no text)](../items/S-c-139662913.md) | Substack note |
 | 2025-08-09 | [US Divorce Rates Historical Trends](../items/C-MJM-144.md) | AI chat |
 | 2025-08-09 | [Farther vs Further: Language Distinction](../items/C-MJM-145.md) | AI chat |
 | 2025-08-09 | [Meaning of "Confusing X for Y"](../items/C-MJM-146.md) | AI chat |
@@ -897,7 +897,7 @@
 | 2025-06-01 | [Mystery Croatian Coastal Town](../items/C-MJM-018.md) | AI chat |
 | 2025-06-01 | [Challenging the Concept of Ownership](../items/C-MJM-019.md) | AI chat |
 | 2025-05-31 | [Unbelievable that people can’t see what’s happening here. RFK Jr. is not the one lying. In…](../items/S-c-121754443.md) | Substack note |
-| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack restacked note |
+| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack note |
 | 2025-05-31 | [Fuck Israel. Fuck every Israeli who does not violently hate their own country. I'm not sur…](../items/S-c-121751176.md) | Substack note |
 | 2025-05-31 | [Why the fuck not? The top 4 answers to that question, de-euphemized, are: 1. It’s differen…](../items/S-c-121737574.md) | Substack note |
 | 2025-05-31 | [Understanding Flow Psychology](../items/C-MJM-017.md) | AI chat |
@@ -954,7 +954,7 @@
 | 2025-05-04 | [It’s all a great big Holo-Hunger game](../items/S-p-162818177.md) | Substack post |
 | 2025-05-02 | [Are you a cultist?](../items/S-p-162703724.md) | Substack post |
 | 2025-04-27 | [The myth of unfairness](../items/S-p-162285851.md) | Substack post |
-| 2025-04-22 | [PREP Act Brief: "License to Kill" must be repealed.](../items/S-p-160870124.md) | Substack restacked post |
+| 2025-04-22 | [PREP Act Brief: "License to Kill" must be repealed.](../items/S-p-160870124.md) | Substack note |
 | 2025-04-14 | [Rivers of living waters from our innermost being](../items/S-p-161259315.md) | Substack post |
 | 2025-03-29 | [Where is the heart?](../items/S-p-160139866.md) | Substack post |
 | 2025-03-22 | [I'm hugely supportive of your intent, Don. Don't get me wrong. But no one has even begun t…](../items/S-c-102533562.md) | Substack note |
@@ -991,4 +991,4 @@
 | 2025-01-24 | [I agree completely. But even this doesn't get to the root of it. Overthrowing the principl…](../items/S-c-88425083.md) | Substack note |
 | 2025-01-19 | [It's NOT just "capitalism" -- it's every "system" built on the foundation of "ownership". …](../items/S-c-87188017.md) | Substack note |
 | 2025-01-16 | [After 15 years participating in a cult and the following 30 years researching, investigati…](../items/S-c-86449734.md) | Substack note |
-| 2025-01-03 | [This is INSANE! I was optimistic that change was coming, but I am not as optimistic now.](../items/S-c-82702723.md) | Substack restacked note |
+| 2025-01-03 | [This is INSANE! I was optimistic that change was coming, but I am not as optimistic now.](../items/S-c-82702723.md) | Substack note |

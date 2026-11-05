@@ -9,11 +9,11 @@
 | Date | Title | Type |
 |---|---|---|
 | 2025-12-20 | [Assange's lawsuit over Machado's Nobel Peace Prize](../../items/C-MJM-495.md) | AI chat |
-| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../../items/S-p-174432792.md) | Substack restacked post |
+| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../../items/S-p-174432792.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
 | 2025-12-20 | [Assange's lawsuit over Machado's Nobel Peace Prize](../../items/C-MJM-495.md) | AI chat |
-| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../../items/S-p-174432792.md) | Substack restacked post |
+| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../../items/S-p-174432792.md) | Substack note |

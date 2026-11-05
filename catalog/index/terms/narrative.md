@@ -8,7 +8,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../../items/S-p-220933195.md) | Substack note |
 | 2026-10-07 | [I think it’s far easier than that. You know it’s a cure if it cures you. No-brainer. Proof…](../../items/S-c-355093184.md) | Substack note |
 | 2026-04-02 | [Anyone unable to recognize intelligence and fact/data-based analysis when they see it is, …](../../items/S-c-237151077.md) | Substack note |
 | 2025-10-12 | [Narratives of power and persuasion](../../items/C-MJM-299.md) | AI chat |
@@ -20,7 +20,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../../items/S-p-220933195.md) | Substack note |
 | 2026-04-02 | [Anyone unable to recognize intelligence and fact/data-based analysis when they see it is, …](../../items/S-c-237151077.md) | Substack note |
 | 2025-05-28 | [Diagram of Psychosomatic Processes](../../items/C-MJM-013.md) | AI chat |
 | 2026-10-07 | [I think it’s far easier than that. You know it’s a cure if it cures you. No-brainer. Proof…](../../items/S-c-355093184.md) | Substack note |

@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-09-19 | [The road from 911 to Charlie Kirk](../../items/S-p-173970437.md) | Substack restacked post |
+| 2025-09-19 | [The road from 911 to Charlie Kirk](../../items/S-p-173970437.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-09-19 | [The road from 911 to Charlie Kirk](../../items/S-p-173970437.md) | Substack restacked post |
+| 2025-09-19 | [The road from 911 to Charlie Kirk](../../items/S-p-173970437.md) | Substack note |

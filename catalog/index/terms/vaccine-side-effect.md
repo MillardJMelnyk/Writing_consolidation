@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-09-26 | [STOP THIS INSANITY](../../items/S-p-157564328.md) | Substack restacked post |
+| 2025-09-26 | [STOP THIS INSANITY](../../items/S-p-157564328.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-09-26 | [STOP THIS INSANITY](../../items/S-p-157564328.md) | Substack restacked post |
+| 2025-09-26 | [STOP THIS INSANITY](../../items/S-p-157564328.md) | Substack note |

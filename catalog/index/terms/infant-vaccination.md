@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-29 | [<https://drwojakmd.substack.com/p/vaccines-kill-babies-sids-is-the](../../items/S-c-163469125.md) | Substack restacked note |
+| 2025-10-29 | [<https://drwojakmd.substack.com/p/vaccines-kill-babies-sids-is-the](../../items/S-c-163469125.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-29 | [<https://drwojakmd.substack.com/p/vaccines-kill-babies-sids-is-the](../../items/S-c-163469125.md) | Substack restacked note |
+| 2025-10-29 | [<https://drwojakmd.substack.com/p/vaccines-kill-babies-sids-is-the](../../items/S-c-163469125.md) | Substack note |

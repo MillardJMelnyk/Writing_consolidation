@@ -28,7 +28,7 @@
 | 2026-10-19 | [You can say what you want, but this is the rule. This isn't cops abusing their power. This…](../items/S-c-364994148.md) | Substack note |
 | 2026-10-19 | [Defining wealth and power's corrupting influence](../items/C-MM-279c32e3.md) | AI chat |
 | 2026-10-19 | [Police authority and power imbalance](../items/C-MM-b6c03312.md) | AI chat |
-| 2026-10-17 | [Military-Industrial Complex Assures Investors That Wars Will Be Endless, And Other Notes](../items/S-p-220842792.md) | Substack restacked post |
+| 2026-10-17 | [Military-Industrial Complex Assures Investors That Wars Will Be Endless, And Other Notes](../items/S-p-220842792.md) | Substack note |
 | 2026-10-13 | [Political ponderology goes viral](../items/C-MM-be4406a4.md) | AI chat |
 | 2026-10-12 | [Removing misspelled words from Word dictionary](../items/C-MM-ab2d6abc.md) | AI chat |
 | 2026-10-11 | [Content-independence and French student protests](../items/C-MM-5943eb94.md) | AI chat |
@@ -59,7 +59,7 @@
 | 2026-07-29 | [Not that anyone with a functioning brain needs convincing at this point... But sometimes i…](../items/S-c-304250248.md) | Substack note |
 | 2026-07-26 | [(no text)](../items/S-c-302198092.md) | Substack note |
 | 2026-07-23 | [(no text)](../items/S-c-300280791.md) | Substack note |
-| 2026-07-19 | [Trump Killed Those US Troops In Jordan](../items/S-p-207612455.md) | Substack restacked post |
+| 2026-07-19 | [Trump Killed Those US Troops In Jordan](../items/S-p-207612455.md) | Substack note |
 | 2026-07-12 | [(no text)](../items/S-c-293126666.md) | Substack note |
 | 2026-07-08 | [We need to recognize what we take as “power” is actually violent force and, secondarily, p…](../items/S-c-290755200.md) | Substack note |
 | 2026-07-05 | [Get the fuck outside](../items/S-p-205269125.md) | Substack post |
@@ -75,7 +75,7 @@
 | 2026-05-31 | ["DO NOT COMPLY." What a pathetic, puerile, sniveling outlook. Codependent much? Consider t…](../items/S-c-268282917.md) | Substack note |
 | 2026-05-30 | [Democracy is nothing better than the least obviously egregious form of tyranny, in which a…](../items/S-c-267680970.md) | Substack note |
 | 2026-05-28 | [This is the playbook, as old as violence itself: 1. Attack 2. Pretend your attack never ha…](../items/S-c-266656844.md) | Substack note |
-| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../items/S-p-199459065.md) | Substack restacked post |
+| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../items/S-p-199459065.md) | Substack note |
 | 2026-05-26 | [They're just doing what their Tanakh tells them to do: "Blessed shall he be who takes your…](../items/S-c-265549530.md) | Substack note |
 | 2026-05-26 | [There is no honor in military service. There is no honor in terrorizing and killing people…](../items/S-c-265418770.md) | Substack note |
 | 2026-05-20 | [(no text)](../items/S-c-262409538.md) | Substack note |
@@ -90,7 +90,7 @@
 | 2026-03-30 | [Fucking hell. Grow some fucking balls. Who the fuck is "forcing" you to believe that lying…](../items/S-c-235699324.md) | Substack note |
 | 2026-03-30 | [It cracks me up how self-congratulatory 60s/70s protesters are (because in the 50s the onl…](../items/S-c-235697817.md) | Substack note |
 | 2026-03-28 | [I've watched "protest" activities since the 60s. They are completely overrated. For the mo…](../items/S-c-234410333.md) | Substack note |
-| 2026-01-26 | [Imperial Boomerang](../items/S-p-185686838.md) | Substack restacked post |
+| 2026-01-26 | [Imperial Boomerang](../items/S-p-185686838.md) | Substack note |
 | 2026-01-19 | [He's talking about a cult. A violent, violence-loving cult. The peaceniks are fucking hypo…](../items/S-c-201938359.md) | Substack note |
 | 2026-01-18 | [Well, yet another rant from one wing of the bird to the other as if "There can only be ONE…](../items/S-c-201648539.md) | Substack note |
 | 2026-01-13 | [There's a vast difference between respect and love, which is why they have no problem maki…](../items/S-c-199134748.md) | Substack note |
@@ -113,7 +113,7 @@
 | 2025-11-19 | [(no text)](../items/S-c-178916549.md) | Substack note |
 | 2025-11-18 | [I'm all for and down for what you guys say you're after, but I honestly wonder if you have…](../items/S-c-178593189.md) | Substack note |
 | 2025-11-18 | [I wonder what it will finally take for people to stop with the fucking bullshit and admit …](../items/S-c-178558597.md) | Substack note |
-| 2025-11-12 | [(no text)](../items/S-c-170629689.md) | Substack restacked note |
+| 2025-11-12 | [(no text)](../items/S-c-170629689.md) | Substack note |
 | 2025-11-12 | [(no text)](../items/S-c-176247369.md) | Substack note |
 | 2025-11-10 | [Fuck morality. If it takes "moral obligation" to get you to do what's human, loving, and g…](../items/S-c-175666266.md) | Substack note |
 | 2025-11-03 | [(no text)](../items/S-c-173157289.md) | Substack note |
@@ -347,7 +347,7 @@
 | 2026-03-28 | [I've watched "protest" activities since the 60s. They are completely overrated. For the mo…](../items/S-c-234410333.md) | Substack note |
 | 2026-10-04 | [If they lied to you about this, then why the fuck would you still believe they wouldn't li…](../items/S-c-352998828.md) | Substack note |
 | 2023-09-20 | [If you can't do this, you're no revolutionary](../items/S-p-107660041.md) | Substack post |
-| 2026-01-26 | [Imperial Boomerang](../items/S-p-185686838.md) | Substack restacked post |
+| 2026-01-26 | [Imperial Boomerang](../items/S-p-185686838.md) | Substack note |
 | 2026-06-08 | [Improving on a frustrating AI response](../items/C-MM-3f2b2ac0.md) | AI chat |
 | 2024-11-14 | [In a sane society, we’d have no question about this. Those who seek to control life and li…](../items/S-c-77206488.md) | Substack note |
 | 2026-04-06 | [In every case I've ever seen, the reason why murderous violence "make sense" to people is …](../items/S-c-239261895.md) | Substack note |
@@ -371,7 +371,7 @@
 | 2025-01-26 | [Listen to this "conspiracy theorist", you conspiracy-theory-paranoid invalids. If you can'…](../items/S-c-88826593.md) | Substack note |
 | 2025-10-15 | [Loved this right up to the close. Excellent piece. Yes, there will be a final revolution, …](../items/S-c-166646066.md) | Substack note |
 | 2023-09-14 | [Machiavelli asked whether it’s better to be loved or feared. Of course he did. He thought …](../items/S-c-40107989.md) | Substack note |
-| 2026-10-17 | [Military-Industrial Complex Assures Investors That Wars Will Be Endless, And Other Notes](../items/S-p-220842792.md) | Substack restacked post |
+| 2026-10-17 | [Military-Industrial Complex Assures Investors That Wars Will Be Endless, And Other Notes](../items/S-p-220842792.md) | Substack note |
 | 2025-07-03 | [Moral Dilemmas of Opposing Evil](../items/C-MJM-062.md) | AI chat |
 | 2025-08-18 | [Moral Erosion and Tolerance](../items/C-MJM-186.md) | AI chat |
 | 2025-07-03 | [Moral Justification of Force](../items/C-MJM-063.md) | AI chat |
@@ -387,7 +387,7 @@
 | 2026-04-06 | [(no text)](../items/S-c-239175565.md) | Substack note |
 | 2025-12-19 | [(no text)](../items/S-c-189641500.md) | Substack note |
 | 2025-11-19 | [(no text)](../items/S-c-178916549.md) | Substack note |
-| 2025-11-12 | [(no text)](../items/S-c-170629689.md) | Substack restacked note |
+| 2025-11-12 | [(no text)](../items/S-c-170629689.md) | Substack note |
 | 2025-11-12 | [(no text)](../items/S-c-176247369.md) | Substack note |
 | 2025-11-03 | [(no text)](../items/S-c-173157289.md) | Substack note |
 | 2025-10-31 | [(no text)](../items/S-c-172283968.md) | Substack note |
@@ -465,7 +465,7 @@
 | 2026-05-26 | [There is no honor in military service. There is no honor in terrorizing and killing people…](../items/S-c-265418770.md) | Substack note |
 | 2026-10-26 | [There was never anything “great” about a country initiated, established, expanded, and sei…](../items/S-c-370873888.md) | Substack note |
 | 2026-01-13 | [There's a vast difference between respect and love, which is why they have no problem maki…](../items/S-c-199134748.md) | Substack note |
-| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../items/S-p-199459065.md) | Substack restacked post |
+| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../items/S-p-199459065.md) | Substack note |
 | 2026-05-26 | [They're just doing what their Tanakh tells them to do: "Blessed shall he be who takes your…](../items/S-c-265549530.md) | Substack note |
 | 2024-08-19 | [Think about this the next time you see an ad for military recruitment (are they still runn…](../items/S-c-65928930.md) | Substack note |
 | 2025-02-25 | [This is all it's going to take?](../items/S-p-157819193.md) | Substack post |
@@ -477,7 +477,7 @@
 | 2026-08-29 | [This thinking belongs to the mind of “the beast”. 666 is 2/3 of 1,000. Any fucking idiot c…](../items/S-c-325404955.md) | Substack note |
 | 2022-12-31 | [Those who fixate on history are condemned to repeat it](../items/S-p-93935687.md) | Substack post |
 | 2024-11-21 | [Times changing like greased lightning](../items/S-p-151992674.md) | Substack post |
-| 2026-07-19 | [Trump Killed Those US Troops In Jordan](../items/S-p-207612455.md) | Substack restacked post |
+| 2026-07-19 | [Trump Killed Those US Troops In Jordan](../items/S-p-207612455.md) | Substack note |
 | 2025-12-19 | [Trump's Venezuela military strategy](../items/C-MJM-487.md) | AI chat |
 | 2025-08-10 | [Uncompromising Truth-Telling](../items/C-MJM-150.md) | AI chat |
 | 2026-06-15 | [Universal gesture of kneeling and bowing](../items/C-MM-48e4a248.md) | AI chat |

@@ -13,7 +13,7 @@
 | 2025-12-22 | [Saltwater lamps: real or fake?](../items/C-MJM-508.md) | AI chat |
 | 2025-02-14 | [Sanity Check](../items/S-p-157168190.md) | Substack post |
 | 2026-06-23 | [Sasha Latypova correctly points out (see <https://sashalatypova.substack.com/p/robert-kenn…](../items/S-c-281354633.md) | Substack note |
-| 2026-10-21 | [Sasha Latypova says COVID was a military operation, not a viral pandemic](../items/S-p-151805302.md) | Substack restacked post |
+| 2026-10-21 | [Sasha Latypova says COVID was a military operation, not a viral pandemic](../items/S-p-151805302.md) | Substack note |
 | 2026-10-10 | [Saudi regime collapse and the straw that breaks the camel's back](../items/C-MM-136254b9.md) | AI chat |
 | 2025-08-15 | [Savings Account Interest Rates History](../items/C-MJM-176.md) | AI chat |
 | 2026-06-13 | [Scariest evil villains in comics history](../items/C-MM-4e383cbc.md) | AI chat |
@@ -54,7 +54,7 @@
 | 2026-10-10 | [Shiite and Sunni Islam differences](../items/C-MM-c1339e22.md) | AI chat |
 | 2026-09-05 | [Shizzrael is a shit stain on the face of Earth](../items/S-c-330342160.md) | Substack note |
 | 2026-06-09 | [Shizzraeli Police brutalizing Palestinians carrying their flag. That's a little girl of no…](../items/S-c-273417661.md) | Substack note |
-| 2026-10-28 | [SHOCKING: This woman was nearly killed in a hospital for being unvaccinated. Gail Seiler g…](../items/S-c-356329606.md) | Substack restacked note |
+| 2026-10-28 | [SHOCKING: This woman was nearly killed in a hospital for being unvaccinated. Gail Seiler g…](../items/S-c-356329606.md) | Substack note |
 | 2026-05-01 | [Shoeless Joe from Hannibal Mo movie origin](../items/C-MM-6ec9777b.md) | AI chat |
 | 2025-10-03 | [Shortcut troubleshooting](../items/C-MJM-291.md) | AI chat |
 | 2026-10-14 | [Side by side video compilation](../items/C-MM-498f77d4.md) | AI chat |
@@ -130,7 +130,7 @@
 | 2026-08-27 | [Stockholm syndrome definition](../items/C-MM-a2ec32cf.md) | AI chat |
 | 2026-09-06 | [Stockholm syndrome misunderstanding](../items/C-MM-43ebb8b3.md) | AI chat |
 | 2026-10-07 | [Stop calling a massacre, a genocide, a "war" - you disgusting, sleazy euphemizers. If you …](../items/S-c-355073954.md) | Substack note |
-| 2025-09-26 | [STOP THIS INSANITY](../items/S-p-157564328.md) | Substack restacked post |
+| 2025-09-26 | [STOP THIS INSANITY](../items/S-p-157564328.md) | Substack note |
 | 2026-01-23 | [Stop-loss liquidity risks in flash crashes](../items/C-MJM-619.md) | AI chat |
 | 2026-10-10 | [Street slang for withdrawal symptoms](../items/C-MM-a48574de.md) | AI chat |
 | 2025-07-26 | [Strongest Word for Resentment](../items/C-MJM-100.md) | AI chat |

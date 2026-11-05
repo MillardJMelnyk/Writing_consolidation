@@ -15,8 +15,8 @@ for f in sorted(glob.glob(os.path.join(SUB_RAW, 'page_*.json'))):
     raw += json.load(open(f))['items']
 entries = json.load(open(SUB_ENTRIES))['entries']
 assert len(raw) == len(entries)
-TYPE = {'note': 'Substack note', 'comment_restack': 'Substack restacked note', 'post': 'Substack post',
-        'post_restack': 'Substack restacked post', 'chat_subscribed': 'Substack chat'}
+TYPE = {'note': 'Substack note', 'comment_restack': 'Substack note', 'post': 'Substack post',
+        'post_restack': 'Substack note', 'chat_subscribed': 'Substack chat'}  # a restack is a note Millard created
 
 
 def img_urls(r):

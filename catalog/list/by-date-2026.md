@@ -7,8 +7,8 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-11-01 | [When you have truth to share, you don't need to capture media. When your sources have been…](../items/S-c-375825593.md) | Substack note |
-| 2026-10-31 | [This resource alone offers great potential for helping those who are wavering about vaccin…](../items/S-c-373766407.md) | Substack restacked note |
-| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../items/S-c-374235140.md) | Substack restacked note |
+| 2026-10-31 | [This resource alone offers great potential for helping those who are wavering about vaccin…](../items/S-c-373766407.md) | Substack note |
+| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../items/S-c-374235140.md) | Substack note |
 | 2026-10-31 | [Untitled](../items/C-MJM-823.md) | AI chat |
 | 2026-10-31 | [Moving chats between accounts](../items/C-MJM-824.md) | AI chat |
 | 2026-10-31 | [Removing chat from projects](../items/C-MJM-825.md) | AI chat |
@@ -20,8 +20,8 @@
 | 2026-10-30 | [Sleep monitoring apps for snoring](../items/C-MM-ff9ca06e.md) | AI chat |
 | 2026-10-30 | [Translation request](../items/C-MM-fb8b5c7a.md) | AI chat |
 | 2026-10-29 | [Why is Jewish ethno-supremacism tolerated, protected, and defended as if it were something…](../items/S-c-373349661.md) | Substack note |
-| 2026-10-29 | [Everything James Miller is saying here is true. I corresponded with him for a year (he was…](../items/S-c-348392530.md) | Substack restacked note |
-| 2026-10-29 | [I'm no longer optimistic. And the reason is very simple. I fear that these 'mRNA vaccines'…](../items/S-c-372037419.md) | Substack restacked note |
+| 2026-10-29 | [Everything James Miller is saying here is true. I corresponded with him for a year (he was…](../items/S-c-348392530.md) | Substack note |
+| 2026-10-29 | [I'm no longer optimistic. And the reason is very simple. I fear that these 'mRNA vaccines'…](../items/S-c-372037419.md) | Substack note |
 | 2026-10-29 | [PC crash cause diagnosis](../items/C-MJM-822.md) | AI chat |
 | 2026-10-29 | [Biblical saying on God choosing Israel](../items/C-MM-159d88d0.md) | AI chat |
 | 2026-10-29 | [Dahiya doctrine](../items/C-MM-930ed48e.md) | AI chat |
@@ -33,14 +33,14 @@
 | 2026-10-29 | [PDF conversion request](../items/C-MM-a4b9ce1b.md) | AI chat |
 | 2026-10-29 | [Religion and genocidal ideologies](../items/C-MM-45541ad0.md) | AI chat |
 | 2026-10-28 | [How can an otherwise apparently intelligent person get it so radically, momentously backwa…](../items/S-c-372785258.md) | Substack note |
-| 2026-10-28 | [The Disastrous Disability Signal in the UK that Corroborates the US Data!](../items/S-p-217914021.md) | Substack restacked post |
-| 2026-10-28 | [SHOCKING: This woman was nearly killed in a hospital for being unvaccinated. Gail Seiler g…](../items/S-c-356329606.md) | Substack restacked note |
-| 2026-10-28 | [The WHO is a criminal organization. They were central actors in one of the greatest crimes…](../items/S-c-370263925.md) | Substack restacked note |
+| 2026-10-28 | [The Disastrous Disability Signal in the UK that Corroborates the US Data!](../items/S-p-217914021.md) | Substack note |
+| 2026-10-28 | [SHOCKING: This woman was nearly killed in a hospital for being unvaccinated. Gail Seiler g…](../items/S-c-356329606.md) | Substack note |
+| 2026-10-28 | [The WHO is a criminal organization. They were central actors in one of the greatest crimes…](../items/S-c-370263925.md) | Substack note |
 | 2026-10-28 | [Gemini admitting that all AI Large Language Models (LLM) are designed from the ground up t…](../items/S-c-372494989.md) | Substack note |
 | 2026-10-28 | [AI bias and guardrails critique](../items/C-MM-b267678f.md) | AI chat |
 | 2026-10-28 | [Noam Chomsky on the Gaza genocide](../items/C-MM-e1b0e6a3.md) | AI chat |
 | 2026-10-28 | [Putin's actual statements](../items/C-MM-9f737911.md) | AI chat |
-| 2026-10-27 | [The people who believe the world is overpopulated... are the same people who say they can …](../items/S-c-360622604.md) | Substack restacked note |
+| 2026-10-27 | [The people who believe the world is overpopulated... are the same people who say they can …](../items/S-c-360622604.md) | Substack note |
 | 2026-10-27 | [Death tolls in the American Revolution and Civil War](../items/C-MM-638bf219.md) | AI chat |
 | 2026-10-27 | [ESL essay grading criteria for "Into the Wild"](../items/C-MM-c6e92304.md) | AI chat |
 | 2026-10-27 | [Hulschier, McCullough et al. study from November 2025](../items/C-MM-12fc7ff6.md) | AI chat |
@@ -63,17 +63,17 @@
 | 2026-10-26 | [Mailing to US from Querétaro](../items/C-MJM-821.md) | AI chat |
 | 2026-10-26 | [Joe Price and motives for murder](../items/C-MM-0d6a0c15.md) | AI chat |
 | 2026-10-26 | [Radioactive elements](../items/C-MM-1ce69d50.md) | AI chat |
-| 2026-10-25 | [Funny overview of the covid saga](../items/S-c-361442671.md) | Substack restacked note |
-| 2026-10-25 | [(no text)](../items/S-c-368338965.md) | Substack restacked note |
-| 2026-10-25 | [(no text)](../items/S-c-366457509.md) | Substack restacked note |
+| 2026-10-25 | [Funny overview of the covid saga](../items/S-c-361442671.md) | Substack note |
+| 2026-10-25 | [(no text)](../items/S-c-368338965.md) | Substack note |
+| 2026-10-25 | [(no text)](../items/S-c-366457509.md) | Substack note |
 | 2026-10-25 | [I agree. They will as long as we let them. The problem is social taboos: Thou shalt not be…](../items/S-c-370240376.md) | Substack note |
 | 2026-10-25 | [Pay attention: EVERYTHING is being run like a psychopath would run it—because everything I…](../items/S-c-370229863.md) | Substack note |
 | 2026-10-25 | [Pay attention: EVERYTHING is being run like a psychopath would run it—because everything I…](../items/S-c-370229727.md) | Substack note |
 | 2026-10-25 | [It's both ludicrous and hilarious how even the AIs bend over backwards to deny this. It's …](../items/S-c-370227844.md) | Substack note |
-| 2026-10-25 | [There Are Polymarket Ads In Fortune Cookies](../items/S-p-221985299.md) | Substack restacked post |
+| 2026-10-25 | [There Are Polymarket Ads In Fortune Cookies](../items/S-p-221985299.md) | Substack note |
 | 2026-10-25 | [What do you know when “misleading, incorrect, or inflammatory” claims all turn out to be t…](../items/S-c-369596903.md) | Substack note |
-| 2026-10-25 | [TRANSCRIPT ~ Dr. Reiner Fuellmich Shares His Whole Story](../items/S-p-211032558.md) | Substack restacked post |
-| 2026-10-25 | [(no text)](../items/S-c-356709252.md) | Substack restacked note |
+| 2026-10-25 | [TRANSCRIPT ~ Dr. Reiner Fuellmich Shares His Whole Story](../items/S-p-211032558.md) | Substack note |
+| 2026-10-25 | [(no text)](../items/S-c-356709252.md) | Substack note |
 | 2026-10-25 | [Pot and pan set gift](../items/C-MJM-814.md) | AI chat |
 | 2026-10-25 | [Firefox microphone access on Google Translate](../items/C-MJM-815.md) | AI chat |
 | 2026-10-25 | [Ted Pike Talmud Pederasty pedo video](../items/C-MJM-816.md) | AI chat |
@@ -87,8 +87,8 @@
 | 2026-10-22 | [Trump's BBC defamation lawsuit](../items/C-MM-09404cf8.md) | AI chat |
 | 2026-10-22 | [Weapon bodily damage](../items/C-MM-e74bec81.md) | AI chat |
 | 2026-10-21 | [Cultism continues to be the most unacknowledged pandemic in human history. Cultism is as c…](../items/S-c-366935457.md) | Substack note |
-| 2026-10-21 | [Sasha Latypova says COVID was a military operation, not a viral pandemic](../items/S-p-151805302.md) | Substack restacked post |
-| 2026-10-21 | [(no text)](../items/S-c-364039749.md) | Substack restacked note |
+| 2026-10-21 | [Sasha Latypova says COVID was a military operation, not a viral pandemic](../items/S-p-151805302.md) | Substack note |
+| 2026-10-21 | [(no text)](../items/S-c-364039749.md) | Substack note |
 | 2026-10-21 | [Another great bit of level-headed exposition, Daniel! What you say here can’t be refuted, …](../items/S-c-366672451.md) | Substack note |
 | 2026-10-21 | [500mbps connection issues](../items/C-MM-6d73ab1b.md) | AI chat |
 | 2026-10-21 | [Best bare bones notes apps for Android](../items/C-MM-a78cb46c.md) | AI chat |
@@ -104,7 +104,7 @@
 | 2026-10-21 | [Venerate definition](../items/C-MM-20781473.md) | AI chat |
 | 2026-10-21 | [Walking seat on wheels for baby](../items/C-MM-86148e76.md) | AI chat |
 | 2026-10-20 | [(no text)](../items/S-c-366066476.md) | Substack note |
-| 2026-10-20 | [Why Tolerate Medical Fraud?](../items/S-p-221063932.md) | Substack restacked post |
+| 2026-10-20 | [Why Tolerate Medical Fraud?](../items/S-p-221063932.md) | Substack note |
 | 2026-10-20 | [Addiction to evil and necessary violence](../items/C-MM-d2878ff6.md) | AI chat |
 | 2026-10-20 | [Bug identification](../items/C-MM-b4853b5f.md) | AI chat |
 | 2026-10-20 | [Chris Hedges 2024 presidential endorsement](../items/C-MM-8d73bf29.md) | AI chat |
@@ -122,14 +122,14 @@
 | 2026-10-19 | [Police authority and power imbalance](../items/C-MM-b6c03312.md) | AI chat |
 | 2026-10-19 | [Steam game return process](../items/C-MM-8ad355d5.md) | AI chat |
 | 2026-10-19 | [Understanding euphemisms](../items/C-MM-72421810.md) | AI chat |
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack note |
 | 2026-10-18 | [Codependence as the foundation of cultism](../items/C-MJM-811.md) | AI chat |
 | 2026-10-18 | [Academic blindness to alternative paradigms](../items/C-MM-bb3cfeb1.md) | AI chat |
 | 2026-10-18 | [Codependence Essay - assemble content and write essay](../items/C-MM-4c58ed38.md) | AI chat |
 | 2026-10-18 | [Codependence Essay - review and discussion](../items/C-MM-3bec558b.md) | AI chat |
 | 2026-10-18 | [Colonial history and occupation in the Americas](../items/C-MM-69bc86a6.md) | AI chat |
 | 2026-10-18 | [Runescape dragon wilds](../items/C-MM-8bb7b394.md) | AI chat |
-| 2026-10-17 | [Military-Industrial Complex Assures Investors That Wars Will Be Endless, And Other Notes](../items/S-p-220842792.md) | Substack restacked post |
+| 2026-10-17 | [Military-Industrial Complex Assures Investors That Wars Will Be Endless, And Other Notes](../items/S-p-220842792.md) | Substack note |
 | 2026-10-17 | [Budget hotel near Krystal Resort Ixtapa](../items/C-MM-8b4cfdbe.md) | AI chat |
 | 2026-10-17 | [Free market versus capitalism distinction](../items/C-MM-0903785a.md) | AI chat |
 | 2026-10-17 | [Krystal Ixtapa booking verification](../items/C-MM-0a460146.md) | AI chat |
@@ -154,7 +154,7 @@
 | 2026-10-15 | [The diplomat Ellis name correction](../items/C-MM-8988e841.md) | AI chat |
 | 2026-10-15 | [Violent felony crime rate and systemic targeting](../items/C-MM-7a09c73d.md) | AI chat |
 | 2026-10-14 | [(no text)](../items/S-c-361040847.md) | Substack note |
-| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack note |
 | 2026-10-14 | [(no text)](../items/S-c-360821232.md) | Substack note |
 | 2026-10-14 | [Critical analysis approach](../items/C-MM-7fca8d66.md) | AI chat |
 | 2026-10-14 | [Food and dopamine motivation](../items/C-MM-b0268dbc.md) | AI chat |
@@ -165,13 +165,13 @@
 | 2026-10-14 | [Side by side video compilation](../items/C-MM-498f77d4.md) | AI chat |
 | 2026-10-14 | [Thought-terminating clichés as performative judgment](../items/C-MM-24ed7721.md) | AI chat |
 | 2026-10-14 | [Vitamin C dosage for infants with colds](../items/C-MM-28f1af83.md) | AI chat |
-| 2026-10-13 | [Defend Your Right To Natural Sunshine](../items/S-p-218936666.md) | Substack restacked post |
+| 2026-10-13 | [Defend Your Right To Natural Sunshine](../items/S-p-218936666.md) | Substack note |
 | 2026-10-13 | [Aaron Siri on destructive beliefs and autonomy](../items/C-MM-6ae4c827.md) | AI chat |
 | 2026-10-13 | [Arsenic in rice and cooking effects](../items/C-MM-c624018e.md) | AI chat |
 | 2026-10-13 | [Clipping videos on phone](../items/C-MM-a59be5d8.md) | AI chat |
 | 2026-10-13 | [Political ponderology goes viral](../items/C-MM-be4406a4.md) | AI chat |
-| 2026-10-12 | [Q&A based on my testimony for the case in the Netherlands against the orchestrators of Project Covid - Part 1: Questions 1 - 3](../items/S-p-209994709.md) | Substack restacked post |
-| 2026-10-12 | [If The Truth Is A Threat To Israel, Then Israel Should Not Exist](../items/S-p-219958654.md) | Substack restacked post |
+| 2026-10-12 | [Q&A based on my testimony for the case in the Netherlands against the orchestrators of Project Covid - Part 1: Questions 1 - 3](../items/S-p-209994709.md) | Substack note |
+| 2026-10-12 | [If The Truth Is A Threat To Israel, Then Israel Should Not Exist](../items/S-p-219958654.md) | Substack note |
 | 2026-10-12 | [Abortion statistics by reason](../items/C-MM-4c2012c1.md) | AI chat |
 | 2026-10-12 | [Abstract nature of political entities and borders](../items/C-MM-155d18c2.md) | AI chat |
 | 2026-10-12 | [Psychopathy vs sociopathy genetics debate](../items/C-MM-9e887053.md) | AI chat |
@@ -223,8 +223,8 @@
 | 2026-10-06 | [Low margin forex currencies](../items/C-MM-4b6f03c0.md) | AI chat |
 | 2026-10-06 | [Situation in Gaza in 2023](../items/C-MM-537d0e80.md) | AI chat |
 | 2026-10-06 | [Verifying a quote](../items/C-MM-8a36e4f3.md) | AI chat |
-| 2026-10-05 | [Most vaccines are violating Biologics labeling law - Merck’s MMRII is statutorily misbranded.](../items/S-p-217487018.md) | Substack restacked post |
-| 2026-10-05 | [Moderna’s mFLUSIVA and SPIKEVAX violate federal labeling law (BLA). The FDA cannot waive statutory requirement for manufacturer address on the carton/vial.](../items/S-p-215394157.md) | Substack restacked post |
+| 2026-10-05 | [Most vaccines are violating Biologics labeling law - Merck’s MMRII is statutorily misbranded.](../items/S-p-217487018.md) | Substack note |
+| 2026-10-05 | [Moderna’s mFLUSIVA and SPIKEVAX violate federal labeling law (BLA). The FDA cannot waive statutory requirement for manufacturer address on the carton/vial.](../items/S-p-215394157.md) | Substack note |
 | 2026-10-05 | [From today’s Brownstone Institute Newsletter: Late last week, Brownstone Institute release…](../items/S-c-353659995.md) | Substack note |
 | 2026-10-05 | [You won't explain it because you can't. Sure, you can argue that they get sick, too. Of co…](../items/S-c-353650917.md) | Substack note |
 | 2026-10-05 | [It's pretty wild that this even needs to be stated. But when the zone has been flooded wit…](../items/S-c-353631455.md) | Substack note |
@@ -254,17 +254,17 @@
 | 2026-10-04 | [Legitimized vs legitimated connotation difference](../items/C-MJM-805.md) | AI chat |
 | 2026-10-04 | [Hasbara definition and meaning](../items/C-MJM-806.md) | AI chat |
 | 2026-10-04 | [Timeline of Joshua's recorded events](../items/C-MJM-807.md) | AI chat |
-| 2026-10-03 | [Must-see interview of Denis Rancourt at the TheHighWire: From pregnancy deaths to geopolitics](../items/S-p-218682449.md) | Substack restacked post |
+| 2026-10-03 | [Must-see interview of Denis Rancourt at the TheHighWire: From pregnancy deaths to geopolitics](../items/S-p-218682449.md) | Substack note |
 | 2026-10-03 | [Caitlin, your points about so-called "capital punishment" (I'm so fucking sick of how thes…](../items/S-c-352165831.md) | Substack note |
-| 2026-10-03 | [The death cult agenda, Agenda 2050](../items/S-c-348844453.md) | Substack restacked note |
+| 2026-10-03 | [The death cult agenda, Agenda 2050](../items/S-c-348844453.md) | Substack note |
 | 2026-10-03 | [Thomas Massey congressional status verification](../items/C-MJM-799.md) | AI chat |
 | 2026-10-03 | [Embedding subtitles in video without quality loss](../items/C-MJM-800.md) | AI chat |
 | 2026-10-03 | [Google Drive sharing link requires account login](../items/C-MJM-801.md) | AI chat |
 | 2026-10-03 | [Ad hominem and logical fallacies](../items/C-MJM-802.md) | AI chat |
 | 2026-10-03 | [Opus 5.5's rules for avoiding argumentative defaults](../items/C-MJM-803.md) | AI chat |
 | 2026-10-03 | [Codependence versus humanness: the enablement test](../items/C-MJM-804.md) | AI chat |
-| 2026-10-02 | [Covid Shots are Indistinguishable From Bio-Chemical Weapons](../items/S-p-175070275.md) | Substack restacked post |
-| 2026-10-02 | [Announcement: Heading to the court hearing in the Netherlands on October 22, 2026.](../items/S-p-218521674.md) | Substack restacked post |
+| 2026-10-02 | [Covid Shots are Indistinguishable From Bio-Chemical Weapons](../items/S-p-175070275.md) | Substack note |
+| 2026-10-02 | [Announcement: Heading to the court hearing in the Netherlands on October 22, 2026.](../items/S-p-218521674.md) | Substack note |
 | 2026-10-02 | [(no text)](../items/S-c-351352533.md) | Substack note |
 | 2026-10-02 | [We are dealing not just with psychopaths incapable of basic human psychological function, …](../items/S-c-351315086.md) | Substack note |
 | 2026-10-02 | [Netherlands lawsuit against Gates, Bourla, and Rutte](../items/C-MJM-796.md) | AI chat |
@@ -346,7 +346,7 @@
 | 2026-09-26 | [Merging keyword tables from old web data](../items/C-MM-1896f7e7.md) | AI chat |
 | 2026-09-26 | [Terrain theory debate roleplay](../items/C-MM-d0c79004.md) | AI chat |
 | 2026-09-26 | [Vesper with yellow rarity weapon](../items/C-MM-c2039acc.md) | AI chat |
-| 2026-09-25 | [The disastrous takeover of “public health” by the military-industrial complex.](../items/S-p-196240955.md) | Substack restacked post |
+| 2026-09-25 | [The disastrous takeover of “public health” by the military-industrial complex.](../items/S-p-196240955.md) | Substack note |
 | 2026-09-25 | [Natural diuretic products for nighttime urination](../items/C-MJM-780.md) | AI chat |
 | 2026-09-25 | [Searching Chedraui website](../items/C-MJM-781.md) | AI chat |
 | 2026-09-25 | [Comparing valerian root dosages and costs](../items/C-MM-bfdad99f.md) | AI chat |
@@ -363,12 +363,12 @@
 | 2026-09-23 | [All of you Zionists are not only liars and supremacists, you're fucking psychotic. Delusio…](../items/S-c-344284199.md) | Substack note |
 | 2026-09-23 | [Requesting a concise assessment](../items/C-MJM-779.md) | AI chat |
 | 2026-09-23 | [Germinating strawberry seeds in wet napkin](../items/C-MM-cba169ff.md) | AI chat |
-| 2026-09-22 | [Under Attack](../items/S-p-216829224.md) | Substack restacked post |
+| 2026-09-22 | [Under Attack](../items/S-p-216829224.md) | Substack note |
 | 2026-09-22 | [Deleting an X account](../items/C-MM-acfd18c8.md) | AI chat |
 | 2026-09-22 | [Silent call from the States](../items/C-MM-a17dc7d2.md) | AI chat |
 | 2026-09-22 | [Switching back to previous Windows desktop](../items/C-MM-7459ef27.md) | AI chat |
 | 2026-09-22 | [USD to Mexican peso conversion costs](../items/C-MM-cd07e4d3.md) | AI chat |
-| 2026-09-21 | [Tucker Carlson, Thomas Massie and 150+ signatories join the open letter to RFK Jr/Trump co-authored by me. Bob & Jill Malone sign, too!](../items/S-p-215763055.md) | Substack restacked post |
+| 2026-09-21 | [Tucker Carlson, Thomas Massie and 150+ signatories join the open letter to RFK Jr/Trump co-authored by me. Bob & Jill Malone sign, too!](../items/S-p-215763055.md) | Substack note |
 | 2026-09-21 | [Great dissection of a debate whose premises are all false. He aptly describes how the enti…](../items/S-c-342397662.md) | Substack note |
 | 2026-09-21 | [Conjugation of "lead" verb forms](../items/C-MM-375ed3bd.md) | AI chat |
 | 2026-09-21 | [Dialing from Mexico](../items/C-MM-5e89a3d3.md) | AI chat |
@@ -446,7 +446,7 @@
 | 2026-09-08 | [Changing network to public for security](../items/C-MM-3426ee38.md) | AI chat |
 | 2026-09-08 | [Disabling Steam web helper](../items/C-MM-a65fac32.md) | AI chat |
 | 2026-09-08 | [Finding detonators in Unturned](../items/C-MM-c556f425.md) | AI chat |
-| 2026-09-07 | [MAHA-FDA: “Oops, we did it again!” - a new military countermeasure, mFLUSIVA hits the public this fall. Here’s what you need to know.](../items/S-p-214092091.md) | Substack restacked post |
+| 2026-09-07 | [MAHA-FDA: “Oops, we did it again!” - a new military countermeasure, mFLUSIVA hits the public this fall. Here’s what you need to know.](../items/S-p-214092091.md) | Substack note |
 | 2026-09-07 | [CDC Simpsonwood study suppression](../items/C-MM-847591d4.md) | AI chat |
 | 2026-09-07 | [Changing OneNote default background and text colors](../items/C-MM-2f7c20f1.md) | AI chat |
 | 2026-09-07 | [Comparing Clod 4.7, Fable, and Astra](../items/C-MM-5d50ec87.md) | AI chat |
@@ -455,8 +455,8 @@
 | 2026-09-07 | [Legal policy review](../items/C-MM-99c0fee4.md) | AI chat |
 | 2026-09-07 | [Organizing Facebook links and resources into PDF](../items/C-MM-197afb24.md) | AI chat |
 | 2026-09-07 | [Understanding fallibilism](../items/C-MM-acca168e.md) | AI chat |
-| 2026-09-06 | [(no text)](../items/S-c-322163382.md) | Substack restacked note |
-| 2026-09-06 | [Dr. Reiner Fuellmich Shares His Whole Story](../items/S-p-210966874.md) | Substack restacked post |
+| 2026-09-06 | [(no text)](../items/S-c-322163382.md) | Substack note |
+| 2026-09-06 | [Dr. Reiner Fuellmich Shares His Whole Story](../items/S-p-210966874.md) | Substack note |
 | 2026-09-06 | [<https://x.com/TheWyteRabbit1/status/2096388660484591967?s=20](../items/S-c-331103841.md) | Substack note |
 | 2026-09-06 | [You're a Tau Cetian who, with many colleagues, are searching for intelligent life elsewher…](../items/S-c-331071886.md) | Substack note |
 | 2026-09-06 | [Defining ignorance through choice](../items/C-MM-efa94c1c.md) | AI chat |
@@ -468,11 +468,11 @@
 | 2026-09-06 | [Stockholm syndrome misunderstanding](../items/C-MM-43ebb8b3.md) | AI chat |
 | 2026-09-05 | [(no text)](../items/S-c-330452136.md) | Substack note |
 | 2026-09-05 | [Mental slaves deny their slavery. Cultists deny their cultism. Both alike vilify and demon…](../items/S-c-330447583.md) | Substack note |
-| 2026-09-05 | [(no text)](../items/S-c-329961930.md) | Substack restacked note |
+| 2026-09-05 | [(no text)](../items/S-c-329961930.md) | Substack note |
 | 2026-09-05 | [(no text)](../items/S-c-330342910.md) | Substack note |
 | 2026-09-05 | [Shizzrael is a shit stain on the face of Earth](../items/S-c-330342160.md) | Substack note |
 | 2026-09-05 | [We’re talking about records, not events. Nothing is essentially different: burn it or dele…](../items/S-c-330339237.md) | Substack note |
-| 2026-09-05 | [One of Professor Francis Boyle's last interviews before being found dead. He called the CO…](../items/S-c-322166507.md) | Substack restacked note |
+| 2026-09-05 | [One of Professor Francis Boyle's last interviews before being found dead. He called the CO…](../items/S-c-322166507.md) | Substack note |
 | 2026-09-05 | [Explain to me how words on a page constitute "protections". After showing footage that loo…](../items/S-c-330337292.md) | Substack note |
 | 2026-09-05 | [It's hard for a cultist to watch their golden cow dogmas get demolished. I know. I was one…](../items/S-c-330319298.md) | Substack note |
 | 2026-09-05 | [VaXXX cultists continue to deny and erase these people and their stories… at the cost of t…](../items/S-c-330317774.md) | Substack note |
@@ -577,7 +577,7 @@
 | 2026-08-25 | [Duna English address](../items/C-MM-94ff10cf.md) | AI chat |
 | 2026-08-25 | [Spanish document review help](../items/C-MM-2b3fd23c.md) | AI chat |
 | 2026-08-24 | [As a matter of fact, “We are all obedient to someone,” is flatly false. Spoken like a thor…](../items/S-c-321648165.md) | Substack note |
-| 2026-08-24 | [Call for Action! Submit comments to HHS on vaccine recommendations and “shared decision making”. Deadline September 20.](../items/S-p-212293890.md) | Substack restacked post |
+| 2026-08-24 | [Call for Action! Submit comments to HHS on vaccine recommendations and “shared decision making”. Deadline September 20.](../items/S-p-212293890.md) | Substack note |
 | 2026-08-24 | [Claude login issue in VS Code](../items/C-MJM-750.md) | AI chat |
 | 2026-08-24 | [Mercado Libre gift options comparison](../items/C-MJM-751.md) | AI chat |
 | 2026-08-24 | [Cambio de motivo de devolución y reembolso](../items/C-MJM-752.md) | AI chat |
@@ -611,8 +611,8 @@
 | 2026-08-18 | [Walmart Mexico free shipping policy change](../items/C-MJM-747.md) | AI chat |
 | 2026-08-18 | [Coloso](../items/C-MM-bd93266f.md) | AI chat |
 | 2026-08-18 | [Loanable funds theory explained](../items/C-MM-8c9cfa35.md) | AI chat |
-| 2026-08-17 | [Dr David E Martin speaking in Oklahoma City about the domestic bio terrorism inflicted on …](../items/S-c-298709040.md) | Substack restacked note |
-| 2026-08-17 | [(no text)](../items/S-c-308488753.md) | Substack restacked note |
+| 2026-08-17 | [Dr David E Martin speaking in Oklahoma City about the domestic bio terrorism inflicted on …](../items/S-c-298709040.md) | Substack note |
+| 2026-08-17 | [(no text)](../items/S-c-308488753.md) | Substack note |
 | 2026-08-17 | [Or... We get off the fucking bus. But that possibility seems about as real to most people …](../items/S-c-316634881.md) | Substack note |
 | 2026-08-17 | [Spanish translation for drawer bumpers](../items/C-MJM-746.md) | AI chat |
 | 2026-08-17 | [Android apps for detecting snoring and sleep apnea](../items/C-MM-17f1b14c.md) | AI chat |
@@ -624,8 +624,8 @@
 | 2026-08-17 | [Reinaba translation to English](../items/C-MM-5e6efa1f.md) | AI chat |
 | 2026-08-17 | [Sleep as Android app data interpretation](../items/C-MM-94cc04e6.md) | AI chat |
 | 2026-08-17 | [Video format requirements for machine learning](../items/C-MM-d5496149.md) | AI chat |
-| 2026-08-16 | [Every step was designed to inflict maximum harm: • Splicing HIV into a coronavirus. • Bloc…](../items/S-c-308268829.md) | Substack restacked note |
-| 2026-08-16 | [(no text)](../items/S-c-312779658.md) | Substack restacked note |
+| 2026-08-16 | [Every step was designed to inflict maximum harm: • Splicing HIV into a coronavirus. • Bloc…](../items/S-c-308268829.md) | Substack note |
+| 2026-08-16 | [(no text)](../items/S-c-312779658.md) | Substack note |
 | 2026-08-16 | [Removing a WD drive](../items/C-MJM-743.md) | AI chat |
 | 2026-08-16 | [Identifying a Mexican cucumber vegetable](../items/C-MJM-744.md) | AI chat |
 | 2026-08-16 | [Gmail search exclusion operator not working](../items/C-MJM-745.md) | AI chat |
@@ -655,14 +655,14 @@
 | 2026-08-12 | [PCL-R population distribution model correction](../items/C-MM-1ea26a6a.md) | AI chat |
 | 2026-08-11 | [Total War Shogun 2 firewall blocking issue](../items/C-MM-48e45e82.md) | AI chat |
 | 2026-08-11 | [WiFi button disappeared after turning it off](../items/C-MM-006c8733.md) | AI chat |
-| 2026-08-10 | [Vaccines Induce Autism, Encephalopathy, and Neuropathy in Primates, and Other Lab Animals.](../items/S-p-209261951.md) | Substack restacked post |
+| 2026-08-10 | [Vaccines Induce Autism, Encephalopathy, and Neuropathy in Primates, and Other Lab Animals.](../items/S-p-209261951.md) | Substack note |
 | 2026-08-10 | [Windows 11 laptop compatibility](../items/C-MJM-734.md) | AI chat |
 | 2026-08-10 | [Installing dupeguru on Windows](../items/C-MJM-735.md) | AI chat |
 | 2026-08-10 | [Patel resignation rumors debunked](../items/C-MJM-736.md) | AI chat |
 | 2026-08-10 | [Identifying a study reference](../items/C-MJM-737.md) | AI chat |
 | 2026-08-10 | [cTrader order book and level II data availability](../items/C-MM-e44a3472.md) | AI chat |
 | 2026-08-10 | [Unwinding thread from spool](../items/C-MM-0e2ba633.md) | AI chat |
-| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../items/S-c-306624029.md) | Substack restacked note |
+| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../items/S-c-306624029.md) | Substack note |
 | 2026-08-09 | [Windows error 5 in dupeGuru](../items/C-MJM-731.md) | AI chat |
 | 2026-08-09 | [Deleting files and emptying recycle bin by drive](../items/C-MJM-732.md) | AI chat |
 | 2026-08-09 | [Setting up bank account for Venmo transfers](../items/C-MJM-733.md) | AI chat |
@@ -686,7 +686,7 @@
 | 2026-08-06 | [Converting gigabytes to kilobytes](../items/C-MJM-723.md) | AI chat |
 | 2026-08-06 | [Alternative to "self-ignoramused"](../items/C-MJM-724.md) | AI chat |
 | 2026-08-06 | [Dupeguru retaining wrong duplicate files](../items/C-MJM-725.md) | AI chat |
-| 2026-08-05 | [Update: The investigation of the Met Police (London, UK) suppressing citizens' criminal complaints in 2021.](../items/S-p-209327302.md) | Substack restacked post |
+| 2026-08-05 | [Update: The investigation of the Met Police (London, UK) suppressing citizens' criminal complaints in 2021.](../items/S-p-209327302.md) | Substack note |
 | 2026-08-04 | [C2 negative adverbial inversions lesson](../items/C-MM-a06d6268.md) | AI chat |
 | 2026-08-04 | [Mobile hotspot disabled after adapter issue](../items/C-MM-7dfde0a3.md) | AI chat |
 | 2026-08-04 | [Present continuous tense](../items/C-MM-a12d4e3e.md) | AI chat |
@@ -704,7 +704,7 @@
 | 2026-08-01 | [Thanks for breaking it down, Aaron. The only real question seems to me whether there’s any…](../items/S-c-306121294.md) | Substack note |
 | 2026-08-01 | [Palestinian casualty estimates in Gaza conflict](../items/C-MM-1dce3848.md) | AI chat |
 | 2026-08-01 | [Rocket League gameplay velocity changes](../items/C-MM-bf3da2db.md) | AI chat |
-| 2026-07-31 | [Fauci Show through the lens of Signature Reduction Program or the largest intelligence agency that goes largely unnoticed.](../items/S-p-208988395.md) | Substack restacked post |
+| 2026-07-31 | [Fauci Show through the lens of Signature Reduction Program or the largest intelligence agency that goes largely unnoticed.](../items/S-p-208988395.md) | Substack note |
 | 2026-07-31 | [Great exposé on the corruption of science. So now, everyone knows that even the very top e…](../items/S-c-305532993.md) | Substack note |
 | 2026-07-31 | [So think a minute how psychotic a person has to be to use "just following orders" or "just…](../items/S-c-305443764.md) | Substack note |
 | 2026-07-31 | [Martha and Mary's "one thing" across translations](../items/C-MJM-718.md) | AI chat |
@@ -723,7 +723,7 @@
 | 2026-07-29 | [FB convo Anj on forgiveness](../items/C-MM-78ed7af8.md) | AI chat |
 | 2026-07-29 | [Feelings and opinions vocabulary class](../items/C-MM-df476a77.md) | AI chat |
 | 2026-07-29 | [Reflection questions for modal perfect stories](../items/C-MM-d57f2ca7.md) | AI chat |
-| 2026-07-28 | [Fauci's Historic Diary: a conversation with Debbie Lerman](../items/S-p-208569933.md) | Substack restacked post |
+| 2026-07-28 | [Fauci's Historic Diary: a conversation with Debbie Lerman](../items/S-p-208569933.md) | Substack note |
 | 2026-07-28 | [Becoming a professional forex and commodities trader](../items/C-MM-0185e403.md) | AI chat |
 | 2026-07-28 | [Migrating Pepperstone account from MT5 to cTrader](../items/C-MM-200b0208.md) | AI chat |
 | 2026-07-28 | [Removing Pepperstone logo from cTrader chart](../items/C-MM-df05eff4.md) | AI chat |
@@ -742,14 +742,14 @@
 | 2026-07-24 | [Setting MS Paint default DPI to 300](../items/C-MJM-716.md) | AI chat |
 | 2026-07-23 | [(no text)](../items/S-c-300287494.md) | Substack note |
 | 2026-07-23 | [(no text)](../items/S-c-300280791.md) | Substack note |
-| 2026-07-23 | [Thank you, Unbecoming, for writing about the misuse and abuse of the PREP Act by both, the…](../items/S-c-299818973.md) | Substack restacked note |
+| 2026-07-23 | [Thank you, Unbecoming, for writing about the misuse and abuse of the PREP Act by both, the…](../items/S-c-299818973.md) | Substack note |
 | 2026-07-23 | [(no text)](../items/S-c-300276782.md) | Substack note |
 | 2026-07-23 | [Motives behind Ben-Gvir's Al-Aqsa Mosque visit](../items/C-MJM-714.md) | AI chat |
 | 2026-07-23 | [2027 NDAA merger language status](../items/C-MM-2f4ccc84.md) | AI chat |
 | 2026-07-23 | [ESL reported speech practice video](../items/C-MM-f4e3466e.md) | AI chat |
-| 2026-07-22 | [WTF did I just read? Vinay Prasad's Hellth-AI dreams leave a human stain....](../items/S-p-207297703.md) | Substack restacked post |
+| 2026-07-22 | [WTF did I just read? Vinay Prasad's Hellth-AI dreams leave a human stain....](../items/S-p-207297703.md) | Substack note |
 | 2026-07-22 | [Name discrepancy on son's birth certificate](../items/C-MJM-713.md) | AI chat |
-| 2026-07-19 | [Trump Killed Those US Troops In Jordan](../items/S-p-207612455.md) | Substack restacked post |
+| 2026-07-19 | [Trump Killed Those US Troops In Jordan](../items/S-p-207612455.md) | Substack note |
 | 2026-07-19 | [Facebook notifications suddenly stopped](../items/C-MJM-712.md) | AI chat |
 | 2026-07-19 | [Lightning spasms in muscles](../items/C-MM-e351d4ca.md) | AI chat |
 | 2026-07-18 | [AI pattern recognition in trading charts](../items/C-MM-626ba95a.md) | AI chat |
@@ -761,7 +761,7 @@
 | 2026-07-16 | [What makes this so difficult for people to understand? If it's "no longer" a conspiracy th…](../items/S-c-295638549.md) | Substack note |
 | 2026-07-16 | [Detecting data point clusters](../items/C-MJM-710.md) | AI chat |
 | 2026-07-16 | [Shared chat link access](../items/C-MM-2b5098a0.md) | AI chat |
-| 2026-07-15 | [Update: an interim FDA response on the Citizen Petition to revoke Pfizer and Moderna mRNA vaccines Biologics Licensing Approval (BLA).](../items/S-p-206715723.md) | Substack restacked post |
+| 2026-07-15 | [Update: an interim FDA response on the Citizen Petition to revoke Pfizer and Moderna mRNA vaccines Biologics Licensing Approval (BLA).](../items/S-p-206715723.md) | Substack note |
 | 2026-07-15 | [(no text)](../items/S-c-294979099.md) | Substack note |
 | 2026-07-15 | [Finding anime titles on alternative streaming sites](../items/C-MJM-709.md) | AI chat |
 | 2026-07-13 | [Exness and Fusion Markets broker ratings](../items/C-MM-a9c07cdc.md) | AI chat |
@@ -781,7 +781,7 @@
 | 2026-07-05 | [(no text)](../items/S-c-288523798.md) | Substack note |
 | 2026-07-04 | [(no text)](../items/S-c-287904204.md) | Substack note |
 | 2026-07-04 | [Tick-level jitter in trading algorithms](../items/C-MM-4c1752a3.md) | AI chat |
-| 2026-07-03 | [Breaking: Pfizer's $43B purchase of Seagen which was advertised as a great plan to cure ca…](../items/S-c-282738357.md) | Substack restacked note |
+| 2026-07-03 | [Breaking: Pfizer's $43B purchase of Seagen which was advertised as a great plan to cure ca…](../items/S-c-282738357.md) | Substack note |
 | 2026-07-03 | [(no text)](../items/S-c-287618104.md) | Substack note |
 | 2026-07-03 | [Fable permission prompts in VS Code](../items/C-MM-4a2ee40c.md) | AI chat |
 | 2026-07-02 | [So, why does almost everyone think that what we're doing now and have done for the last 5,…](../items/S-c-286753195.md) | Substack note |
@@ -790,7 +790,7 @@
 | 2026-06-25 | [Anthropic leadership change and Fable incident](../items/C-MM-31c616f3.md) | AI chat |
 | 2026-06-25 | [Babushkas in modern Slavic culture](../items/C-MM-f5afc07c.md) | AI chat |
 | 2026-06-25 | [The funny bone nerve explained](../items/C-MM-56d046bb.md) | AI chat |
-| 2026-06-24 | [The Silent War of Eugenics: Investigating the 1990's "bump" in cancer rates in the US.](../items/S-p-200230336.md) | Substack restacked post |
+| 2026-06-24 | [The Silent War of Eugenics: Investigating the 1990's "bump" in cancer rates in the US.](../items/S-p-200230336.md) | Substack note |
 | 2026-06-24 | [Company ownership inquiry](../items/C-MM-b5d16e28.md) | AI chat |
 | 2026-06-24 | [Fact verification](../items/C-MM-729224c6.md) | AI chat |
 | 2026-06-24 | [(untitled)](../items/C-MM-d829abd0.md) | AI chat |
@@ -802,7 +802,7 @@
 | 2026-06-20 | [Verifying a Rand quote](../items/C-MM-1ef6054b.md) | AI chat |
 | 2026-06-19 | [Mexican peso to US dollar conversion](../items/C-MM-2c9bca38.md) | AI chat |
 | 2026-06-18 | [PAY ATTENTION: \\\ YOUR OPINION ABOUT THIS DOES NOT MATTER \\\ And before you get miffed-i…](../items/S-c-278517059.md) | Substack note |
-| 2026-06-18 | [Because it is vaccinations that are almost always responsible for cancer in young people a…](../items/S-c-276139465.md) | Substack restacked note |
+| 2026-06-18 | [Because it is vaccinations that are almost always responsible for cancer in young people a…](../items/S-c-276139465.md) | Substack note |
 | 2026-06-17 | [I only wish this obscene, nefarious shit were exceptional. Nope. It’s been going on for ce…](../items/S-c-277989548.md) | Substack note |
 | 2026-06-17 | [MT5 Strategy Tester EA testing setup](../items/C-MM-73c108e2.md) | AI chat |
 | 2026-06-16 | [Finding legitimate intelligent TikTok alternatives](../items/C-MM-35baf785.md) | AI chat |
@@ -820,8 +820,8 @@
 | 2026-06-13 | [Refund request for subscription payment](../items/C-MM-e2c164fa.md) | AI chat |
 | 2026-06-13 | [Scariest evil villains in comics history](../items/C-MM-4e383cbc.md) | AI chat |
 | 2026-06-12 | [Agreed, but still superficially focused on a symptom instead of the cause. ASK YOURSELF WH…](../items/S-c-275270628.md) | Substack note |
-| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../items/S-c-258631434.md) | Substack restacked note |
-| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../items/S-c-264699275.md) | Substack restacked note |
+| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../items/S-c-258631434.md) | Substack note |
+| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../items/S-c-264699275.md) | Substack note |
 | 2026-06-12 | [The psychos at the top are enslaving every living thing to their hysteria. These fucks hal…](../items/S-c-275257834.md) | Substack note |
 | 2026-06-12 | [Empathy vs. perspective-taking](../items/C-MM-846b3bc3.md) | AI chat |
 | 2026-06-11 | [People have been telling you for decades, some for centuries—but no, you'd rather listen t…](../items/S-c-274656149.md) | Substack note |
@@ -838,16 +838,16 @@
 | 2026-06-09 | [(no text)](../items/S-c-273420646.md) | Substack note |
 | 2026-06-09 | [Shizzraeli Police brutalizing Palestinians carrying their flag. That's a little girl of no…](../items/S-c-273417661.md) | Substack note |
 | 2026-06-09 | [Gaza has proven that Euro-Americans don't give a shit about human life unless it belongs t…](../items/S-c-273410098.md) | Substack note |
-| 2026-06-09 | [Hospitals Took Bribes to Kill You and Blame It on COVID](../items/S-p-200128464.md) | Substack restacked post |
+| 2026-06-09 | [Hospitals Took Bribes to Kill You and Blame It on COVID](../items/S-p-200128464.md) | Substack note |
 | 2026-06-09 | [Title capitalization conventions across formats](../items/C-MM-e82b2592.md) | AI chat |
 | 2026-06-08 | [BP meaning in archaeological dating](../items/C-MM-f661e1be.md) | AI chat |
 | 2026-06-08 | [Improving on a frustrating AI response](../items/C-MM-3f2b2ac0.md) | AI chat |
-| 2026-06-07 | [Palestinians Don't Care About Antisemitism](../items/S-p-200959334.md) | Substack restacked post |
-| 2026-06-04 | [Just got a violation for posting this on TikTok! Please listen and share 😬🥹](../items/S-c-255535804.md) | Substack restacked note |
+| 2026-06-07 | [Palestinians Don't Care About Antisemitism](../items/S-p-200959334.md) | Substack note |
+| 2026-06-04 | [Just got a violation for posting this on TikTok! Please listen and share 😬🥹](../items/S-c-255535804.md) | Substack note |
 | 2026-06-04 | [Excellent disambiguation. The air that Peterson's bullshit floats on is behaviorism. Behav…](../items/S-c-270610352.md) | Substack note |
 | 2026-06-04 | [Ron Johnson COVID vaccine safety hearing](../items/C-MM-fc692f08.md) | AI chat |
 | 2026-06-04 | [Understanding "based" slang](../items/C-MM-1c935dc6.md) | AI chat |
-| 2026-06-03 | [Vaccination Campaigns and Coverage Prior to 1930.](../items/S-p-198494607.md) | Substack restacked post |
+| 2026-06-03 | [Vaccination Campaigns and Coverage Prior to 1930.](../items/S-p-198494607.md) | Substack note |
 | 2026-06-03 | [Jews have NO right to land in Palestine. NONE. They never did. Their Torah proves it. READ…](../items/S-c-269979348.md) | Substack note |
 | 2026-06-03 | [Organizing research without format conversion](../items/C-MM-535f9d69.md) | AI chat |
 | 2026-06-03 | [Ron Johnson hearing on Big Pharma testimony](../items/C-MM-95b7b97d.md) | AI chat |
@@ -881,17 +881,17 @@
 | 2026-05-28 | [Pet ownership in Israel](../items/C-MM-3473f649.md) | AI chat |
 | 2026-05-28 | [Ubuntu's origins and history](../items/C-MM-37de4128.md) | AI chat |
 | 2026-05-28 | [Unclear query](../items/C-MM-98a09778.md) | AI chat |
-| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../items/S-p-199459065.md) | Substack restacked post |
+| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../items/S-p-199459065.md) | Substack note |
 | 2026-05-27 | [Child sex trafficking industry valuation](../items/C-MM-a0d9cdac.md) | AI chat |
 | 2026-05-27 | [Finding the Japanese mortality study](../items/C-MM-9e49e4e2.md) | AI chat |
 | 2026-05-27 | [Origins of property according to its critics](../items/C-MM-c6f6af55.md) | AI chat |
 | 2026-05-26 | [They're just doing what their Tanakh tells them to do: "Blessed shall he be who takes your…](../items/S-c-265549530.md) | Substack note |
-| 2026-05-26 | [Healthcare Is the #1 Cause of Death — and It’s Not Even Close](../items/S-p-198716188.md) | Substack restacked post |
+| 2026-05-26 | [Healthcare Is the #1 Cause of Death — and It’s Not Even Close](../items/S-p-198716188.md) | Substack note |
 | 2026-05-26 | [When it comes to government, ignorance and stupidity do not constitute innocence, ever. Sa…](../items/S-c-265465700.md) | Substack note |
 | 2026-05-26 | [There is no honor in military service. There is no honor in terrorizing and killing people…](../items/S-c-265418770.md) | Substack note |
 | 2026-05-25 | [(no text)](../items/S-c-264939440.md) | Substack note |
 | 2026-05-25 | [Organic vs toxic arsenic](../items/C-MM-543c4d31.md) | AI chat |
-| 2026-05-24 | [Israel Rapes Everyone, And Other Notes](../items/S-p-199026239.md) | Substack restacked post |
+| 2026-05-24 | [Israel Rapes Everyone, And Other Notes](../items/S-p-199026239.md) | Substack note |
 | 2026-05-24 | [When one of the smartest AIs can't find a problem with your thinking, it's not everything,…](../items/S-c-264437992.md) | Substack note |
 | 2026-05-24 | [The lesson here isn’t, “Oh, we got it wrong about them!” Nor is it, “Oh, we seriously got …](../items/S-c-264431439.md) | Substack note |
 | 2026-05-24 | [Anyone at this point in time who does not think there is a major cadre in United States go…](../items/S-c-264374996.md) | Substack note |
@@ -901,12 +901,12 @@
 | 2026-05-23 | [No one yet is talking about the elephant in the room: Why have we allowed, and why does th…](../items/S-c-263927311.md) | Substack note |
 | 2026-05-23 | [It's all been a PSYOP. All of it. It's gone so far, even people like me who know what it i…](../items/S-c-263902408.md) | Substack note |
 | 2026-05-22 | [Restoring deleted YouTube channel for dance crew](../items/C-MM-bfe8edcb.md) | AI chat |
-| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack restacked post |
-| 2026-05-21 | [They're Not Mad At Ben-Gvir For Being Evil, They're Mad At Him For Being Honest](../items/S-p-198646183.md) | Substack restacked post |
+| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack note |
+| 2026-05-21 | [They're Not Mad At Ben-Gvir For Being Evil, They're Mad At Him For Being Honest](../items/S-p-198646183.md) | Substack note |
 | 2026-05-20 | [(no text)](../items/S-c-262410182.md) | Substack note |
 | 2026-05-20 | [(no text)](../items/S-c-262409538.md) | Substack note |
-| 2026-05-20 | [Congressional records for Biological Testing Involving Human Subjects by the Department of Defense, 1942-1977](../items/S-p-184087057.md) | Substack restacked post |
-| 2026-05-20 | [One Final Blow: Why Thomas Massie Must Name Epstein’s Accomplices on the House Floor Now](../items/S-p-198444648.md) | Substack restacked post |
+| 2026-05-20 | [Congressional records for Biological Testing Involving Human Subjects by the Department of Defense, 1942-1977](../items/S-p-184087057.md) | Substack note |
+| 2026-05-20 | [One Final Blow: Why Thomas Massie Must Name Epstein’s Accomplices on the House Floor Now](../items/S-p-198444648.md) | Substack note |
 | 2026-05-20 | [Data retention on user behavior and emotions](../items/C-MM-b5f5ecf1.md) | AI chat |
 | 2026-05-19 | [Cursor changing file modified dates unexpectedly](../items/C-MM-4fdb5238.md) | AI chat |
 | 2026-05-18 | [<https://www.facebook.com/share/p/1E7Jx1k1Vu/ "Orgy of antisemitism". I'm not saying there…](../items/S-c-261009362.md) | Substack note |
@@ -937,8 +937,8 @@
 | 2026-05-12 | [Metatrader 5 strategy tester freezing on EA selection](../items/C-MM-3caf833a.md) | AI chat |
 | 2026-05-10 | [Tick data analysis](../items/C-MM-85f4b2da.md) | AI chat |
 | 2026-05-09 | [(no text)](../items/S-c-256381801.md) | Substack note |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack restacked note |
-| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack note |
+| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack note |
 | 2026-05-08 | [Excellent. Exactly. If only the perpetrators and supporters of this heinous, anti-human sh…](../items/S-c-255798736.md) | Substack note |
 | 2026-05-08 | [Calculating indecision from tick data](../items/C-MM-82bba4bf.md) | AI chat |
 | 2026-05-06 | [Non-compliance doesn't fundamentally change anything. No one's asking the real question: w…](../items/S-c-254869614.md) | Substack note |
@@ -957,7 +957,7 @@
 | 2026-04-26 | [Mathematical model of price channel dynamics](../items/C-MM-622bcdb2.md) | AI chat |
 | 2026-04-24 | [Student arrested for Netanyahu bonbons joke](../items/C-MM-ff05dd45.md) | AI chat |
 | 2026-04-21 | [Gun wheel travel business card origin](../items/C-MM-fb096109.md) | AI chat |
-| 2026-04-20 | [How does a four- to five-fold increase in autism risk from vaccines today lead to a 323-fold increase in prevalence over the last 52 years?](../items/S-p-186934758.md) | Substack restacked post |
+| 2026-04-20 | [How does a four- to five-fold increase in autism risk from vaccines today lead to a 323-fold increase in prevalence over the last 52 years?](../items/S-p-186934758.md) | Substack note |
 | 2026-04-19 | [Thank you for this. I see it exactly the same way, although as a "goy", without the depth,…](../items/S-c-245852483.md) | Substack note |
 | 2026-04-15 | [Dude, I'm sure it's not lost on you whose ideas these resemble. I'm not intimating the bas…](../items/S-c-244016549.md) | Substack note |
 | 2026-04-15 | [Opinion on this chat](../items/C-MJM-698.md) | AI chat |
@@ -1033,16 +1033,16 @@
 | 2026-02-21 | [ROFLMFAO!!! I was 1 second away from clicking Unsubscribe. 😆 Then I noticed Gretchen's com…](../items/S-c-217832013.md) | Substack note |
 | 2026-02-21 | [USD pair points and pips terminology](../items/C-MJM-668.md) | AI chat |
 | 2026-02-20 | [Disable Codex approval prompts in VS Code](../items/C-MJM-666.md) | AI chat |
-| 2026-02-19 | [I told you so: Prasad-Moderna standoff lasted less than a week. FDA folded. Moderna's mRNA flu poison will be rubber stamped later this year.](../items/S-p-188451816.md) | Substack restacked post |
+| 2026-02-19 | [I told you so: Prasad-Moderna standoff lasted less than a week. FDA folded. Moderna's mRNA flu poison will be rubber stamped later this year.](../items/S-p-188451816.md) | Substack note |
 | 2026-02-18 | [CapCut invitation code not working](../items/C-MJM-662.md) | AI chat |
 | 2026-02-17 | [Kimi Code extension setup after VS Code crash](../items/C-MJM-657.md) | AI chat |
 | 2026-02-17 | [Mexican rental contract post-lease occupancy clause](../items/C-MJM-658.md) | AI chat |
 | 2026-02-17 | [Python script crashed VS Code](../items/C-MJM-660.md) | AI chat |
 | 2026-02-16 | [Finding Kimi code points usage](../items/C-MJM-655.md) | AI chat |
-| 2026-02-11 | [Project In Humanity](../items/S-p-187299346.md) | Substack restacked post |
+| 2026-02-11 | [Project In Humanity](../items/S-p-187299346.md) | Substack note |
 | 2026-02-11 | [Webb research tool overview](../items/C-MJM-650.md) | AI chat |
-| 2026-02-10 | [Impossible to deny](../items/S-c-212265856.md) | Substack restacked note |
-| 2026-02-09 | [Breaking: I am going to the court in Amsterdam on March 9. Press conference same day.](../items/S-p-187260546.md) | Substack restacked post |
+| 2026-02-10 | [Impossible to deny](../items/S-c-212265856.md) | Substack note |
+| 2026-02-09 | [Breaking: I am going to the court in Amsterdam on March 9. Press conference same day.](../items/S-p-187260546.md) | Substack note |
 | 2026-02-09 | [This is priceless -- and typical. "But first, the United States needs a better ruling clas…](../items/S-c-212244238.md) | Substack note |
 | 2026-02-07 | [The real crime is lying. The real criminals are us. Because none of this shit could ever h…](../items/S-c-211273940.md) | Substack note |
 | 2026-02-07 | [(no text)](../items/S-c-211236825.md) | Substack note |
@@ -1055,7 +1055,7 @@
 | 2026-01-28 | [(no text)](../items/S-c-206465012.md) | Substack note |
 | 2026-01-28 | [Yes. <https://www.facebook.com/andrew.melnyk.401848/posts/pfbid0orrYGxFmNrNeCDpYW2UR6i1fFQ…](../items/S-c-206219518.md) | Substack note |
 | 2026-01-27 | [Good explanation of an aspect of the nature of information and its dynamics. This is why t…](../items/S-c-205926904.md) | Substack note |
-| 2026-01-26 | [Imperial Boomerang](../items/S-p-185686838.md) | Substack restacked post |
+| 2026-01-26 | [Imperial Boomerang](../items/S-p-185686838.md) | Substack note |
 | 2026-01-25 | [What’s similar? The only murders were committed by “law enforcement officers”.](../items/S-c-204966891.md) | Substack note |
 | 2026-01-24 | [Mathematics for real-world problem solving](../items/C-MJM-621.md) | AI chat |
 | 2026-01-23 | [Before it was a trickle, last year it was a gush, this year the dyke is going to break.](../items/S-c-203918189.md) | Substack note |
@@ -1077,10 +1077,10 @@
 | 2026-01-19 | [💬 What are the muscles that run...](../items/C-MJM-602.md) | AI chat |
 | 2026-01-19 | [Sertraline safety during pregnancy](../items/C-MJM-603.md) | AI chat |
 | 2026-01-18 | [Well, yet another rant from one wing of the bird to the other as if "There can only be ONE…](../items/S-c-201648539.md) | Substack note |
-| 2026-01-18 | [Opinion: Geopolitical Context of the Embattled Climate Racket](../items/S-p-184919765.md) | Substack restacked post |
+| 2026-01-18 | [Opinion: Geopolitical Context of the Embattled Climate Racket](../items/S-p-184919765.md) | Substack note |
 | 2026-01-18 | [Start11 taskbar shortcuts storage location](../items/C-MJM-599.md) | AI chat |
 | 2026-01-18 | [💬 If I want to get away from Ame...](../items/C-MJM-601.md) | AI chat |
-| 2026-01-14 | [The Wheels Come off the CW Narrative: Douma 2018 and the OPCW Whistleblowers: Part Five](../items/S-p-183333519.md) | Substack restacked post |
+| 2026-01-14 | [The Wheels Come off the CW Narrative: Douma 2018 and the OPCW Whistleblowers: Part Five](../items/S-p-183333519.md) | Substack note |
 | 2026-01-14 | [Tall buildings resisting lateral forces](../items/C-MJM-587.md) | AI chat |
 | 2026-01-14 | [Local AI for document management](../items/C-MJM-588.md) | AI chat |
 | 2026-01-14 | [Extract text from images in order, tab separated](../items/C-MJM-590.md) | AI chat |
@@ -1104,15 +1104,15 @@
 | 2026-01-07 | [Testing chat response](../items/C-MJM-565.md) | AI chat |
 | 2026-01-07 | [Initial response protocol for new chats](../items/C-MJM-566.md) | AI chat |
 | 2026-01-07 | [Extract names and contact information](../items/C-MJM-567.md) | AI chat |
-| 2026-01-06 | [Edward Snowden blew the whistle on illegal mass surveillance by US authorities of their ow…](../items/S-c-186885617.md) | Substack restacked note |
+| 2026-01-06 | [Edward Snowden blew the whistle on illegal mass surveillance by US authorities of their ow…](../items/S-c-186885617.md) | Substack note |
 | 2026-01-06 | [Best LLM models for simple coding in Cursor](../items/C-MJM-563.md) | AI chat |
 | 2026-01-05 | [If there were nothing to the idea that the universe is aware of us (sun included), there w…](../items/S-c-195677321.md) | Substack note |
 | 2026-01-05 | [ZigZag indicator parameters explained](../items/C-MJM-562.md) | AI chat |
 | 2026-01-05 | [Claude Code vs Opus 4.5 for coding](../items/C-MM-6161cd8e.md) | AI chat |
 | 2026-01-04 | [Pepperstone mobile trading apps](../items/C-MJM-560.md) | AI chat |
 | 2026-01-03 | [Does anyone actually buy this shit? How is someone supposed to "check back" if they disabl…](../items/S-c-194746142.md) | Substack note |
-| 2026-01-03 | [“Why does a product need immunity if it doesn’t cause harm?” <https://drwojakmd.substack.c…](../items/S-c-184672890.md) | Substack restacked note |
-| 2026-01-03 | [“Wherever the pesticide went, polio would soon follow.”](../items/S-c-194531750.md) | Substack restacked note |
+| 2026-01-03 | [“Why does a product need immunity if it doesn’t cause harm?” <https://drwojakmd.substack.c…](../items/S-c-184672890.md) | Substack note |
+| 2026-01-03 | [“Wherever the pesticide went, polio would soon follow.”](../items/S-c-194531750.md) | Substack note |
 | 2026-01-02 | [Obviously. But to get out of the loop, you'd first have to credibly envision a world witho…](../items/S-c-194335811.md) | Substack note |
 | 2026-01-02 | [Choosing between Studio and Game Ready drivers](../items/C-MJM-559.md) | AI chat |
 | 2026-01-01 | [Pepperstone Razor vs Standard accounts](../items/C-MJM-556.md) | AI chat |

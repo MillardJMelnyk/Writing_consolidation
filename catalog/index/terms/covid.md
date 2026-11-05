@@ -8,12 +8,12 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-08-17 | [Dr David E Martin speaking in Oklahoma City about the domestic bio terrorism inflicted on …](../../items/S-c-298709040.md) | Substack restacked note |
-| 2026-08-17 | [(no text)](../../items/S-c-308488753.md) | Substack restacked note |
+| 2026-08-17 | [Dr David E Martin speaking in Oklahoma City about the domestic bio terrorism inflicted on …](../../items/S-c-298709040.md) | Substack note |
+| 2026-08-17 | [(no text)](../../items/S-c-308488753.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-08-17 | [Dr David E Martin speaking in Oklahoma City about the domestic bio terrorism inflicted on …](../../items/S-c-298709040.md) | Substack restacked note |
-| 2026-08-17 | [(no text)](../../items/S-c-308488753.md) | Substack restacked note |
+| 2026-08-17 | [Dr David E Martin speaking in Oklahoma City about the domestic bio terrorism inflicted on …](../../items/S-c-298709040.md) | Substack note |
+| 2026-08-17 | [(no text)](../../items/S-c-308488753.md) | Substack note |

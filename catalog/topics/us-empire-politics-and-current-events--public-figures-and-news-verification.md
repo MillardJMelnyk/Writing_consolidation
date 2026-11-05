@@ -13,13 +13,13 @@
 | 2026-10-28 | [Noam Chomsky on the Gaza genocide](../items/C-MM-e1b0e6a3.md) | AI chat |
 | 2026-10-28 | [Putin's actual statements](../items/C-MM-9f737911.md) | AI chat |
 | 2026-10-26 | [Joe Price and motives for murder](../items/C-MM-0d6a0c15.md) | AI chat |
-| 2026-10-25 | [There Are Polymarket Ads In Fortune Cookies](../items/S-p-221985299.md) | Substack restacked post |
+| 2026-10-25 | [There Are Polymarket Ads In Fortune Cookies](../items/S-p-221985299.md) | Substack note |
 | 2026-10-22 | [Trump's BBC defamation lawsuit](../items/C-MM-09404cf8.md) | AI chat |
 | 2026-10-22 | [Weapon bodily damage](../items/C-MM-e74bec81.md) | AI chat |
 | 2026-10-20 | [Chris Hedges 2024 presidential endorsement](../items/C-MM-8d73bf29.md) | AI chat |
 | 2026-10-19 | [Nick Hanover's "Pitchforks are coming for us plutocrats"](../items/C-MM-fdc14e38.md) | AI chat |
 | 2026-10-16 | [Identity of unknown person](../items/C-MM-ab6ec5ba.md) | AI chat |
-| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack note |
 | 2026-10-14 | [Luke Perez tackles photojournalist at University of Ohio](../items/C-MM-e8df2c58.md) | AI chat |
 | 2026-10-10 | [Saudi regime collapse and the straw that breaks the camel's back](../items/C-MM-136254b9.md) | AI chat |
 | 2026-10-09 | [Dating a video clip about Gaza invasion](../items/C-MM-74100f7a.md) | AI chat |
@@ -57,7 +57,7 @@
 | 2026-03-21 | [(untitled)](../items/C-MM-8f97dcda.md) | AI chat |
 | 2026-02-21 | [ROFLMFAO!!! I was 1 second away from clicking Unsubscribe. 😆 Then I noticed Gretchen's com…](../items/S-c-217832013.md) | Substack note |
 | 2026-01-21 | [Brett Weinstein's stance on COVID vaccines](../items/C-MJM-613.md) | AI chat |
-| 2026-01-14 | [The Wheels Come off the CW Narrative: Douma 2018 and the OPCW Whistleblowers: Part Five](../items/S-p-183333519.md) | Substack restacked post |
+| 2026-01-14 | [The Wheels Come off the CW Narrative: Douma 2018 and the OPCW Whistleblowers: Part Five](../items/S-p-183333519.md) | Substack note |
 | 2026-01-09 | [Who is Kristi Noem?](../items/C-MJM-574.md) | AI chat |
 | 2025-12-27 | [Del Bigtree and Ty Bollinger connection](../items/C-MJM-540.md) | AI chat |
 | 2025-12-25 | [Jesse Ventura's political career](../items/C-MJM-525.md) | AI chat |
@@ -75,7 +75,7 @@
 | 2025-11-21 | [Longest-running genocides in history by duration](../items/C-MJM-330.md) | AI chat |
 | 2025-11-19 | [Latest Zelenski scandal](../items/C-MJM-321.md) | AI chat |
 | 2025-10-30 | [Hey Matt Walsh, I'm putting you in my upcoming book! Check it out... <https://x.com/joerog…](../items/S-c-171812109.md) | Substack note |
-| 2025-10-28 | [From Part 2 of my reply to Senator Blumenthal at the Sept. 9 hearing.](../items/S-c-165192822.md) | Substack restacked note |
+| 2025-10-28 | [From Part 2 of my reply to Senator Blumenthal at the Sept. 9 hearing.](../items/S-c-165192822.md) | Substack note |
 | 2025-09-16 | [Brandon Tatum's social media rise](../items/C-MJM-257.md) | AI chat |
 | 2025-09-16 | [Dara Ó Briain identity verification](../items/C-MJM-259.md) | AI chat |
 | 2025-08-26 | [Extreme Communication Protocol](../items/C-MJM-225.md) | AI chat |
@@ -92,7 +92,7 @@
 | 2025-06-19 | [Unknown Sender Identity](../items/C-MJM-042.md) | AI chat |
 | 2025-06-02 | [Gaddafi's Historical Legacy Reassessed](../items/C-MJM-023.md) | AI chat |
 | 2025-05-31 | [Unbelievable that people can’t see what’s happening here. RFK Jr. is not the one lying. In…](../items/S-c-121754443.md) | Substack note |
-| 2025-01-03 | [This is INSANE! I was optimistic that change was coming, but I am not as optimistic now.](../items/S-c-82702723.md) | Substack restacked note |
+| 2025-01-03 | [This is INSANE! I was optimistic that change was coming, but I am not as optimistic now.](../items/S-c-82702723.md) | Substack note |
 | 2024-08-26 | [Free, democratic, just, with rights for all? You kiddin? Josh Pacheco Olga Fedorova Sinna …](../items/S-c-66820987.md) | Substack note |
 | 2024-03-31 | [So, he's a conspiracy theorist, too? I suppose he is. He theorized conspiracies, investiga…](../items/S-c-52878368.md) | Substack note |
 | 2024-03-03 | [These people are fucking lunatics. He doesn’t seriously believe they can do it—and would y…](../items/S-c-50801861.md) | Substack note |
@@ -123,7 +123,7 @@
 | 2026-08-03 | [Facebook post and Grok's comment](../items/C-MM-abca9a1a.md) | AI chat |
 | 2026-06-24 | [Fact verification](../items/C-MM-729224c6.md) | AI chat |
 | 2024-08-26 | [Free, democratic, just, with rights for all? You kiddin? Josh Pacheco Olga Fedorova Sinna …](../items/S-c-66820987.md) | Substack note |
-| 2025-10-28 | [From Part 2 of my reply to Senator Blumenthal at the Sept. 9 hearing.](../items/S-c-165192822.md) | Substack restacked note |
+| 2025-10-28 | [From Part 2 of my reply to Senator Blumenthal at the Sept. 9 hearing.](../items/S-c-165192822.md) | Substack note |
 | 2025-06-02 | [Gaddafi's Historical Legacy Reassessed](../items/C-MJM-023.md) | AI chat |
 | 2025-11-28 | [George Galloway exile claim verification](../items/C-MJM-378.md) | AI chat |
 | 2025-06-24 | [Global Military Spending vs. World Hunger](../items/C-MJM-047.md) | AI chat |
@@ -146,7 +146,7 @@
 | 2025-08-07 | [Makes sense, but people need to stop floating these unverifiable clips and quotes, unless …](../items/S-c-143077821.md) | Substack note |
 | 2026-05-30 | [Minneapolis ice agent shooting arrest](../items/C-MM-8a75232e.md) | AI chat |
 | 2026-10-19 | [Nick Hanover's "Pitchforks are coming for us plutocrats"](../items/C-MM-fdc14e38.md) | AI chat |
-| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack note |
 | 2026-10-28 | [Noam Chomsky on the Gaza genocide](../items/C-MM-e1b0e6a3.md) | AI chat |
 | 2025-08-04 | [Orwell and the Fabian Society](../items/C-MJM-126.md) | AI chat |
 | 2026-08-10 | [Patel resignation rumors debunked](../items/C-MJM-736.md) | AI chat |
@@ -165,10 +165,10 @@
 | 2025-12-22 | [Space-based solar power claim debunked](../items/C-MJM-510.md) | AI chat |
 | 2026-04-24 | [Student arrested for Netanyahu bonbons joke](../items/C-MM-ff05dd45.md) | AI chat |
 | 2025-08-22 | [Systems of Mass Control](../items/C-MJM-210.md) | AI chat |
-| 2026-01-14 | [The Wheels Come off the CW Narrative: Douma 2018 and the OPCW Whistleblowers: Part Five](../items/S-p-183333519.md) | Substack restacked post |
-| 2026-10-25 | [There Are Polymarket Ads In Fortune Cookies](../items/S-p-221985299.md) | Substack restacked post |
+| 2026-01-14 | [The Wheels Come off the CW Narrative: Douma 2018 and the OPCW Whistleblowers: Part Five](../items/S-p-183333519.md) | Substack note |
+| 2026-10-25 | [There Are Polymarket Ads In Fortune Cookies](../items/S-p-221985299.md) | Substack note |
 | 2024-03-03 | [These people are fucking lunatics. He doesn’t seriously believe they can do it—and would y…](../items/S-c-50801861.md) | Substack note |
-| 2025-01-03 | [This is INSANE! I was optimistic that change was coming, but I am not as optimistic now.](../items/S-c-82702723.md) | Substack restacked note |
+| 2025-01-03 | [This is INSANE! I was optimistic that change was coming, but I am not as optimistic now.](../items/S-c-82702723.md) | Substack note |
 | 2026-10-03 | [Thomas Massey congressional status verification](../items/C-MJM-799.md) | AI chat |
 | 2026-10-09 | [Traoré's speech on the Arab slave trade](../items/C-MM-8c5b5123.md) | AI chat |
 | 2026-10-22 | [Trump's BBC defamation lawsuit](../items/C-MM-09404cf8.md) | AI chat |

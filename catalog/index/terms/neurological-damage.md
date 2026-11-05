@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-29 | [I'm no longer optimistic. And the reason is very simple. I fear that these 'mRNA vaccines'…](../../items/S-c-372037419.md) | Substack restacked note |
+| 2026-10-29 | [I'm no longer optimistic. And the reason is very simple. I fear that these 'mRNA vaccines'…](../../items/S-c-372037419.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-29 | [I'm no longer optimistic. And the reason is very simple. I fear that these 'mRNA vaccines'…](../../items/S-c-372037419.md) | Substack restacked note |
+| 2026-10-29 | [I'm no longer optimistic. And the reason is very simple. I fear that these 'mRNA vaccines'…](../../items/S-c-372037419.md) | Substack note |

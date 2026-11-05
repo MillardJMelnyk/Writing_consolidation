@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-05-26 | [Healthcare Is the #1 Cause of Death — and It’s Not Even Close](../../items/S-p-198716188.md) | Substack restacked post |
+| 2026-05-26 | [Healthcare Is the #1 Cause of Death — and It’s Not Even Close](../../items/S-p-198716188.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-05-26 | [Healthcare Is the #1 Cause of Death — and It’s Not Even Close](../../items/S-p-198716188.md) | Substack restacked post |
+| 2026-05-26 | [Healthcare Is the #1 Cause of Death — and It’s Not Even Close](../../items/S-p-198716188.md) | Substack note |

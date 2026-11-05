@@ -9,11 +9,11 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-04-15 | [Dude, I'm sure it's not lost on you whose ideas these resemble. I'm not intimating the bas…](../../items/S-c-244016549.md) | Substack note |
-| 2025-09-26 | [STOP THIS INSANITY](../../items/S-p-157564328.md) | Substack restacked post |
+| 2025-09-26 | [STOP THIS INSANITY](../../items/S-p-157564328.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
 | 2026-04-15 | [Dude, I'm sure it's not lost on you whose ideas these resemble. I'm not intimating the bas…](../../items/S-c-244016549.md) | Substack note |
-| 2025-09-26 | [STOP THIS INSANITY](../../items/S-p-157564328.md) | Substack restacked post |
+| 2025-09-26 | [STOP THIS INSANITY](../../items/S-p-157564328.md) | Substack note |

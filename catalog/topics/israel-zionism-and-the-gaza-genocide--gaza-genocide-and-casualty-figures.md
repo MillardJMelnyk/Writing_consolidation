@@ -29,11 +29,11 @@
 | 2026-06-16 | [UK imprisonment for genocide criticism online](../items/C-MM-17fb45e0.md) | AI chat |
 | 2026-06-12 | [Empathy vs. perspective-taking](../items/C-MM-846b3bc3.md) | AI chat |
 | 2026-06-09 | [Gaza has proven that Euro-Americans don't give a shit about human life unless it belongs t…](../items/S-c-273410098.md) | Substack note |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack note |
 | 2026-04-28 | [I just can't fucking believe the idiocy -- and it spans the whole world -- resulting in as…](../items/S-c-250536968.md) | Substack note |
 | 2026-04-12 | [Excellent treatment of the nature of Shizrael. <https://www.caitlinjohnst.one/p/nobodys-ob…](../items/S-c-242258441.md) | Substack note |
 | 2026-01-13 | [United Terrorist States of America. This isn't some recent development. This isn't some co…](../items/S-c-199140375.md) | Substack note |
-| 2026-01-06 | [Edward Snowden blew the whistle on illegal mass surveillance by US authorities of their ow…](../items/S-c-186885617.md) | Substack restacked note |
+| 2026-01-06 | [Edward Snowden blew the whistle on illegal mass surveillance by US authorities of their ow…](../items/S-c-186885617.md) | Substack note |
 | 2025-12-30 | [Gaza tribunal overview](../items/C-MJM-547.md) | AI chat |
 | 2025-12-20 | [Assange's lawsuit over Machado's Nobel Peace Prize](../items/C-MJM-495.md) | AI chat |
 | 2025-11-21 | [Kamala Harris' foreign policy hawkishness rating](../items/C-MJM-327.md) | AI chat |
@@ -42,7 +42,7 @@
 | 2025-10-13 | [(no text)](../items/S-c-166064227.md) | Substack note |
 | 2025-10-08 | [I’ve commented on Naomi Wolf’s recent essay that attempts to rationalize her capitulation …](../items/S-c-164325074.md) | Substack note |
 | 2025-09-25 | [Watch this and ask yourself: To whom do the distinctions between mass murder, ethnic clean…](../items/S-c-159779770.md) | Substack note |
-| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../items/S-p-174432792.md) | Substack restacked post |
+| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../items/S-p-174432792.md) | Substack note |
 | 2025-09-19 | [But don’t forget about 11, John Spencer (who suddenly made his profile @ <https://spencerg…](../items/S-c-157758469.md) | Substack note |
 | 2025-09-19 | [@John Spencer, regarding your article, “The U.N. Genocide Report Against Israel Is an Assa…](../items/S-c-157737349.md) | Substack note |
 | 2025-09-16 | [Candace Owens and Gaza conflict views](../items/C-MJM-255.md) | AI chat |
@@ -82,7 +82,7 @@
 | 2025-09-16 | [Candace Owens and Gaza conflict views](../items/C-MJM-255.md) | AI chat |
 | 2025-07-26 | [Controversial Israeli Minister's Quote](../items/C-MJM-099.md) | AI chat |
 | 2026-10-09 | [Dating a video clip about Gaza invasion](../items/C-MM-74100f7a.md) | AI chat |
-| 2026-01-06 | [Edward Snowden blew the whistle on illegal mass surveillance by US authorities of their ow…](../items/S-c-186885617.md) | Substack restacked note |
+| 2026-01-06 | [Edward Snowden blew the whistle on illegal mass surveillance by US authorities of their ow…](../items/S-c-186885617.md) | Substack note |
 | 2026-10-30 | [Eggs and bananas political ad](../items/C-MM-592c3ec1.md) | AI chat |
 | 2026-10-03 | [Embedding subtitles in video without quality loss](../items/C-MJM-800.md) | AI chat |
 | 2026-06-12 | [Empathy vs. perspective-taking](../items/C-MM-846b3bc3.md) | AI chat |
@@ -92,7 +92,7 @@
 | 2026-10-05 | [Gaza death toll estimates from IDF operations and siege](../items/C-MM-ce740f10.md) | AI chat |
 | 2026-06-09 | [Gaza has proven that Euro-Americans don't give a shit about human life unless it belongs t…](../items/S-c-273410098.md) | Substack note |
 | 2025-12-30 | [Gaza tribunal overview](../items/C-MJM-547.md) | AI chat |
-| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../items/S-p-174432792.md) | Substack restacked post |
+| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../items/S-p-174432792.md) | Substack note |
 | 2026-10-06 | [Hamas and allegations of deliberate harm to infants](../items/C-MM-ea14d53d.md) | AI chat |
 | 2025-08-25 | [Hamas Attack on Kfir Brigade](../items/C-MJM-221.md) | AI chat |
 | 2025-08-04 | [Hamas October 7 Atrocities Investigation](../items/C-MJM-127.md) | AI chat |
@@ -131,7 +131,7 @@
 | 2026-10-06 | [Verifying a quote](../items/C-MM-8a36e4f3.md) | AI chat |
 | 2025-09-25 | [Watch this and ask yourself: To whom do the distinctions between mass murder, ethnic clean…](../items/S-c-159779770.md) | Substack note |
 | 2025-07-20 | [Well then, here are our options: 1. Become genocidists ourselves by refusing to stop them.…](../items/S-c-137169627.md) | Substack note |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack note |
 | 2025-08-30 | [What do you know when you hear someone say "Human Rights"? 1. Masses of human beings, some…](../items/S-c-150665886.md) | Substack note |
 | 2025-11-13 | [Where the world stands on the Gaza genocide and occupation of Palestinian lands since 1967…](../items/S-c-176829145.md) | Substack note |
 | 2025-02-06 | [You can understand, now, exactly how people in the German towns nearby could watch the smo…](../items/S-c-91495060.md) | Substack note |

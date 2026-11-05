@@ -10,7 +10,7 @@
 | 2026-10-16 | [Palestinian casualties and family impact in Gaza](../items/C-MJM-809.md) | AI chat |
 | 2026-10-09 | [Palestinian casualties in Israeli-Palestinian conflict](../items/C-MM-3195efa0.md) | AI chat |
 | 2026-08-01 | [Palestinian casualty estimates in Gaza conflict](../items/C-MM-1dce3848.md) | AI chat |
-| 2026-06-07 | [Palestinians Don't Care About Antisemitism](../items/S-p-200959334.md) | Substack restacked post |
+| 2026-06-07 | [Palestinians Don't Care About Antisemitism](../items/S-p-200959334.md) | Substack note |
 | 2023-09-22 | [Parasites be parasites, no matter the species. Just like mosquitoes, they'll just keep try…](../items/S-c-40510381.md) | Substack note |
 | 2026-10-16 | [Parlor affectation definition](../items/C-MM-44f6e732.md) | AI chat |
 | 2025-08-11 | [Part I - Objectivity is a myth ———————————— I delve into epistemics because pretty much al…](../items/S-c-144420704.md) | Substack note |
@@ -39,7 +39,7 @@
 | 2026-10-29 | [PC crash cause diagnosis](../items/C-MJM-822.md) | AI chat |
 | 2026-08-12 | [PCL-R population distribution model correction](../items/C-MM-1ea26a6a.md) | AI chat |
 | 2026-10-29 | [PDF conversion request](../items/C-MM-a4b9ce1b.md) | AI chat |
-| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../items/S-c-169646454.md) | Substack restacked note |
+| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../items/S-c-169646454.md) | Substack note |
 | 2026-10-05 | [Peer-based critical engagement guidelines](../items/C-MJM-808.md) | AI chat |
 | 2022-09-09 | [Peerness clarified](../items/S-p-72593245.md) | Substack post |
 | 2025-07-22 | [People from the very start -- March or April 2020 -- were smart enough to see through the …](../items/S-c-137630878.md) | Substack note |
@@ -76,8 +76,8 @@
 | 2026-08-26 | [Planet Crafter 345 kTi measurement](../items/C-MM-e08e7a9b.md) | AI chat |
 | 2026-08-07 | [Plant food compatibility guide](../items/C-MM-94d3f9e9.md) | AI chat |
 | 2025-05-28 | [Plural of Apparatus](../items/C-MJM-012.md) | AI chat |
-| 2025-12-21 | [Poisoning kids with vaccines in utero, at birth, and throughout infancy... funneling the p…](../items/S-c-190003765.md) | Substack restacked note |
-| 2025-12-21 | [Polemics in America](../items/S-p-173557334.md) | Substack restacked post |
+| 2025-12-21 | [Poisoning kids with vaccines in utero, at birth, and throughout infancy... funneling the p…](../items/S-c-190003765.md) | Substack note |
+| 2025-12-21 | [Polemics in America](../items/S-p-173557334.md) | Substack note |
 | 2026-10-19 | [Police authority and power imbalance](../items/C-MM-b6c03312.md) | AI chat |
 | 2026-09-28 | [Politeness and political correctness](../items/C-MM-4cbfba38.md) | AI chat |
 | 2026-10-13 | [Political ponderology goes viral](../items/C-MM-be4406a4.md) | AI chat |
@@ -97,7 +97,7 @@
 | 2025-08-23 | [Precise Language Descriptors](../items/C-MJM-211.md) | AI chat |
 | 2025-09-24 | [Precision communication protocol](../items/C-MJM-280.md) | AI chat |
 | 2026-09-02 | [Preocupaciones sobre cláusulas contractuales precarias](../items/C-MM-68a3f598.md) | AI chat |
-| 2025-04-22 | [PREP Act Brief: "License to Kill" must be repealed.](../items/S-p-160870124.md) | Substack restacked post |
+| 2025-04-22 | [PREP Act Brief: "License to Kill" must be repealed.](../items/S-p-160870124.md) | Substack note |
 | 2026-08-09 | [Preparing soil for vegetable planting](../items/C-MM-b3e7123d.md) | AI chat |
 | 2026-08-04 | [Present continuous tense](../items/C-MM-a12d4e3e.md) | AI chat |
 | 2026-08-31 | [Presentation class help](../items/C-MM-cfa40edc.md) | AI chat |
@@ -109,7 +109,7 @@
 | 2026-09-18 | [Professional projector review request](../items/C-MM-8ac095b8.md) | AI chat |
 | 2025-07-19 | [Professional Self-Description Strategy](../items/C-MJM-087.md) | AI chat |
 | 2026-03-21 | [Professor Jiang's predictive batting average](../items/C-MM-6c2e43d9.md) | AI chat |
-| 2026-02-11 | [Project In Humanity](../items/S-p-187299346.md) | Substack restacked post |
+| 2026-02-11 | [Project In Humanity](../items/S-p-187299346.md) | Substack note |
 | 2024-09-10 | [Proof of grace](../items/S-p-148741302.md) | Substack post |
 | 2025-05-16 | [Protests, strikes, and rebellion do nothing to overcome oppressors, because they prove cod…](../items/S-c-117718388.md) | Substack note |
 | 2025-12-23 | [Proverbs 24:6 deception versus counsel translation](../items/C-MJM-513.md) | AI chat |

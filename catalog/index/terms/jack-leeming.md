@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-02 | [Absolute evisceration. Well done Sasha. Alarming though that these establishment hacks are…](../../items/S-c-161867674.md) | Substack restacked note |
+| 2025-10-02 | [Absolute evisceration. Well done Sasha. Alarming though that these establishment hacks are…](../../items/S-c-161867674.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-02 | [Absolute evisceration. Well done Sasha. Alarming though that these establishment hacks are…](../../items/S-c-161867674.md) | Substack restacked note |
+| 2025-10-02 | [Absolute evisceration. Well done Sasha. Alarming though that these establishment hacks are…](../../items/S-c-161867674.md) | Substack note |

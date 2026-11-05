@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../../items/S-c-155670947.md) | Substack restacked note |
+| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../../items/S-c-155670947.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../../items/S-c-155670947.md) | Substack restacked note |
+| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../../items/S-c-155670947.md) | Substack note |

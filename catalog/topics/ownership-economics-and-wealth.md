@@ -19,7 +19,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-25 | [There Are Polymarket Ads In Fortune Cookies](../items/S-p-221985299.md) | Substack restacked post |
+| 2026-10-25 | [There Are Polymarket Ads In Fortune Cookies](../items/S-p-221985299.md) | Substack note |
 | 2026-10-21 | [Understanding stocks](../items/C-MM-10eaa9ad.md) | AI chat |
 | 2026-10-19 | [Defining wealth and power's corrupting influence](../items/C-MM-279c32e3.md) | AI chat |
 | 2026-10-19 | [Nick Hanover's "Pitchforks are coming for us plutocrats"](../items/C-MM-fdc14e38.md) | AI chat |
@@ -32,7 +32,7 @@
 | 2026-10-02 | [Stirner's departure from ideological control questions](../items/C-MJM-798.md) | AI chat |
 | 2026-09-28 | [Spider identification](../items/C-MM-c21b24ae.md) | AI chat |
 | 2026-09-14 | [(no text)](../items/S-c-336893110.md) | Substack note |
-| 2026-09-05 | [(no text)](../items/S-c-329961930.md) | Substack restacked note |
+| 2026-09-05 | [(no text)](../items/S-c-329961930.md) | Substack note |
 | 2026-09-04 | [Indeed. The “property” party. Which is why they go psycho over “ownership”. What could pos…](../items/S-c-329704334.md) | Substack note |
 | 2026-08-30 | [Capitalism and consumption](../items/C-MM-261d8431.md) | AI chat |
 | 2026-08-29 | [Indeed. The “property” party. Which is why they go psycho over “ownership”. What could pos…](../items/S-c-325409814.md) | Substack note |
@@ -40,7 +40,7 @@
 | 2026-08-02 | [The premise on which the fundamental concept of an "economy" is predicated is false, that …](../items/S-c-306714462.md) | Substack note |
 | 2026-08-02 | [Do we actually need an economic system?](../items/C-MM-d94856de.md) | AI chat |
 | 2026-06-29 | [Except "stole the land" is the language of the psychotics that did it. Their crime is only…](../items/S-c-284823280.md) | Substack note |
-| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../items/S-c-258631434.md) | Substack restacked note |
+| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../items/S-c-258631434.md) | Substack note |
 | 2026-05-30 | [Hoof and mouth disease severity](../items/C-MM-5a385a91.md) | AI chat |
 | 2026-05-27 | [Origins of property according to its critics](../items/C-MM-c6f6af55.md) | AI chat |
 | 2026-05-23 | [Ownership as Psychosis](../items/S-p-198996721.md) | Substack post |
@@ -95,7 +95,7 @@
 | 2025-08-17 | [The rich created poverty. The rich support poverty. The rich defend poverty. We will have …](../items/S-c-146283169.md) | Substack note |
 | 2025-08-15 | [Savings Account Interest Rates History](../items/C-MJM-176.md) | AI chat |
 | 2025-08-13 | [Federal Reserve Monetary Policy Mystery](../items/C-MJM-165.md) | AI chat |
-| 2025-08-09 | [(no text)](../items/S-c-139662913.md) | Substack restacked note |
+| 2025-08-09 | [(no text)](../items/S-c-139662913.md) | Substack note |
 | 2025-08-07 | [(no text)](../items/S-c-143185255.md) | Substack note |
 | 2025-07-31 | [I’m not sure what it will take for people to stop it with the inane idea that Trump is the…](../items/S-c-140874986.md) | Substack note |
 | 2025-07-21 | [Home as Personal Castle](../items/C-MJM-094.md) | AI chat |
@@ -129,7 +129,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../items/S-c-258631434.md) | Substack restacked note |
+| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../items/S-c-258631434.md) | Substack note |
 | 2026-10-18 | [Academic blindness to alternative paradigms](../items/C-MM-bb3cfeb1.md) | AI chat |
 | 2024-11-07 | [Attributed to Keynes without substantiation, but the statement is representative of his th…](../items/S-c-76042519.md) | Substack note |
 | 2025-12-05 | [Brief bios for alternative economy thinkers](../items/C-MJM-407.md) | AI chat |
@@ -184,13 +184,13 @@
 | 2026-10-08 | [(no text)](../items/S-c-356121570.md) | Substack note |
 | 2026-10-04 | [(no text)](../items/S-c-352714722.md) | Substack note |
 | 2026-09-14 | [(no text)](../items/S-c-336893110.md) | Substack note |
-| 2026-09-05 | [(no text)](../items/S-c-329961930.md) | Substack restacked note |
+| 2026-09-05 | [(no text)](../items/S-c-329961930.md) | Substack note |
 | 2026-01-23 | [(no text)](../items/S-c-203884554.md) | Substack note |
 | 2025-11-16 | [(no text)](../items/S-c-177847155.md) | Substack note |
 | 2025-10-31 | [(no text)](../items/S-c-172213500.md) | Substack note |
 | 2025-10-09 | [(no text)](../items/S-c-164611071.md) | Substack note |
 | 2025-08-18 | [(no text)](../items/S-c-146620437.md) | Substack note |
-| 2025-08-09 | [(no text)](../items/S-c-139662913.md) | Substack restacked note |
+| 2025-08-09 | [(no text)](../items/S-c-139662913.md) | Substack note |
 | 2025-08-07 | [(no text)](../items/S-c-143185255.md) | Substack note |
 | 2025-07-19 | [(no text)](../items/S-c-136891747.md) | Substack note |
 | 2026-02-05 | [No, Lee, there are not other systems in which this would not be the case, for the simple r…](../items/S-c-210412175.md) | Substack note |
@@ -222,7 +222,7 @@
 | 2025-05-28 | [The Exclusionary Nature of Ownership as Deprivation](../items/C-MJM-006.md) | AI chat |
 | 2026-08-02 | [The premise on which the fundamental concept of an "economy" is predicated is false, that …](../items/S-c-306714462.md) | Substack note |
 | 2025-08-17 | [The rich created poverty. The rich support poverty. The rich defend poverty. We will have …](../items/S-c-146283169.md) | Substack note |
-| 2026-10-25 | [There Are Polymarket Ads In Fortune Cookies](../items/S-p-221985299.md) | Substack restacked post |
+| 2026-10-25 | [There Are Polymarket Ads In Fortune Cookies](../items/S-p-221985299.md) | Substack note |
 | 2025-10-08 | [There simply is no fucking excuse… I’ve heard them all. They’re all pigshit.](../items/S-c-164349728.md) | Substack note |
 | 2025-10-02 | [This is how weak such attempts are when “elites” are allowed to exist. The ultimate power …](../items/S-c-162235633.md) | Substack note |
 | 2024-11-21 | [Times changing like greased lightning](../items/S-p-151992674.md) | Substack post |

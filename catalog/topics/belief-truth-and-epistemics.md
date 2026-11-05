@@ -29,7 +29,7 @@
 | 2026-10-26 | [Radioactive elements](../items/C-MM-1ce69d50.md) | AI chat |
 | 2026-10-21 | [Evidence and truth are not the same](../items/C-MM-e7b9aa87.md) | AI chat |
 | 2026-10-20 | [(no text)](../items/S-c-366066476.md) | Substack note |
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack note |
 | 2026-10-18 | [Academic blindness to alternative paradigms](../items/C-MM-bb3cfeb1.md) | AI chat |
 | 2026-10-18 | [Codependence Essay - review and discussion](../items/C-MM-3bec558b.md) | AI chat |
 | 2026-10-16 | [Hypothetical threat analysis](../items/C-MM-da4675f1.md) | AI chat |
@@ -190,7 +190,7 @@
 | 2025-11-03 | [How deep do the rabbit holes go? Well, pretty fucking hard to answer that one if you refus…](../items/S-c-173157925.md) | Substack note |
 | 2025-11-01 | [I've been working on this a long time. I'm satisfied. It's incontrovertible. ALL BELIEF IS…](../items/S-c-172513200.md) | Substack note |
 | 2025-10-29 | [I’ve been studying theories—philosophical, scientific, religious, political, economic, psy…](../items/S-c-171528193.md) | Substack note |
-| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../items/S-c-169646454.md) | Substack restacked note |
+| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../items/S-c-169646454.md) | Substack note |
 | 2025-10-29 | [Very few scientists will understand this. Very few scientists have read Kuhn. The majority…](../items/S-c-171291191.md) | Substack note |
 | 2025-10-26 | [The inane idea that "America" has ever been about freedom is one of the biggest cultic, tr…](../items/S-c-170406100.md) | Substack note |
 | 2025-10-19 | [So, when this is the case and this has always been the case -- NO EVIDENCE -- what do your…](../items/S-c-168021131.md) | Substack note |
@@ -217,7 +217,7 @@
 | 2025-09-20 | [Defining the nature of evil](../items/C-MJM-270.md) | AI chat |
 | 2025-09-19 | [@John Spencer, regarding your article, “The U.N. Genocide Report Against Israel Is an Assa…](../items/S-c-157737349.md) | Substack note |
 | 2025-09-17 | [(no text)](../items/S-c-157101441.md) | Substack note |
-| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../items/S-c-155670947.md) | Substack restacked note |
+| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../items/S-c-155670947.md) | Substack note |
 | 2025-09-17 | [It's unfathomable to me how so many people listening to someone relating there own experie…](../items/S-c-156950480.md) | Substack note |
 | 2025-09-17 | [Epistemology and knowledge frameworks](../items/C-MJM-263.md) | AI chat |
 | 2025-09-17 | [Universe composition percentage](../items/C-MJM-264.md) | AI chat |
@@ -350,7 +350,7 @@
 | 2026-10-18 | [Academic blindness to alternative paradigms](../items/C-MM-bb3cfeb1.md) | AI chat |
 | 2026-08-12 | [Academic objectivity and credibility](../items/C-MM-d716089c.md) | AI chat |
 | 2026-10-03 | [Ad hominem and logical fallacies](../items/C-MJM-802.md) | AI chat |
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack note |
 | 2023-03-06 | [All who farce—find exit here](../items/S-p-106851031.md) | Substack post |
 | 2025-05-06 | [Almost no one, anywhere, not even in academia, does this well. Validity" here is the philo…](../items/S-c-114911842.md) | Substack note |
 | 2025-09-16 | [Also known as "bullshit", "pigshit", "horseshit", and just plain old "shit" as in, "You're…](../items/S-c-156644015.md) | Substack note |
@@ -542,7 +542,7 @@
 | 2025-06-25 | [(no text)](../items/S-c-129293730.md) | Substack note |
 | 2025-05-27 | [(no text)](../items/S-c-120620197.md) | Substack note |
 | 2024-09-08 | [Not a fucking one](../items/S-p-148653826.md) | Substack post |
-| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../items/S-c-155670947.md) | Substack restacked note |
+| 2025-09-17 | [Not sloppy. Not rushed. Rigged. Recent study shows](../items/S-c-155670947.md) | Substack note |
 | 2025-08-11 | [Objectivity vs. Subjectivity: A Philosophical Challenge](../items/C-MJM-159.md) | AI chat |
 | 2024-08-31 | [Once people leave codependency behind, they have no more use for "beliefs". "I think" is s…](../items/S-c-67375917.md) | Substack note |
 | 2026-06-10 | [Operation High Jump facts and evidence](../items/C-MM-5b147bad.md) | AI chat |
@@ -551,7 +551,7 @@
 | 2025-08-11 | [Part I - Objectivity is a myth ———————————— I delve into epistemics because pretty much al…](../items/S-c-144420704.md) | Substack note |
 | 2025-08-11 | [Part II - Objectivity is a myth ————————————- Here are the last 4 screenshots:](../items/S-c-144433965.md) | Substack note |
 | 2026-06-18 | [PAY ATTENTION: \\\ YOUR OPINION ABOUT THIS DOES NOT MATTER \\\ And before you get miffed-i…](../items/S-c-278517059.md) | Substack note |
-| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../items/S-c-169646454.md) | Substack restacked note |
+| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../items/S-c-169646454.md) | Substack note |
 | 2026-09-29 | [Pepper's world hypothesis foundations](../items/C-MM-6e86afaa.md) | AI chat |
 | 2024-08-02 | [Perceived limitations, whether they originate in honest, careful thinking or paranoid terr…](../items/S-c-64146635.md) | Substack note |
 | 2025-12-11 | [Performative arguments and their purpose](../items/C-MJM-443.md) | AI chat |

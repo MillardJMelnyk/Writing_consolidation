@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-05-24 | [Israel Rapes Everyone, And Other Notes](../../items/S-p-199026239.md) | Substack restacked post |
+| 2026-05-24 | [Israel Rapes Everyone, And Other Notes](../../items/S-p-199026239.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-05-24 | [Israel Rapes Everyone, And Other Notes](../../items/S-p-199026239.md) | Substack restacked post |
+| 2026-05-24 | [Israel Rapes Everyone, And Other Notes](../../items/S-p-199026239.md) | Substack note |

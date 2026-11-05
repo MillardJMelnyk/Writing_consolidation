@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-03 | [Must-see interview of Denis Rancourt at the TheHighWire: From pregnancy deaths to geopolitics](../../items/S-p-218682449.md) | Substack restacked post |
+| 2026-10-03 | [Must-see interview of Denis Rancourt at the TheHighWire: From pregnancy deaths to geopolitics](../../items/S-p-218682449.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-03 | [Must-see interview of Denis Rancourt at the TheHighWire: From pregnancy deaths to geopolitics](../../items/S-p-218682449.md) | Substack restacked post |
+| 2026-10-03 | [Must-see interview of Denis Rancourt at the TheHighWire: From pregnancy deaths to geopolitics](../../items/S-p-218682449.md) | Substack note |

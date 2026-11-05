@@ -27,7 +27,7 @@
 | 2025-12-24 | [Safe alcohol consumption during pregnancy](../items/C-MJM-520.md) | AI chat |
 | 2025-12-18 | [High quality LED message board alternative](../items/C-MJM-485.md) | AI chat |
 | 2025-12-17 | [Embryo freezing and viability](../items/C-MJM-476.md) | AI chat |
-| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../items/S-c-159038934.md) | Substack restacked note |
+| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../items/S-c-159038934.md) | Substack note |
 | 2025-08-20 | [Kid-Friendly Roasts](../items/C-MJM-198.md) | AI chat |
 | 2025-08-09 | [US Divorce Rates Historical Trends](../items/C-MJM-144.md) | AI chat |
 | 2025-05-28 | [Grandson Wants a Scooter for Birthday](../items/C-MJM-008.md) | AI chat |
@@ -60,4 +60,4 @@
 | 2026-10-24 | [Walker readiness for a six-month-old](../items/C-MJM-813.md) | AI chat |
 | 2026-10-21 | [Walking seat on wheels for baby](../items/C-MM-86148e76.md) | AI chat |
 | 2026-10-10 | [When human thinking begins](../items/C-MM-7071db62.md) | AI chat |
-| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../items/S-c-159038934.md) | Substack restacked note |
+| 2025-09-24 | [When my wife and I decided to have a child, we chose a fully natural path—no medical inter…](../items/S-c-159038934.md) | Substack note |

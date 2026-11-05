@@ -20,7 +20,7 @@
 | 2026-07-04 | [(no text)](../../items/S-c-287904204.md) | Substack note |
 | 2026-06-09 | [Gaza has proven that Euro-Americans don't give a shit about human life unless it belongs t…](../../items/S-c-273410098.md) | Substack note |
 | 2026-05-26 | [They're just doing what their Tanakh tells them to do: "Blessed shall he be who takes your…](../../items/S-c-265549530.md) | Substack note |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../../items/S-c-249686813.md) | Substack note |
 | 2026-05-06 | [(no text)](../../items/S-c-254857611.md) | Substack note |
 | 2026-03-30 | [Fucking hell. Grow some fucking balls. Who the fuck is "forcing" you to believe that lying…](../../items/S-c-235699324.md) | Substack note |
 | 2025-12-30 | [Gaza tribunal overview](../../items/C-MJM-547.md) | AI chat |
@@ -80,4 +80,4 @@
 | 2025-09-25 | [Watch this and ask yourself: To whom do the distinctions between mass murder, ethnic clean…](../../items/S-c-159779770.md) | Substack note |
 | 2025-12-11 | [Way past fucking time, but what can I say? Not that I consider Carlson much more than cont…](../../items/S-c-186740330.md) | Substack note |
 | 2025-07-20 | [Well then, here are our options: 1. Become genocidists ourselves by refusing to stop them.…](../../items/S-c-137169627.md) | Substack note |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../../items/S-c-249686813.md) | Substack note |

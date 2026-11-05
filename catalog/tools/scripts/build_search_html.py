@@ -1,7 +1,7 @@
-"""Build Millard's_master_writing_catalog.html with built-in meaning and exact-word search.
+"""Build Millards_master_writing_catalog.html with built-in meaning and exact-word search.
 
 Usage: python3 build_search_html.py items.jsonl tags_final2.jsonl sem_dir out.html
-sem_dir holds: page_template.html, app.js, core.js, tokenizer.js, ort.wasm.min.js, ort-wasm-simd-threaded.mjs,
+sem_dir holds: page_template.html, app.js, core.js, marked.umd.js, tokenizer.js, ort.wasm.min.js, ort-wasm-simd-threaded.mjs,
 ort-wasm-simd-threaded.wasm, model_quantized.onnx, vocab.txt, projection.json
 The page contains no item text; on first use it reads the item pages from GitHub and builds catalog_search_index.js.
 """
@@ -61,6 +61,7 @@ rep = {
     '/*@@ORTJS@@*/': js_text(open(P('ort.wasm.min.js'), encoding='utf-8').read()),
     '/*@@TOKENIZER@@*/': js_text(open(P('tokenizer.js'), encoding='utf-8').read()),
     '/*@@CORE@@*/': js_text(open(P('core.js'), encoding='utf-8').read()),
+    '/*@@MARKED@@*/': js_text(open(P('marked.umd.js'), encoding='utf-8').read()),
     '/*@@ITEMS@@*/': js_text(json.dumps(meta, ensure_ascii=False)),
     '/*@@MJS@@*/': b64(mjs.encode('utf-8')),
     '/*@@WASM@@*/': gzb64(P('ort-wasm-simd-threaded.wasm')),

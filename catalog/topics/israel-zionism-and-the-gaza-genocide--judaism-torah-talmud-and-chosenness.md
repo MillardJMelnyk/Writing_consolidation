@@ -26,7 +26,7 @@
 | 2026-06-01 | [I see a direct line between the ethno-supremacism of Judaism and Zionism. Jews repudiating…](../items/S-c-268762783.md) | Substack note |
 | 2026-06-01 | [Judaism and ethno-supremacism claims](../items/C-MM-fd25756e.md) | AI chat |
 | 2026-05-29 | [WHEN are you going to fucking start believing the victims? AT THE VERY LEAST, you cannot a…](../items/S-c-267333354.md) | Substack note |
-| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack restacked post |
+| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack note |
 | 2026-05-16 | [If I were born into a "Melnyk" family line that had been supremacist, racist, genocidal, a…](../items/S-c-260028516.md) | Substack note |
 | 2026-05-08 | [Excellent. Exactly. If only the perpetrators and supporters of this heinous, anti-human sh…](../items/S-c-255798736.md) | Substack note |
 | 2026-05-06 | [<https://dzyk.substack.com/p/zionism-is-decolonization/comment/254444655?utmsource=share&u…](../items/S-c-254445250.md) | Substack note |
@@ -71,7 +71,7 @@
 | 2026-04-28 | [I just can't fucking believe the idiocy -- and it spans the whole world -- resulting in as…](../items/S-c-250536968.md) | Substack note |
 | 2026-06-01 | [I see a direct line between the ethno-supremacism of Judaism and Zionism. Jews repudiating…](../items/S-c-268763330.md) | Substack note |
 | 2026-06-01 | [I see a direct line between the ethno-supremacism of Judaism and Zionism. Jews repudiating…](../items/S-c-268762783.md) | Substack note |
-| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack restacked post |
+| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack note |
 | 2026-05-16 | [If I were born into a "Melnyk" family line that had been supremacist, racist, genocidal, a…](../items/S-c-260028516.md) | Substack note |
 | 2025-08-15 | [Jewish Divine Name Terminology](../items/C-MJM-178.md) | AI chat |
 | 2026-09-29 | [Jewish ethnic diversity beyond Ashkenazi and Sephardic](../items/C-MM-dba05130.md) | AI chat |

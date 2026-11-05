@@ -8,12 +8,12 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-12-01 | [From my latest article.](../../items/S-c-181659036.md) | Substack restacked note |
+| 2025-12-01 | [From my latest article.](../../items/S-c-181659036.md) | Substack note |
 | 2025-06-04 | [This is an excellent article. If you are not able to read and comprehend an article at thi…](../../items/S-c-122773030.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-12-01 | [From my latest article.](../../items/S-c-181659036.md) | Substack restacked note |
+| 2025-12-01 | [From my latest article.](../../items/S-c-181659036.md) | Substack note |
 | 2025-06-04 | [This is an excellent article. If you are not able to read and comprehend an article at thi…](../../items/S-c-122773030.md) | Substack note |

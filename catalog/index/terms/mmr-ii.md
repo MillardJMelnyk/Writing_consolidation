@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-05 | [Most vaccines are violating Biologics labeling law - Merck’s MMRII is statutorily misbranded.](../../items/S-p-217487018.md) | Substack restacked post |
+| 2026-10-05 | [Most vaccines are violating Biologics labeling law - Merck’s MMRII is statutorily misbranded.](../../items/S-p-217487018.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-05 | [Most vaccines are violating Biologics labeling law - Merck’s MMRII is statutorily misbranded.](../../items/S-p-217487018.md) | Substack restacked post |
+| 2026-10-05 | [Most vaccines are violating Biologics labeling law - Merck’s MMRII is statutorily misbranded.](../../items/S-p-217487018.md) | Substack note |

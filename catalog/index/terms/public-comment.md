@@ -8,12 +8,12 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-08-24 | [Call for Action! Submit comments to HHS on vaccine recommendations and “shared decision making”. Deadline September 20.](../../items/S-p-212293890.md) | Substack restacked post |
+| 2026-08-24 | [Call for Action! Submit comments to HHS on vaccine recommendations and “shared decision making”. Deadline September 20.](../../items/S-p-212293890.md) | Substack note |
 | 2026-01-13 | [Every which way they can but good.](../../items/S-c-199141217.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-08-24 | [Call for Action! Submit comments to HHS on vaccine recommendations and “shared decision making”. Deadline September 20.](../../items/S-p-212293890.md) | Substack restacked post |
+| 2026-08-24 | [Call for Action! Submit comments to HHS on vaccine recommendations and “shared decision making”. Deadline September 20.](../../items/S-p-212293890.md) | Substack note |
 | 2026-01-13 | [Every which way they can but good.](../../items/S-c-199141217.md) | Substack note |

@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-08-16 | [100% of childhood cancers are due to vaccines.](../../items/S-c-146136794.md) | Substack restacked note |
+| 2025-08-16 | [100% of childhood cancers are due to vaccines.](../../items/S-c-146136794.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-08-16 | [100% of childhood cancers are due to vaccines.](../../items/S-c-146136794.md) | Substack restacked note |
+| 2025-08-16 | [100% of childhood cancers are due to vaccines.](../../items/S-c-146136794.md) | Substack note |

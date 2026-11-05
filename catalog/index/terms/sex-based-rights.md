@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../../items/S-c-264699275.md) | Substack restacked note |
+| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../../items/S-c-264699275.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../../items/S-c-264699275.md) | Substack restacked note |
+| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../../items/S-c-264699275.md) | Substack note |

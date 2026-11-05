@@ -57,7 +57,7 @@
 | 2025-07-23 | [small amounts of MDMA (<= 40mg...](../items/C-MJM-095.md) | AI chat |
 | 2025-06-27 | [Multivitamin Search in Mexico](../items/C-MJM-052.md) | AI chat |
 | 2025-05-07 | [Awesome insight and avenue for exploration…](../items/S-c-115262277.md) | Substack note |
-| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../items/S-c-70060219.md) | Substack restacked note |
+| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../items/S-c-70060219.md) | Substack note |
 
 ## By title
 
@@ -86,7 +86,7 @@
 | 2026-08-16 | [Finding a Klean Athlete multivitamin alternative in Mexico](../items/C-MM-346e1f2e.md) | AI chat |
 | 2026-08-21 | [Global alcohol consumption by country](../items/C-MM-6eeaef9c.md) | AI chat |
 | 2026-02-03 | [Global health rankings by population wellness](../items/C-MJM-636.md) | AI chat |
-| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../items/S-c-70060219.md) | Substack restacked note |
+| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../items/S-c-70060219.md) | Substack note |
 | 2026-07-19 | [Lightning spasms in muscles](../items/C-MM-e351d4ca.md) | AI chat |
 | 2025-12-21 | [Long-term olive oil consumption health effects](../items/C-MJM-504.md) | AI chat |
 | 2026-05-17 | [Methadone's role in addiction treatment](../items/C-MM-3ec10286.md) | AI chat |

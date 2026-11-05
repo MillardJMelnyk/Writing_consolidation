@@ -1,10 +1,10 @@
-"""Catalog manager: run this to set up search and open the catalog, instead of opening Millard's_master_writing_catalog.html directly.
+"""Catalog manager: run this to set up search and open the catalog, instead of opening Millards_master_writing_catalog.html directly.
 
 It serves the catalog folder on this computer, opens the catalog page in your browser, and does the search
 fingerprinting and saving the page asks for while it sets up search. The window closes by itself once the page
 is open and search is ready, unless there were errors.
 
-Put this file in the same folder as Millard's_master_writing_catalog.html. Needs Python 3.9 or newer.
+Put this file in the same folder as Millards_master_writing_catalog.html. Needs Python 3.9 or newer.
 """
 import os, sys, json, base64, threading, time, webbrowser, subprocess, importlib, importlib.util, urllib.request, urllib.parse, socket
 from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler

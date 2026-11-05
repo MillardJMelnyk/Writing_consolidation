@@ -19,9 +19,9 @@
 | 2025-02-23 | [On Government](../items/S-p-157758009.md) | Substack post |
 | 2025-08-07 | [Once genocidal, always genocidal? The United Terrorist States of America and The United Ki…](../items/S-c-143070504.md) | Substack note |
 | 2024-08-31 | [Once people leave codependency behind, they have no more use for "beliefs". "I think" is s…](../items/S-c-67375917.md) | Substack note |
-| 2026-05-20 | [One Final Blow: Why Thomas Massie Must Name Epstein’s Accomplices on the House Floor Now](../items/S-p-198444648.md) | Substack restacked post |
-| 2026-09-05 | [One of Professor Francis Boyle's last interviews before being found dead. He called the CO…](../items/S-c-322166507.md) | Substack restacked note |
-| 2025-09-22 | [One of the best articles in recent years. It's about the mass illnesses and deaths followi…](../items/S-c-158351005.md) | Substack restacked note |
+| 2026-05-20 | [One Final Blow: Why Thomas Massie Must Name Epstein’s Accomplices on the House Floor Now](../items/S-p-198444648.md) | Substack note |
+| 2026-09-05 | [One of Professor Francis Boyle's last interviews before being found dead. He called the CO…](../items/S-c-322166507.md) | Substack note |
+| 2025-09-22 | [One of the best articles in recent years. It's about the mass illnesses and deaths followi…](../items/S-c-158351005.md) | Substack note |
 | 2025-07-17 | [One thing matters](../items/S-p-168574681.md) | Substack post |
 | 2025-08-11 | [OneDrive File Album Creation Automation](../items/C-MJM-158.md) | AI chat |
 | 2026-09-03 | [OneNote pricing on PC](../items/C-MM-b1ef5362.md) | AI chat |
@@ -30,7 +30,7 @@
 | 2026-09-09 | [Operation economic outcast effectiveness](../items/C-MM-506c69da.md) | AI chat |
 | 2026-06-10 | [Operation High Jump facts and evidence](../items/C-MM-5b147bad.md) | AI chat |
 | 2026-04-15 | [Opinion on this chat](../items/C-MJM-698.md) | AI chat |
-| 2026-01-18 | [Opinion: Geopolitical Context of the Embattled Climate Racket](../items/S-p-184919765.md) | Substack restacked post |
+| 2026-01-18 | [Opinion: Geopolitical Context of the Embattled Climate Racket](../items/S-p-184919765.md) | Substack note |
 | 2025-11-23 | [Opus - Probability of human complexity without directed design](../items/C-MJM-344.md) | AI chat |
 | 2026-10-03 | [Opus 5.5's rules for avoiding argumentative defaults](../items/C-MJM-803.md) | AI chat |
 | 2026-05-29 | [Opus pattern recognition limitations](../items/C-MM-7db25364.md) | AI chat |

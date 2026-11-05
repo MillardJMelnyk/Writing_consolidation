@@ -53,7 +53,7 @@
 | 2024-09-30 | [How are people who do this your “leaders”?](../items/S-c-70883128.md) | Substack note |
 | 2024-09-30 | [This note is designed to trigger some deeply injected irrationalities so that you, hopeful…](../items/S-c-70872078.md) | Substack note |
 | 2024-09-28 | [Most people would disagree, but they haven’t done the slightest bit of thinking it through…](../items/S-c-70663173.md) | Substack note |
-| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../items/S-c-70060219.md) | Substack restacked note |
+| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../items/S-c-70060219.md) | Substack note |
 | 2024-09-26 | [What turned us into such dipshits that we swear that we need inhuman psychopaths to "lead"…](../items/S-c-70447701.md) | Substack note |
 | 2024-09-26 | [Me neither. I'd even stop at the crushing part. The penalizing part gets me way past no me…](../items/S-c-70444099.md) | Substack note |
 | 2024-09-26 | [Why? Because our upbringing, education, religious training, socialization, and the ongoing…](../items/S-c-70443232.md) | Substack note |

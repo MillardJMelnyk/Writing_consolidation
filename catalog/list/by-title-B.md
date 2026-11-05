@@ -12,7 +12,7 @@
 | 2026-09-27 | [Balance transfer card for high-interest debt](../items/C-MM-903ebe61.md) | AI chat |
 | 2026-10-01 | [Banco Plata credit card interest rate](../items/C-MM-60d1a334.md) | AI chat |
 | 2025-08-27 | [Barley vs Rice: Grain Satiety](../items/C-MJM-228.md) | AI chat |
-| 2026-06-18 | [Because it is vaccinations that are almost always responsible for cancer in young people a…](../items/S-c-276139465.md) | Substack restacked note |
+| 2026-06-18 | [Because it is vaccinations that are almost always responsible for cancer in young people a…](../items/S-c-276139465.md) | Substack note |
 | 2026-10-11 | [Because spiritually, socially, psychologically, culturally, and in every other way that ma…](../items/S-c-358465973.md) | Substack note |
 | 2026-07-28 | [Becoming a professional forex and commodities trader](../items/C-MM-0185e403.md) | AI chat |
 | 2026-01-23 | [Before it was a trickle, last year it was a gush, this year the dyke is going to break.](../items/S-c-203918189.md) | Substack note |
@@ -47,10 +47,10 @@
 | 2026-06-01 | [Bottom line, even anarchists are authority addicts. Codependents, in other words. The secr…](../items/S-c-268821595.md) | Substack note |
 | 2026-06-08 | [BP meaning in archaeological dating](../items/C-MM-f661e1be.md) | AI chat |
 | 2025-09-16 | [Brandon Tatum's social media rise](../items/C-MJM-257.md) | AI chat |
-| 2025-11-10 | [BREAKING: 86% of PCR-Positive “COVID Cases” Were Not Real Infections](../items/S-p-178318689.md) | Substack restacked post |
-| 2025-11-12 | [BREAKING: Bombshell Emails Released Showing Trump KNEW About Epstein's Conduct](../items/S-p-178686146.md) | Substack restacked post |
-| 2026-02-09 | [Breaking: I am going to the court in Amsterdam on March 9. Press conference same day.](../items/S-p-187260546.md) | Substack restacked post |
-| 2026-07-03 | [Breaking: Pfizer's $43B purchase of Seagen which was advertised as a great plan to cure ca…](../items/S-c-282738357.md) | Substack restacked note |
+| 2025-11-10 | [BREAKING: 86% of PCR-Positive “COVID Cases” Were Not Real Infections](../items/S-p-178318689.md) | Substack note |
+| 2025-11-12 | [BREAKING: Bombshell Emails Released Showing Trump KNEW About Epstein's Conduct](../items/S-p-178686146.md) | Substack note |
+| 2026-02-09 | [Breaking: I am going to the court in Amsterdam on March 9. Press conference same day.](../items/S-p-187260546.md) | Substack note |
+| 2026-07-03 | [Breaking: Pfizer's $43B purchase of Seagen which was advertised as a great plan to cure ca…](../items/S-c-282738357.md) | Substack note |
 | 2026-01-21 | [Brett Weinstein's stance on COVID vaccines](../items/C-MJM-613.md) | AI chat |
 | 2025-12-05 | [Brief bios for alternative economy thinkers](../items/C-MJM-407.md) | AI chat |
 | 2026-10-07 | [Brief explanation request](../items/C-MM-47803179.md) | AI chat |

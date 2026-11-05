@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../../items/S-c-119358659.md) | Substack restacked note |
+| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../../items/S-c-119358659.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../../items/S-c-119358659.md) | Substack restacked note |
+| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../../items/S-c-119358659.md) | Substack note |

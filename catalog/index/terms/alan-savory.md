@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../../items/S-c-169646454.md) | Substack restacked note |
+| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../../items/S-c-169646454.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../../items/S-c-169646454.md) | Substack restacked note |
+| 2025-10-29 | [PEER REVIEW Alan Savory describing the absurdity of the Peer Review process the fact that …](../../items/S-c-169646454.md) | Substack note |

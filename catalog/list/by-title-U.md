@@ -14,7 +14,7 @@
 | 2026-05-28 | [Unclear query](../items/C-MM-98a09778.md) | AI chat |
 | 2026-10-27 | [Unclear request](../items/C-MM-0c90093f.md) | AI chat |
 | 2025-08-10 | [Uncompromising Truth-Telling](../items/C-MJM-150.md) | AI chat |
-| 2026-09-22 | [Under Attack](../items/S-p-216829224.md) | Substack restacked post |
+| 2026-09-22 | [Under Attack](../items/S-p-216829224.md) | Substack note |
 | 2026-06-04 | [Understanding "based" slang](../items/C-MM-1c935dc6.md) | AI chat |
 | 2026-10-16 | [Understanding binomials](../items/C-MM-623c5f58.md) | AI chat |
 | 2026-10-19 | [Understanding euphemisms](../items/C-MM-72421810.md) | AI chat |
@@ -33,7 +33,7 @@
 | 2025-07-06 | [Unknown Sender Identification](../items/C-MJM-066.md) | AI chat |
 | 2025-06-19 | [Unknown Sender Identity](../items/C-MJM-042.md) | AI chat |
 | 2026-09-24 | [Unnamed boy in Gethsemane](../items/C-MM-eabd2063.md) | AI chat |
-| 2025-10-23 | ['UNTHINKABLE TRAGEDY: Toddler Twins DIED TOGETHER Following Vaccinations On May 1, Dallas and Tyson, fraternal 18-month-old twins, were found dead by their mother after receiving the Hepatitis A, flu](../items/S-p-176560185.md) | Substack restacked post |
+| 2025-10-23 | ['UNTHINKABLE TRAGEDY: Toddler Twins DIED TOGETHER Following Vaccinations On May 1, Dallas and Tyson, fraternal 18-month-old twins, were found dead by their mother after receiving the Hepatitis A, flu](../items/S-p-176560185.md) | Substack note |
 | 2025-07-28 | [Untitled](../items/C-MJM-119.md) | AI chat |
 | 2025-08-19 | [Untitled](../items/C-MJM-188.md) | AI chat |
 | 2025-08-20 | [Untitled](../items/C-MJM-197.md) | AI chat |
@@ -49,8 +49,8 @@
 | 2026-09-30 | [Unusual limit notification received](../items/C-MM-198fa646.md) | AI chat |
 | 2026-08-10 | [Unwinding thread from spool](../items/C-MM-0e2ba633.md) | AI chat |
 | 2025-06-05 | [Unwitnessed Suffering](../items/C-MJM-028.md) | AI chat |
-| 2026-07-15 | [Update: an interim FDA response on the Citizen Petition to revoke Pfizer and Moderna mRNA vaccines Biologics Licensing Approval (BLA).](../items/S-p-206715723.md) | Substack restacked post |
-| 2026-08-05 | [Update: The investigation of the Met Police (London, UK) suppressing citizens' criminal complaints in 2021.](../items/S-p-209327302.md) | Substack restacked post |
+| 2026-07-15 | [Update: an interim FDA response on the Citizen Petition to revoke Pfizer and Moderna mRNA vaccines Biologics Licensing Approval (BLA).](../items/S-p-206715723.md) | Substack note |
+| 2026-08-05 | [Update: The investigation of the Met Police (London, UK) suppressing citizens' criminal complaints in 2021.](../items/S-p-209327302.md) | Substack note |
 | 2025-08-22 | [URL Parameter Syntax](../items/C-MJM-204.md) | AI chat |
 | 2025-12-10 | [Ursula Le Guin's philosophical foundations](../items/C-MJM-437.md) | AI chat |
 | 2025-08-09 | [US Divorce Rates Historical Trends](../items/C-MJM-144.md) | AI chat |

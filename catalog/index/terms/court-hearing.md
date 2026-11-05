@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-02 | [Announcement: Heading to the court hearing in the Netherlands on October 22, 2026.](../../items/S-p-218521674.md) | Substack restacked post |
+| 2026-10-02 | [Announcement: Heading to the court hearing in the Netherlands on October 22, 2026.](../../items/S-p-218521674.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-02 | [Announcement: Heading to the court hearing in the Netherlands on October 22, 2026.](../../items/S-p-218521674.md) | Substack restacked post |
+| 2026-10-02 | [Announcement: Heading to the court hearing in the Netherlands on October 22, 2026.](../../items/S-p-218521674.md) | Substack note |

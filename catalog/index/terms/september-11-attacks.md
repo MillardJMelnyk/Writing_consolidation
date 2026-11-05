@@ -10,7 +10,7 @@
 |---|---|---|
 | 2025-12-03 | [Finding a quote attribution and source](../../items/C-MJM-398.md) | AI chat |
 | 2025-11-07 | [“100% certain” <https://x.com/JOKAQARMY1/status/1986479593335726480?t=8HIlKSP0x-WdQYz7L8XM…](../../items/S-c-174798971.md) | Substack note |
-| 2025-09-19 | [The road from 911 to Charlie Kirk](../../items/S-p-173970437.md) | Substack restacked post |
+| 2025-09-19 | [The road from 911 to Charlie Kirk](../../items/S-p-173970437.md) | Substack note |
 | 2025-08-10 | [Nails it](../../items/S-c-144089254.md) | Substack note |
 
 ## By title
@@ -20,4 +20,4 @@
 | 2025-11-07 | [“100% certain” <https://x.com/JOKAQARMY1/status/1986479593335726480?t=8HIlKSP0x-WdQYz7L8XM…](../../items/S-c-174798971.md) | Substack note |
 | 2025-12-03 | [Finding a quote attribution and source](../../items/C-MJM-398.md) | AI chat |
 | 2025-08-10 | [Nails it](../../items/S-c-144089254.md) | Substack note |
-| 2025-09-19 | [The road from 911 to Charlie Kirk](../../items/S-p-173970437.md) | Substack restacked post |
+| 2025-09-19 | [The road from 911 to Charlie Kirk](../../items/S-p-173970437.md) | Substack note |

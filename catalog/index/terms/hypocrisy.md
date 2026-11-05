@@ -10,7 +10,7 @@
 |---|---|---|
 | 2026-09-05 | [Explain to me how words on a page constitute "protections". After showing footage that loo…](../../items/S-c-330337292.md) | Substack note |
 | 2026-05-31 | [If you fixed your psychological FUBAR, you wouldn't need rules to make you look good. That…](../../items/S-c-268265297.md) | Substack note |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../../items/S-c-249686813.md) | Substack note |
 | 2026-05-06 | [(no text)](../../items/S-c-254857611.md) | Substack note |
 | 2026-04-06 | [What should we do to psychotics committing heinous crimes against humanity? Take them the …](../../items/S-c-239208695.md) | Substack note |
 | 2025-12-09 | [<https://claude.ai/share/f804cf50-f148-40a2-9149-e236fe853cd9 I got curious. What is this …](../../items/S-c-185930438.md) | Substack note |
@@ -38,6 +38,6 @@
 | 2026-05-06 | [(no text)](../../items/S-c-254857611.md) | Substack note |
 | 2025-07-03 | [(no text)](../../items/S-c-131749398.md) | Substack note |
 | 2025-05-28 | [The Hypocrisy of Morality](../../items/C-MJM-003.md) | AI chat |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../../items/S-c-249686813.md) | Substack note |
 | 2025-08-30 | [What do you know when you hear someone say "Human Rights"? 1. Masses of human beings, some…](../../items/S-c-150665886.md) | Substack note |
 | 2026-04-06 | [What should we do to psychotics committing heinous crimes against humanity? Take them the …](../../items/S-c-239208695.md) | Substack note |

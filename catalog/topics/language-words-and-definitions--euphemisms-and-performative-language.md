@@ -24,7 +24,7 @@
 | 2026-06-11 | [The human sacrifice of the Aztecs and Incas have nothing on us. This is the world you now …](../items/S-c-274532448.md) | Substack note |
 | 2026-05-26 | [There is no honor in military service. There is no honor in terrorizing and killing people…](../items/S-c-265418770.md) | Substack note |
 | 2026-05-18 | [<https://www.facebook.com/share/p/1E7Jx1k1Vu/ "Orgy of antisemitism". I'm not saying there…](../items/S-c-261009362.md) | Substack note |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack note |
 | 2026-01-09 | [S-words in religious and military language](../items/C-MJM-573.md) | AI chat |
 | 2025-12-30 | [Hasbará as systematic discourse management](../items/C-MJM-548.md) | AI chat |
 | 2025-12-11 | [Performative arguments and their purpose](../items/C-MJM-443.md) | AI chat |
@@ -90,6 +90,6 @@
 | 2026-10-14 | [Thought-terminating clichés as performative judgment](../items/C-MM-24ed7721.md) | AI chat |
 | 2026-10-19 | [Understanding euphemisms](../items/C-MM-72421810.md) | AI chat |
 | 2025-09-25 | [Watch this and ask yourself: To whom do the distinctions between mass murder, ethnic clean…](../items/S-c-159779770.md) | Substack note |
-| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack restacked note |
+| 2026-05-08 | [Western officials are like "Violence has no place in our society bombs a school. We've all…](../items/S-c-249686813.md) | Substack note |
 | 2025-10-15 | [Which makes the people that use the epithet, what? Cultists.](../items/S-c-166720367.md) | Substack note |
 | 2025-05-31 | [Why the fuck not? The top 4 answers to that question, de-euphemized, are: 1. It’s differen…](../items/S-c-121737574.md) | Substack note |

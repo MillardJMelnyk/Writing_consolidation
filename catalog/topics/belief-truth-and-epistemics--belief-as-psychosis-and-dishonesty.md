@@ -8,7 +8,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack note |
 | 2026-09-28 | [// When you accept a particular ideology as the absolute truth and become so devoted to it…](../items/S-c-348187056.md) | Substack note |
 | 2026-08-31 | [(no text)](../items/S-c-326641627.md) | Substack note |
 | 2026-08-29 | [Your cult belief in the sacredness of medical science is wildly baseless. To the tune of 3…](../items/S-c-325492726.md) | Substack note |
@@ -59,7 +59,7 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-04-06 | [99 out of 100 people I hear using "cognitive dissonance" have not a fucking clue what it i…](../items/S-c-239202844.md) | Substack note |
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack note |
 | 2025-09-16 | [Also known as "bullshit", "pigshit", "horseshit", and just plain old "shit" as in, "You're…](../items/S-c-156644015.md) | Substack note |
 | 2024-09-14 | [Before you object, check where your objections come from. Do you know I'm wrong (facts and…](../items/S-c-69003277.md) | Substack note |
 | 2025-12-05 | [Belief - really](../items/C-MJM-410.md) | AI chat |

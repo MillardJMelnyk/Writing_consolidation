@@ -8,7 +8,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-14 | [(no text)](../../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../../items/S-c-339423743.md) | Substack note |
 | 2025-06-02 | [Gaddafi's Historical Legacy Reassessed](../../items/C-MJM-023.md) | AI chat |
 
 ## By title
@@ -16,4 +16,4 @@
 | Date | Title | Type |
 |---|---|---|
 | 2025-06-02 | [Gaddafi's Historical Legacy Reassessed](../../items/C-MJM-023.md) | AI chat |
-| 2026-10-14 | [(no text)](../../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../../items/S-c-339423743.md) | Substack note |

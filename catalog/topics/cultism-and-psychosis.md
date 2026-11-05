@@ -26,7 +26,7 @@
 | 2026-10-26 | [At base, psychosis is a disconnection from reality. The normal mental/emotional/sensory pr…](../items/S-c-370865072.md) | Substack note |
 | 2026-10-26 | [Everything app PNG preview issue](../items/C-MJM-819.md) | AI chat |
 | 2026-10-21 | [Cultism continues to be the most unacknowledged pandemic in human history. Cultism is as c…](../items/S-c-366935457.md) | Substack note |
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack note |
 | 2026-10-18 | [Codependence as the foundation of cultism](../items/C-MJM-811.md) | AI chat |
 | 2026-10-18 | [Codependence Essay - assemble content and write essay](../items/C-MM-4c58ed38.md) | AI chat |
 | 2026-10-17 | [Law as narrative without causal power](../items/C-MM-1fd042d6.md) | AI chat |
@@ -66,7 +66,7 @@
 | 2026-08-17 | [Deconstructing cultism comprehensively](../items/C-MM-cec6b93d.md) | AI chat |
 | 2026-08-15 | [There is no doubt that light and exposure will win in the end, as certain as gravity or an…](../items/S-c-315583679.md) | Substack note |
 | 2026-08-12 | [Critiquing a binary worldview](../items/C-MM-2b2309eb.md) | AI chat |
-| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../items/S-c-306624029.md) | Substack restacked note |
+| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../items/S-c-306624029.md) | Substack note |
 | 2026-08-08 | [Colonial era cultism in northeastern US valleys](../items/C-MJM-730.md) | AI chat |
 | 2026-07-31 | [So think a minute how psychotic a person has to be to use "just following orders" or "just…](../items/S-c-305443764.md) | Substack note |
 | 2026-07-30 | [ANTI-SEMITE! Oh yeah? Where's your evidence? ANTI-SCIENCE! Oh yeah? Where's your evidence?…](../items/S-c-304673563.md) | Substack note |
@@ -94,7 +94,7 @@
 | 2026-05-28 | [Psychos](../items/S-p-199628864.md) | Substack post |
 | 2026-05-26 | [There is no honor in military service. There is no honor in terrorizing and killing people…](../items/S-c-265418770.md) | Substack note |
 | 2026-05-23 | [It's all been a PSYOP. All of it. It's gone so far, even people like me who know what it i…](../items/S-c-263902408.md) | Substack note |
-| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack restacked post |
+| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack note |
 | 2026-05-16 | [Beliefs are of the devil. Not certain beliefs. Believing itself. There is only one kind of…](../items/S-c-260119887.md) | Substack note |
 | 2026-05-16 | [Evaluating Grok's responses on Polycarp and Gnosticism](../items/C-MM-8179fe55.md) | AI chat |
 | 2026-05-13 | [Your opinions on this don't matter. Your opinions have no bearing on the truth. Why? Becau…](../items/S-c-258566544.md) | Substack note |
@@ -158,7 +158,7 @@
 | 2025-09-22 | [Social institutions and glorified rituals](../items/C-MJM-273.md) | AI chat |
 | 2025-09-21 | [How many people who truly think freely do you know? How many will stick to the truth and r…](../items/S-c-158436636.md) | Substack note |
 | 2025-09-21 | [What would your reaction have been to this meme 10 years ago? Or even just 5 years ago? Th…](../items/S-c-158434948.md) | Substack note |
-| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack restacked post |
+| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack note |
 | 2025-09-21 | [The shitshow that has been made out of the Charlie Kirk murder is, straight up, an orgy of…](../items/S-c-158329036.md) | Substack note |
 | 2025-09-20 | [Dogmas and identity traps](../items/C-MJM-269.md) | AI chat |
 | 2025-09-19 | [Authoritarian narrative psychology](../items/C-MJM-266.md) | AI chat |
@@ -253,7 +253,7 @@
 | 2026-10-12 | [Abstract nature of political entities and borders](../items/C-MM-155d18c2.md) | AI chat |
 | 2025-01-16 | [After 15 years participating in a cult and the following 30 years researching, investigati…](../items/S-c-86449734.md) | Substack note |
 | 2026-09-23 | [All of you Zionists are not only liars and supremacists, you're fucking psychotic. Delusio…](../items/S-c-344284199.md) | Substack note |
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack note |
 | 2025-09-16 | [Also known as "bullshit", "pigshit", "horseshit", and just plain old "shit" as in, "You're…](../items/S-c-156644015.md) | Substack note |
 | 2026-08-29 | [Analyzing COVID-19 vaccination fact check logic](../items/C-MM-e36d6dee.md) | AI chat |
 | 2026-03-27 | [Anarchists who rejected government legitimacy](../items/C-MJM-693.md) | AI chat |
@@ -327,13 +327,13 @@
 | 2025-11-11 | [I just love that so many people are doing their own research. I don't know if you've seen …](../items/S-c-176058234.md) | Substack note |
 | 2025-07-22 | [I never thought much of this guy, but he got this fucking right.](../items/S-c-137644774.md) | Substack note |
 | 2026-08-29 | [I relate, in one way… But he’s totally missing the point. An "American" is nothing if not …](../items/S-c-325403881.md) | Substack note |
-| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack restacked post |
+| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack note |
 | 2025-08-02 | [I'm more open to wild ideas than most, but even just 3 or 4 years ago, you'd never have co…](../items/S-c-141506977.md) | Substack note |
 | 2025-11-01 | [I've been working on this a long time. I'm satisfied. It's incontrovertible. ALL BELIEF IS…](../items/S-c-172513200.md) | Substack note |
 | 2025-08-12 | [If it isn't content-independent (Joseph Raz), it’s not a law. So, not only do all laws but…](../items/S-c-144682351.md) | Substack note |
 | 2026-10-04 | [If they lied to you about this, then why the fuck would you still believe they wouldn't li…](../items/S-c-352998828.md) | Substack note |
 | 2024-11-23 | [If you "support" Israel, you are a fucking evil, violence-crazed, genocide-loving, idiot c…](../items/S-c-78559453.md) | Substack note |
-| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack restacked post |
+| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack note |
 | 2026-04-06 | [In every case I've ever seen, the reason why murderous violence "make sense" to people is …](../items/S-c-239261895.md) | Substack note |
 | 2024-11-19 | [In other words, “believers” whose psycho-spiritual development has been arrested and now i…](../items/S-c-77908227.md) | Substack note |
 | 2025-12-07 | [In which I show that the idea that domination is inherent to "human nature" is itself a sy…](../items/S-c-185248865.md) | Substack note |
@@ -449,7 +449,7 @@
 | 2025-08-16 | [UN Rights Declaration: Systemic Hypocrisy](../items/C-MJM-179.md) | AI chat |
 | 2025-09-03 | [Universal Psychological Normalization](../items/C-MJM-238.md) | AI chat |
 | 2026-09-30 | [Unusual limit notification received](../items/C-MM-198fa646.md) | AI chat |
-| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../items/S-c-306624029.md) | Substack restacked note |
+| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../items/S-c-306624029.md) | Substack note |
 | 2026-10-01 | [Vaccine harm versus speculative benefits](../items/C-MM-3ccd9369.md) | AI chat |
 | 2025-11-03 | [Veils. Moses covered his face with a veil so that people couldn't see the glory was fading…](../items/S-c-173180236.md) | Substack note |
 | 2024-10-05 | [Very few people actually understand what cults and cultists actually are. They’re not what…](../items/S-c-71515075.md) | Substack note |

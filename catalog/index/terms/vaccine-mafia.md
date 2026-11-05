@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-09-25 | [The disastrous takeover of “public health” by the military-industrial complex.](../../items/S-p-196240955.md) | Substack restacked post |
+| 2026-09-25 | [The disastrous takeover of “public health” by the military-industrial complex.](../../items/S-p-196240955.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-09-25 | [The disastrous takeover of “public health” by the military-industrial complex.](../../items/S-p-196240955.md) | Substack restacked post |
+| 2026-09-25 | [The disastrous takeover of “public health” by the military-industrial complex.](../../items/S-p-196240955.md) | Substack note |

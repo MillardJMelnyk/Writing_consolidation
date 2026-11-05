@@ -79,7 +79,7 @@
 | 2026-05-27 | [Origins of property according to its critics](../items/C-MM-c6f6af55.md) | AI chat |
 | 2026-05-23 | [It's all been a PSYOP. All of it. It's gone so far, even people like me who know what it i…](../items/S-c-263902408.md) | Substack note |
 | 2026-05-15 | [What defines a Kurd](../items/C-MM-da931042.md) | AI chat |
-| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack restacked note |
+| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack note |
 | 2026-04-10 | [Wow. All those years of "history" classes boiled down to less than 5 minutes. The differen…](../items/S-c-241416552.md) | Substack note |
 | 2026-04-10 | [Flanders Field white crosses](../items/C-MM-70c8a54d.md) | AI chat |
 | 2026-04-07 | [Beside the stupendous idiocy of calling the very people you're threatening to exterminate …](../items/S-c-239676453.md) | Substack note |
@@ -117,7 +117,7 @@
 | 2025-11-21 | [CIA's most scandalous programs ranked](../items/C-MJM-332.md) | AI chat |
 | 2025-11-14 | [Religious violence: Christianity vs Islam historical comparison](../items/C-MJM-309.md) | AI chat |
 | 2025-11-10 | [Rand saw what was going on, even though her alternatives/solutions sucked dick.](../items/S-c-175624330.md) | Substack note |
-| 2025-10-29 | [Why The Covid Pandemic Warrants A Holocaust Comparison](../items/S-p-48135874.md) | Substack restacked post |
+| 2025-10-29 | [Why The Covid Pandemic Warrants A Holocaust Comparison](../items/S-p-48135874.md) | Substack note |
 | 2025-10-26 | [The inane idea that "America" has ever been about freedom is one of the biggest cultic, tr…](../items/S-c-170406100.md) | Substack note |
 | 2025-10-15 | [1. I'd disagree, not that humans \\would be good\\ (as if the only factors involved are ci…](../items/S-c-166773045.md) | Substack note |
 | 2025-10-15 | [Loved this right up to the close. Excellent piece. Yes, there will be a final revolution, …](../items/S-c-166646066.md) | Substack note |
@@ -256,7 +256,7 @@
 | 2026-08-28 | [Honor and violence across cultures](../items/C-MM-5731a247.md) | AI chat |
 | 2026-10-16 | [Hypothetical threat analysis](../items/C-MM-da4675f1.md) | AI chat |
 | 2024-12-08 | [I absolutely disagree on this one. Killing their young has been the HALLMARK of every sing…](../items/S-c-80648021.md) | Substack note |
-| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack restacked note |
+| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack note |
 | 2025-07-29 | [I see. So his argument--once he's done with shameless self-promotion--is that Zionist colo…](../items/S-c-140099634.md) | Substack note |
 | 2025-08-30 | [I'm wondering why this says "unrecognized" instead of "dissolved". Give the land back to t…](../items/S-c-150715539.md) | Substack note |
 | 2026-08-21 | [Identity clarification](../items/C-MM-9d53efc7.md) | AI chat |
@@ -356,7 +356,7 @@
 | 2024-10-04 | [Well worth your time. I watched the one on the Zapatistas (4). I'd really like to go live …](../items/S-c-71378711.md) | Substack note |
 | 2026-05-15 | [What defines a Kurd](../items/C-MM-da931042.md) | AI chat |
 | 2026-01-08 | [When did human civilization actually begin?](../items/C-MJM-569.md) | AI chat |
-| 2025-10-29 | [Why The Covid Pandemic Warrants A Holocaust Comparison](../items/S-p-48135874.md) | Substack restacked post |
+| 2025-10-29 | [Why The Covid Pandemic Warrants A Holocaust Comparison](../items/S-p-48135874.md) | Substack note |
 | 2025-08-23 | [Worst European War Before 1900](../items/C-MJM-216.md) | AI chat |
 | 2026-04-10 | [Wow. All those years of "history" classes boiled down to less than 5 minutes. The differen…](../items/S-c-241416552.md) | Substack note |
 | 2026-01-19 | [Yes, we're on the same page, except religion isn't the problem. It's a symptom. It's the \…](../items/S-c-202009780.md) | Substack note |

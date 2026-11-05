@@ -8,7 +8,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-20 | [Why Tolerate Medical Fraud?](../../items/S-p-221063932.md) | Substack restacked post |
+| 2026-10-20 | [Why Tolerate Medical Fraud?](../../items/S-p-221063932.md) | Substack note |
 | 2026-01-19 | [Sertraline safety during pregnancy](../../items/C-MJM-603.md) | AI chat |
 | 2025-12-26 | [Valerian root safety during pregnancy](../../items/C-MJM-530.md) | AI chat |
 
@@ -18,4 +18,4 @@
 |---|---|---|
 | 2026-01-19 | [Sertraline safety during pregnancy](../../items/C-MJM-603.md) | AI chat |
 | 2025-12-26 | [Valerian root safety during pregnancy](../../items/C-MJM-530.md) | AI chat |
-| 2026-10-20 | [Why Tolerate Medical Fraud?](../../items/S-p-221063932.md) | Substack restacked post |
+| 2026-10-20 | [Why Tolerate Medical Fraud?](../../items/S-p-221063932.md) | Substack note |

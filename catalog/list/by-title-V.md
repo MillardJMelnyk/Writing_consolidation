@@ -6,15 +6,15 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-03 | [Vaccination Campaigns and Coverage Prior to 1930.](../items/S-p-198494607.md) | Substack restacked post |
-| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../items/S-c-306624029.md) | Substack restacked note |
+| 2026-06-03 | [Vaccination Campaigns and Coverage Prior to 1930.](../items/S-p-198494607.md) | Substack note |
+| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../items/S-c-306624029.md) | Substack note |
 | 2025-08-12 | [Vaccine Clinical Trial Standards](../items/C-MJM-160.md) | AI chat |
 | 2025-11-26 | [Vaccine court SIDS ruling on encephalopathy](../items/C-MJM-363.md) | AI chat |
 | 2026-10-01 | [Vaccine harm versus speculative benefits](../items/C-MM-3ccd9369.md) | AI chat |
 | 2026-08-21 | [Vaccine production and distribution regulation](../items/C-MM-6e2c3392.md) | AI chat |
 | 2025-12-27 | [Vaccine safety trial claims contested at Senate hearing](../items/C-MJM-536.md) | AI chat |
 | 2025-08-13 | [Vaccine Skeptics and Gun Policy Views](../items/C-MJM-167.md) | AI chat |
-| 2026-08-10 | [Vaccines Induce Autism, Encephalopathy, and Neuropathy in Primates, and Other Lab Animals.](../items/S-p-209261951.md) | Substack restacked post |
+| 2026-08-10 | [Vaccines Induce Autism, Encephalopathy, and Neuropathy in Primates, and Other Lab Animals.](../items/S-p-209261951.md) | Substack note |
 | 2025-12-26 | [Valerian root safety during pregnancy](../items/C-MJM-530.md) | AI chat |
 | 2025-11-29 | [Vance's actual statement](../items/C-MJM-379.md) | AI chat |
 | 2026-09-05 | [VaXXX cultists continue to deny and erase these people and their stories… at the cost of t…](../items/S-c-330317774.md) | Substack note |

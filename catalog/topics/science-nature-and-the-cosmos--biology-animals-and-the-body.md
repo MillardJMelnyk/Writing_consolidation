@@ -19,7 +19,7 @@
 | 2026-09-28 | [Spider identification](../items/C-MM-c21b24ae.md) | AI chat |
 | 2026-08-27 | [Companion planting for tomatoes](../items/C-MM-e357a2eb.md) | AI chat |
 | 2026-06-25 | [The funny bone nerve explained](../items/C-MM-56d046bb.md) | AI chat |
-| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../items/S-c-264699275.md) | Substack restacked note |
+| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../items/S-c-264699275.md) | Substack note |
 | 2026-05-30 | [Hoof and mouth disease severity](../items/C-MM-5a385a91.md) | AI chat |
 | 2026-05-25 | [Organic vs toxic arsenic](../items/C-MM-543c4d31.md) | AI chat |
 | 2026-02-03 | [Global health rankings by population wellness](../items/C-MJM-636.md) | AI chat |
@@ -50,7 +50,7 @@
 | 2025-10-12 | [Grace and the normalized narcissism of “discovery”](../items/S-p-175984702.md) | Substack post |
 | 2025-07-27 | [Handwriting and Brain Memory](../items/C-MJM-110.md) | AI chat |
 | 2026-05-30 | [Hoof and mouth disease severity](../items/C-MM-5a385a91.md) | AI chat |
-| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../items/S-c-264699275.md) | Substack restacked note |
+| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../items/S-c-264699275.md) | Substack note |
 | 2026-10-27 | [Image identification request](../items/C-MM-7f8f5439.md) | AI chat |
 | 2026-10-16 | [Living permanently in Panama as a US citizen](../items/C-MM-21f74416.md) | AI chat |
 | 2025-12-20 | [Major uses for hemp](../items/C-MJM-492.md) | AI chat |

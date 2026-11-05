@@ -23,7 +23,7 @@
 | 2026-09-05 | [HDMI connection not displaying on TV](../items/C-MM-0f3b02b0.md) | AI chat |
 | 2025-07-21 | [He's not speaking metaphorically. Literal criminals -- and not just as defined by "law". C…](../items/S-c-137450204.md) | Substack note |
 | 2026-01-19 | [He's talking about a cult. A violent, violence-loving cult. The peaceniks are fucking hypo…](../items/S-c-201938359.md) | Substack note |
-| 2026-05-26 | [Healthcare Is the #1 Cause of Death — and It’s Not Even Close](../items/S-p-198716188.md) | Substack restacked post |
+| 2026-05-26 | [Healthcare Is the #1 Cause of Death — and It’s Not Even Close](../items/S-p-198716188.md) | Substack note |
 | 2026-09-08 | [Hear, hear! At this point, “antisemitism” has become every bit as meaningful as any other …](../items/S-c-332681095.md) | Substack note |
 | 2025-07-20 | [Heart's Deception: Biblical Perspectives](../items/C-MJM-089.md) | AI chat |
 | 2026-08-15 | [Hebrew word for "Lord" in Proverbs 16:9](../items/C-MM-077bc189.md) | AI chat |
@@ -52,7 +52,7 @@
 | 2025-11-23 | [Honor Magic V5 ranking comparison](../items/C-MJM-342.md) | AI chat |
 | 2026-05-30 | [Hoof and mouth disease severity](../items/C-MM-5a385a91.md) | AI chat |
 | 2025-12-14 | [Horrendous evils and the goodness of God author](../items/C-MJM-459.md) | AI chat |
-| 2026-06-09 | [Hospitals Took Bribes to Kill You and Blame It on COVID](../items/S-p-200128464.md) | Substack restacked post |
+| 2026-06-09 | [Hospitals Took Bribes to Kill You and Blame It on COVID](../items/S-p-200128464.md) | Substack note |
 | 2026-09-07 | [House contract review and analysis](../items/C-MM-323abca5.md) | AI chat |
 | 2025-12-12 | [House rental contracts in Queretaro](../items/C-MJM-445.md) | AI chat |
 | 2026-09-09 | [House rental deposit requirements in Querétaro](../items/C-MM-1a86de1d.md) | AI chat |
@@ -60,7 +60,7 @@
 | 2026-10-28 | [How can an otherwise apparently intelligent person get it so radically, momentously backwa…](../items/S-c-372785258.md) | Substack note |
 | 2025-07-15 | [How can you know this and say, "It's the leaders! It's the IDF! It's the government! It's …](../items/S-c-135669881.md) | Substack note |
 | 2025-11-03 | [How deep do the rabbit holes go? Well, pretty fucking hard to answer that one if you refus…](../items/S-c-173157925.md) | Substack note |
-| 2026-04-20 | [How does a four- to five-fold increase in autism risk from vaccines today lead to a 323-fold increase in prevalence over the last 52 years?](../items/S-p-186934758.md) | Substack restacked post |
+| 2026-04-20 | [How does a four- to five-fold increase in autism risk from vaccines today lead to a 323-fold increase in prevalence over the last 52 years?](../items/S-p-186934758.md) | Substack note |
 | 2025-12-21 | [How is this not psychotic?](../items/S-c-190366116.md) | Substack note |
 | 2026-04-06 | [How long will you keep letting psychotic, inhuman rejects occupy positions where they come…](../items/S-c-239191988.md) | Substack note |
 | 2025-09-21 | [How many people who truly think freely do you know? How many will stick to the truth and r…](../items/S-c-158436636.md) | Substack note |
@@ -70,9 +70,9 @@
 | 2025-05-28 | [<https://claude.ai/share/601dcfb6-7691-4ad4-9d26-202592b9ea22 The strength and rationality…](../items/S-c-120879902.md) | Substack note |
 | 2025-12-09 | [<https://claude.ai/share/f804cf50-f148-40a2-9149-e236fe853cd9 I got curious. What is this …](../items/S-c-185930438.md) | Substack note |
 | 2026-05-13 | [<https://denisrancourt.substack.com/p/eight-pivotal-facts-about-covid-period](../items/S-c-258582451.md) | Substack note |
-| 2025-11-16 | [<https://drwojakmd.substack.com/p/pharma-is-organized-crime?r=5dxsrn&utmcampaign=post&utmm…](../items/S-c-177590409.md) | Substack restacked note |
-| 2025-10-29 | [<https://drwojakmd.substack.com/p/vaccines-kill-babies-sids-is-the](../items/S-c-163469125.md) | Substack restacked note |
-| 2025-11-10 | [<https://drwojakmd.substack.com/p/vaccines-protected-by-law-not-science?r=5dxsrn&utmcampai…](../items/S-c-174667478.md) | Substack restacked note |
+| 2025-11-16 | [<https://drwojakmd.substack.com/p/pharma-is-organized-crime?r=5dxsrn&utmcampaign=post&utmm…](../items/S-c-177590409.md) | Substack note |
+| 2025-10-29 | [<https://drwojakmd.substack.com/p/vaccines-kill-babies-sids-is-the](../items/S-c-163469125.md) | Substack note |
+| 2025-11-10 | [<https://drwojakmd.substack.com/p/vaccines-protected-by-law-not-science?r=5dxsrn&utmcampai…](../items/S-c-174667478.md) | Substack note |
 | 2026-05-13 | [<https://dutytodisobeyfilm.com/](../items/S-c-258597504.md) | Substack note |
 | 2026-05-06 | [<https://dzyk.substack.com/p/zionism-is-decolonization/comment/254444655?utmsource=share&u…](../items/S-c-254445250.md) | Substack note |
 | 2025-11-04 | [<https://lionessofjudah.substack.com/p/horror-canada-is-upping-its-killing](../items/S-c-173573103.md) | Substack note |

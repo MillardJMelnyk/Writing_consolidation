@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-09-22 | [Under Attack](../../items/S-p-216829224.md) | Substack restacked post |
+| 2026-09-22 | [Under Attack](../../items/S-p-216829224.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-09-22 | [Under Attack](../../items/S-p-216829224.md) | Substack restacked post |
+| 2026-09-22 | [Under Attack](../../items/S-p-216829224.md) | Substack note |

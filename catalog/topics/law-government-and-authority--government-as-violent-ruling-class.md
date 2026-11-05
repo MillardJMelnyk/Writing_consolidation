@@ -45,7 +45,7 @@
 | 2025-08-14 | [All right, now we're beginning to say something… The quickest way to destroy an extortion …](../items/S-c-145476747.md) | Substack note |
 | 2025-08-13 | [(no text)](../items/S-c-145034057.md) | Substack note |
 | 2025-08-12 | [Step by step, you're just sitting there, watching the jackboots march us right into tyrann…](../items/S-c-144779142.md) | Substack note |
-| 2025-08-09 | [(no text)](../items/S-c-139662913.md) | Substack restacked note |
+| 2025-08-09 | [(no text)](../items/S-c-139662913.md) | Substack note |
 | 2025-07-31 | [I’m not sure what it will take for people to stop it with the inane idea that Trump is the…](../items/S-c-140874986.md) | Substack note |
 | 2025-07-27 | [Law, Power, and Systemic Hypocrisy](../items/C-MJM-108.md) | AI chat |
 | 2025-07-23 | [Government's Fundamental Operating Principle](../items/C-MJM-096.md) | AI chat |
@@ -115,7 +115,7 @@
 | 2025-10-10 | [(no text)](../items/S-c-164996675.md) | Substack note |
 | 2025-10-09 | [(no text)](../items/S-c-164696105.md) | Substack note |
 | 2025-08-13 | [(no text)](../items/S-c-145034057.md) | Substack note |
-| 2025-08-09 | [(no text)](../items/S-c-139662913.md) | Substack restacked note |
+| 2025-08-09 | [(no text)](../items/S-c-139662913.md) | Substack note |
 | 2025-07-20 | [(no text)](../items/S-c-137236428.md) | Substack note |
 | 2025-07-15 | [(no text)](../items/S-c-135535819.md) | Substack note |
 | 2025-07-05 | [(no text)](../items/S-c-132393438.md) | Substack note |

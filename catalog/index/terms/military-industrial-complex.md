@@ -8,12 +8,12 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-17 | [Military-Industrial Complex Assures Investors That Wars Will Be Endless, And Other Notes](../../items/S-p-220842792.md) | Substack restacked post |
-| 2026-09-25 | [The disastrous takeover of “public health” by the military-industrial complex.](../../items/S-p-196240955.md) | Substack restacked post |
+| 2026-10-17 | [Military-Industrial Complex Assures Investors That Wars Will Be Endless, And Other Notes](../../items/S-p-220842792.md) | Substack note |
+| 2026-09-25 | [The disastrous takeover of “public health” by the military-industrial complex.](../../items/S-p-196240955.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-17 | [Military-Industrial Complex Assures Investors That Wars Will Be Endless, And Other Notes](../../items/S-p-220842792.md) | Substack restacked post |
-| 2026-09-25 | [The disastrous takeover of “public health” by the military-industrial complex.](../../items/S-p-196240955.md) | Substack restacked post |
+| 2026-10-17 | [Military-Industrial Complex Assures Investors That Wars Will Be Endless, And Other Notes](../../items/S-p-220842792.md) | Substack note |
+| 2026-09-25 | [The disastrous takeover of “public health” by the military-industrial complex.](../../items/S-p-196240955.md) | Substack note |

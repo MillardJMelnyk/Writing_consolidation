@@ -21,9 +21,9 @@
 | 2026-05-30 | [Famous.ai no-code platform overview](../items/C-MM-e20cf43b.md) | AI chat |
 | 2025-08-09 | [Farther vs Further: Language Distinction](../items/C-MJM-145.md) | AI chat |
 | 2025-01-25 | [Fauci has accepted guilt for crimes against humanity. There is no honest, intelligent argu…](../items/S-c-88595503.md) | Substack note |
-| 2026-07-31 | [Fauci Show through the lens of Signature Reduction Program or the largest intelligence agency that goes largely unnoticed.](../items/S-p-208988395.md) | Substack restacked post |
+| 2026-07-31 | [Fauci Show through the lens of Signature Reduction Program or the largest intelligence agency that goes largely unnoticed.](../items/S-p-208988395.md) | Substack note |
 | 2026-08-08 | [Fauci's diary entries on distancing](../items/C-MM-2d2029eb.md) | AI chat |
-| 2026-07-28 | [Fauci's Historic Diary: a conversation with Debbie Lerman](../items/S-p-208569933.md) | Substack restacked post |
+| 2026-07-28 | [Fauci's Historic Diary: a conversation with Debbie Lerman](../items/S-p-208569933.md) | Substack note |
 | 2025-09-24 | [Faulkner -- a racist, sexist, unfaithful, alcoholic Confederate and, given this quote, a h…](../items/S-c-159436244.md) | Substack note |
 | 2026-07-29 | [FB convo Anj on forgiveness](../items/C-MM-78ed7af8.md) | AI chat |
 | 2025-08-13 | [Federal Reserve Monetary Policy Mystery](../items/C-MJM-165.md) | AI chat |
@@ -79,7 +79,7 @@
 | 2024-06-03 | [For a long time I've had an idea that we have a kind of spiritual sanctuary within each on…](../items/S-c-58057653.md) | Substack note |
 | 2024-09-16 | [For every human word, there is an inhuman, psychopathic fake. Here are four. They fit in t…](../items/S-c-69142277.md) | Substack note |
 | 2026-07-08 | [For me, it’s not a “belief”.](../items/S-c-290585670.md) | Substack note |
-| 2025-09-22 | [For the record, when the covid vaccine was introduced in 2020 I warned that it would kill …](../items/S-c-158322813.md) | Substack restacked note |
+| 2025-09-22 | [For the record, when the covid vaccine was introduced in 2020 I warned that it would kill …](../items/S-c-158322813.md) | Substack note |
 | 2026-09-28 | ["Forcing us" ?? 😂 Shame on us for expecting others to do it for us. Exactly that codepende…](../items/S-c-347887844.md) | Substack note |
 | 2026-03-15 | [Forex trading analysis strategy opinion](../items/C-MJM-685.md) | AI chat |
 | 2026-04-04 | [Foster, you're completely missing the real problem. Morality is a symptom of the problem, …](../items/S-c-238151097.md) | Substack note |
@@ -104,9 +104,9 @@
 | 2026-08-07 | [Freud and Jung's dismissal of trauma](../items/C-MM-3ad8d2ed.md) | AI chat |
 | 2025-12-15 | [Friedrich von Hayek biography](../items/C-MJM-462.md) | AI chat |
 | 2025-05-25 | [From morality to humanness without a single bound](../items/S-p-163145341.md) | Substack post |
-| 2025-12-01 | [From my latest article.](../items/S-c-181659036.md) | Substack restacked note |
+| 2025-12-01 | [From my latest article.](../items/S-c-181659036.md) | Substack note |
 | 2023-09-14 | [From one of my favorite Substacks. Although I’d rather a variation on Proudhon’s statement…](../items/S-c-40107680.md) | Substack note |
-| 2025-10-28 | [From Part 2 of my reply to Senator Blumenthal at the Sept. 9 hearing.](../items/S-c-165192822.md) | Substack restacked note |
+| 2025-10-28 | [From Part 2 of my reply to Senator Blumenthal at the Sept. 9 hearing.](../items/S-c-165192822.md) | Substack note |
 | 2026-10-05 | [From today’s Brownstone Institute Newsletter: Late last week, Brownstone Institute release…](../items/S-c-353659995.md) | Substack note |
 | 2025-07-27 | [Fromm's Law and Psychological Oppression](../items/C-MJM-113.md) | AI chat |
 | 2025-07-27 | [Fromm's On Disobedience Citation](../items/C-MJM-115.md) | AI chat |
@@ -115,4 +115,4 @@
 | 2026-02-26 | [Fucking evil family of evil fucking mutherfuckers.](../items/S-c-220134217.md) | Substack note |
 | 2026-03-30 | [Fucking hell. Grow some fucking balls. Who the fuck is "forcing" you to believe that lying…](../items/S-c-235699324.md) | Substack note |
 | 2024-09-11 | [Fundamentalists get it fucking ass-backwards. There is no such thing as a "great nation". …](../items/S-c-68665721.md) | Substack note |
-| 2026-10-25 | [Funny overview of the covid saga](../items/S-c-361442671.md) | Substack restacked note |
+| 2026-10-25 | [Funny overview of the covid saga](../items/S-c-361442671.md) | Substack note |

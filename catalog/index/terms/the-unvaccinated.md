@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-31 | [This resource alone offers great potential for helping those who are wavering about vaccin…](../../items/S-c-373766407.md) | Substack restacked note |
+| 2026-10-31 | [This resource alone offers great potential for helping those who are wavering about vaccin…](../../items/S-c-373766407.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-31 | [This resource alone offers great potential for helping those who are wavering about vaccin…](../../items/S-c-373766407.md) | Substack restacked note |
+| 2026-10-31 | [This resource alone offers great potential for helping those who are wavering about vaccin…](../../items/S-c-373766407.md) | Substack note |

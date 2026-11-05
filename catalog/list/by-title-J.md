@@ -38,6 +38,6 @@
 | 2025-06-06 | [June 2, 2020 was the date when the COVID scam was called out—NO PANDEMIC, PERIOD. After th…](../items/S-c-123399533.md) | Substack note |
 | 2025-08-23 | [Jung's Cathedral Vision](../items/C-MJM-217.md) | AI chat |
 | 2025-07-22 | [Just a little recalibration of what has come to be considered normal when it's anything bu…](../items/S-c-137810613.md) | Substack note |
-| 2026-06-04 | [Just got a violation for posting this on TikTok! Please listen and share 😬🥹](../items/S-c-255535804.md) | Substack restacked note |
+| 2026-06-04 | [Just got a violation for posting this on TikTok! Please listen and share 😬🥹](../items/S-c-255535804.md) | Substack note |
 | 2022-08-18 | [Just Like Cilantro](../items/S-p-69088754.md) | Substack post |
 | 2025-09-13 | [Justice and Separation Methods](../items/C-MJM-249.md) | AI chat |

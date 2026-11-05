@@ -21,7 +21,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../items/S-c-374235140.md) | Substack restacked note |
+| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../items/S-c-374235140.md) | Substack note |
 | 2026-10-29 | [Why is Jewish ethno-supremacism tolerated, protected, and defended as if it were something…](../items/S-c-373349661.md) | Substack note |
 | 2026-10-27 | [Spectrum thinking and categorical exclusion](../items/C-MM-958e4363.md) | AI chat |
 | 2026-10-26 | [A lot of people say that you “medical science” groupies are stupid. I don't agree. You're …](../items/S-c-370940333.md) | Substack note |
@@ -166,7 +166,7 @@
 | 2025-06-02 | [Diagram Conceptual Analysis](../items/C-MJM-022.md) | AI chat |
 | 2025-06-02 | [Gaddafi's Historical Legacy Reassessed](../items/C-MJM-023.md) | AI chat |
 | 2025-06-01 | [<https://bohobeau.net/2021/01/29/whole-world/comment-page-1/comment-3242 Egocentrism is no…](../items/S-c-122016722.md) | Substack note |
-| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack restacked note |
+| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack note |
 | 2025-05-31 | [Understanding Flow Psychology](../items/C-MJM-017.md) | AI chat |
 | 2025-05-29 | [So, where do you think that people who fear making mistakes and feel humiliated when they …](../items/S-c-121238181.md) | Substack note |
 | 2025-05-28 | [Diagram of Psychosomatic Processes](../items/C-MJM-013.md) | AI chat |
@@ -267,7 +267,7 @@
 | 2025-11-23 | [I didn't take you as quoting him to praise it. What you distinguish as codependence in dif…](../items/S-c-180489386.md) | Substack note |
 | 2025-06-05 | [I got a horn—gonna blow the fuck out of it. The Psychosomatic Map of Human Experience. <ht…](../items/S-c-123222320.md) | Substack note |
 | 2023-09-17 | [I read stuff I wrote a decade past or more, and it still speaks to me. Or at least I don’t…](../items/S-c-40229789.md) | Substack note |
-| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack restacked note |
+| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack note |
 | 2025-03-22 | [I'm hugely supportive of your intent, Don. Don't get me wrong. But no one has even begun t…](../items/S-c-102533562.md) | Substack note |
 | 2026-09-14 | [I'm tired to death of this idea of "support". The fact that you have an opinion that agree…](../items/S-c-337062278.md) | Substack note |
 | 2023-09-20 | [If you can't do this, you're no revolutionary](../items/S-p-107660041.md) | Substack post |
@@ -280,7 +280,7 @@
 | 2025-10-08 | [It's really hard to argue with facts and simple, straightforward logic. That's why reports…](../items/S-c-164333171.md) | Substack note |
 | 2025-10-29 | [I’ve been studying theories—philosophical, scientific, religious, political, economic, psy…](../items/S-c-171528193.md) | Substack note |
 | 2025-08-23 | [Jung's Cathedral Vision](../items/C-MJM-217.md) | AI chat |
-| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../items/S-c-374235140.md) | Substack restacked note |
+| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../items/S-c-374235140.md) | Substack note |
 | 2025-12-24 | [Love is just what naturally happens when you actually see a person for who they are. Unles…](../items/S-c-191434739.md) | Substack note |
 | 2023-09-14 | [Machiavelli asked whether it’s better to be loved or feared. Of course he did. He thought …](../items/S-c-40107989.md) | Substack note |
 | 2026-07-29 | [Maternal infanticide in true crime narratives](../items/C-MJM-717.md) | AI chat |

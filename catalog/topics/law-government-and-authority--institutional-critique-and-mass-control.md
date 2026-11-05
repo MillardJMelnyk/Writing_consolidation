@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-28 | [The WHO is a criminal organization. They were central actors in one of the greatest crimes…](../items/S-c-370263925.md) | Substack restacked note |
+| 2026-10-28 | [The WHO is a criminal organization. They were central actors in one of the greatest crimes…](../items/S-c-370263925.md) | Substack note |
 | 2026-10-07 | [<https://x.com/DeepLeaksHQ/status/2107451591582531875](../items/S-c-355291583.md) | Substack note |
 | 2026-10-04 | [We've already gone so far past the limits of credibility that any of us had even just a ye…](../items/S-c-352985773.md) | Substack note |
-| 2026-10-03 | [The death cult agenda, Agenda 2050](../items/S-c-348844453.md) | Substack restacked note |
+| 2026-10-03 | [The death cult agenda, Agenda 2050](../items/S-c-348844453.md) | Substack note |
 | 2026-09-15 | [Philippine flood control scandal protests](../items/C-MM-1bc00835.md) | AI chat |
 | 2026-09-14 | [Most people, I would think, consider statements like these as proof that our current syste…](../items/S-c-336916363.md) | Substack note |
 | 2026-09-06 | [<https://x.com/TheWyteRabbit1/status/2096388660484591967?s=20](../items/S-c-331103841.md) | Substack note |
@@ -20,7 +20,7 @@
 | 2026-07-30 | [A lot in this one, but at the beginning Sasha explains why "diary" is a mischaracterizatio…](../items/S-c-304719413.md) | Substack note |
 | 2026-07-10 | [(no text)](../items/S-c-292070712.md) | Substack note |
 | 2026-07-05 | [Get the fuck outside](../items/S-p-205269125.md) | Substack post |
-| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../items/S-c-258631434.md) | Substack restacked note |
+| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../items/S-c-258631434.md) | Substack note |
 | 2026-06-10 | [If the primary purpose of knowledge institutions were to discover and create knowledge, th…](../items/S-c-273998940.md) | Substack note |
 | 2026-06-10 | [Morality, ethics, supremacist normative framing](../items/C-MM-715e027e.md) | AI chat |
 | 2026-05-26 | [When it comes to government, ignorance and stupidity do not constitute innocence, ever. Sa…](../items/S-c-265465700.md) | Substack note |
@@ -33,7 +33,7 @@
 | 2026-01-13 | [Every which way they can but good.](../items/S-c-199141217.md) | Substack note |
 | 2025-12-22 | [Supreme Court's role in defending slavery laws](../items/C-MJM-506.md) | AI chat |
 | 2025-12-10 | [Is it possible that "we got it wrong" about violence for thousands of years? Better questi…](../items/S-c-186268786.md) | Substack note |
-| 2025-12-07 | [Can this level of stupidity possibly survive?](../items/S-p-180913436.md) | Substack restacked post |
+| 2025-12-07 | [Can this level of stupidity possibly survive?](../items/S-p-180913436.md) | Substack note |
 | 2025-12-04 | [Rosa Koire and the Agenda 21 conspiracy theory label](../items/C-MJM-402.md) | AI chat |
 | 2025-12-04 | [Rosa Koire conspiracy theorist?](../items/C-MJM-403.md) | AI chat |
 | 2025-11-22 | [Dehumanizing others is actually the secondary purpose of propaganda. The first purpose is …](../items/S-c-179998098.md) | Substack note |
@@ -71,7 +71,7 @@
 | 2025-07-16 | [Political Power and Governance Strategists](../items/C-MJM-083.md) | AI chat |
 | 2025-07-01 | [correct these quotes and their...](../items/C-MJM-058.md) | AI chat |
 | 2025-06-03 | [The myth of certainty](../items/C-MJM-024.md) | AI chat |
-| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack restacked note |
+| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack note |
 | 2025-05-27 | [There is a name for this condition, and it’s a clinically diagnosable condition that THE D…](../items/S-c-120622111.md) | Substack note |
 | 2025-05-16 | [The real question here isn’t whether he’s right or wrong. The real question here is: Are y…](../items/S-c-117728211.md) | Substack note |
 | 2025-01-29 | [Sure. After having reduced you to yea or nay and pigeonholed your options, yeah—they’re re…](../items/S-c-89512765.md) | Substack note |
@@ -88,7 +88,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../items/S-c-258631434.md) | Substack restacked note |
+| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../items/S-c-258631434.md) | Substack note |
 | 2026-07-30 | [A lot in this one, but at the beginning Sasha explains why "diary" is a mischaracterizatio…](../items/S-c-304719413.md) | Substack note |
 | 2026-05-15 | [Anatomy of one of the most flagrant PSYOPs of our time.](../items/S-c-259547756.md) | Substack note |
 | 2024-06-30 | [Another little excursion into AI botland… I’ve looked, almost a decade now, for thinkers w…](../items/S-c-60508286.md) | Substack note |
@@ -96,7 +96,7 @@
 | 2025-01-26 | [As if it wasn't bad enough forcing millions of small businesses into closing and bankruptc…](../items/S-c-88855895.md) | Substack note |
 | 2024-11-13 | [At this point, anyone who isn’t a flaming law-and-order, government-worshiping cultist kno…](../items/S-c-76976133.md) | Substack note |
 | 2026-05-23 | [Both alike are codependent. Escaping codependence is no different than escaping the clutch…](../items/S-c-264003123.md) | Substack note |
-| 2025-12-07 | [Can this level of stupidity possibly survive?](../items/S-p-180913436.md) | Substack restacked post |
+| 2025-12-07 | [Can this level of stupidity possibly survive?](../items/S-p-180913436.md) | Substack note |
 | 2025-11-04 | [Cooperative efforts have always been not just successful, but so successful that they shre…](../items/S-c-173430934.md) | Substack note |
 | 2025-07-01 | [correct these quotes and their...](../items/C-MJM-058.md) | AI chat |
 | 2025-11-22 | [Dehumanizing others is actually the secondary purpose of propaganda. The first purpose is …](../items/S-c-179998098.md) | Substack note |
@@ -113,7 +113,7 @@
 | 2026-09-06 | [<https://x.com/TheWyteRabbit1/status/2096388660484591967?s=20](../items/S-c-331103841.md) | Substack note |
 | 2026-04-02 | [Humans as a collective cannot fix problems which we don’t clearly see and understand. Our …](../items/S-c-237094291.md) | Substack note |
 | 2025-07-22 | [I never thought much of this guy, but he got this fucking right.](../items/S-c-137644774.md) | Substack note |
-| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack restacked note |
+| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack note |
 | 2026-06-10 | [If the primary purpose of knowledge institutions were to discover and create knowledge, th…](../items/S-c-273998940.md) | Substack note |
 | 2025-11-20 | [If you don't know this, then start learning. I'm glad someone who has spent their entire c…](../items/S-c-179327729.md) | Substack note |
 | 2025-10-15 | [If you have followed this story, you already know how malicious and corrupt the German cou…](../items/S-c-166724081.md) | Substack note |
@@ -148,11 +148,11 @@
 | 2025-01-29 | [Sure. After having reduced you to yea or nay and pigeonholed your options, yeah—they’re re…](../items/S-c-89512765.md) | Substack note |
 | 2025-08-22 | [Systems of Mass Control](../items/C-MJM-210.md) | AI chat |
 | 2024-11-13 | [The consensus of awareness is growing fast. How often did you hear things like this freely…](../items/S-c-76978232.md) | Substack note |
-| 2026-10-03 | [The death cult agenda, Agenda 2050](../items/S-c-348844453.md) | Substack restacked note |
+| 2026-10-03 | [The death cult agenda, Agenda 2050](../items/S-c-348844453.md) | Substack note |
 | 2025-07-19 | [The infantilism of looking for guidance and protection from people who live worlds apart f…](../items/S-c-136895927.md) | Substack note |
 | 2025-06-03 | [The myth of certainty](../items/C-MJM-024.md) | AI chat |
 | 2025-05-16 | [The real question here isn’t whether he’s right or wrong. The real question here is: Are y…](../items/S-c-117728211.md) | Substack note |
-| 2026-10-28 | [The WHO is a criminal organization. They were central actors in one of the greatest crimes…](../items/S-c-370263925.md) | Substack restacked note |
+| 2026-10-28 | [The WHO is a criminal organization. They were central actors in one of the greatest crimes…](../items/S-c-370263925.md) | Substack note |
 | 2025-07-17 | [Theory of Mind's Knowledge Limits](../items/C-MJM-085.md) | AI chat |
 | 2025-05-27 | [There is a name for this condition, and it’s a clinically diagnosable condition that THE D…](../items/S-c-120622111.md) | Substack note |
 | 2024-05-22 | [These are the kind of idiots that people, sadly, believe will “protect” and “lead” them? W…](../items/S-c-57051614.md) | Substack note |

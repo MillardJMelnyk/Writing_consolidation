@@ -8,12 +8,12 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-05 | [Moderna’s mFLUSIVA and SPIKEVAX violate federal labeling law (BLA). The FDA cannot waive statutory requirement for manufacturer address on the carton/vial.](../../items/S-p-215394157.md) | Substack restacked post |
-| 2026-07-15 | [Update: an interim FDA response on the Citizen Petition to revoke Pfizer and Moderna mRNA vaccines Biologics Licensing Approval (BLA).](../../items/S-p-206715723.md) | Substack restacked post |
+| 2026-10-05 | [Moderna’s mFLUSIVA and SPIKEVAX violate federal labeling law (BLA). The FDA cannot waive statutory requirement for manufacturer address on the carton/vial.](../../items/S-p-215394157.md) | Substack note |
+| 2026-07-15 | [Update: an interim FDA response on the Citizen Petition to revoke Pfizer and Moderna mRNA vaccines Biologics Licensing Approval (BLA).](../../items/S-p-206715723.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-05 | [Moderna’s mFLUSIVA and SPIKEVAX violate federal labeling law (BLA). The FDA cannot waive statutory requirement for manufacturer address on the carton/vial.](../../items/S-p-215394157.md) | Substack restacked post |
-| 2026-07-15 | [Update: an interim FDA response on the Citizen Petition to revoke Pfizer and Moderna mRNA vaccines Biologics Licensing Approval (BLA).](../../items/S-p-206715723.md) | Substack restacked post |
+| 2026-10-05 | [Moderna’s mFLUSIVA and SPIKEVAX violate federal labeling law (BLA). The FDA cannot waive statutory requirement for manufacturer address on the carton/vial.](../../items/S-p-215394157.md) | Substack note |
+| 2026-07-15 | [Update: an interim FDA response on the Citizen Petition to revoke Pfizer and Moderna mRNA vaccines Biologics Licensing Approval (BLA).](../../items/S-p-206715723.md) | Substack note |

@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-29 | [Why The Covid Pandemic Warrants A Holocaust Comparison](../../items/S-p-48135874.md) | Substack restacked post |
+| 2025-10-29 | [Why The Covid Pandemic Warrants A Holocaust Comparison](../../items/S-p-48135874.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-10-29 | [Why The Covid Pandemic Warrants A Holocaust Comparison](../../items/S-p-48135874.md) | Substack restacked post |
+| 2025-10-29 | [Why The Covid Pandemic Warrants A Holocaust Comparison](../../items/S-p-48135874.md) | Substack note |

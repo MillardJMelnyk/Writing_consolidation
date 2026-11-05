@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-02-09 | [Breaking: I am going to the court in Amsterdam on March 9. Press conference same day.](../../items/S-p-187260546.md) | Substack restacked post |
+| 2026-02-09 | [Breaking: I am going to the court in Amsterdam on March 9. Press conference same day.](../../items/S-p-187260546.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-02-09 | [Breaking: I am going to the court in Amsterdam on March 9. Press conference same day.](../../items/S-p-187260546.md) | Substack restacked post |
+| 2026-02-09 | [Breaking: I am going to the court in Amsterdam on March 9. Press conference same day.](../../items/S-p-187260546.md) | Substack note |

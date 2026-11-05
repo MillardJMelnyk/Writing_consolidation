@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-08-05 | [Update: The investigation of the Met Police (London, UK) suppressing citizens' criminal complaints in 2021.](../../items/S-p-209327302.md) | Substack restacked post |
+| 2026-08-05 | [Update: The investigation of the Met Police (London, UK) suppressing citizens' criminal complaints in 2021.](../../items/S-p-209327302.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-08-05 | [Update: The investigation of the Met Police (London, UK) suppressing citizens' criminal complaints in 2021.](../../items/S-p-209327302.md) | Substack restacked post |
+| 2026-08-05 | [Update: The investigation of the Met Police (London, UK) suppressing citizens' criminal complaints in 2021.](../../items/S-p-209327302.md) | Substack note |

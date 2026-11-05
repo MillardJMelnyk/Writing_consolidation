@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../../items/S-c-258631434.md) | Substack restacked note |
+| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../../items/S-c-258631434.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../../items/S-c-258631434.md) | Substack restacked note |
+| 2026-06-12 | [10 most twisted things said by the World Economic Forum 👹](../../items/S-c-258631434.md) | Substack note |

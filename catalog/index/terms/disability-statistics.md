@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-28 | [The Disastrous Disability Signal in the UK that Corroborates the US Data!](../../items/S-p-217914021.md) | Substack restacked post |
+| 2026-10-28 | [The Disastrous Disability Signal in the UK that Corroborates the US Data!](../../items/S-p-217914021.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-28 | [The Disastrous Disability Signal in the UK that Corroborates the US Data!](../../items/S-p-217914021.md) | Substack restacked post |
+| 2026-10-28 | [The Disastrous Disability Signal in the UK that Corroborates the US Data!](../../items/S-p-217914021.md) | Substack note |

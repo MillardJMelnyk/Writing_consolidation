@@ -9,11 +9,11 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-10-27 | [McCullough Foundation autism report](../../items/C-MM-0a43d555.md) | AI chat |
-| 2026-08-16 | [Every step was designed to inflict maximum harm: • Splicing HIV into a coronavirus. • Bloc…](../../items/S-c-308268829.md) | Substack restacked note |
+| 2026-08-16 | [Every step was designed to inflict maximum harm: • Splicing HIV into a coronavirus. • Bloc…](../../items/S-c-308268829.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-08-16 | [Every step was designed to inflict maximum harm: • Splicing HIV into a coronavirus. • Bloc…](../../items/S-c-308268829.md) | Substack restacked note |
+| 2026-08-16 | [Every step was designed to inflict maximum harm: • Splicing HIV into a coronavirus. • Bloc…](../../items/S-c-308268829.md) | Substack note |
 | 2026-10-27 | [McCullough Foundation autism report](../../items/C-MM-0a43d555.md) | AI chat |

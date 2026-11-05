@@ -13,7 +13,7 @@
 | 2026-09-27 | [Origins of powder-fired firearms](../items/C-MM-3706a5de.md) | AI chat |
 | 2026-06-08 | [Improving on a frustrating AI response](../items/C-MM-3f2b2ac0.md) | AI chat |
 | 2026-05-28 | [Ubuntu's origins and history](../items/C-MM-37de4128.md) | AI chat |
-| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack restacked note |
+| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack note |
 | 2026-04-10 | [Flanders Field white crosses](../items/C-MM-70c8a54d.md) | AI chat |
 | 2025-12-21 | [Untitled](../items/C-MJM-503.md) | AI chat |
 | 2025-12-08 | [Japanese zaibatsu conglomerates explained](../items/C-MJM-422.md) | AI chat |
@@ -39,7 +39,7 @@
 | 2026-04-10 | [Flanders Field white crosses](../items/C-MM-70c8a54d.md) | AI chat |
 | 2025-06-02 | [Gaddafi's Historical Legacy Reassessed](../items/C-MJM-023.md) | AI chat |
 | 2025-08-20 | [Global Ordnance Tonnage Ranking](../items/C-MJM-193.md) | AI chat |
-| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack restacked note |
+| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack note |
 | 2025-08-30 | [I'm wondering why this says "unrecognized" instead of "dissolved". Give the land back to t…](../items/S-c-150715539.md) | Substack note |
 | 2026-06-08 | [Improving on a frustrating AI response](../items/C-MM-3f2b2ac0.md) | AI chat |
 | 2025-12-08 | [Japanese zaibatsu conglomerates explained](../items/C-MJM-422.md) | AI chat |

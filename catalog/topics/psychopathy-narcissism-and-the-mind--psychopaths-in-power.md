@@ -8,7 +8,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../items/S-c-374235140.md) | Substack restacked note |
+| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../items/S-c-374235140.md) | Substack note |
 | 2026-10-26 | [At base, psychosis is a disconnection from reality. The normal mental/emotional/sensory pr…](../items/S-c-370865072.md) | Substack note |
 | 2026-10-26 | [Everything app PNG preview issue](../items/C-MJM-819.md) | AI chat |
 | 2026-10-25 | [Pay attention: EVERYTHING is being run like a psychopath would run it—because everything I…](../items/S-c-370229863.md) | Substack note |
@@ -96,7 +96,7 @@
 | 2024-09-24 | [Incredibly, many, many people pride themselves on their psychopathy. As the old saying goe…](../items/S-c-70091717.md) | Substack note |
 | 2025-08-20 | [It would be so easy... But "rich and powerful" psychotics -- and they're ALL psychotic -- …](../items/S-c-147419693.md) | Substack note |
 | 2025-10-08 | [It's really hard to argue with facts and simple, straightforward logic. That's why reports…](../items/S-c-164333171.md) | Substack note |
-| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../items/S-c-374235140.md) | Substack restacked note |
+| 2026-10-31 | [Kennedy is a puppet and has always been one. He has no human integrity, he does not have a…](../items/S-c-374235140.md) | Substack note |
 | 2023-09-14 | [Machiavelli asked whether it’s better to be loved or feared. Of course he did. He thought …](../items/S-c-40107989.md) | Substack note |
 | 2026-06-20 | [Maternal influence on moral development](../items/C-MM-549a94ed.md) | AI chat |
 | 2025-08-15 | [No one wants to touch it... because of the level of power of the people involved. Who's in…](../items/S-c-145777252.md) | Substack note |

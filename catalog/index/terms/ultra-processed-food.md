@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-18 | [Because it is vaccinations that are almost always responsible for cancer in young people a…](../../items/S-c-276139465.md) | Substack restacked note |
+| 2026-06-18 | [Because it is vaccinations that are almost always responsible for cancer in young people a…](../../items/S-c-276139465.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-06-18 | [Because it is vaccinations that are almost always responsible for cancer in young people a…](../../items/S-c-276139465.md) | Substack restacked note |
+| 2026-06-18 | [Because it is vaccinations that are almost always responsible for cancer in young people a…](../../items/S-c-276139465.md) | Substack note |

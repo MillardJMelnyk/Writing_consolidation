@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-11-06 | [Why is DARPA modeling disease outbreaks & intervention strategies while simultaneously looking to predict & manipulate collective human behavior? perspective](../../items/S-p-176096234.md) | Substack restacked post |
+| 2025-11-06 | [Why is DARPA modeling disease outbreaks & intervention strategies while simultaneously looking to predict & manipulate collective human behavior? perspective](../../items/S-p-176096234.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-11-06 | [Why is DARPA modeling disease outbreaks & intervention strategies while simultaneously looking to predict & manipulate collective human behavior? perspective](../../items/S-p-176096234.md) | Substack restacked post |
+| 2025-11-06 | [Why is DARPA modeling disease outbreaks & intervention strategies while simultaneously looking to predict & manipulate collective human behavior? perspective](../../items/S-p-176096234.md) | Substack note |

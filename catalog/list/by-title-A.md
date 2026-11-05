@@ -17,7 +17,7 @@
 | 2026-01-23 | [Aboriginal subincision terminology](../items/C-MJM-618.md) | AI chat |
 | 2026-10-12 | [Abortion statistics by reason](../items/C-MM-4c2012c1.md) | AI chat |
 | 2025-12-23 | [Abrahamic religions' theological foundations in Judaism](../items/C-MJM-514.md) | AI chat |
-| 2025-10-02 | [Absolute evisceration. Well done Sasha. Alarming though that these establishment hacks are…](../items/S-c-161867674.md) | Substack restacked note |
+| 2025-10-02 | [Absolute evisceration. Well done Sasha. Alarming though that these establishment hacks are…](../items/S-c-161867674.md) | Substack note |
 | 2026-09-28 | [Absolutely Denis. You're way more polite and politic than I could ever be. We lost our sis…](../items/S-c-348092469.md) | Substack note |
 | 2026-04-12 | [Absolutely, although you could aikido it: while in the process of being attacked and raped…](../items/S-c-242260677.md) | Substack note |
 | 2026-05-28 | [Absolutely.](../items/S-c-266697604.md) | Substack note |
@@ -46,7 +46,7 @@
 | 2026-08-16 | [Alkaline miracle water recipe evaluation](../items/C-MM-9a033303.md) | AI chat |
 | 2025-02-24 | [All of you who are certain that governments, laws, authorities, and other coercive, violen…](../items/S-c-95819744.md) | Substack note |
 | 2026-09-23 | [All of you Zionists are not only liars and supremacists, you're fucking psychotic. Delusio…](../items/S-c-344284199.md) | Substack note |
-| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack restacked post |
+| 2026-10-18 | [All Our Problems Are Caused By Believed Narrative](../items/S-p-220933195.md) | Substack note |
 | 2025-08-14 | [All right, now we're beginning to say something… The quickest way to destroy an extortion …](../items/S-c-145476747.md) | Substack note |
 | 2023-03-06 | [All who farce—find exit here](../items/S-p-106851031.md) | Substack post |
 | 2025-06-21 | [ALL your ideas and talk about rights are bullshit. And, since you absolutely love to roll …](../items/S-c-128002440.md) | Substack note |
@@ -68,11 +68,11 @@
 | 2025-11-23 | [And for the most part, statistically, on this issue, they’re disturbingly right.](../items/S-c-180442478.md) | Substack note |
 | 2024-03-27 | [... and he said that 50 years ago](../items/S-cp-1d4a8f84-b895-42b1-ad47-af613b33e87c.md) | Substack chat |
 | 2025-08-06 | [And millions are still hanging on for dear life to their cult hogwash and the cultic menta…](../items/S-c-142753311.md) | Substack note |
-| 2025-10-02 | [And thank you to all my supporters!](../items/S-c-161218710.md) | Substack restacked note |
+| 2025-10-02 | [And thank you to all my supporters!](../items/S-c-161218710.md) | Substack note |
 | 2025-05-05 | [And this is far as I've seen anarchist thinking go. No concept of a culture which makes it…](../items/S-c-114669168.md) | Substack note |
 | 2025-09-21 | [And this is why they must be eliminated. And when I say "eliminated", please don't make th…](../items/S-c-158437121.md) | Substack note |
 | 2026-08-17 | [Android apps for detecting snoring and sleep apnea](../items/C-MM-17f1b14c.md) | AI chat |
-| 2026-10-02 | [Announcement: Heading to the court hearing in the Netherlands on October 22, 2026.](../items/S-p-218521674.md) | Substack restacked post |
+| 2026-10-02 | [Announcement: Heading to the court hearing in the Netherlands on October 22, 2026.](../items/S-p-218521674.md) | Substack note |
 | 2026-10-21 | [Another great bit of level-headed exposition, Daniel! What you say here can’t be refuted, …](../items/S-c-366672451.md) | Substack note |
 | 2024-06-30 | [Another little excursion into AI botland… I’ve looked, almost a decade now, for thinkers w…](../items/S-c-60508286.md) | Substack note |
 | 2025-05-09 | [Another very helpful cheat sheet. It’s nice to have a clear term for it when you call out …](../items/S-c-115773717.md) | Substack note |

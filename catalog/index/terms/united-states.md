@@ -9,7 +9,7 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-10-26 | [There was never anything “great” about a country initiated, established, expanded, and sei…](../../items/S-c-370873888.md) | Substack note |
-| 2026-10-14 | [(no text)](../../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../../items/S-c-339423743.md) | Substack note |
 | 2026-10-11 | [Because spiritually, socially, psychologically, culturally, and in every other way that ma…](../../items/S-c-358465973.md) | Substack note |
 | 2026-10-04 | [(no text)](../../items/S-c-352714722.md) | Substack note |
 | 2026-09-05 | [Explain to me how words on a page constitute "protections". After showing footage that loo…](../../items/S-c-330337292.md) | Substack note |
@@ -40,7 +40,7 @@
 | 2026-06-09 | [Gaza has proven that Euro-Americans don't give a shit about human life unless it belongs t…](../../items/S-c-273410098.md) | Substack note |
 | 2025-08-20 | [Global Ordnance Tonnage Ranking](../../items/C-MJM-193.md) | AI chat |
 | 2024-11-11 | [I was wondering about this just a couple of days ago. It’s called “iatrogenesis”. Estimate…](../../items/S-c-76723682.md) | Substack note |
-| 2026-10-14 | [(no text)](../../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../../items/S-c-339423743.md) | Substack note |
 | 2026-10-04 | [(no text)](../../items/S-c-352714722.md) | Substack note |
 | 2026-07-04 | [(no text)](../../items/S-c-287904204.md) | Substack note |
 | 2025-12-23 | [(no text)](../../items/S-c-190916423.md) | Substack note |

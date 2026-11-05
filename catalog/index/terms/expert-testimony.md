@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-02 | [Covid Shots are Indistinguishable From Bio-Chemical Weapons](../../items/S-p-175070275.md) | Substack restacked post |
+| 2026-10-02 | [Covid Shots are Indistinguishable From Bio-Chemical Weapons](../../items/S-p-175070275.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-02 | [Covid Shots are Indistinguishable From Bio-Chemical Weapons](../../items/S-p-175070275.md) | Substack restacked post |
+| 2026-10-02 | [Covid Shots are Indistinguishable From Bio-Chemical Weapons](../../items/S-p-175070275.md) | Substack note |

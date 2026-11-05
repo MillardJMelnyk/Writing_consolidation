@@ -9,11 +9,11 @@
 | Date | Title | Type |
 |---|---|---|
 | 2025-12-21 | [Kary Mullis on PCR as medical testing](../../items/C-MJM-505.md) | AI chat |
-| 2025-11-10 | [BREAKING: 86% of PCR-Positive “COVID Cases” Were Not Real Infections](../../items/S-p-178318689.md) | Substack restacked post |
+| 2025-11-10 | [BREAKING: 86% of PCR-Positive “COVID Cases” Were Not Real Infections](../../items/S-p-178318689.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-11-10 | [BREAKING: 86% of PCR-Positive “COVID Cases” Were Not Real Infections](../../items/S-p-178318689.md) | Substack restacked post |
+| 2025-11-10 | [BREAKING: 86% of PCR-Positive “COVID Cases” Were Not Real Infections](../../items/S-p-178318689.md) | Substack note |
 | 2025-12-21 | [Kary Mullis on PCR as medical testing](../../items/C-MJM-505.md) | AI chat |

@@ -8,12 +8,12 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-11-10 | [(no text)](../../items/S-c-166666775.md) | Substack restacked note |
+| 2025-11-10 | [(no text)](../../items/S-c-166666775.md) | Substack note |
 | 2025-05-16 | [People need to get a fucking grip on what “excess mortality” actually means. You know you’…](../../items/S-c-117720262.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-11-10 | [(no text)](../../items/S-c-166666775.md) | Substack restacked note |
+| 2025-11-10 | [(no text)](../../items/S-c-166666775.md) | Substack note |
 | 2025-05-16 | [People need to get a fucking grip on what “excess mortality” actually means. You know you’…](../../items/S-c-117720262.md) | Substack note |

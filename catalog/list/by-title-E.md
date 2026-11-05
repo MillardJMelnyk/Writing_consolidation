@@ -9,7 +9,7 @@
 | 2025-07-20 | [Earth is becoming a genocidal planet. How long are you going to continuing your ridiculous…](../items/S-c-137174607.md) | Substack note |
 | 2026-09-26 | [Edge address bar shortcuts without %s requirement](../items/C-MJM-784.md) | AI chat |
 | 2026-09-27 | [Edge browser logging out after sleep](../items/C-MJM-785.md) | AI chat |
-| 2026-01-06 | [Edward Snowden blew the whistle on illegal mass surveillance by US authorities of their ow…](../items/S-c-186885617.md) | Substack restacked note |
+| 2026-01-06 | [Edward Snowden blew the whistle on illegal mass surveillance by US authorities of their ow…](../items/S-c-186885617.md) | Substack note |
 | 2026-10-30 | [Eggs and bananas political ad](../items/C-MM-592c3ec1.md) | AI chat |
 | 2025-08-12 | [Ego Boundaries and Psychological Invasion](../items/C-MM-3805f321.md) | AI chat |
 | 2025-08-12 | [Ego Boundaries and Psychological Invasion (from M.M)](../items/C-MJM-164.md) | AI chat |
@@ -62,12 +62,12 @@
 | 2025-08-08 | [Every single fucking "law enforcement" agent in the country, and any other kind of "office…](../items/S-c-143263466.md) | Substack note |
 | 2025-12-23 | [Every single horrific act in the history of the human race has, ultimately, been the resul…](../items/S-c-190968109.md) | Substack note |
 | 2025-09-17 | [Every single one of you that pretends what's going on the world today is "inevitable" or "…](../items/S-c-156995602.md) | Substack note |
-| 2026-08-16 | [Every step was designed to inflict maximum harm: • Splicing HIV into a coronavirus. • Bloc…](../items/S-c-308268829.md) | Substack restacked note |
+| 2026-08-16 | [Every step was designed to inflict maximum harm: • Splicing HIV into a coronavirus. • Bloc…](../items/S-c-308268829.md) | Substack note |
 | 2026-01-13 | [Every which way they can but good.](../items/S-c-199141217.md) | Substack note |
 | 2026-04-28 | [Everybody gets lost in the weeds on this kind of thing. Notice that every single kind of h…](../items/S-c-250476031.md) | Substack note |
 | 2026-10-26 | [Everything app PNG preview issue](../items/C-MJM-819.md) | AI chat |
 | 2025-09-21 | [Everything is connected. That's why honest people are so fucking more powerful than lying,…](../items/S-c-158436975.md) | Substack note |
-| 2026-10-29 | [Everything James Miller is saying here is true. I corresponded with him for a year (he was…](../items/S-c-348392530.md) | Substack restacked note |
+| 2026-10-29 | [Everything James Miller is saying here is true. I corresponded with him for a year (he was…](../items/S-c-348392530.md) | Substack note |
 | 2026-08-07 | [Everything subfolder search settings](../items/C-MJM-726.md) | AI chat |
 | 2026-08-13 | [Everything subfolders button not working](../items/C-MM-a7f6fb66.md) | AI chat |
 | 2026-04-04 | [Everything you were taught about parenting and child-rearing and development was a lie. Fu…](../items/S-c-238151997.md) | Substack note |

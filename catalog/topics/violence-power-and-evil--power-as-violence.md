@@ -23,7 +23,7 @@
 | 2026-07-08 | [We need to recognize what we take as “power” is actually violent force and, secondarily, p…](../items/S-c-290755200.md) | Substack note |
 | 2026-06-15 | [Universal gesture of kneeling and bowing](../items/C-MM-48e4a248.md) | AI chat |
 | 2026-05-30 | [Democracy is nothing better than the least obviously egregious form of tyranny, in which a…](../items/S-c-267680970.md) | Substack note |
-| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../items/S-p-199459065.md) | Substack restacked post |
+| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../items/S-p-199459065.md) | Substack note |
 | 2026-05-17 | [Jesus wasn't non-violent. That's no different than people living in a cesspool calling the…](../items/S-c-260641415.md) | Substack note |
 | 2026-04-28 | [Everybody gets lost in the weeds on this kind of thing. Notice that every single kind of h…](../items/S-c-250476031.md) | Substack note |
 | 2026-04-06 | [In every case I've ever seen, the reason why murderous violence "make sense" to people is …](../items/S-c-239261895.md) | Substack note |
@@ -93,7 +93,7 @@
 | 2024-11-13 | [That's it. From now on I'm calling out anyone who claims that the violence of war and huma…](../items/S-c-76975356.md) | Substack note |
 | 2026-04-05 | [The reason people carry on in the irrational, downright psychotic ways they do is thanks t…](../items/S-c-238609309.md) | Substack note |
 | 2025-05-27 | [There is a name for this condition, and it’s a clinically diagnosable condition that THE D…](../items/S-c-120622111.md) | Substack note |
-| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../items/S-p-199459065.md) | Substack restacked post |
+| 2026-05-27 | [They Are Building A UFC Arena On The White House Lawn](../items/S-p-199459065.md) | Substack note |
 | 2026-08-29 | [This thinking belongs to the mind of “the beast”. 666 is 2/3 of 1,000. Any fucking idiot c…](../items/S-c-325404955.md) | Substack note |
 | 2026-06-15 | [Universal gesture of kneeling and bowing](../items/C-MM-48e4a248.md) | AI chat |
 | 2025-10-07 | [Violence as a delusion of power](../items/C-MJM-295.md) | AI chat |

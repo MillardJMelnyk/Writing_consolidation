@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-01-14 | [The Wheels Come off the CW Narrative: Douma 2018 and the OPCW Whistleblowers: Part Five](../../items/S-p-183333519.md) | Substack restacked post |
+| 2026-01-14 | [The Wheels Come off the CW Narrative: Douma 2018 and the OPCW Whistleblowers: Part Five](../../items/S-p-183333519.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-01-14 | [The Wheels Come off the CW Narrative: Douma 2018 and the OPCW Whistleblowers: Part Five](../../items/S-p-183333519.md) | Substack restacked post |
+| 2026-01-14 | [The Wheels Come off the CW Narrative: Douma 2018 and the OPCW Whistleblowers: Part Five](../../items/S-p-183333519.md) | Substack note |

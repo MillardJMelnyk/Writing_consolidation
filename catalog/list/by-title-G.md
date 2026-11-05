@@ -20,7 +20,7 @@
 | 2026-06-13 | [Genesis 1 as a second creation account](../items/C-MM-8d6c310c.md) | AI chat |
 | 2026-09-17 | [Genetic basis of autism debate](../items/C-MM-89d15365.md) | AI chat |
 | 2025-08-08 | [Genetic Origins of Middle Eastern Populations](../items/C-MJM-136.md) | AI chat |
-| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../items/S-p-174432792.md) | Substack restacked post |
+| 2025-09-24 | [Genocide, Justice, and… Terrazzo?](../items/S-p-174432792.md) | Substack note |
 | 2025-11-28 | [George Galloway exile claim verification](../items/C-MJM-378.md) | AI chat |
 | 2026-09-23 | [Germinating strawberry seeds in wet napkin](../items/C-MM-cba169ff.md) | AI chat |
 | 2026-07-05 | [Get the fuck outside](../items/S-p-205269125.md) | Substack post |

@@ -8,7 +8,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-25 | [(no text)](../../items/S-c-368338965.md) | Substack restacked note |
+| 2026-10-25 | [(no text)](../../items/S-c-368338965.md) | Substack note |
 | 2026-04-06 | [How long will you keep letting psychotic, inhuman rejects occupy positions where they come…](../../items/S-c-239191988.md) | Substack note |
 | 2025-12-21 | [X Chat mandatory setup for sharing posts](../../items/C-MJM-499.md) | AI chat |
 | 2025-08-13 | [True story. <https://x.com/jgreyfriend/status/1955256758512881863](../../items/S-c-145035172.md) | Substack note |
@@ -36,7 +36,7 @@
 | 2025-08-01 | [<https://x.com/wikileaks/status/1950898759434408423?t=Wiy5SEjAhdHBFEoDhhOzVA&s=19 <https:/…](../../items/S-c-140982534.md) | Substack note |
 | 2025-08-04 | [<https://x.com/zohranmamdani/status/1952431667416584450](../../items/S-c-142196824.md) | Substack note |
 | 2025-08-08 | [It'll stop when you stop paying for it. <https://x.com/zohranmamdani/status/19534422747522…](../../items/S-c-143285903.md) | Substack note |
-| 2026-10-25 | [(no text)](../../items/S-c-368338965.md) | Substack restacked note |
+| 2026-10-25 | [(no text)](../../items/S-c-368338965.md) | Substack note |
 | 2025-07-21 | [This is evil. Look at it. Filthy, despicable, abhorrent evil. <https://x.com/Kahlissee/sta…](../../items/S-c-137285571.md) | Substack note |
 | 2025-08-13 | [True story. <https://x.com/jgreyfriend/status/1955256758512881863](../../items/S-c-145035172.md) | Substack note |
 | 2025-12-21 | [X Chat mandatory setup for sharing posts](../../items/C-MJM-499.md) | AI chat |

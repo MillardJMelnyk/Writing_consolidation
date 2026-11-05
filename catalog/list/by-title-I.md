@@ -19,10 +19,10 @@
 | 2025-02-25 | [I don't agree with this, just like I don't agree with "consent" in the area of sex/rape. B…](../items/S-c-96120500.md) | Substack note |
 | 2025-07-22 | [I don't give a shit what dumbshit, lame excuse you make... You chose pedophiles for presid…](../items/S-c-137627309.md) | Substack note |
 | 2025-07-31 | [I don't know how any person who isn't a flaming asshole and a liar can pretend that this w…](../items/S-c-140901706.md) | Substack note |
-| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack restacked note |
+| 2026-05-08 | [I don't mind admitting that I hope the US and Israel suffer a crushing, devastating defeat…](../items/S-c-243027274.md) | Substack note |
 | 2026-05-13 | [I don’t deal in beliefs. I deal in facts. If I don’t know something is a fact, I don’t pre…](../items/S-c-258624460.md) | Substack note |
 | 2025-06-05 | [I got a horn—gonna blow the fuck out of it. The Psychosomatic Map of Human Experience. <ht…](../items/S-c-123222320.md) | Substack note |
-| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../items/S-c-264699275.md) | Substack restacked note |
+| 2026-06-12 | [I have been a woman for 84 yrs. This means that I was female from conception when an ovum …](../items/S-c-264699275.md) | Substack note |
 | 2024-11-21 | [I have no clue how or why any sane person could fail to see this. I guess it’s because no …](../items/S-c-78260504.md) | Substack note |
 | 2025-11-23 | [I hear ya, but this applies only to people still listening to these professional liars and…](../items/S-c-180440606.md) | Substack note |
 | 2026-04-28 | [I just can't fucking believe the idiocy -- and it spans the whole world -- resulting in as…](../items/S-c-250536968.md) | Substack note |
@@ -38,12 +38,12 @@
 | 2025-07-29 | [I see. So his argument--once he's done with shameless self-promotion--is that Zionist colo…](../items/S-c-140099634.md) | Substack note |
 | 2025-05-13 | [I still can't get over that there are people who expect me to believe them when they say A…](../items/S-c-116804871.md) | Substack note |
 | 2026-10-07 | [I think it’s far easier than that. You know it’s a cure if it cures you. No-brainer. Proof…](../items/S-c-355093184.md) | Substack note |
-| 2026-02-19 | [I told you so: Prasad-Moderna standoff lasted less than a week. FDA folded. Moderna's mRNA flu poison will be rubber stamped later this year.](../items/S-p-188451816.md) | Substack restacked post |
+| 2026-02-19 | [I told you so: Prasad-Moderna standoff lasted less than a week. FDA folded. Moderna's mRNA flu poison will be rubber stamped later this year.](../items/S-p-188451816.md) | Substack note |
 | 2025-08-08 | [I tried out the new ChatGPT 5 with one of my favorite topics: societies without laws. Our …](../items/S-c-143405795.md) | Substack note |
 | 2025-05-08 | [I understand dogspeak! And I have proof! I have the mic and speech-to-text app on, the dog…](../items/S-c-115497226.md) | Substack note |
 | 2024-04-15 | [I wanted to quantify something I realized decades ago, so I had a couple of AI chats about…](../items/S-c-53970747.md) | Substack note |
-| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack restacked post |
-| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack restacked note |
+| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack note |
+| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack note |
 | 2024-08-01 | [I was recently asked, “Given that the authorities keep lying to the people, why do the peo…](../items/S-c-64042876.md) | Substack note |
 | 2024-11-11 | [I was wondering about this just a couple of days ago. It’s called “iatrogenesis”. Estimate…](../items/S-c-76723682.md) | Substack note |
 | 2022-09-02 | [I wish Peter Finch were here](../items/S-p-71545476.md) | Substack post |
@@ -55,7 +55,7 @@
 | 2025-03-22 | [I'm hugely supportive of your intent, Don. Don't get me wrong. But no one has even begun t…](../items/S-c-102533562.md) | Substack note |
 | 2025-11-16 | [I'm kinda co-writing with Claude AI, works really well. I write, Claude is my sounding boa…](../items/S-c-177943100.md) | Substack note |
 | 2025-08-02 | [I'm more open to wild ideas than most, but even just 3 or 4 years ago, you'd never have co…](../items/S-c-141506977.md) | Substack note |
-| 2026-10-29 | [I'm no longer optimistic. And the reason is very simple. I fear that these 'mRNA vaccines'…](../items/S-c-372037419.md) | Substack restacked note |
+| 2026-10-29 | [I'm no longer optimistic. And the reason is very simple. I fear that these 'mRNA vaccines'…](../items/S-c-372037419.md) | Substack note |
 | 2026-09-14 | [I'm tired to death of this idea of "support". The fact that you have an opinion that agree…](../items/S-c-337062278.md) | Substack note |
 | 2025-08-30 | [I'm wondering why this says "unrecognized" instead of "dissolved". Give the land back to t…](../items/S-c-150715539.md) | Substack note |
 | 2024-12-29 | [I've been pretty quiet the last few weeks getting ready, moving to Mexico, looking for a p…](../items/S-c-83547696.md) | Substack note |
@@ -79,7 +79,7 @@
 | 2025-08-12 | [If it isn't content-independent (Joseph Raz), it’s not a law. So, not only do all laws but…](../items/S-c-144682351.md) | Substack note |
 | 2024-01-09 | [If people got a clear view of what their "leaders " look like stripped of their BS finery …](../items/S-c-46936057.md) | Substack note |
 | 2026-06-10 | [If the primary purpose of knowledge institutions were to discover and create knowledge, th…](../items/S-c-273998940.md) | Substack note |
-| 2026-10-12 | [If The Truth Is A Threat To Israel, Then Israel Should Not Exist](../items/S-p-219958654.md) | Substack restacked post |
+| 2026-10-12 | [If The Truth Is A Threat To Israel, Then Israel Should Not Exist](../items/S-p-219958654.md) | Substack note |
 | 2026-01-05 | [If there were nothing to the idea that the universe is aware of us (sun included), there w…](../items/S-c-195677321.md) | Substack note |
 | 2026-10-04 | [If they lied to you about this, then why the fuck would you still believe they wouldn't li…](../items/S-c-352998828.md) | Substack note |
 | 2025-06-01 | [If we're "conspiracy theorists", how come we've been proven right, over and over again? <h…](../items/S-c-122016944.md) | Substack note |
@@ -97,11 +97,11 @@
 | 2026-09-16 | [Ilan Pappe's activism beyond academia](../items/C-MM-d4b69034.md) | AI chat |
 | 2025-12-03 | [Image generation capabilities](../items/C-MJM-400.md) | AI chat |
 | 2026-10-27 | [Image identification request](../items/C-MM-7f8f5439.md) | AI chat |
-| 2025-11-23 | [Imagine doing this to your child. <https://drwojakmd.substack.com/p/unvaccinated-children-…](../items/S-c-172456365.md) | Substack restacked note |
-| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack restacked post |
-| 2026-01-26 | [Imperial Boomerang](../items/S-p-185686838.md) | Substack restacked post |
+| 2025-11-23 | [Imagine doing this to your child. <https://drwojakmd.substack.com/p/unvaccinated-children-…](../items/S-c-172456365.md) | Substack note |
+| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack note |
+| 2026-01-26 | [Imperial Boomerang](../items/S-p-185686838.md) | Substack note |
 | 2026-06-11 | [Important read in these days.](../items/S-c-274551829.md) | Substack note |
-| 2026-02-10 | [Impossible to deny](../items/S-c-212265856.md) | Substack restacked note |
+| 2026-02-10 | [Impossible to deny](../items/S-c-212265856.md) | Substack note |
 | 2026-06-08 | [Improving on a frustrating AI response](../items/C-MM-3f2b2ac0.md) | AI chat |
 | 2025-12-08 | [Improving search functionality for chat content](../items/C-MJM-428.md) | AI chat |
 | 2024-11-14 | [In a sane society, we’d have no question about this. Those who seek to control life and li…](../items/S-c-77206488.md) | Substack note |
@@ -140,7 +140,7 @@
 | 2025-09-21 | [Is there anyone still so stuck in the programming that they don't realize this yet?](../items/S-c-158435158.md) | Substack note |
 | 2026-10-29 | [Israel election results](../items/C-MM-56f28272.md) | AI chat |
 | 2025-07-15 | [Israel is a demonic "nation". And Jews -- EVERY SINGLE FUCKING ONE OF THEM WHO HAVE NOT TR…](../items/S-c-135542450.md) | Substack note |
-| 2026-05-24 | [Israel Rapes Everyone, And Other Notes](../items/S-p-199026239.md) | Substack restacked post |
+| 2026-05-24 | [Israel Rapes Everyone, And Other Notes](../items/S-p-199026239.md) | Substack note |
 | 2025-08-30 | [Israel: a crime against humanity](../items/S-p-168743715.md) | Substack post |
 | 2026-06-21 | [Israeli leaders with pre-state terrorism involvement](../items/C-MM-959b6ee5.md) | AI chat |
 | 2025-01-26 | [Israelis are genocidists](../items/S-p-155791038.md) | Substack post |
@@ -148,11 +148,11 @@
 | 2026-03-30 | [It cracks me up how self-congratulatory 60s/70s protesters are (because in the 50s the onl…](../items/S-c-235697817.md) | Substack note |
 | 2026-04-10 | ["It is a learned dependence on systems, on structure, on authority, combined with just eno…](../items/S-c-241355198.md) | Substack note |
 | 2026-09-28 | [It is a psychosis, but it goes further and deeper and back so far that none of us really g…](../items/S-c-348167453.md) | Substack note |
-| 2025-08-21 | [It is not possible to make safe poison. All vaccines are deliberate, intentional poisoning…](../items/S-c-147323275.md) | Substack restacked note |
+| 2025-08-21 | [It is not possible to make safe poison. All vaccines are deliberate, intentional poisoning…](../items/S-c-147323275.md) | Substack note |
 | 2024-04-01 | [It might not seem relevant here, being as this Substack is about reLOVEution—but then agai…](../items/S-c-52957784.md) | Substack note |
 | 2023-09-16 | [It passed already, all too quickly. I guess it makes sense. It's just a reminder of the in…](../items/S-c-40186766.md) | Substack note |
 | 2025-09-21 | [It seems like a good time to remind us all...](../items/S-c-158437627.md) | Substack note |
-| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../items/S-c-70060219.md) | Substack restacked note |
+| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../items/S-c-70060219.md) | Substack note |
 | 2026-04-06 | [It stabilizes through contact: relationship, obligation, care, and repeated commitment to …](../items/S-c-239050469.md) | Substack note |
 | 2025-08-20 | [It would be so easy... But "rich and powerful" psychotics -- and they're ALL psychotic -- …](../items/S-c-147419693.md) | Substack note |
 | 2025-08-08 | [It'll stop when you stop paying for it. <https://x.com/zohranmamdani/status/19534422747522…](../items/S-c-143285903.md) | Substack note |

@@ -19,7 +19,7 @@
 | 2026-07-12 | [(no text)](../items/S-c-293126666.md) | Substack note |
 | 2026-06-01 | [Thanks for this one. What you're describing isn't even uniquely Jewish. It is classic cult…](../items/S-c-268780990.md) | Substack note |
 | 2026-05-29 | [Very good list. None of those things are characteristic of healthy relationships. Which br…](../items/S-c-267316434.md) | Substack note |
-| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack restacked post |
+| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack note |
 | 2026-05-16 | [Evaluating Grok's responses on Polycarp and Gnosticism](../items/C-MM-8179fe55.md) | AI chat |
 | 2026-04-03 | [Sorry, Terrance: wrong. We do not have to create our own culture. In fact, we'd better fuc…](../items/S-c-237774139.md) | Substack note |
 | 2026-01-12 | [Finding a word for cognitive paradigm constraints](../items/C-MJM-582.md) | AI chat |
@@ -63,7 +63,7 @@
 | 2026-01-12 | [Finding a word for cognitive paradigm constraints](../items/C-MJM-582.md) | AI chat |
 | 2024-06-03 | [For a long time I've had an idea that we have a kind of spiritual sanctuary within each on…](../items/S-c-58057653.md) | Substack note |
 | 2026-09-08 | [Hear, hear! At this point, “antisemitism” has become every bit as meaningful as any other …](../items/S-c-332681095.md) | Substack note |
-| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack restacked post |
+| 2026-05-21 | [I Was a Child of Darkness](../items/S-p-198700899.md) | Substack note |
 | 2024-11-19 | [In other words, “believers” whose psycho-spiritual development has been arrested and now i…](../items/S-c-77908227.md) | Substack note |
 | 2026-08-27 | [It's called the Overton window. Its ONLY application is in codependent populations -- whic…](../items/S-c-323937468.md) | Substack note |
 | 2026-09-05 | [It's hard for a cultist to watch their golden cow dogmas get demolished. I know. I was one…](../items/S-c-330319298.md) | Substack note |

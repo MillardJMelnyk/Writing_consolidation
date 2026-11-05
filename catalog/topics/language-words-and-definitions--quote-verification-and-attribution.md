@@ -8,7 +8,7 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack note |
 | 2026-10-09 | [Defining accuracy](../items/C-MM-94466c4c.md) | AI chat |
 | 2026-10-06 | [Verifying a quote](../items/C-MM-8a36e4f3.md) | AI chat |
 | 2026-10-05 | [Verifying a JFK quote](../items/C-MM-acb17a9b.md) | AI chat |
@@ -73,7 +73,7 @@
 | 2025-08-07 | [Makes sense, but people need to stop floating these unverifiable clips and quotes, unless …](../items/S-c-143077821.md) | Substack note |
 | 2025-08-14 | [Mark Castro Quote Attribution Search](../items/C-MM-b9119822.md) | AI chat |
 | 2025-09-16 | [Meaning of performative language](../items/C-MJM-256.md) | AI chat |
-| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack restacked note |
+| 2026-10-14 | [(no text)](../items/S-c-339423743.md) | Substack note |
 | 2026-09-05 | [(no text)](../items/S-c-330342910.md) | Substack note |
 | 2025-09-16 | [Power and corruption quote](../items/C-MJM-258.md) | AI chat |
 | 2025-09-25 | [Precise communication protocol](../items/C-MJM-285.md) | AI chat |

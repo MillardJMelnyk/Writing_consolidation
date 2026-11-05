@@ -9,11 +9,11 @@
 | Date | Title | Type |
 |---|---|---|
 | 2026-10-21 | [Facebook account disabled for circumcision post](../../items/C-MM-df9a6682.md) | AI chat |
-| 2026-06-04 | [Just got a violation for posting this on TikTok! Please listen and share 😬🥹](../../items/S-c-255535804.md) | Substack restacked note |
+| 2026-06-04 | [Just got a violation for posting this on TikTok! Please listen and share 😬🥹](../../items/S-c-255535804.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
 | 2026-10-21 | [Facebook account disabled for circumcision post](../../items/C-MM-df9a6682.md) | AI chat |
-| 2026-06-04 | [Just got a violation for posting this on TikTok! Please listen and share 😬🥹](../../items/S-c-255535804.md) | Substack restacked note |
+| 2026-06-04 | [Just got a violation for posting this on TikTok! Please listen and share 😬🥹](../../items/S-c-255535804.md) | Substack note |

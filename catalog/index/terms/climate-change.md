@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-01-18 | [Opinion: Geopolitical Context of the Embattled Climate Racket](../../items/S-p-184919765.md) | Substack restacked post |
+| 2026-01-18 | [Opinion: Geopolitical Context of the Embattled Climate Racket](../../items/S-p-184919765.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-01-18 | [Opinion: Geopolitical Context of the Embattled Climate Racket](../../items/S-p-184919765.md) | Substack restacked post |
+| 2026-01-18 | [Opinion: Geopolitical Context of the Embattled Climate Racket](../../items/S-p-184919765.md) | Substack note |

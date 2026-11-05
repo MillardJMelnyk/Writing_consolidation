@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-11-12 | [BREAKING: Bombshell Emails Released Showing Trump KNEW About Epstein's Conduct](../../items/S-p-178686146.md) | Substack restacked post |
+| 2025-11-12 | [BREAKING: Bombshell Emails Released Showing Trump KNEW About Epstein's Conduct](../../items/S-p-178686146.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2025-11-12 | [BREAKING: Bombshell Emails Released Showing Trump KNEW About Epstein's Conduct](../../items/S-p-178686146.md) | Substack restacked post |
+| 2025-11-12 | [BREAKING: Bombshell Emails Released Showing Trump KNEW About Epstein's Conduct](../../items/S-p-178686146.md) | Substack note |

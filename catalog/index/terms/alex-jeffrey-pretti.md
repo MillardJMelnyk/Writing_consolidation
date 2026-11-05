@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-01-26 | [Imperial Boomerang](../../items/S-p-185686838.md) | Substack restacked post |
+| 2026-01-26 | [Imperial Boomerang](../../items/S-p-185686838.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-01-26 | [Imperial Boomerang](../../items/S-p-185686838.md) | Substack restacked post |
+| 2026-01-26 | [Imperial Boomerang](../../items/S-p-185686838.md) | Substack note |

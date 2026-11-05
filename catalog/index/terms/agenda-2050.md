@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-03 | [The death cult agenda, Agenda 2050](../../items/S-c-348844453.md) | Substack restacked note |
+| 2026-10-03 | [The death cult agenda, Agenda 2050](../../items/S-c-348844453.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-10-03 | [The death cult agenda, Agenda 2050](../../items/S-c-348844453.md) | Substack restacked note |
+| 2026-10-03 | [The death cult agenda, Agenda 2050](../../items/S-c-348844453.md) | Substack note |

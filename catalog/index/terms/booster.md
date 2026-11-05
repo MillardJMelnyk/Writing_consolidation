@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-09-06 | [(no text)](../../items/S-c-322163382.md) | Substack restacked note |
+| 2026-09-06 | [(no text)](../../items/S-c-322163382.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-09-06 | [(no text)](../../items/S-c-322163382.md) | Substack restacked note |
+| 2026-09-06 | [(no text)](../../items/S-c-322163382.md) | Substack note |

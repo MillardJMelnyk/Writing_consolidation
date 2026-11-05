@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../../items/S-c-70060219.md) | Substack restacked note |
+| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../../items/S-c-70060219.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../../items/S-c-70060219.md) | Substack restacked note |
+| 2024-09-26 | [It seems to us today that toxic medications are being pushed all over the place for treati…](../../items/S-c-70060219.md) | Substack note |

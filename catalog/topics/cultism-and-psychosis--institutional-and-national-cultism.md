@@ -18,7 +18,7 @@
 | 2026-08-29 | [Violence is a virtue in the world of the psychotically violent. Which in effect means in e…](../items/S-c-325405975.md) | Substack note |
 | 2026-08-29 | [I relate, in one way… But he’s totally missing the point. An "American" is nothing if not …](../items/S-c-325403881.md) | Substack note |
 | 2026-08-29 | [Analyzing COVID-19 vaccination fact check logic](../items/C-MM-e36d6dee.md) | AI chat |
-| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../items/S-c-306624029.md) | Substack restacked note |
+| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../items/S-c-306624029.md) | Substack note |
 | 2026-07-08 | [At its most fundamental, psychosis is to experience the unreal as if it's real. The govern…](../items/S-c-290574970.md) | Substack note |
 | 2026-07-02 | [So, why does almost everyone think that what we're doing now and have done for the last 5,…](../items/S-c-286753195.md) | Substack note |
 | 2026-06-11 | [People have been telling you for decades, some for centuries—but no, you'd rather listen t…](../items/S-c-274656149.md) | Substack note |
@@ -31,7 +31,7 @@
 | 2025-10-09 | [(no text)](../items/S-c-164696105.md) | Substack note |
 | 2025-09-21 | [How many people who truly think freely do you know? How many will stick to the truth and r…](../items/S-c-158436636.md) | Substack note |
 | 2025-09-21 | [What would your reaction have been to this meme 10 years ago? Or even just 5 years ago? Th…](../items/S-c-158434948.md) | Substack note |
-| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack restacked post |
+| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack note |
 | 2025-09-19 | [Authoritarian narrative psychology](../items/C-MJM-266.md) | AI chat |
 | 2025-09-02 | [When evil has become good in your eyes... All you "good citizens" are supremely fucked in …](../items/S-c-151603566.md) | Substack note |
 | 2025-08-18 | [So the slaves were smarter and less like brain-dead cultists than we are.](../items/S-c-146630125.md) | Substack note |
@@ -76,7 +76,7 @@
 | 2025-09-21 | [How many people who truly think freely do you know? How many will stick to the truth and r…](../items/S-c-158436636.md) | Substack note |
 | 2026-08-29 | [I relate, in one way… But he’s totally missing the point. An "American" is nothing if not …](../items/S-c-325403881.md) | Substack note |
 | 2024-11-23 | [If you "support" Israel, you are a fucking evil, violence-crazed, genocide-loving, idiot c…](../items/S-c-78559453.md) | Substack note |
-| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack restacked post |
+| 2025-09-21 | [Imagine There Was A Violent Cult Committing Atrocities With Impunity](../items/S-p-174131078.md) | Substack note |
 | 2026-09-28 | [It is a psychosis, but it goes further and deeper and back so far that none of us really g…](../items/S-c-348167453.md) | Substack note |
 | 2026-05-31 | [It’s not just that the facts blow them away. The fact that you would have to be psychotic …](../items/S-c-268287849.md) | Substack note |
 | 2025-07-27 | [Law, Power, and Systemic Hypocrisy](../items/C-MJM-108.md) | AI chat |
@@ -96,7 +96,7 @@
 | 2024-04-17 | [There is no significant nor essential difference between enculturation and encultizing, i.…](../items/S-c-54145210.md) | Substack note |
 | 2026-04-06 | [This guy articulates things like this so freaking well! Every group, institution, and envi…](../items/S-c-239104226.md) | Substack note |
 | 2025-07-28 | [This kind of shit is true for every “fraternal” organization out there. Of course, it’s ke…](../items/S-c-139829100.md) | Substack note |
-| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../items/S-c-306624029.md) | Substack restacked note |
+| 2026-08-09 | [Vaccination is a state-organized religion of oppression exploiting vulnerable and feeble m…](../items/S-c-306624029.md) | Substack note |
 | 2026-08-29 | [Violence is a virtue in the world of the psychotically violent. Which in effect means in e…](../items/S-c-325405975.md) | Substack note |
 | 2024-11-23 | [Watch this TWICE (at least). Let it sink in. THIS IS JUST ONE EXAMPLE of how magnificently…](../items/S-c-78559716.md) | Substack note |
 | 2026-06-09 | [We haven’t come the slightest bit close to admitting the psychotic nature of our “civilize…](../items/S-c-273517364.md) | Substack note |

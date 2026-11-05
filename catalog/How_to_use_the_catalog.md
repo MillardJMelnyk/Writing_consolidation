@@ -5,34 +5,34 @@
 ## Two ways to use the catalog
 
 - **On GitHub:** open the master catalog page (below). Everything is one click from there.
-- **From your own computer:** download **Millard's_master_writing_catalog.html** and **Millard's_master_writing_catalog_manager.py** into one folder and start the catalog with Millard's_master_writing_catalog_manager.py. You get the same links as the master catalog page, plus a **search box** that searches all items by meaning or by exact words.
+- **From your own computer:** download **Millards_master_writing_catalog.html** and **Millards_master_writing_catalog_manager.py** into one folder and start the catalog with Millards_master_writing_catalog_manager.py. You get the same links as the master catalog page, plus a **search box** that searches all items by meaning or by exact words.
 
 ### Downloading the two files
 
-1. Click https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/Millard's_master_writing_catalog.html, then, at the top right of the file next to **Raw**, click the download button (the arrow pointing down).
-2. Do the same for https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/Millard's_master_writing_catalog_manager.py
+1. Click https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/Millards_master_writing_catalog.html, then, at the top right of the file next to **Raw**, click the download button (the arrow pointing down).
+2. Do the same for https://github.com/MillardJMelnyk/Writing_consolidation/blob/main/catalog/Millards_master_writing_catalog_manager.py
 3. Move both files into the same folder.
 4. Remove Windows' "downloaded from the internet" mark from both: open PowerShell in that folder and run
-   `Unblock-File "Millard's_master_writing_catalog.html"; Unblock-File "Millard's_master_writing_catalog_manager.py"`
+   `Unblock-File "Millards_master_writing_catalog.html"; Unblock-File "Millards_master_writing_catalog_manager.py"`
    (or right-click each file, choose **Properties**, tick **Unblock** on the **General** tab, and click **OK**).
 
-Millard's_master_writing_catalog_manager.py needs Python 3.9 or newer on your computer.
+Millards_master_writing_catalog_manager.py needs Python 3.9 or newer on your computer.
 
 ### Starting the catalog
 
-- **The first time:** double-click **Millard's_master_writing_catalog_manager.py** (or a shortcut to it). It sets up search (see below) and opens the catalog in your browser. Its window shows what it's doing; leave it open until the search index is built. It closes by itself, unless something went wrong, in which case it stays open showing the error.
-- **After that:** open the catalog either way: double-click Millard's_master_writing_catalog.html, or run Millard's_master_writing_catalog_manager.py again.
+- **The first time:** double-click **Millards_master_writing_catalog_manager.py** (or a shortcut to it). It sets up search (see below) and opens the catalog in your browser. Its window shows what it's doing; leave it open until the search index is built. It closes by itself, unless something went wrong, in which case it stays open showing the error.
+- **After that:** open the catalog either way: double-click Millards_master_writing_catalog.html, or run Millards_master_writing_catalog_manager.py again.
 
 The two files must keep matching names: the script's name is the page's name plus "_manager".
 
 ### First start: search setup
 
-The first time, Millard's_master_writing_catalog_manager.py gets the parts it needs (Python packages and the meaning model, about 25 MB), and the page sets up the search. A yellow box at the top of the page shows each step and how long is left.
+The first time, Millards_master_writing_catalog_manager.py gets the parts it needs (Python packages and the meaning model, about 25 MB), and the page sets up the search. A yellow box at the top of the page shows each step and how long is left.
 
 - It reads every catalog item from GitHub, so you need an internet connection.
 - Keep the page open until it says **Search setup finished**. The links work in the meantime.
 - The finished index is saved as **catalog_search_index.js** in the same folder, and search switches on by itself. After that, search is ready within seconds whichever way you open the catalog.
-- If the catalog page is replaced by a newer version with different items, run Millard's_master_writing_catalog_manager.py again to set up search for it.
+- If the catalog page is replaced by a newer version with different items, run Millards_master_writing_catalog_manager.py again to set up search for it.
 
 ### Searching
 

@@ -22,7 +22,7 @@
 | 2025-11-14 | [Resuming interrupted conversation](../items/C-MJM-313.md) | AI chat |
 | 2025-08-23 | [Jung's Cathedral Vision](../items/C-MJM-217.md) | AI chat |
 | 2025-08-12 | [Ego Boundaries and Psychological Invasion](../items/C-MM-3805f321.md) | AI chat |
-| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack restacked note |
+| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack note |
 
 ## By title
 
@@ -33,7 +33,7 @@
 | 2025-11-14 | [Experience optimization vs. social functionality](../items/C-MJM-307.md) | AI chat |
 | 2026-07-29 | [FB convo Anj on forgiveness](../items/C-MM-78ed7af8.md) | AI chat |
 | 2026-08-07 | [Freud and Jung's dismissal of trauma](../items/C-MM-3ad8d2ed.md) | AI chat |
-| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack restacked note |
+| 2025-05-31 | [I was a licensed clinical psychologist for 17 years. I’m here to tell you there is no such…](../items/S-c-119358659.md) | Substack note |
 | 2025-08-23 | [Jung's Cathedral Vision](../items/C-MJM-217.md) | AI chat |
 | 2026-07-23 | [(no text)](../items/S-c-300287494.md) | Substack note |
 | 2026-07-23 | [(no text)](../items/S-c-300280791.md) | Substack note |

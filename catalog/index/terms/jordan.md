@@ -8,10 +8,10 @@
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-07-19 | [Trump Killed Those US Troops In Jordan](../../items/S-p-207612455.md) | Substack restacked post |
+| 2026-07-19 | [Trump Killed Those US Troops In Jordan](../../items/S-p-207612455.md) | Substack note |
 
 ## By title
 
 | Date | Title | Type |
 |---|---|---|
-| 2026-07-19 | [Trump Killed Those US Troops In Jordan](../../items/S-p-207612455.md) | Substack restacked post |
+| 2026-07-19 | [Trump Killed Those US Troops In Jordan](../../items/S-p-207612455.md) | Substack note |
